@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+(Sittin') Alone At A Table For Two,Hank Locklin,False,23Vn93CCu8Urqw4Vr1us9K,0,168680,2005,https://i.scdn.co/image/ab67616d0000b2739377288778560aaf5c15a9a3,False,40,['nashville sound']
+Just Keep It Up,Dee Clark,False,3x00mAgMv2l2Z8zyb25tx0,17,117585,2019,https://i.scdn.co/image/ab67616d0000b273ba161c5ea9c3e1ef9b295844,False,29,"['chicago soul', 'doo-wop', 'rhythm and blues']"
+I WANNA HEAR IT FROM YOU,Eddy Raven,False,1q6YXF2pPDtZPy0c248G5g,6,192346,2007,https://i.scdn.co/image/ab67616d0000b2738c3c0c0c92b59a81ccc2c421,False,42,['classic country pop']
+Party For Pink,Michelle & Vickie,False,1DTmyiC3jLrGOvvGhevXR1,0,190573,2004,https://i.scdn.co/image/ab67616d0000b27318a1dffe3133675134cf69b1,False,25,"['mandopop', 'taiwan idol pop', 'taiwan pop']"
+Only You (Chimi-Changa Club Mix),Sulk,False,7vBbejv4rdZpKld9p1LZOr,0,552946,2000,https://i.scdn.co/image/ab67616d0000b2735b5bb585f05afc6d190ecd6b,False,1,[]
+Smoke,Trafik,False,2oHJtNiIAZopflW6ccKDXP,0,411147,2019,https://i.scdn.co/image/ab67616d0000b2737c9a972a17e98337b9fb9be6,False,7,[]
+Heather,Floor,False,0S1a5ZKB2XCmEm7GMhVjd9,1,164360,2001,https://i.scdn.co/image/ab67616d0000b2732a6e92a4b2b04567b45300e6,False,4,['svensk indie']
+Slaughter The Gods,The Accursed,False,6g7gwJJAGl6ZbBGYwxm18V,0,171160,2007,https://i.scdn.co/image/ab67616d0000b273cff4d295d1b3410d64f2c036,False,0,[]
+Silent Night,Sergio Franchi,False,5XfVqMnzel3XO5w908TzLw,8,170933,1965,https://i.scdn.co/image/ab67616d0000b273e2d25b6fac38e6fec9759671,False,61,['lds instrumental']
+Lady Marmalade,Mongo Santamaria,False,2jz8A5k8Kw1EnZomjNPncD,12,196786,1975,https://i.scdn.co/image/ab67616d0000b273397cdc93fe5ec38336243cef,False,45,"['afro-cuban percussion', 'boogaloo', 'cuban rumba', 'jazz cubano', 'latin jazz', 'musica tradicional cubana']"
+Oblivious Darkness,Astarte,False,5SETHgBT6t1PGxKG7XBFc5,2,515360,2018,https://i.scdn.co/image/ab67616d0000b273f46d1f88679bfaf5cc884816,False,15,"['greek metal', 'melodic black metal', 'slayer', 'symphonic black metal']"
+Tomorrow Never Knows,Dwight Twilley,False,1gRlBM1JagOBXWUxk441ix,0,224280,2009,https://i.scdn.co/image/ab67616d0000b273020fa2ad18b6e6447160486b,False,17,"['power pop', 'underground power pop']"
+Come ALong,Johnny Osbourne,False,4QbyHoYSVnhacWMg5fmzo3,3,200466,1997,https://i.scdn.co/image/ab67616d0000b273dba751565149c2162df832fa,False,44,"['dub', 'lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Ostravaczech,Krystof,False,0xfA4fyO7evppPeI4gyyPV,5,285626,2006,https://i.scdn.co/image/ab67616d0000b27353ea9b19e85885dc73ac953a,False,50,"['czech pop', 'czech pop rock', 'czech rock']"
+So Fresh,Tum Tum,False,08SYBsKGdRzOS1oLhn4kup,0,209001,2005,https://i.scdn.co/image/ab67616d0000b2734a27005c58dd2aa48ea8bd42,True,34,"['dfw rap', 'dirty south rap', 'houston rap']"
+Banho De Amor,Moraes Moreira,False,15nfxEa2tN1d2YxFrLbodP,0,277093,1997,https://i.scdn.co/image/ab67616d0000b273741c33b785e9f91805fb16ea,False,42,"['bossa nova', 'mpb', 'samba', 'velha guarda']"
+Angel Of Light (Never Say Die Album Version),Petra,False,1ntLpe6p3U6vivt1JpSYW2,15,261435,1994,https://i.scdn.co/image/ab67616d0000b273b167c57de08c15f88dcad35d,False,47,"['christian alternative rock', 'christian metal', 'christian music', 'jesus movement', 'rock cristiano']"
+The Hard Part's Letting Go,Jeff Talmadge,False,62ljU5k8RNm4W2gT1PFjrm,0,230200,2000,https://i.scdn.co/image/ab67616d0000b2733785cb5473fd794aaddc56da,False,9,[]
+Regresa A Mi (Unbreak My Heart),Yuridia,False,2zi8qtJbywsbZ3nPnd7SGe,36,264533,2006,https://i.scdn.co/image/ab67616d0000b2733f9ae64d396d0dbaf9627468,False,76,"['latin arena pop', 'latin pop', 'mexican pop']"
+Party In The Sky,Inspiral Carpets,False,05otYNWt4CMC04rdhWNBcx,8,232066,1994,https://i.scdn.co/image/ab67616d0000b2736614e2c05c51df498af92b40,False,43,"['britpop', 'madchester']"
+Dream Lover,Plasmatics,False,3Vb0vlmFkAqLUb7GWWszla,4,344200,1980,https://i.scdn.co/image/ab67616d0000b273bb38222a937d343837953d56,False,28,['hardcore punk']
+I'm On To You,Hurricane,False,1SSl0W9w6qnWDn3RuS8iWs,37,236160,1988,https://i.scdn.co/image/ab67616d0000b273582c69958e3d9a07b50c8bd1,False,32,['glam metal']
+Storm In My Heart,Dolores Keane,False,4dlbxZ2PyRMSlHCltUYJX5,17,272626,1993,https://i.scdn.co/image/ab67616d0000b273fcaad9d491b692540cbbd140,False,39,"['celtic', 'irish folk']"
+Mama Don't Know Love,Fred Locks,False,6MCV8UyLoeicWkBX1BPZ8e,0,242546,1998,https://i.scdn.co/image/ab67616d0000b273cc66e01bdbf118738282eff6,False,26,"['lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Social Note,Lauren Wagner & Fred Weldy,False,0HmiwdOYGRNd0g88rmNaqZ,0,51133,1993,https://i.scdn.co/image/ab67616d0000b2732290baae6e06063bf1987dff,False,7,[]
+I'm callin,Mr. Sancho,False,3WbionPswh30ZsyHJdy29A,5,182240,2006,https://i.scdn.co/image/ab67616d0000b273de5faf9df45f64667faa2f0a,False,39,['chicano rap']
+Kettle Black,BLEED THE SKY,False,6Finj9dd9z1e7eFy5f7kk2,5,202920,2008,https://i.scdn.co/image/ab67616d0000b27324c36ad126edc3df68f44565,False,26,"['groove metal', 'melodic metalcore']"
+California_ Gracefully,Every Time I Die,False,7fhib9j5QmiG4QyYvuRBIN,9,171600,2001,https://i.scdn.co/image/ab67616d0000b2734df988832f22f53494b67443,False,47,"['buffalo ny metal', 'chaotic hardcore', 'melodic metalcore', 'post-hardcore', 'screamo']"
+One I Love,Coldplay,False,0bQQv5RqwLmOKNaMcfJ1If,30,308426,2003,https://i.scdn.co/image/ab67616d0000b27323969e14b74349ffcf79f55e,False,92,"['permanent wave', 'pop']"
+Narcotic,Methods Of Mayhem / Scott Kirkland,False,42fBWmDC2WNTtrmpZHcFSB,16,199266,1999,https://i.scdn.co/image/ab67616d0000b2733c3b02ea15d9325b8eb9d610,True,33,"['rap metal', 'rap rock']"
+Might As Well Laugh,The Aftermath,False,33dst3Kg4LkFCys9F4GRln,0,118479,2005,https://i.scdn.co/image/ab67616d0000b273690a2d44ca5e97664816e22a,True,3,[]
+It's A Long Way Around,Burning Spear,False,1CypMOv7pcVANRz7Q2L2S7,19,185573,1977,https://i.scdn.co/image/ab67616d0000b2735b5487779fb1e2dbe99033ee,False,52,"['dub', 'reggae', 'roots reggae']"
+Still I Will,Lisa Lynne,False,0G5BNODFFjw5QKlmy4oAyb,4,261959,2001,https://i.scdn.co/image/ab67616d0000b27357fc76718dbe154f8a23cf8b,False,38,"['celtic harp', 'healing', 'new age']"
+The Force,Onyx,False,3HixGzZSzIU0hk7yzRDDog,0,33133,2018,https://i.scdn.co/image/ab67616d0000b2732eafcdab6034bc84cb64bbf0,False,23,['post-romantic era']
+Isolate,ZO2,False,2DNgOmXNIfQMbTtTAcA0P2,2,276440,2007,https://i.scdn.co/image/ab67616d0000b273e309c48344a917e9dc7463ea,False,5,[]
+Sag Ihnen Bescheid,Headliners,False,6qcVkGJLJbHAA43qC7Z9Fq,6,213360,2005,https://i.scdn.co/image/ab67616d0000b273d271d2a8cbe3af519b4cca06,False,7,[]
+Bad Dreams,Lyrics Born,False,5w5vw9cokQ9s8dHQmQqLX4,34,200386,2003,https://i.scdn.co/image/ab67616d0000b27371222af7da2a95345ef88a06,True,42,['turntablism']
+This Is How A Heart Breaks,Joe McBride,False,5oGDsrgyxWcTX4yn0CzKEM,0,291280,2009,https://i.scdn.co/image/ab67616d0000b2732edccd1c3f4a0dbd305dbeb1,False,41,['smooth jazz']
+Praying For Time,George Michael,False,72LKSYwvDYp9acfM5TEgBK,54,280973,1990,https://i.scdn.co/image/ab67616d0000b27351f7b4060cb1099f761632e9,False,76,"['new wave pop', 'soft rock']"
+Crash And Burn [Home Demo],Funeral For A Friend,False,2kubKKAS6ms8H9deVjLlsE,8,261146,2007,https://i.scdn.co/image/ab67616d0000b273958aa2c670c1516af80dfc00,False,48,"['post-hardcore', 'screamo', 'uk post-hardcore']"
+Bare As You Dare,Lady Saw,False,6YcuaBp3VLCvV3uFzfeAyc,1,230466,1994,https://i.scdn.co/image/ab67616d0000b2734d5fad45407375d668a8374c,False,51,"['dancehall', 'dancehall queen', 'reggae fusion']"
+Ilta Oulunjoella,Tulipunaruusut,False,5KEaRCffSMWXVTuxq2xwkp,12,209333,1977,https://i.scdn.co/image/ab67616d0000b2730409afa8be2c33d2eae426a7,False,19,"['classic finnish pop', 'classic iskelma', 'humppa']"
+It Only Takes Two To Tango,The Stranglers,False,7pmJW9AG9PQcexo8bGsQoW,18,221853,1981,https://i.scdn.co/image/ab67616d0000b273a713f9b06accedba5d963d61,False,60,"['glam rock', 'new romantic', 'new wave', 'new wave pop', 'protopunk', 'pub rock', 'zolo']"
+Monkey & Turtle,David Hudson,False,1g9pW9stEx1ALimUsArnP4,0,350507,2006,https://i.scdn.co/image/ab67616d0000b2734d4bbcb503faf56196757120,False,27,['didgeridoo']
+Don't You Know How Much I Love You,Ronnie Milsap,False,1nje7FA6seZs08D3Co9iL2,23,213933,1983,https://i.scdn.co/image/ab67616d0000b273512ab1a629dc40cbfce652a5,False,58,"['classic country pop', 'country', 'country road', 'country rock', 'nashville sound']"
+Night Time,Hot Club Of Detroit,False,7GHiTKiT3yv7kTqZlqP8Zy,0,312040,2009,https://i.scdn.co/image/ab67616d0000b27343b08603bfbb1e56e2a87bbf,False,10,['gypsy jazz']
+Love Is Taking Hold,Al Denson,False,5RbMrtgGkRSSWHuWZaKE7s,0,299333,1989,https://i.scdn.co/image/ab67616d0000b273cadae4fac8658203e5353065,False,15,['deep christian rock']
+We Are Not Impartial,The Chap,False,3xdNZwcmK9xs9aBbC1pzt8,0,170013,2006,https://i.scdn.co/image/ab67616d0000b27374c86c0fb9679c819fe6882e,False,11,"['british experimental', 'experimental pop']"
+Don't Go Away,Oasis,False,1Z5Uc9jMuuVQxtRZTforfX,52,288666,1997,https://i.scdn.co/image/ab67616d0000b273aeda362a434f01d0eff70b4e,False,80,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']"
+Little Louie Bonus,The Bucketheads,False,1JBXW5fZhdFnH6JLzYmAz3,4,383543,1995,https://i.scdn.co/image/ab67616d0000b273c775772fa7bbd72e6565b85c,False,49,"['classic house', 'disco house', 'vocal house']"

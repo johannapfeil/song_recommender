@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Spanish Fly,Fudge Tunnel,False,6UzzpWncjv1UcI3TQX4mpG,17,325733,1991,https://i.scdn.co/image/ab67616d0000b2734156c5a6188f98433eacb9ad,False,31,"['dub metal', 'sludge metal']"
+The Way I Loved You,Taylor Swift,False,22bPsP2jCgbLUvh82U0Z3M,73,243136,2021,https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de,False,100,['pop']
+Ebb Tide,Tony Martin,False,7uzIOFtHCqoZ5yO1vgXpBy,0,213646,2000,https://i.scdn.co/image/ab67616d0000b273c490df236c8d39721aae0c8c,False,27,['deep adult standards']
+Africa,Dusminguet,False,3mKN0fAuC45shi3v4bzw1D,6,173920,1998,https://i.scdn.co/image/ab67616d0000b273a5c6bb02d65f47891f7115b3,False,26,"['rock catala', 'rumba catalana']"
+Metamorphosis,Amoral,False,1wxcMyd44jmwejS50Dj3TQ,1,306426,2004,https://i.scdn.co/image/ab67616d0000b2735626ed68e70a20cc4e7889a9,False,17,"['finnish death metal', 'finnish progressive metal']"
+Fortune Teller,The Rolling Stones,False,19pFzIY1yji9ZxDdrVg3sF,17,137506,1972,https://i.scdn.co/image/ab67616d0000b2733ebec86ac993a4168eab64f0,False,80,"['album rock', 'british invasion', 'classic rock', 'rock']"
+Crappy Shop (50 Cent Diss Track),Forensics,False,2ZwBYYSdgIbwH9kQevBST3,0,381346,2005,https://i.scdn.co/image/ab67616d0000b273d39407b338592589e17cc424,False,7,[]
+Way Way Back,Kool Moe Dee,False,1fDF6adMusAXBK6a4lzHAc,8,272826,1987,https://i.scdn.co/image/ab67616d0000b27339471023171d93a19f1cc814,False,52,"['east coast hip hop', 'harlem hip hop', 'new jack swing', 'old school hip hop']"
+This Little Child (Brown),Scott Wesley Brown,False,5prhiiUvUbnzMpF2xCtvtk,9,350600,1995,https://i.scdn.co/image/ab67616d0000b2737d3db53d5bba30ceecc6830d,False,37,"['classic praise', 'jesus movement']"
+The Munster Cloak,Seamus Egan,False,72uzOb5x2obzm5AajYi6rM,1,185026,1985,https://i.scdn.co/image/ab67616d0000b2731d0300eb3307eb7bc88a0985,False,27,"['celtic', 'irish banjo', 'irish folk', 'uilleann pipes']"
+Sweet And Lovely,Tiny Tim,False,6uxchgsiWtkAI23ddFF55h,1,237226,1996,https://i.scdn.co/image/ab67616d0000b2738611b0780d25802cee2d24eb,False,47,"['novelty', 'outsider']"
+Lip Smacker,Poncho Sanchez,False,0Ex91J5QOUoEBc9m6OSuIo,8,372400,1992,https://i.scdn.co/image/ab67616d0000b273acab0863e2771801ced413c8,False,42,"['afro-cuban percussion', 'latin jazz']"
+NE Thang,Natural Elements,False,2IPKjClVnCIvpvoHUVH39C,1,223500,2019,https://i.scdn.co/image/ab67616d0000b27387867bf7b2218e88e0a51a1f,True,17,"['deep east coast hip hop', 'golden age hip hop']"
+Standing Knee Deep In a River (Dying Of Thirst),Kathy Mattea,False,0OfXfnRJFR7fyOykFZHXKM,26,252026,1992,https://i.scdn.co/image/ab67616d0000b2734cad637e5b78bfc9d3ed9f7d,False,46,"['classic country pop', 'country', 'country rock', 'deep contemporary country']"
+Trio (1932)_ Movement 3: Moderato,Strata,False,1oyGKOQVvRh2zAlDaygVhg,0,409826,2008,https://i.scdn.co/image/ab67616d0000b2739656b162b646393164103e8d,False,0,[]
+Comerte A Besos (Bachata Version),Frankie Negron,False,6ED38bHLkRhfawxh5JZfYB,12,260839,2001,https://i.scdn.co/image/ab67616d0000b273bf4b1e6836a82599bfe23817,False,35,"['bachata dominicana', 'salsa']"
+I'm Gonna Move To The Outskirts Of Town - Live,Albert King,False,3xMjhndui9xUc9Fi71d7Is,4,461000,1990,https://i.scdn.co/image/ab67616d0000b273e6c898569c9227eb710eb976,False,53,"['blues', 'blues rock', 'electric blues', 'memphis soul', 'soul blues', 'traditional blues']"
+Intro / Time For Some Action,N.E.R.D.,False,3qLswcHofm34CnlG6El9LC,27,222613,2008,https://i.scdn.co/image/ab67616d0000b2732bcca9fe8ad40625bcd1fbf3,True,58,"['hip hop', 'virginia hip hop']"
+Exiliado En El Lavabo,Estopa,False,6DuKoeebIsPMWfSoUURTch,45,195840,1999,https://i.scdn.co/image/ab67616d0000b2731a311570340a4f6530da158b,False,72,"['pop flamenco', 'rumba', 'spanish pop']"
+Finding My Way,Stanley Clarke & George Duke,False,2cBkiItQTVNrob4jHMAxzt,11,339093,1981,https://i.scdn.co/image/ab67616d0000b273441b1ffeb2dd4bcf8b3b5d95,False,46,"['electric bass', 'jazz funk', 'jazz fusion']"
+Go Now - Original,Dennis Brown,False,4eHGUcl4QmUJJeRBghFO8i,0,205589,2006,https://i.scdn.co/image/ab67616d0000b273272b013d381dde2a84506c11,False,52,"['lovers rock', 'reggae', 'roots reggae']"
+Comme Toi (Live),Jean-Jacques Goldman,False,1ZJG7FTBovVWS2Qr6ZeL3m,18,326933,1986,https://i.scdn.co/image/ab67616d0000b2734f1769b93fe684cb7f49547c,False,64,"['chanson', 'french pop']"
+Sleepwalker,Nightwish,False,3XwkJnTpBsesbR4P4yLFE3,30,175800,2000,https://i.scdn.co/image/ab67616d0000b27333c933af6ae9703f71f349a2,False,68,"['fantasy metal', 'finnish metal', 'finnish power metal', 'gothic metal', 'gothic symphonic metal', 'opera metal', 'power metal', 'symphonic metal']"
+Like Dylan In The Movies,Belle and Sebastian,False,7iqS4pS1eVQbsJGbJKVwQb,43,254706,1996,https://i.scdn.co/image/ab67616d0000b273153a4a570f85c3ae8de890c2,False,58,"['alternative rock', 'baroque pop', 'chamber pop', 'indie rock', 'melancholia', 'scottish indie', 'scottish rock', 'singer-songwriter', 'twee pop']"
+How U Want It?,Ya Boy,False,6UzFazoYQUmu9LaF1amwpq,0,208172,2009,https://i.scdn.co/image/ab67616d0000b2731b1a1db1ee544020cacec654,True,27,[]
+Who Can Handle Me Is You,Little Milton,False,7M9L8cUAFByvbbbDGGfPRe,2,188200,1973,https://i.scdn.co/image/ab67616d0000b27380c3f436dd13f9e5909e777a,False,33,"['electric blues', 'memphis soul', 'soul blues', 'southern soul']"
+El Terror,Orquesta Harlow,False,7uo8xV5o1bIHDTenOPNHrP,3,286173,1971,https://i.scdn.co/image/ab67616d0000b273a7a3eefbbd2d6cde6471ab33,False,46,"['latin jazz', 'salsa', 'salsa international']"
+The Earth Will Shake,Thrice,False,7dHs1eJRtIb5XVr8ylDI10,33,268186,2005,https://i.scdn.co/image/ab67616d0000b2736bd2184d9f6250a26ae48f9f,False,57,"['post-hardcore', 'screamo']"
+The Think Drink Theme,The Harvey Averne Dozen,False,2YEEgsAedMMB5RjzKqgnkh,1,166826,1968,https://i.scdn.co/image/ab67616d0000b273ac78ae4bf37917f77bc10b00,False,14,['boogaloo']
+Bamboo Blue,Steven Halpern,False,1nRPjxuy3hySgk8Qdc8mgz,1,264840,2000,https://i.scdn.co/image/ab67616d0000b2730c001a8d89a4160274b21fb0,False,54,"['healing', 'meditation', 'sleep']"
+Hunter,30 Seconds To Mars,False,6wSoVtqZyiivFbyvONivBc,31,234693,2005,https://i.scdn.co/image/ab67616d0000b273a4f10a67aca8bf0eca668006,False,70,"['modern rock', 'post-grunge']"
+Runnin' Away,Eddie Money,False,0ZpGmEiOvhCTqwFSB1vdo1,21,213693,1983,https://i.scdn.co/image/ab67616d0000b273d8b8b34eddf5cf382b729100,False,58,"['album rock', 'classic rock', 'country rock', 'glam metal', 'hard rock', 'mellow gold', 'soft rock', 'southern rock']"
+All My Senses,Mando Diao,False,5dTdr3nmMh4CEHd2W6CvMw,25,250986,2004,https://i.scdn.co/image/ab67616d0000b273d77f5131e85a3164f9c3aeed,False,56,"['dalarna indie', 'swedish garage rock', 'swedish indie rock']"
+Tatter Jack Walsh,The Russell Family,False,6oYjnDgbeITgjYPCHGvz3N,0,99680,1975,https://i.scdn.co/image/ab67616d0000b2732d893f22a9dc50067516dd83,False,1,['concertina']
+Lose This Skin,The Clash,False,0TQwoYnLVBiIEmaMFbzOEc,26,309293,1980,https://i.scdn.co/image/ab67616d0000b2732791862e3d0be4fab0781230,False,72,"['alternative rock', 'permanent wave', 'punk', 'rock']"
+Run's House,RUN-DMC,False,3poCNa5qGyciYrQafIml0J,34,226080,1988,https://i.scdn.co/image/ab67616d0000b27315cfde01c2c08b28edbb4b4f,False,68,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']"
+Lullaby,Dixie Chicks,False,5GWyNA4n9hx5rhkK0KvQ83,44,350712,2006,https://i.scdn.co/image/ab67616d0000b27389ccaf21947f7929189654dc,False,67,"['contemporary country', 'country', 'country dawn']"
+Here With Me,Arika Kane,False,7sLQlI5QXeUG8JEl7qz9aO,3,245426,2011,https://i.scdn.co/image/ab67616d0000b273a881c337db19efc2eb384b73,False,2,[]
+Dancing With Ghosts,Epitaph,False,0McF1XXi2RDcptw5tSNUj3,0,254800,2009,https://i.scdn.co/image/ab67616d0000b273c1840a39e03554d53eb39c01,False,14,"['german hard rock', 'german prog', 'german rock', 'psychedelic blues-rock']"
+Every Other Way,BT feat. JES,False,24dukmos3yYukxBfjC6T56,21,241040,2013,https://i.scdn.co/image/ab67616d0000b2737cb8b5aca812ae3ed18f2bf6,False,48,"['progressive house', 'progressive trance', 'trance']"
+No One Hears You,Agnostic Front,False,4oPyV5LxmgK1cSWNod4zSK,2,98120,2005,https://i.scdn.co/image/ab67616d0000b273b509b8a353017414aff71996,True,43,"['chicano punk', 'crossover thrash', 'hardcore', 'hardcore punk', 'nyhc', 'old school thrash', 'punk']"
+Stranded In The Jungle,The New York Dolls,False,3ZUILDZRnGDYPAWTDsedak,27,243866,1974,https://i.scdn.co/image/ab67616d0000b273fcae243e8e39eef3f9c04423,False,43,"['early us punk', 'glam punk', 'glam rock', 'protopunk', 'punk']"
+Air On A Six String,Oscar Castro-Neves,False,6M5w1kBAmgejJRSHxajCD9,2,197373,2006,https://i.scdn.co/image/ab67616d0000b273bbf48f6eccd11a90bc1d8330,False,43,['bossa nova']
+Somebody's Someone,Lonestar,False,1evsXmXSnTK4a3siQaIDDr,16,263506,2004,https://i.scdn.co/image/ab67616d0000b273ba7cde2b5809033d8a87d7e9,False,59,"['contemporary country', 'country', 'country road']"
+Touch You,Sandy Posey,False,0rfsaQbCQQGu5mfytzH5z8,54,194315,2024,https://i.scdn.co/image/ab67616d0000b273d21273c7cb19d2e8ccc92f0a,False,53,[]
+Rendez-Vous,Harry Diboula,False,7etUmbk27t4zTdaftmHjqi,1,249973,2004,https://i.scdn.co/image/ab67616d0000b273b37c2fa2e792c15a3be8e087,False,37,"['kizomba antigas', 'zouk']"
+Wow,Snow Patrol,False,2cAMcIVnAt4vyObDAwY10j,31,242026,2004,https://i.scdn.co/image/ab67616d0000b2733da246ae81087859a89fe42a,False,71,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']"
+Les Femmes Des Autres,Jacques Dutronc,False,1dLyPACha9o2bFKFmhyKlb,2,192333,1969,https://i.scdn.co/image/ab67616d0000b273a28387fcc6e1c7ed11d82022,False,51,"['chanson', 'ye ye']"
+"Carnival (from ""Black Orpheus"")",Tito Puente,False,0O1KBe2PMyPtrbefKHHcgI,0,273809,1992,https://i.scdn.co/image/ab67616d0000b273a1eedc7622ec1f7ff9bd1aa6,False,50,"['afro-cuban percussion', 'jazz puertorriqueno', 'latin jazz', 'mambo', 'musica tradicional cubana', 'salsa']"
+You Make Me Feel Good ,JK,False,1T0Ikzgles4atAB9tKhjnD,25,237666,2021,https://i.scdn.co/image/ab67616d0000b2735dd921d5018bd9a0e47356a3,False,37,"['deep eurodance', 'hip house']"

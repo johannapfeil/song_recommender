@@ -1,0 +1,16 @@
+[project]
+name = "song-recommender"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.12.3",
+    "ipykernel>=6.29.5",
+    "pandas>=2.2.3",
+    "requests>=2.32.3",
+    "scikit-learn>=1.6.0",
+    "spotipy>=2.25.0",
+    "streamlit>=1.41.1",
+    "tqdm>=4.67.1",
+]

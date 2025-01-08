@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Ponto,Kali,False,4Q9LA70qkeeqSZPN2vbwuo,0,231360,2020,https://i.scdn.co/image/ab67616d0000b27378447437ab3d4748a9d9f220,False,11,['pontian folk']
+I Love You And You Love Me,Andy Russell,False,5hlN9YiUVFC7NGRiwyYFKi,43,296240,2018,https://i.scdn.co/image/ab67616d0000b273cbca9807368a94c99e38d756,False,75,['disco']
+Party In The Burbs,John Brown,False,1ZDluJmxOWj2nsnuGNEx5P,0,151468,2009,https://i.scdn.co/image/ab67616d0000b273042cf34c7c26a4352b608eec,True,1,[]
+A New Hope,Blink-182,False,3tNKK8BKFDX4Eki5jilZZE,33,225160,1997,https://i.scdn.co/image/ab67616d0000b2730153faf0def5084faabe2b0f,False,79,"['alternative metal', 'modern rock', 'pop punk', 'punk', 'rock', 'socal pop punk']"
+Bus Station Blues (Live),Little Freddie King,False,4TEoDnVmnfJX8sVlafv3NH,0,443693,2010,https://i.scdn.co/image/ab67616d0000b2736e7d4a9ad515737691830d19,False,15,['delta blues']
+The Sweetest Curse,Baroness,False,4bvgMdqQFtT3zMy9BfwfIh,27,270720,2009,https://i.scdn.co/image/ab67616d0000b273063bd022531b4f52530433cf,False,45,"['progressive sludge', 'sludge metal']"
+Here Comes The Hotstepper,Ini Kamoze,False,3QRM0qZB7oMYavveH0iEqx,66,250466,1994,https://i.scdn.co/image/ab67616d0000b2736ffa23f19d8c125204e6220c,False,61,"['reggae', 'reggae fusion', 'roots reggae']"
+Can't Shake That Girl,The Real Kids,False,45sVelhvvtaezQkWkwC9BF,2,211053,2017,https://i.scdn.co/image/ab67616d0000b2737e2b0c3f835e2afebba4b61c,False,20,"['boston rock', 'protopunk', 'rhythm rock']"
+I Love You,Ayo,False,2NRZ8Q2MYE1201tYFBha5N,27,184372,2020,https://i.scdn.co/image/ab67616d0000b273bfc71e4e0e87155e7ca0fdc0,False,16,['danish electropop']
+Wake Me Up When September Ends (Live at Foxboro_ MA 9/3/05),Green Day,False,69M0up9cB8KRVFVuw0UwTI,25,340800,2005,https://i.scdn.co/image/ab67616d0000b2736640106b188b86ce306a1ebb,False,83,"['modern rock', 'permanent wave', 'punk', 'rock']"
+Lesson Learned,Alice In Chains,False,2VS7nYWQrWUSwX5QBsCmA3,40,256773,2009,https://i.scdn.co/image/ab67616d0000b2732aac6b7dae4a8813f5e28454,False,76,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'rock']"
+We're Back,DMX / Eve / Jadakiss,False,2q60ptQdSnUJM5eKQiPyn6,25,265173,2003,https://i.scdn.co/image/ab67616d0000b273f83cbf5c904d383623b23211,True,72,"['detroit hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']"
+Es dificil,De La Ghetto,False,2yIt5SGOZCHE2PuzcXfOof,47,280680,2008,https://i.scdn.co/image/ab67616d0000b273816508de3030f9146a6706a1,False,79,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']"
+The Sweep,Two Man Advantage,False,4tQdumaBvdnR5rRFH5H0FV,0,50840,2001,https://i.scdn.co/image/ab67616d0000b273cbcc29a86091ed69cea39e99,False,3,[]
+(I Heard That) Lonesome Whistle,Bobby Darin,False,0bibgBtxUsOQjamMrOgIy8,6,163266,1963,https://i.scdn.co/image/ab67616d0000b2737ff9e69632ce5ebcb4a390cd,False,63,"['adult standards', 'easy listening', 'lounge', 'rock-and-roll', 'rockabilly', 'vocal jazz']"
+Almost Genuine,9th Wonder featuring Defcon_ Phonte,False,2DIk0opqvj6bfyaqKyelAw,6,293666,2005,https://i.scdn.co/image/ab67616d0000b273720c64433bc306da3d73d710,True,56,"['alternative hip hop', 'hip hop', 'instrumental hip hop', 'north carolina hip hop']"
+Very Well,Wailing Souls,False,1mdohump1lRUnpKyRhGZ8C,19,214533,1996,https://i.scdn.co/image/ab67616d0000b273302d4eddd8b0afab45ae5773,False,48,"['reggae', 'roots reggae']"
+Village Attack/ The Arrest,Kitaro,False,4zWxD5pny5GkhgQXW7AWV5,6,81533,1993,https://i.scdn.co/image/ab67616d0000b273af5c2a1ddff50e03dc8e71dc,False,48,"['healing', 'new age', 'synthesizer']"
+Talk Like POP,Melt Banana,False,7dOif5d6lOa870K6YQIYbB,2,51626,1994,https://i.scdn.co/image/ab67616d0000b273058dea9e5b87a96bc903d0a5,False,35,"['experimental rock', 'japanoise', 'math rock', 'noise rock', 'noisecore']"
+Alkohol,SKOLD vs. KMFDM,False,5cLTc0BN87jepPzsAkm3W6,21,328240,2009,https://i.scdn.co/image/ab67616d0000b273d53902cea95f8e06e25c6396,False,38,"['industrial metal', 'industrial rock']"
+Complain,Ayo,False,3Z3IIjHbZPjIdc51syAodv,14,229973,2013,https://i.scdn.co/image/ab67616d0000b2736ae87b0f4b38fee095ce9519,False,51,['neo soul']
+Let Me Show You [I Just Want To Make You Smile],Marcus Miller,False,7djR81bTPRkUe94aMlltAD,6,280133,1983,https://i.scdn.co/image/ab67616d0000b273868c5588ca1a55f848293d8e,False,50,"['electric bass', 'instrumental funk', 'jazz funk', 'jazz fusion']"
+Forbidden Fruit,Pursuit Of Happiness,False,1xhDRPwS0L3oekR4GQuVAC,2,196760,1990,https://i.scdn.co/image/ab67616d0000b27371a83e3a66740d8f6d17d73b,False,28,['canadian rock']
+Everchanging,Rise Against,False,3kBsC6wa9kCRRreFZnw4C4,34,261906,2013,https://i.scdn.co/image/ab67616d0000b273c1c78542a07583570723cc6b,False,73,"['alternative metal', 'chicago hardcore', 'chicago punk', 'hardcore punk', 'modern rock', 'pop punk', 'post-grunge', 'punk']"
+So Hot,Helen Love,False,6FCaI3RmynrfdOxtDa5soY,0,81974,2023,https://i.scdn.co/image/ab67616d0000b273a76a826da588479501334798,False,19,"['welsh indie', 'welsh rock']"
+Deep Night/Softly As In A Morning Sunrise (Medley),Terry Snyder,False,1vazfHobo3MVJPUD9eFSs5,20,341760,1998,https://i.scdn.co/image/ab67616d0000b27372dab97bf4c2c6455cc32f61,False,11,[]
+Monster For Music,Beatnuts,False,205W1ZqNchOXrCjO7jbQhc,12,169093,1999,https://i.scdn.co/image/ab67616d0000b2730f1e1e41a7a78ddf61ee8972,True,50,"['east coast hip hop', 'queens hip hop']"
+Dansende Foran Speilet,Mons Leidvin Takle,False,1CYbkk5yEXPSfzbjmCutWe,0,121120,2006,https://i.scdn.co/image/ab67616d0000b2736f017d5bc0b3a69fb3d03316,False,18,['norwegian gospel']
+Ease,Public Image Ltd,False,1ZhjSFGeQI7hDUVEZoqSyk,11,493598,1986,https://i.scdn.co/image/ab67616d0000b27394d388cad4e0067f614d43d1,False,45,"['alternative rock', 'new romantic', 'new wave', 'post-punk', 'punk', 'uk post-punk']"
+Knocked Up,Kings Of Leon,False,28rNyM2CKtOb4PYmsulQhF,49,430346,2007,https://i.scdn.co/image/ab67616d0000b27387ac8463e02cd86380ff6b47,False,77,"['modern rock', 'rock']"
+Ven Conmigo/Perdoname (Live),Selena,False,6Yz9yZNqvKDmf5EGzM3yr6,20,394013,1993,https://i.scdn.co/image/ab67616d0000b2739c3eb5b3e65e6cb10e64d8e2,False,73,"['mexican pop', 'tejano']"
+Librado Maldonado,Los Originales De San Juan,False,2nu5imEZVk352OG8maRU3p,12,263573,2002,https://i.scdn.co/image/ab67616d0000b273be5757d9975a2530056cf989,False,64,"['banda', 'musica mexicana', 'norteno']"
+Dark Angel,Precious Bryant,False,2ZSd2n8DQvuof19ZQY2cPZ,4,193720,2005,https://i.scdn.co/image/ab67616d0000b2732ab02041be250c037b97c9eb,False,16,['piedmont blues']
+Trouble In The City,J.J. Cale,False,2CBLe2wfJXDdnBh7flJPXC,31,199173,1997,https://i.scdn.co/image/ab67616d0000b27346c1132578144313d2686212,False,64,"['blues', 'blues rock', 'folk rock', 'roots rock', 'singer-songwriter']"
+Crass Commercialism,Black Flag,False,0QlnPXZvL8P0WTq4nZYSM9,6,1030133,1982,https://i.scdn.co/image/ab67616d0000b273e79e87a67023a200c575dc85,False,51,"['alternative rock', 'california hardcore', 'hardcore punk', 'punk']"
+No Unexpected Guests,John Frizzell,False,5TPdwFNZBo0q4WZXV6phXe,1,133466,2002,https://i.scdn.co/image/ab67616d0000b27320b25279b83161a081c63d4d,False,21,['soundtrack']
+Prvni vesela,Krystof,False,42qwtyEmrbJgcbSxaKodDR,2,310600,2009,https://i.scdn.co/image/ab67616d0000b2736d77e2685389fec49338fda7,False,50,"['czech pop', 'czech pop rock', 'czech rock']"
+Bloody Pig Pile (Live),Dropkick Murphys,False,0eeERwVPOzcfuZuvjNIbkY,9,194677,2002,https://i.scdn.co/image/ab67616d0000b2733324ab33436ac90e21e9dbbb,False,63,"['boston punk', 'boston rock', 'celtic punk', 'celtic rock', 'punk']"
+Misanthrope,Extasick,False,6KHooKDLY7gKJY9goCoFXa,0,134026,2004,https://i.scdn.co/image/ab67616d0000b2736b0f9f593bf4857a3b178d2d,False,1,['digital hardcore']
+Saturday Night Is The Loneliest Night In The Week,Jeanie Lambe & The Danny Moss Quartet,False,5Cjr6Iv5zaKWzyt0PzErB8,0,152600,2008,https://i.scdn.co/image/ab67616d0000b2730cda506c14925e7f6df322f7,False,1,[]
+CHAOS INTRO,State of Chaos,False,494XRO6ISn4VJOrewDyHyf,0,410000,1987,https://i.scdn.co/image/ab67616d0000b273cb4892bf2e74c190fc5aa335,False,57,"['classical', 'classical era']"
+A Mi No Me Importa,Nelson Ned,False,5oZZZfGGaGNV3N9xMTKTrS,13,200626,1998,https://i.scdn.co/image/ab67616d0000b273addb24de5a13db3497f504aa,False,55,"['bolero', 'mexican rock-and-roll', 'pop romantico', 'ranchera']"
+We Wish You A Merry Christmas,SNOWPATROL,False,2s447Z0bkzaZnDxrfNNmfV,7,233363,2008,https://i.scdn.co/image/ab67616d0000b273ffc5a427c9f48f92cc051a54,False,2,[]
+Brighton by the Sea,Jason Miles,False,1PcQd2V4JjJYfvXmNYc45D,1,269400,2013,https://i.scdn.co/image/ab67616d0000b27344475469ae14bd99bda605a7,False,13,[]
+The Date (Remix By Ana Rago),Avril - Remix By Ana Rago,False,5F7KqjbUmMtugUSkTsYx4w,0,188333,2002,https://i.scdn.co/image/ab67616d0000b273b9df93a633d4c74e0d13db98,False,11,['kenyan pop']
+Ass Attack (Four Tet Remix),Hot Chip,False,1JMG1kLVznbl7pc8hW26cs,5,181360,2005,https://i.scdn.co/image/ab67616d0000b273b2483250bd4ea4d430766573,False,54,"['alternative dance', 'dance rock', 'electronica', 'indie rock', 'indietronica', 'neo-synthpop', 'new rave']"
+Canta Brasil,Gal Costa,False,0fBIMRxNAw595zknQcXkYu,26,195960,1981,https://i.scdn.co/image/ab67616d0000b273a81699bcab43367539d3cad3,False,65,"['bossa nova', 'mpb', 'tropicalia']"
+Old Times Sake,Shelby Lynne,False,0pvrLWRkypyo2RuR0md7sH,5,290933,2005,https://i.scdn.co/image/ab67616d0000b273ef1523edc4594a37a920581b,False,51,"['contemporary vocal jazz', 'ectofolk', 'folk', 'lilith']"
+Steamroller Blues,James Taylor,False,5VRfEb2UQu0arhEnGEYxDr,41,177560,1970,https://i.scdn.co/image/ab67616d0000b273b3adf9b1706b05af854bbad4,False,69,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']"
+Heute,Der Moderne Man,False,2OWGUn0Dh0nSISBsxVSj8C,1,183306,2012,https://i.scdn.co/image/ab67616d0000b273128a046509faa88b390a8581,False,11,['neue deutsche welle']

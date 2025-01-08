@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Josy,Nicolas Bacchus,False,1RBg5xAelbuRsqpxk6mItw,0,215144,2010,https://i.scdn.co/image/ab67616d0000b2736ae970df282e0bfdcfe4dfda,False,4,['french folk pop']
+Ethiopian Anthem,Ras Michael and the Sons of Negus,False,3ypDGGBXK5vKZ9JFIR14mW,2,273133,1985,https://i.scdn.co/image/ab67616d0000b273a27a116a2bf46630418b0713,False,25,"['nyahbinghi', 'roots reggae']"
+Second Hand Rose,Roy Drusky,False,0PD4xzBclGrd1ZcxV1r5nt,28,99318,1978,https://i.scdn.co/image/ab67616d0000b27315c7dcb8466dc823a4701713,False,36,"['classic country pop', 'nashville sound']"
+Pray The I Miss,Hinge,False,6yREYnZ1UFtKs8ZRO15Ejg,0,39009,1999,https://i.scdn.co/image/ab67616d0000b27336bf4d62c8b890cf1727d580,False,6,"['alternative metalcore', 'rap metalcore']"
+When They Ring The Bells Of Heaven,The Perrys,False,4pspcJop1aG1SPoL0Fpm4G,1,109826,2005,https://i.scdn.co/image/ab67616d0000b27309ee3497b99275504090cdd2,False,31,"['family gospel', 'southern gospel']"
+Ayudame Freud,Ricardo Arjona,False,375oP5IES99e3qGvoUVoPH,44,403240,1994,https://i.scdn.co/image/ab67616d0000b27398bf0a6f6828a3ee131d5a02,False,77,"['cantautor', 'latin arena pop', 'latin pop']"
+Einleitung,Kurt Tepperwein,False,6GsJojTjFtoFK9ZT4OeASH,0,574373,2013,https://i.scdn.co/image/ab67616d0000b273c5f999a89b549d95a3cdf002,False,34,['motivation']
+I'm Against It/Horse Feathers,The Marx Brothers,False,3GOs0CEZKtulbwNIyAsAXs,7,188346,2004,https://i.scdn.co/image/ab67616d0000b273072708e4628ffba67dc8057e,False,9,['drama']
+Falling Down [Live Acoustic],Muse,False,5EhT2IHxSUvCCYtIfwwSVh,21,312070,2000,https://i.scdn.co/image/ab67616d0000b2735e47e75cd3bb7c2cd8b81581,False,77,"['alternative rock', 'modern rock', 'permanent wave', 'rock']"
+I Know You Got Soul,Eric B. & Rakim,False,53eSPiEnq4XkQSxczX7iKA,35,284506,1987,https://i.scdn.co/image/ab67616d0000b273bb2db4d09f8f8e31f808d600,False,54,"['bboy', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop']"
+La danse des petits amis,Oui Oui,False,1zbZ46aVYpFMb524zi1prx,1,174520,2009,https://i.scdn.co/image/ab67616d0000b2738bf1ead23edead184673284c,False,13,[]
+Boogaloo Wow,Mongo Santamaria,False,2dsVCVvR91VpxIMw0qaZWL,1,227973,1968,https://i.scdn.co/image/ab67616d0000b2738e3d7e872371722b902651e3,False,45,"['afro-cuban percussion', 'boogaloo', 'cuban rumba', 'jazz cubano', 'latin jazz', 'musica tradicional cubana']"
+Loud Up!!,The Mad Capsule Markets,False,18FOrnzFxmCROJBgN909Tt,13,160514,2004,https://i.scdn.co/image/ab67616d0000b273209319cfca9b3f54318f7414,False,35,"['digital hardcore', 'j-metal', 'j-punk']"
+Everybody,Goose,False,7yrs2GOtc6KI1qeM3k6myN,5,144760,2006,https://i.scdn.co/image/ab67616d0000b273310fce3fc5fc0f5096b062e6,False,38,"['belgian rock', 'dance-punk']"
+Fishing Blues,Jim Kweskin_ The Jug Band,False,0Q8qnSzvQeFEvmFyjP0rky,0,204000,2002,https://i.scdn.co/image/ab67616d0000b273ada3cdb03bc8b4a31365194b,False,16,['jug band']
+Be Elevator,Virus,False,1CbQip9sXNwUdLMuzYpzIV,2,529426,2003,https://i.scdn.co/image/ab67616d0000b273d60b41839fd68f2696c80dbe,False,12,[]
+New Kind Of Mambo,Big Maybelle,False,2Ei4u42nNo1qXkYDZKqMBR,22,152586,1952,https://i.scdn.co/image/ab67616d0000b273479c8f97bdadb9f9ff412ce2,False,37,"['jump blues', 'rhythm and blues']"
+Amor De Lejos,Lara & Reyes,False,2u2cS7pCuDbkJ5h6gcM46i,31,319800,2000,https://i.scdn.co/image/ab67616d0000b2738177616b391114a61a3cf6d3,False,34,['rumba']
+She Hui Ge (Movie 2nd Song - Love Undercover 3),Fiona Sit,False,2m6Boyv9s04ruPztDK26mb,1,205240,2006,https://i.scdn.co/image/ab67616d0000b273ebf86f45397120bdc3f124e5,False,46,['cantopop']
+Aulis Gerlander,Jope Ruonansuu,False,1yAvGMQFDzABI9Ozbg4rWU,5,151093,2004,https://i.scdn.co/image/ab67616d0000b273f1e29901fb0a9b173a76e549,False,39,"['classic finnish pop', 'classic iskelma', 'iskelma', 'musiikkia lapista', 'suomi rock']"
+I Talk To The Trees,Danny Williams,False,4pZj0NoeUqfcNlsTvDzReT,8,191306,1997,https://i.scdn.co/image/ab67616d0000b27372368415b73f163687805939,False,31,[]
+This is How It Goes (Timmy Trumpet Remix),Goldfish,False,1sMJtxTcSa4lqR1M4VgNVQ,1,432146,2009,https://i.scdn.co/image/ab67616d0000b273f4c882a73038302b7f79c1bc,False,51,"['cape town indie', 'downtempo', 'south african pop', 'south african pop dance']"
+Nana,Marilyn Horne,False,5rR9WurvPUA3FhNzLJRRkg,1,97240,1986,https://i.scdn.co/image/ab67616d0000b273ee1a9d5bd0169dd75018da8c,False,45,"['classical', 'early modern classical', 'impressionism', 'neoclassicism', 'post-romantic era', 'spanish classical']"
+Mallorca_ Op.202 - transcr. Marc Switzer,Pepe Romero,False,2emxBa341f2zi7Tz9aALrP,4,393000,1992,https://i.scdn.co/image/ab67616d0000b273ad9f46b29a771e699f6d681e,False,49,"['classical', 'impressionism', 'post-romantic era', 'spanish classical']"
+El Perro,Juana Molina,False,2sILLJdAQGh1uTAhD5ommh,17,400960,2021,https://i.scdn.co/image/ab67616d0000b27377994f11c951ef57fe36b727,False,41,"['argentine indie', 'electronica argentina', 'experimental pop', 'folktronica']"
+It Is No Secret (What God Can Do),Tammy Wynette,False,5azKtIbBtDyoG2AIENUsrQ,2,148000,1970,https://i.scdn.co/image/ab67616d0000b2739052a2fa39380987a2f3e962,False,55,"['country', 'country dawn', 'nashville sound']"
+Never My Love,Kathy Troccoli,False,6zBJfrYAkLqg5xVctJgpZg,31,251306,1994,https://i.scdn.co/image/ab67616d0000b27360767fba37846b2258ce12ae,False,42,"['christian music', 'classic praise']"
+Your Love,Mikey Dread,False,0STInN1KZ34138s3N4NRU7,3,246026,1989,https://i.scdn.co/image/ab67616d0000b2739e90f043f82460d46566ae2a,False,37,"['dub', 'old school dancehall', 'reggae', 'roots reggae']"
+As Mist Lay Silent Beneath,Keep Of Kalessin,False,4ivkBjP7UKFLIOcgcobZRe,2,340440,1999,https://i.scdn.co/image/ab67616d0000b27343a96526ea9f2bab7818ef55,False,23,"['black metal', 'norwegian black metal', 'norwegian metal', 'symphonic black metal', 'technical black metal', 'viking metal']"
+Henrys Death,BT,False,0ehXesAVSnxmJ8CXhfmxWR,3,214493,2005,https://i.scdn.co/image/ab67616d0000b27391f4b78d45bb26c63eec54cb,False,48,"['progressive house', 'progressive trance', 'trance']"
+Ducktails - Moon,The Advantage,False,3TEoTJudHSVBTY54Frl7GQ,13,99173,2006,https://i.scdn.co/image/ab67616d0000b273f14255cbffa02bdbf1541b43,False,19,['nintendocore']
+Act One: Rise and Fall - From the Ashes (I. Chapter One / II. Chapter Two),Orenda,False,2RXBHpd8WmBnQF5Pj7Bk5G,0,514200,2009,https://i.scdn.co/image/ab67616d0000b27318b3aa8bef3f3615a9dfbcfd,False,6,[]
+Give It All You Got,DJ Primo,False,7471ouiD4GcaqUzx3s4OmG,0,243240,2000,https://i.scdn.co/image/ab67616d0000b27328cea2776feaa26e0eae01b0,True,13,[]
+The Way Love Is,Captain Hollywood Project,False,0N1ceI7WsuHeQFyZSKVN9A,13,237666,1995,https://i.scdn.co/image/ab67616d0000b2738109ee57311fc12ec62151e7,False,51,"['diva house', 'eurodance', 'german techno', 'hip house']"
+Eres Tu,Mongo Santamaria,False,3hnhLU9asYUxPJFiX4vhTc,0,198573,1996,https://i.scdn.co/image/ab67616d0000b273130f552e2e4ddc29b8909faa,False,45,"['afro-cuban percussion', 'boogaloo', 'cuban rumba', 'jazz cubano', 'latin jazz', 'musica tradicional cubana']"
+Kumal & Sangha,Nick Ingman,False,473i8bEyyV4KPNwIhs5B9M,0,110093,2004,https://i.scdn.co/image/ab67616d0000b2732191fdcb9d6be3c2dd2c8274,False,51,['library music']
+Back On My New S*** (feat. Tre Williams),Styles P,False,0CireRwaNg3MD6v6gjf61C,4,229480,2010,https://i.scdn.co/image/ab67616d0000b273431080a582ecc7dc9411ba93,True,62,"['battle rap', 'dirty south rap', 'east coast hip hop']"
+Al maestro,El Barrio,False,0XUql00A8wN0HyyCkgMwPL,20,308666,1999,https://i.scdn.co/image/ab67616d0000b273820979c2171cb6d84f645701,False,63,"['pop flamenco', 'rock andaluz', 'rumba', 'spanish pop']"
+Cabaret,Mademoiselle Sane,False,5vw2TOLHAvVngtfPuGLKGN,0,173480,2007,https://i.scdn.co/image/ab67616d0000b273ff6cabbb0f0b42c5eb1f12ff,False,1,[]
+All That's Left,Thrice,False,6VKP3Aru2I3OXMQX2yaMWX,43,199880,2003,https://i.scdn.co/image/ab67616d0000b2730bcd7ee4590cc999e3a529fe,False,57,"['post-hardcore', 'screamo']"
+The Sun is here for you,Jane Winther,False,2rUc7iXq18NUL0xG2y6ME9,0,278826,2005,https://i.scdn.co/image/ab67616d0000b2737578d6a248bf60d68c09926f,False,47,"['kirtan', 'meditation', 'world devotional']"
+The Song Is You,Percy Faith,False,1KMlhsBxRsdiPKNhxzc4iO,32,351559,2015,https://i.scdn.co/image/ab67616d0000b2736d9a1e9ad4704857d94f6c27,False,43,['easy listening']
+Spent,Darwin's Waiting Room,False,1UOykyeUxAqOOCl5bibnLJ,19,201573,2001,https://i.scdn.co/image/ab67616d0000b273457a1728265681fc6bd1fc0c,True,22,"['alternative metalcore', 'rap metalcore', 'rap rock']"
+Looking Back,John Mayall & The Bluesbreakers,False,6Dp555qjl6G6JtgTn6xatB,16,156266,2006,https://i.scdn.co/image/ab67616d0000b2735b3f06ef5ec331cb8595e895,False,49,"['blues', 'blues rock', 'british blues', 'british invasion', 'electric blues', 'traditional blues']"
+It's All Understood,Jack Johnson,False,5Vyag7QqdBoUjT01HGpTZN,33,328626,2001,https://i.scdn.co/image/ab67616d0000b273cb0161f840ee7bb3b9d9cde2,False,77,['neo mellow']
+The Ball,Harry Gregson-Williams,False,3CxVSFUz1bMobuqCNpkWjw,10,69600,2004,https://i.scdn.co/image/ab67616d0000b2738421d2d921d4cd4f3d89db6d,False,61,"['british soundtrack', 'orchestral soundtrack', 'soundtrack']"
+Idnnitkhtr,TAKARU,False,78ykOv7AdV8iVBkNZK0BJB,1,128333,2004,https://i.scdn.co/image/ab67616d0000b273b68ba1dd47f7513b8c3af697,False,3,['skramz']
+Blues Again,Rory Block,False,2WgsmamYT3UTpX7iXX6kGt,0,111466,1989,https://i.scdn.co/image/ab67616d0000b2731ce84b5f94a2c877267d53dc,False,34,"['acoustic blues', 'country blues', 'modern blues']"
+N'ayez crainte mesdames,Fred Merpol,False,55PAr8QFcyKavg0SQzUMQh,0,345146,1999,https://i.scdn.co/image/ab67616d0000b273cf833c2ab47c7519a93b1139,False,0,[]
+Beautiful,Christina Aguilera,False,3TCauNPqFiniaYHBvEVoHG,66,238560,2002,https://i.scdn.co/image/ab67616d0000b2737cd872c7701c4737b2f81d87,False,80,"['dance pop', 'pop']"

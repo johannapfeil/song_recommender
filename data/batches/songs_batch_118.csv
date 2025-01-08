@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Along Comes Mary,Cal Tjader,False,2fg0o6bdIY2FffG6z1fYbF,1,276280,2023,https://i.scdn.co/image/ab67616d0000b27307d53b36921c059ec6dde474,False,44,"['cool jazz', 'jazz vibraphone', 'latin jazz']"
+Sentimental Man,Winston Reedy,False,7n0ShZeoewT4ZOJCmwHdnQ,0,196200,2002,https://i.scdn.co/image/ab67616d0000b273dbf5acf17f526ac40e249447,False,27,['lovers rock']
+God Don't Never Change,Blind Willie Johnson,False,1Lm0nXUfl9WlMTPvUQPLVk,13,176600,1993,https://i.scdn.co/image/ab67616d0000b273bdee697d8f822e280752adf9,False,36,"['acoustic blues', 'blues', 'country blues', 'gospel blues', 'texas blues', 'traditional blues']"
+Dark End Of The Street,Diamanda Galas,False,1pTOAsLA1VJPLe5IusBOZb,13,163133,1994,https://i.scdn.co/image/ab67616d0000b2735a6e51883c2a5f65f6d97e42,False,27,"['experimental', 'experimental vocal', 'industrial', 'laboratorio']"
+Zydeco In D-Minor,"Myrick ""Freeze"" Guillory",False,5DqBIhTIAOUQRsmqe5f0oA,0,300773,1991,https://i.scdn.co/image/ab67616d0000b2736476f9ca2e550758dee007e4,False,0,[]
+The Wonderful World Of The Young,Danny Williams,False,62wqW6Q9eTozrruWPt9Z9i,14,169333,1997,https://i.scdn.co/image/ab67616d0000b27372368415b73f163687805939,False,31,[]
+The Hanged Man,Moonspell,False,3e0tyTV5FiV1bcYeRjdDz2,14,386333,1998,https://i.scdn.co/image/ab67616d0000b273c69de150ed9a7bd638fec97c,False,44,"['gothic black metal', 'gothic metal', 'melodic death metal', 'metal', 'portuguese black metal', 'portuguese metal', 'portuguese rock', 'power metal']"
+The Forgotten Lands,David Arkenstone,False,7xV2k7FEMtUT4IUu4L87it,4,314533,1996,https://i.scdn.co/image/ab67616d0000b2733dc8b9b72f20b9e75e87ee02,False,53,['new age']
+Down In Dixie,Grandpa Jones,False,5vwBkjQDkLVLCDoDnbYmU2,3,144253,1976,https://i.scdn.co/image/ab67616d0000b2737fed1734ce882f63a14d5eee,False,32,"['banjo', 'country gospel', 'western swing']"
+Harboring An Apparition,Mouth Of The Architect,False,7Lxm6M59GTcvXKDXLjqTht,1,474517,2018,https://i.scdn.co/image/ab67616d0000b273fa82240a82eb401193d68488,False,15,"['atmospheric post-metal', 'drone metal', 'post-metal', 'sludge metal']"
+Shattered Life,Seventh Day Slumber,False,2CQwzG5nbS7ys8CHSlavVg,18,209693,2005,https://i.scdn.co/image/ab67616d0000b27370e45cb9c0b232305c2819ba,False,42,"['ccm', 'christian alternative rock', 'christian music', 'christian rock']"
+Spend the Night featuring Rock Money and Paul Law,Tech N9ne,False,4PsG9R9J8qtTa8QTEM2QiR,12,262594,1999,https://i.scdn.co/image/ab67616d0000b273a0ef549842863a43eba8b75a,True,70,"['detroit hip hop', 'kansas city hip hop', 'pop rap']"
+I Woke Up One Morning And I Could Hardly See,Sonny Terry / Brownie McGhee,False,5mBmXx5Qd4imeB8OzlVMWh,0,342173,1939,https://i.scdn.co/image/ab67616d0000b2738e1c7534acc44c452fa7c122,False,34,"['acoustic blues', 'blues', 'country blues', 'harmonica blues', 'piedmont blues', 'traditional blues']"
+Patience,Guns N' Roses,False,1OEoNpiyqBghuEUaT6Je6U,70,354880,1987,https://i.scdn.co/image/ab67616d0000b273275b7ffe49eb84ab13a71980,True,81,"['glam metal', 'hard rock', 'rock']"
+Night Falls (The Weight Of It),Strata,False,3YZV93jhF6ysQbqtbqYaQC,14,201546,2007,https://i.scdn.co/image/ab67616d0000b2733dc9b2570c9a5b48af0531c3,False,29,['grunge pop']
+Violet Heart Box,Willie Isz,False,1rlVzRnJLNFm8UdovMMwKo,0,338733,2009,https://i.scdn.co/image/ab67616d0000b273f2804ca03b9bc847cbb6ffef,False,1,[]
+The World Is Waiting For The Sunrise,Bob Crosby,False,5Cao9rOrLvu9cwoTlOPxG7,0,170466,2006,https://i.scdn.co/image/4a240b6fa199b90488a84c1609eadbfeddff7030,False,37,"['big band', 'british dance band', 'swing']"
+Follow The Light,Dungeon Family,False,0J5Wpb11WR8RAaClP8w9H9,31,264666,2001,https://i.scdn.co/image/ab67616d0000b273b0eb2be978c4e3c23935b699,True,33,"['atl hip hop', 'dirty south rap']"
+Maybe You'll Love Me Too,Jazz Gillum,False,0PIjAGvzgjuJlp0EmOSCRb,0,191869,1993,https://i.scdn.co/image/ab67616d0000b2736a04b283b0d732a268dc16e8,False,8,"['chicago blues', 'country blues', 'harmonica blues']"
+Let it go Interlude,PMD,False,2UxXCYwiGYPmyojJsKHcoe,0,44280,2013,https://i.scdn.co/image/ab67616d0000b273ca8f1f12b14026182fe11715,True,30,"['deep east coast hip hop', 'hardcore hip hop']"
+It Hurts Me Too,Jeremy Spencer,False,7tPJRpGrQow5dUO1xJijy0,27,289960,2006,https://i.scdn.co/image/ab67616d0000b273d4cdd6210185a852fe679187,False,35,['british blues']
+The Star-Spangled Banner (1998 Digital Remaster),Felix Slatkin/Concert Arts Symphonic Band,False,4S4gpBHU8GZ3hCyhDiXWzj,0,108453,1998,https://i.scdn.co/image/ab67616d0000b273b1d0b16cbea29b3e12ecbc76,False,74,"['gregorian chant', 'puirt-a-beul']"
+Sebastian,Daylight Torn,False,150n4S024b9RMwk4XAamUz,0,225027,2001,https://i.scdn.co/image/ab67616d0000b273c7026eff4196ca4a5e259485,False,0,[]
+Vulture 4,DJ Slugo,False,0d0XBaC2q1I0axvVA1Smq4,0,193190,2008,https://i.scdn.co/image/ab67616d0000b273f7ef3792c62d5022fddb91a0,False,29,"['footwork', 'ghettotech']"
+Mort,Monique Morelli,False,5qnxJQQc6e65c1QdSk9oMj,0,135773,2010,https://i.scdn.co/image/ab67616d0000b273dc8729bc52b3d85f152e6df4,False,5,['vintage chanson']
+Lucindy,Curt Bois,False,0cpnLb6ZPyxU3KwWrMIkqw,0,186693,2006,https://i.scdn.co/image/ab67616d0000b27324789bfc23cf760d75dec56a,False,4,[]
+No Matter How She Done It,Tampa Red,False,19nqA6s2WHd5xYGQ8jh9Oe,1,196866,1994,https://i.scdn.co/image/ab67616d0000b273dd87c265e0352f78accf4f5f,False,0,[]
+My Little Blue One,Cowboy Mouth,False,3GkyPqlwjTWyfJ1a1nZZQ3,1,164560,1994,https://i.scdn.co/image/ab67616d0000b273c3a3e9eceef0c149be16cab6,False,29,['alternative roots rock']
+Break Em,Ultra X,False,42ODtDERDk1jLYVCRkIObD,0,209133,2004,https://i.scdn.co/image/ab67616d0000b2731c57b35845b82da54ba1a2a4,False,2,[]
+Is This Legal,The Lord Henry,False,67duYiV6B7h2Mg76EwP5pn,0,238573,2006,https://i.scdn.co/image/ab67616d0000b273c163908b69183d79b7a2641b,False,0,[]
+Come On Home,Michael English,False,0TlBQqBiv9UX1UOmxTWgul,6,208065,2017,https://i.scdn.co/image/ab67616d0000b273b5c23c5438adb1abf8eb5b4d,False,32,['irish country']
+Near You,Floyd Cramer,False,1nf3xwSqdueugjEhEr6Rr3,14,117466,1991,https://i.scdn.co/image/ab67616d0000b27307e9b32f8fde4da5901d86e8,False,40,"['easy listening', 'honky-tonk piano', 'nashville sound']"
+Diamonds From Sierra Leone,Kanye West,False,34KUIBsIUiPV7oCIzSdDAU,59,233400,2005,https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2,True,93,"['chicago rap', 'hip hop', 'rap']"
+La Bambola,Los Iracundos,False,2uFPRhLNbp3U8FUO5TlAJP,33,149493,1968,https://i.scdn.co/image/ab67616d0000b27345d8bf3243bab8c402720a2d,False,57,['pop romantico']
+Alone Together (Live Acoustic),John Wesley,False,46f53o8kuCD9Mwitj9CDSk,0,166560,2009,https://i.scdn.co/image/ab67616d0000b27338469608dd4e864b80b0aef2,False,14,[]
+Soy Un Poco De Ti - Original,Yolandita Monge,False,02ZB35MOOvJkCO7nz9LeE9,0,181500,2006,https://i.scdn.co/image/ab67616d0000b2732bf95a5da1a0a80b56d31cb6,False,33,['puerto rican pop']
+Rapaz De Bem,Sivuca,False,2iDrir7OKp0zzzdzHqu3Y5,0,184857,2020,https://i.scdn.co/image/ab67616d0000b273f36605df1a33ffbb207d63d4,False,37,"['bossa nova', 'jazz accordion', 'mpb', 'samba', 'samba-jazz', 'velha guarda']"
+Crazy Circles,Bad Company,False,1Qflfi8V1vUSJD8x6tgQKt,31,211160,1979,https://i.scdn.co/image/ab67616d0000b273dbcbc3e778344e4d948c5fc6,False,59,"['album rock', 'classic rock', 'country rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'southern rock']"
+Hard Hitters,Dilated Peoples Featuring Black Thought,False,6RZoQ7SbikIlTt4CaLteHQ,14,236773,2001,https://i.scdn.co/image/ab67616d0000b2739f1302519815933be3d085d9,True,50,"['alternative hip hop', 'hardcore hip hop', 'hip hop', 'west coast rap']"
+Fica ma mi,Nichols,False,1CZe6LvcExwXsjrAAijjB1,5,214466,2009,https://i.scdn.co/image/ab67616d0000b273697046eb2cd2213dcb9e927c,False,35,"['kizomba', 'kizomba antigas', 'zouk']"
+Saca La Botella,Sonora Santanera,False,4NZIM0cETQyoqb7UXjpU8s,20,208901,2011,https://i.scdn.co/image/ab67616d0000b27393028c3feed873287aba0201,False,68,"['bolero', 'bolero mexicano', 'tropical']"
+Papa Don't Preach,Madonna,False,6A8OnjnpShshNpcqWtZRjr,61,268533,1986,https://i.scdn.co/image/ab67616d0000b273de3094d98b62340d3268c7bc,False,81,"['dance pop', 'pop']"
+Fortress,Tim Exile,False,1vT3GtVEmHLJ2dxYDrQ6R5,2,369573,2009,https://i.scdn.co/image/ab67616d0000b273ac61c5999076fa768e0b437a,False,5,['glitch pop']
+Start!,The Jam,False,4svNZgdVZNtpWKbb7nsaLs,47,149866,1980,https://i.scdn.co/image/ab67616d0000b27304e7372b26d27803779696f4,False,59,"['mod revival', 'new romantic', 'new wave', 'punk', 'ska revival']"
+The Meantime,Phantom Planet,False,4dNRabj2TQ88dLQOk2tDme,11,224000,2004,https://i.scdn.co/image/ab67616d0000b2732363bfe35da36e0c27e0c66b,False,49,[]
+Die Meisten,Samy Deluxe,False,3OBqAD774YBSgeG7nB1hZJ,22,236007,2001,https://i.scdn.co/image/ab67616d0000b2733a4e3166c4bc433bacf606f3,False,53,"['german alternative rap', 'german pop', 'hamburg hip hop', 'oldschool deutschrap']"
+Two Elegiac Melodies Op. 34: 2. The Last Spring,Sir Neville Marriner,False,4HyONNVoZMcz2fHc8RfNNN,5,327733,1986,https://i.scdn.co/image/ab67616d0000b273f565bc37cb3a57522106f2a3,False,64,"['classical', 'late romantic era', 'norwegian classical']"
+No Coward Soldier,The Jackson Southernaires,False,2qfdRsVq80a9HrjoL5mUxR,1,273160,1988,https://i.scdn.co/image/ab67616d0000b273d470e5565d34e8f1b580b977,False,28,['praise']
+Akhan Nay Sharab,Pardesi,False,46CIEjuUjzMKKjYzuCRdaX,2,263533,1988,https://i.scdn.co/image/ab67616d0000b2733aa144c6f2669bc964018eff,False,6,"['bhangra', 'classic bhangra']"
+Thats life,Sane Band,False,11RRnL8cdyoo1m6zVCAkW8,0,263200,2006,https://i.scdn.co/image/ab67616d0000b273866551b26f17ff90cbf6a0b3,False,0,[]

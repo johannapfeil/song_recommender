@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+My Pillow,Roger Miller,False,16IEYrSsyPlPM1Nnqs6AIw,3,134293,1995,https://i.scdn.co/image/ab67616d0000b2736fac2a178c651974d2349b56,False,55,"['classic country pop', 'classic oklahoma country', 'nashville sound']"
+Life,Vinylbase,False,5HVP5gi8Ba71lhYjDfyxmb,1,239506,2007,https://i.scdn.co/image/ab67616d0000b2731c90bef88977263416622f18,False,0,[]
+Grace And Mercy Part II,Dorothy Norwood,False,39IjYKfKnHqZDV2YcSc2dK,1,254240,1997,https://i.scdn.co/image/ab67616d0000b273a4cb7b2d08a7f002d2ee9b78,False,33,"['gospel', 'praise']"
+Itchycoo Park,Small Faces,False,5H0laZ62yDUPuKvHef8niK,48,166680,1967,https://i.scdn.co/image/ab67616d0000b273db117bc2a85a8dc49249a78b,False,46,"['british blues', 'british invasion', 'protopunk']"
+Macarena,Los Del Rio,False,6mhw2fEPH4fMF0wolNm96e,63,222626,2002,https://i.scdn.co/image/ab67616d0000b273b32c683cba9d35640c19ef21,False,60,['tropical']
+Light,Dann Huff,False,5K5FbKcunKTdXIkvHkue2P,2,160667,2000,https://i.scdn.co/image/ab67616d0000b273f4ec866ca02505986cfb789c,False,16,[]
+Fall River Legend: Conversation: Morton Gould/Agnes de Mille,Morton Gould,False,3ScLwY8vMu1NaUoLNADaoV,0,1610000,1991,https://i.scdn.co/image/378eb5d1ac640a32f9c99ebf01f1b8f064d5b0a3,False,30,['american modern classical']
+Old Man Rocking Chair,John Williams,False,5yLkkk0MiWAW0xuHUWKlX2,8,132653,2004,https://i.scdn.co/image/ab67616d0000b2736c32d06e7c184f49c2f62470,False,8,[]
+Bonnie Mae,Solas,False,6MENi4Nvu0Gajbt6eYjt7D,2,232573,2000,https://i.scdn.co/image/ab67616d0000b2737435a4f7fc31fb362ed079ea,False,33,"['celtic', 'irish dance', 'irish folk', 'irish neo-traditional']"
+Les Femmes Des Autres,Jacques Dutronc,False,1dLyPACha9o2bFKFmhyKlb,2,192333,1969,https://i.scdn.co/image/ab67616d0000b273a28387fcc6e1c7ed11d82022,False,51,"['chanson', 'ye ye']"
+Need To Belong To Someone,The Impressions,False,4HHPgb6UGyrdyI4PgNfHZt,2,236706,1972,https://i.scdn.co/image/ab67616d0000b2733727b64c7294a1b0ae85f483,False,49,"['chicago soul', 'classic soul', 'funk', 'quiet storm', 'soul']"
+I Can't Stand It,Sam Baker,False,0nl3tMBE1WquVDfYfRUg7D,0,142796,1967,https://i.scdn.co/image/ab67616d0000b2738bbe233f2ef2c127897c8626,False,8,[]
+One Little Baby,The Wilburns,False,2uA2ZSCFm2r82ablOge0IT,0,234600,2019,https://i.scdn.co/image/ab67616d0000b2739f7dd8e5cdf2e1dd6a46ff7f,False,4,['family gospel']
+It's Not What You Say,Louie Ramirez,False,6xa8EuqmwQPVjzhyir7yTU,26,176146,1968,https://i.scdn.co/image/ab67616d0000b2736f11f0e57e7af9f9bf59fd99,False,42,"['jazz vibraphone', 'latin jazz', 'salsa', 'salsa international']"
+Way Beyond,32 Leaves,False,1aAXQc0Pub5SLKOm078Snr,32,233800,2009,https://i.scdn.co/image/ab67616d0000b273831283eef5044ce79b93c3e5,False,35,"['hard alternative', 'post-grunge']"
+You Still Believe in Me,Rockabye Baby!,False,5CLQFootnnm7wuT5FAfKNY,15,203546,2006,https://i.scdn.co/image/ab67616d0000b273a30476a36569d8263b097cbc,False,63,['lullaby']
+Yhteinen koti,Irwin Goodman,False,0dnaVPY8JWnM1vvI2Upwxg,0,194333,2010,https://i.scdn.co/image/ab67616d0000b273f0372549d033e8acc35ab4a7,False,44,"['classic finnish pop', 'classic iskelma', 'humppa', 'suomi rock']"
+Don't Knock Love,Barbara Carr,False,5N6AaFSCFZUkfI4dog2oEy,14,147706,1997,https://i.scdn.co/image/ab67616d0000b273d560ef0c3f2a02606a489a63,False,13,"['soul blues', 'southern soul blues']"
+Aljarafe,Lole y Manuel,False,4nJvwyZBPuDD5wSHov4xmd,4,203333,1995,https://i.scdn.co/image/ab67616d0000b2730e0757e56bcb868aabb5cb50,False,38,"['cante flamenco', 'flamenco']"
+It Ain't The Meat It's The Motion,Maria Muldaur,False,5PzsDO8UPEkMxjeHATCgKp,12,181733,1974,https://i.scdn.co/image/ab67616d0000b273f301ae9edfea07c4c58cb9a0,False,40,[]
+L'antillais Donne,Francky Vincent,False,4uo7yEDXTZlV4DXmI2P3tw,8,260364,2009,https://i.scdn.co/image/ab67616d0000b273988a10c00fe561929ce380a0,False,44,"['chanson paillarde', 'musique guadeloupe', 'zouk']"
+Etre Le Premier,Jean-Jacques Goldman,False,23heBlZ7GTCLVHP7tW77Br,33,232306,1982,https://i.scdn.co/image/ab67616d0000b2736b2847cc0ee2671d82426eac,False,64,"['chanson', 'french pop']"
+Road-Age at the Farmers Market,Population Reduction,False,7nQKxYaZMkqy7ZJAHSRFyT,0,172480,2008,https://i.scdn.co/image/ab67616d0000b27377057d87b3f0ea1660f68b5a,False,3,[]
+Dayz Of Our Livez,Agency 1.9.9.4,False,78yRspOJvBzsx1uDxmTeSa,0,228480,2005,https://i.scdn.co/image/ab67616d0000b273c2c7a7bbd9654fbf2931c3a1,False,0,[]
+Hymne A L'Amour,Marcel Azzola,False,1zJx2Xwrko1AH0Fn1ZfYf9,0,285440,1994,https://i.scdn.co/image/ab67616d0000b2733adc33cbed3995681dbc1ea8,False,27,"['bal-musette', 'jazz accordion']"
+Inner Chamber,Aeoliah,False,5xle77gjwFAMgKc346alqr,16,307373,2003,https://i.scdn.co/image/ab67616d0000b2732a5bf60296eae8b76ea29539,False,35,['healing']
+Queen Street Rag (144826),Birmingham Jubilee Singers,False,7oR0jZBoTkiJiWikttW00T,0,188291,1995,https://i.scdn.co/image/ab67616d0000b273186e69a78b9dc7ab606edb02,False,0,"['gospel singers', 'vintage gospel']"
+Estudio,Eduardo Fernandez,False,7ieAy1uPBGUBOmKZgUDOvV,2,105266,1987,https://i.scdn.co/image/ab67616d0000b2736c663568e54b139322680d82,False,5,['french romanticism']
+Song Of The Valley,John Cale,False,1VXq8GKAnjSRuIzaLzpmmr,8,308293,1985,https://i.scdn.co/image/ab67616d0000b273e785e2486efea91dc4a2f4fd,False,48,"['art rock', 'melancholia', 'singer-songwriter']"
+Blueberry Hill,Gene Autry,False,11PQgFPtRMpCKOpGMZewKY,1,132626,1999,https://i.scdn.co/image/ab67616d0000b273014fa8c001398704483f1705,False,74,"['classic oklahoma country', 'cowboy western', 'traditional country', 'yodeling']"
+I Walked Today Where Jesus Walked,Bill & Gloria Gaither,False,6GVATpq8V8mhoTQ6tZsGzA,5,290013,2005,https://i.scdn.co/image/ab67616d0000b27328f8f8e563c439847640b8a4,False,42,['southern gospel']
+Please Belive It,Mr. De',False,2x1OWf9FKAek1D1Ko4vCLZ,0,334560,2007,https://i.scdn.co/image/ab67616d0000b273e0def3ea297458f6e92f49f7,False,25,['ghettotech']
+Mass No. 19 in D minor_ 'Requiem' K626: Lacrimosa,Patrizia Pace/Waltraud Meier/Frank Lopardo/James Morris/Swedish Radio Choir/Stockholm Chamber Choir/Berliner Philharmoniker/Riccardo Muti,False,6oaPTDvClUo3iUzqCFUS0i,3,221373,2011,https://i.scdn.co/image/ab67616d0000b273d3b2c79ca292c7af945ad6cf,False,49,"['choral', 'swedish choir']"
+Spanish Grease,Nestor Torres,False,5T8UL3KqTRxCqGdYF1Mmrx,7,203853,2002,https://i.scdn.co/image/ab67616d0000b273dd48d486b337f5a381f9608f,False,16,[]
+Ju Ju,Poncho Sanchez,False,66f5NpACko5E3dYaH3VbKJ,9,252640,1987,https://i.scdn.co/image/ab67616d0000b273f8e86679bf909751c1a959b1,False,42,"['afro-cuban percussion', 'latin jazz']"
+Decima Del Tiempo De Antes,Roberto Torres,False,4OxVs6K3zucYEXEHHmJtv0,3,276000,1997,https://i.scdn.co/image/ab67616d0000b273665bd0e00000f31c701e7e31,False,44,"['charanga', 'latin jazz', 'musica tradicional cubana', 'salsa']"
+Distractions,Dictafone,False,5a58bLVkKf5m5e30vEe86q,0,307920,2003,https://i.scdn.co/image/ab67616d0000b273b88e64bd0aacbafc27ba8201,False,0,[]
+Boar Hog Blues,Jazz Gillum,False,7utQUAGxDu8tTRFi9Mrc7j,0,170945,1993,https://i.scdn.co/image/ab67616d0000b27318ce78d2c1df7339e9e351b5,False,8,"['chicago blues', 'country blues', 'harmonica blues']"
+Traffic,Truckfighters,False,25NHEkw0JR3vLx8cBkkaaY,14,270440,2007,https://i.scdn.co/image/ab67616d0000b273715acb6f456329b77e14448b,False,38,"['instrumental stoner rock', 'orebro indie', 'sludge metal', 'stoner metal', 'stoner rock', 'swedish stoner rock']"
+Five Long Years,Freddie King,False,462xBkUvTjn40Ud3icDJvw,29,264893,1971,https://i.scdn.co/image/ab67616d0000b273be4c277f6b8f6bedf7135496,False,51,"['blues', 'blues rock', 'electric blues', 'texas blues', 'traditional blues']"
+Mr. Wonderful,Peggy Lee,False,4G6jA7t2ylv1jj8D2HPprC,21,197973,1959,https://i.scdn.co/image/ab67616d0000b2732a60db6db6ba2d03b7b9cca6,False,66,"['adult standards', 'torch song', 'vocal jazz']"
+Just One Time,Connie Smith,False,2NcaiOPN2O7YryCTAcTQGe,5,118346,2015,https://i.scdn.co/image/ab67616d0000b273ea25575367b21ef2fb8e7410,False,41,"['classic country pop', 'nashville sound']"
+Same Game,Leigh Jones,False,7iwQH1P5N1oW0B8ejdmcJz,1,200466,2008,https://i.scdn.co/image/ab67616d0000b27302f10d7d677fa8c97e9c9d16,False,7,[]
+Within My Blood,Skeletonwitch,False,2wXd8fhnRHN24Pdw9gpXKX,15,252053,2007,https://i.scdn.co/image/ab67616d0000b273fe472e92de230d13ca071d2f,False,33,"['black thrash', 'melodic thrash']"
+Ocean Drive,Lighthouse Family,False,6jHBlKpIKNflU51QlsJx3v,52,228426,1995,https://i.scdn.co/image/ab67616d0000b273bde4adaefc81b0502e081e82,False,60,"['europop', 'new wave pop']"
+Rider 4 Real,G Unit ft. 50 Cent_ Lloyd Banks & Tony Yayo,False,4Dcj1qQytHSfJGCHxt8T3E,17,208800,2008,https://i.scdn.co/image/ab67616d0000b2734b3be7dde2af99da3e80ea96,True,64,"['gangster rap', 'hardcore hip hop', 'hip hop', 'nyc rap', 'pop rap', 'queens hip hop', 'rap', 'southern hip hop']"
+More Power To Ya,Petra,False,6bIvFUp7PFq9UXFMojj7x9,33,219200,1982,https://i.scdn.co/image/ab67616d0000b273be759887416fb89d0ca738ea,False,47,"['christian alternative rock', 'christian metal', 'christian music', 'jesus movement', 'rock cristiano']"
+Danger! She's A Stranger,The Five Stairsteps,False,1oMs2rmpTZW8p9f9zL2clh,26,168426,2001,https://i.scdn.co/image/ab67616d0000b273b4b2642b767f641a15c9fef1,False,51,"['chicago soul', 'classic soul', 'motown']"
+(Coffee's For Closers),Fall Out Boy,False,6MWODwIhaEYqa994aF20My,39,275413,2008,https://i.scdn.co/image/ab67616d0000b2739d0807e52789a2715a0419bc,False,81,"['emo', 'modern rock', 'pop', 'rock']"
+White Girl Who Can Dance,HardNox,False,4Xrq3LCjFcSkH1szq5SVv3,0,228880,2007,https://i.scdn.co/image/ab67616d0000b27394711eb441bb9377306eb5ef,False,17,[]

@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+El divertido,Orquesta Sublime,False,1OX8O7oD8ukUojG2PoawDU,0,171960,2012,https://i.scdn.co/image/ab67616d0000b273b29b193d1f47ec933925c3e6,False,4,['musica tradicional cubana']
+Blackwood Moth,Milieu,False,3KApsUPwxK3crRvgQWOpqE,2,371866,2007,https://i.scdn.co/image/ab67616d0000b2730d3ed9dd4b8b1abeca6c6e6b,False,19,['deep idm']
+Dreaming Of April,Out Of The Grey,False,1yP4yc4UD7pLYquVylSvg8,2,225906,1995,https://i.scdn.co/image/ab67616d0000b273e125524684575c6088a8a71e,False,22,['deep christian rock']
+New Sensation,Snow Patrol,False,0bBdzdOql8t4jmjghR3tNx,16,214932,2009,https://i.scdn.co/image/ab67616d0000b2734b0a4e46efcbf6c484399ab1,False,71,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']"
+For The Good Times,Dart,False,56RfgBbd1fq3CY9ECU7y7K,0,340533,2003,https://i.scdn.co/image/ab67616d0000b273cce4c1cb1d818c047972c23c,False,12,[]
+Clever Girls Like Clever Boys Much More Than Clever Boys Like Clever Girls,Pelle Carlberg,False,2gVIsA98tFoIJNyKh4l0dr,10,248333,2007,https://i.scdn.co/image/ab67616d0000b273506e188927066bc74f28f978,False,16,"['svensk indie', 'twee pop', 'uppsala indie']"
+Never Alone,Open Hand,False,7kyvyB0KSOl6s9y55hPJyf,2,487053,2003,https://i.scdn.co/image/ab67616d0000b2733fffb5ec4c047a4ee5b578d4,False,20,['spacegrunge']
+Chatterbox,Sex Pistols,False,2Ry4rZVor2AnhOQdTGsiU4,19,111080,2010,https://i.scdn.co/image/ab67616d0000b27343b0d8687973e88c8a7b8202,False,57,"['alternative rock', 'punk', 'rock']"
+Sporco Ma Distinto,Ennio Morricone,False,4CFHFQgjJPMG5u2Q44V4be,1,119053,1983,https://i.scdn.co/image/ab67616d0000b2731eaaf45bbf1fb33343d28b05,False,68,"['classic soundtrack', 'italian soundtrack', 'orchestral soundtrack', 'vintage italian soundtrack']"
+Elle Et Moi,Koffi Olomide,False,3NaaJnysh3yIbsG2kFdGey,19,293266,1990,https://i.scdn.co/image/ab67616d0000b273c22fe28f87694ec7e239707e,False,55,"['azontobeats', 'ndombolo', 'rumba congolaise', 'soukous', 'zilizopendwa']"
+Columbus Stockade Blues,Charlie McCoy,False,2S4LYwevWHNTusqkKjQYG4,5,197800,1975,https://i.scdn.co/image/ab67616d0000b2733f67ff7c0e807b3f959d962b,False,26,['harmonica blues']
+Damn That Radio [Live],The Wreckers,False,3znlWyerD2o4CVJNLdWzay,6,211600,2007,https://i.scdn.co/image/ab67616d0000b2731c1f03f2ca024ba6cb269223,False,42,"['candy pop', 'country dawn']"
+Camisa Amarela,Gal Costa,False,6agn6uyxnypYDHCXMwrekg,25,171866,1980,https://i.scdn.co/image/ab67616d0000b2730c12026d18ee71048777c449,False,65,"['bossa nova', 'mpb', 'tropicalia']"
+Style,Enuff Z Nuff,False,18EoHdX6TxU5n0jCfv6Sb3,1,182160,1994,https://i.scdn.co/image/ab67616d0000b2739d85ab240466adc88f0193df,False,32,"['glam metal', 'underground power pop']"
+It's My Party,Lesley Gore,False,1Pq47iFLC5U7j8xeNiNcuS,62,140000,1963,https://i.scdn.co/image/ab67616d0000b273b71c2bb954c78c4a605a095a,False,62,"['brill building pop', 'bubblegum pop', 'classic girl group']"
+Keep The Circle Around,Inspiral Carpets,False,1ehhFPC49CymgMBSlnyqPM,15,230000,1990,https://i.scdn.co/image/ab67616d0000b2732207ac2100dc1755e2f08868,False,43,"['britpop', 'madchester']"
+Wot U Say,Various Production,False,2zVZJFekNqtMgoNGPwr8Fs,0,192000,2008,https://i.scdn.co/image/ab67616d0000b27359f5b28ac29eea2c0e0524c8,False,7,[]
+Xiang Zai Le Huo,Eason Chan,False,5kZM0zXUbcyM5tfNroBpRX,9,221813,2006,https://i.scdn.co/image/ab67616d0000b27328114fe23dca726ef86d6dc6,False,71,"['c-pop', 'cantopop', 'mandopop']"
+Birth Of The Falls,Stephen Warbeck,False,2p5p4tIKtIBNr0JXClcz5a,0,123626,2003,https://i.scdn.co/image/ab67616d0000b27317cadfa8e9b034af033f2b40,False,43,"['british soundtrack', 'soundtrack']"
+For Me This Is Happy,Gene Pitney,False,1K4oTPUTRT5MGLwbdG71a9,0,146653,2005,https://i.scdn.co/image/ab67616d0000b2733ce03b493e0971ff6ac87c69,False,45,"['adult standards', 'brill building pop', 'merseybeat', 'rock-and-roll', 'rockabilly']"
+Ithaki,Peggy Zina,False,3MWizCBe8vboYj4F8xvGpA,1,176355,2008,https://i.scdn.co/image/ab67616d0000b273ea7e12ee952fe14be36dac13,False,46,"['greek pop', 'laiko']"
+Guilty Partner,New Order,False,31mkWseXzIjCHOAW8TRnbe,28,286733,1989,https://i.scdn.co/image/ab67616d0000b2735ac2c6a71a5882025e438424,False,67,"['alternative rock', 'dance rock', 'madchester', 'new romantic', 'new wave', 'permanent wave', 'post-punk', 'synthpop', 'uk post-punk']"
+Delilah,The Sensational Alex Harvey Band,False,0Ab5iMf4QzJ7R2qCS4D2Mt,20,312333,2004,https://i.scdn.co/image/ab67616d0000b27392b235b2938d88d4bf8b0368,False,33,['glam rock']
+Our Lady Of Fatima,Kitty Kallen,False,2ZkHKDEyJVu0B6t8guVM9x,0,167523,2018,https://i.scdn.co/image/ab67616d0000b273f42879f5e1cae6542db921c3,False,48,['torch song']
+I Got A Seecret,Redman,False,2Aki4raVquhiimF96icZVO,17,209600,1998,https://i.scdn.co/image/ab67616d0000b2739117f7bf985e64751ed978d5,True,67,"['east coast hip hop', 'hardcore hip hop', 'new jersey rap', 'wu fam']"
+Banda Yango,Tshala Muana,False,33AfRrrCqdbw7FKEhoRKkC,7,390626,1996,https://i.scdn.co/image/ab67616d0000b27381e256a0cbd8a3c90ad43577,False,35,"['soukous', 'zilizopendwa']"
+Song For Love,Extreme,False,3yP553KE83Ubbw33nvwE4u,31,355600,1990,https://i.scdn.co/image/ab67616d0000b273fb16b9b69eb891027654bcb1,False,63,"['funk metal', 'glam metal', 'hard rock']"
+Nachts um halb drei,Janina,False,0PhCZ8OiGK8MJQPheZCCkE,0,190426,2010,https://i.scdn.co/image/ab67616d0000b273e88a8aba444f5c07b905a680,False,4,[]
+Iron Man,Mat Maneri,False,2aJB8QiYNh6tl2Qhg8ETju,0,193333,2001,https://i.scdn.co/image/ab67616d0000b2738cb1148df6f1e7259b937112,False,12,"['avant-garde jazz', 'free improvisation', 'free jazz', 'jazz violin', 'modern free jazz']"
+I Constantly Thank God For Esteban [Live In Chicago],Panic At The Disco,False,5F4YeuJPBERnEtpfRb9jFV,24,253240,2008,https://i.scdn.co/image/ab67616d0000b27394cb969ec9cde5db08da3f7d,False,78,['pop']
+000GrandPno,Pumpkin Buzzard,False,0mNmIjoFyNWYL8rXZHYiGS,0,46053,2009,https://i.scdn.co/image/ab67616d0000b273e2416cbf45777a0e1ed75f7b,False,0,[]
+Pai Keros,Christos Dantis,False,7rJ6oE7BFFlwD3auBexWdA,4,248693,1984,https://i.scdn.co/image/ab67616d0000b273a9d1f7b8eb23c0e287a88480,False,38,"['classic greek pop', 'greek pop', 'laiko']"
+Tuesday Afternoon,The Moody Blues,False,31pi9vJJWHZxygk8AoGd0d,47,249004,2017,https://i.scdn.co/image/ab67616d0000b2730f04fb31adf430679b9301d6,False,59,"['album rock', 'art rock', 'british invasion', 'classic rock', 'country rock', 'flute rock', 'folk rock', 'mellow gold', 'progressive rock', 'rock', 'singer-songwriter', 'soft rock', 'symphonic rock']"
+As We Lay,Fiona,False,5vOLRAfroZZepQPtlAYDqJ,0,228680,2010,https://i.scdn.co/image/ab67616d0000b273277076eb06fecaa2a739301a,False,25,[]
+The Anthem,Hatiras,False,5vqIZCbykqZQ84CXYwq2Xd,0,327306,2006,https://i.scdn.co/image/ab67616d0000b2735962d9f17aa45dfe83b22add,False,31,"[""jackin' house""]"
+Disco Trafiko,Trafik,False,1NZW7W94HFFReJ1BV06l3q,0,265760,2004,https://i.scdn.co/image/ab67616d0000b273c3aab7cf3ef1d582e4bb1991,False,7,[]
+Rant Kanaria,Jope Ruonansuu,False,77G5gQJsjdCyZxcWU2w1Xw,0,211640,2009,https://i.scdn.co/image/ab67616d0000b2734cbdbeee9b493843ad1d9361,False,39,"['classic finnish pop', 'classic iskelma', 'iskelma', 'musiikkia lapista', 'suomi rock']"
+Clavelitos,Joselito,False,6k6PMsVpqzqsf8LjfKvw6U,29,159760,2001,https://i.scdn.co/image/ab67616d0000b273cbe727e74a33e379e05f0b3c,False,34,['copla']
+Tomorrows Girls (Live),UK Subs,False,1031weT7fZKkVRckPrWX9b,2,151976,2024,https://i.scdn.co/image/ab67616d0000b27309be88686b3f5576108e000c,False,35,"['hardcore punk', 'oi', 'punk', 'uk82']"
+O Dikos Sou DJ,Imiskoubria,False,7mRWrupIbYn0AnBVam1ur6,6,208453,2004,https://i.scdn.co/image/ab67616d0000b273154ef10683f84c4bf8e0e740,False,37,['greek hip hop']
+Little Brother,Grizzly Bear,False,6FhJq6y2hJpT2dL53RH1WG,23,384680,2006,https://i.scdn.co/image/ab67616d0000b273cd16bb3f61dab4a7b54fb4b7,False,56,"['art pop', 'baroque pop', 'brooklyn indie', 'indie rock', 'neo-synthpop', 'new weird america']"
+Polly,Nirvana,False,2SJ38LDlkNjwWSUq98r4Q5,59,173853,1991,https://i.scdn.co/image/ab67616d0000b273fbc71c99f9c1296c56dd51b6,False,84,"['grunge', 'permanent wave', 'rock']"
+Ol' Frank,George Jones,False,2n3YjUXsWarXRIPagtgkm7,8,166493,1986,https://i.scdn.co/image/ab67616d0000b27360a9b4deae22e011e5094e1e,False,63,"['classic country pop', 'country', 'country rock', 'honky tonk']"
+Be Aware,SOJA,False,3nCbI4P1Syf6uaK9o9sPhp,22,250802,2006,https://i.scdn.co/image/ab67616d0000b273a4869e400117a7a5dc2a2fbc,False,64,"['east coast reggae', 'reggae']"
+The Chance,Julie Roberts,False,6u7ejpO5FVF02kRhZEnle2,15,287520,2004,https://i.scdn.co/image/ab67616d0000b273704f3cc20f63b44f80298d5d,False,37,['country dawn']
+Abbeville Fair,Seatrain,False,2LgawNeQnT4KIurehjwW1N,1,294480,1973,https://i.scdn.co/image/ab67616d0000b27322d12b77bfd725243a1c35c9,False,6,['flute rock']
+My Life Is Totally Boring Without You,Cracker,False,1jG5ONiPJ0m06Og3tkO1n4,3,197706,1998,https://i.scdn.co/image/ab67616d0000b2732f89d9895b7834d12858bfec,False,49,"['alternative rock', 'permanent wave', 'pop rock', 'post-grunge']"
+Calliope,Al Di Meola,False,5lUYUAWH86uNqB5LaiUeaS,3,257293,1983,https://i.scdn.co/image/ab67616d0000b273f368c21cab02fa7087f86cf3,False,44,"['flamenco guitar', 'jazz fusion', 'jazz guitar']"
+Aya Benzer 2003 (Moonlight),Mustafa Sandal / G\xc3\xbclcan,False,57PHWjbAwEUIIxqTiIIXJB,25,239133,2003,https://i.scdn.co/image/ab67616d0000b27370bb31e57e84ec5bfc495539,False,66,['turkish pop']
+Fire in the Hole,The Elders,False,5LhhIzB7eXndzLFzQ4RjNw,8,241737,2005,https://i.scdn.co/image/ab67616d0000b273e95dc768d80947bc0b381bea,False,29,['celtic rock']

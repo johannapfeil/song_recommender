@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+So Many Roads,The Mustangs,False,43EXKXdzOPA18tVlm9D66C,0,174586,2008,https://i.scdn.co/image/ab67616d0000b2736815fe47c017a6461a746d6d,False,0,[]
+Christmas Time,The Continentals,False,6f6gCnxem6Kw60kF3Ir6kT,8,180746,2011,https://i.scdn.co/image/ab67616d0000b2735ea72a1f151f89e8adf945eb,False,15,[]
+A Different Kind of Love,Paul Simon,False,6torbrQw3x7FKoXLjkfzVw,1,139466,2010,https://i.scdn.co/image/ab67616d0000b27344b2ea0d85a52fb0b6eecfed,False,70,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter', 'soft rock']"
+A Dustland Fairytale,Twinkle Twinkle Little Rock Star,False,2HT96kyKPva5MRzhWYjbwJ,5,240546,2009,https://i.scdn.co/image/ab67616d0000b2732fcf4f9a6974b4a3f7bf58bb,False,57,['sleep']
+Still Lost in the Forest,Anne Dudley,False,4AoVigwrNZY2rCpMHIDF4w,2,177386,2000,https://i.scdn.co/image/ab67616d0000b27341759e3b9d369767f92c873b,False,45,"['british soundtrack', 'soundtrack']"
+We're Almost There,Michael Jackson,False,271PfBUXOXoQCcBgvxTqSF,30,222400,1975,https://i.scdn.co/image/ab67616d0000b273a2719b5be40893c0c6c8d947,False,85,"['r&b', 'soul']"
+Party Time,45 Grave,False,0yYqc34OOW3uL8tOJpCSf0,6,181706,2006,https://i.scdn.co/image/ab67616d0000b2739ff55db2eec3a78dc27ac2d6,False,36,"['deathrock', 'gothic rock', 'horror punk']"
+Loves Parting,Vivian Khor,False,0khi8FIENr16JpnT7HvbE7,0,253066,2003,https://i.scdn.co/image/ab67616d0000b273b9c12c6d7a3ad0778f3634fc,False,1,[]
+B-Boy Stance,K-OS,False,1abWQYbz8ZEqFtFRS2cWOo,15,240013,2004,https://i.scdn.co/image/ab67616d0000b27369358222aeded74c050e38f4,False,44,"['alternative hip hop', 'canadian hip hop', 'canadian old school hip hop']"
+Vena Cava 8,Diamanda Galas,False,60yQfSu9nxBIZjyo8jTE7K,1,191760,1993,https://i.scdn.co/image/ab67616d0000b2730a3be5045d1209211cb18532,False,27,"['experimental', 'experimental vocal', 'industrial', 'laboratorio']"
+Shoulda Did,Rated R,False,4vXVe47S93H9L8sqNybWfe,0,247946,2003,https://i.scdn.co/image/ab67616d0000b2733b0ad4ceb7cd10bfcdfc651c,True,22,[]
+Isn't That Just Like God (Medium Key Performance Track Without Background Vocals),Babbie Mason,False,1CqObsYBFvCy9ebQCiftvc,0,237493,2009,https://i.scdn.co/image/ab67616d0000b273719ca38e07570e0663de5c28,False,35,['classic praise']
+A Night at Mahmoud's,Rolfe Kent,False,2nwaPcfkdkN9Z9RLc0XeVE,0,112173,2009,https://i.scdn.co/image/ab67616d0000b273b3db903cc3c6de0f2104df5e,False,35,"['british soundtrack', 'soundtrack']"
+Imagination,Beenie Man,False,3uXIsNC0SxMtyROGFeFOCd,10,228826,2005,https://i.scdn.co/image/ab67616d0000b273b6d3a83a0e2559fbf26aa187,False,62,"['dancehall', 'jamaican dancehall', 'reggae fusion', 'soca']"
+Magic,Black Eyed Peas / Terry Dexter,False,2Ml7yR2uIbfZPhnHsvBDUJ,19,275093,2001,https://i.scdn.co/image/ab67616d0000b273a579c825e800b17fdebf8093,False,82,"['dance pop', 'pop', 'pop rap']"
+Between The Worlds,Be Bop Deluxe,False,2NYb3qy8qgMbXoKTzK53km,1,196960,1975,https://i.scdn.co/image/ab67616d0000b27312a4f66658bbe395e497603e,False,29,"['art rock', 'glam rock']"
+It All Depends On You,Jerry Lewis,False,0i0j3dcxxqevYhAv2tEhBM,0,137962,2020,https://i.scdn.co/image/ab67616d0000b273e6f4b01be830670bab0ac7de,False,22,[]
+It's Too Late,Small Faces,False,73jdL8EmdH6DJmxXhZ7grG,13,157506,1966,https://i.scdn.co/image/ab67616d0000b2731481b4667fde4c905fcf0345,False,46,"['british blues', 'british invasion', 'protopunk']"
+Resistance,Cali,False,5kUxhiNQtWul51MHgZo5Tc,5,156720,2008,https://i.scdn.co/image/ab67616d0000b273ebfa661c241e6a45a1de7073,False,41,"['chanson', 'french pop', 'french rock', 'nouvelle chanson francaise']"
+Pasa el tiempo,Yahir,False,0mhKGrgbHoofG2vI4Cv70G,7,285293,2004,https://i.scdn.co/image/ab67616d0000b273efa99e38d112b064eb552d04,False,58,"['latin arena pop', 'latin pop', 'mexican pop']"
+Sing Boy Sing,Tommy Sands,False,4A2dABZi18gmKGizp0ubyn,9,135706,1997,https://i.scdn.co/image/ab67616d0000b2732d5aaf596e840a0f42bc462e,False,36,"['bakersfield sound', 'traditional country', 'western swing']"
+Memories,George Lopez,False,2LkP2F5OeQUlVajuOOxKeT,13,153506,2001,https://i.scdn.co/image/ab67616d0000b2738e897205a247f14a0621482b,True,41,"['comedy', 'latino comedy']"
+Dial Me,Lexi,False,2rwVSss4zrmE66416cJpPL,0,244266,2003,https://i.scdn.co/image/ab67616d0000b273d6a5617d6ee6994eea9f881f,False,0,[]
+Shadows,DJ Harry,False,0iTtIwpEetCcmrimG4W7rP,16,216754,2023,https://i.scdn.co/image/ab67616d0000b2739c7704c127207fdfcfaf79c5,False,34,[]
+Edge Of The Dream (Emergency Broadcast Album Version),White Heart,False,1UZbE63mMVUe5ql4fk1UjT,3,274466,1987,https://i.scdn.co/image/ab67616d0000b273c354dbc59229f61245cd843e,False,30,"['christian metal', 'deep christian rock']"
+If We Loved,Chuck Wicks,False,5Fzjzxg8lxDG0mGU1WCMZw,5,222013,2008,https://i.scdn.co/image/ab67616d0000b2730ded8cefc1bcaab87eff530f,False,33,"['contemporary country', 'country road']"
+The Traffic Jam,Stephen Marley / Damian Marley,False,0XzIG3QQJp8zajHfhYrkj7,30,220853,2007,https://i.scdn.co/image/ab67616d0000b2734b166999e953f11b39efb8c8,True,62,"['reggae', 'roots reggae']"
+My Chickasay Girl,Roy Rogers,False,6jXMm3TVANYm6QDA8Ji9jA,1,146013,1938,https://i.scdn.co/image/ab67616d0000b2734f6a59efdcb8cc59271d1d5b,False,33,"['cowboy western', 'western swing']"
+Grow Proper,I Wayne,False,5HeiuoWofRrWhTZSPwX5iL,19,244333,2005,https://i.scdn.co/image/ab67616d0000b273790be3320dd9a39dfa918558,False,48,"['dancehall', 'lovers rock', 'roots reggae']"
+Welcome To Hell,Coffinberry,False,6c2Wms8r0N8z1U4DtsMwhs,0,146773,2007,https://i.scdn.co/image/ab67616d0000b273210c51c9716f1ade0e5d900f,False,0,['cleveland indie']
+Soorma,Jazzy B,False,19Fcf6HGHPOLIvLY547CjR,27,411640,2004,https://i.scdn.co/image/ab67616d0000b273a55ef2c4b0fdb2660dc7f1ae,False,60,"['bhangra', 'classic bhangra', 'punjabi pop']"
+Mama Talk To Your Daughter (take 2),Lonnie Brooks,False,542ZJdRt8WEA589iJEUCHq,1,156733,2000,https://i.scdn.co/image/ab67616d0000b273dfd62139b35275d6aae41f22,False,35,"['chicago blues', 'louisiana blues']"
+All The Difference In The World,Brent Lamb,False,2LNWaRbFBlFvYmTuFSi83x,0,250373,2005,https://i.scdn.co/image/260ff18f9089b11ed741807325c6d999904f677a,False,3,[]
+See You Comin',Vodka Collins,False,0CZ7vhOdh8x6TI03SnKuLk,0,219400,1998,https://i.scdn.co/image/ab67616d0000b273c59a30c166ca4dcb32089116,False,0,['glam rock']
+Memmer?... U Memmer!,George Lopez,False,4ynLqaqCEPNeuhpVUrP84h,9,211560,2001,https://i.scdn.co/image/ab67616d0000b2738e897205a247f14a0621482b,True,41,"['comedy', 'latino comedy']"
+Boyfriend,Janitor Joe,False,4LFk87QbSB7qvJih1uoDTu,4,169180,1993,https://i.scdn.co/image/ab67616d0000b2734f0dd26193dfb8b30daa4b45,False,8,['underground grunge']
+Be My Lover,Brenda Boykin,False,7ArLDkDRXOHPiyge1RtwmS,26,266000,2008,https://i.scdn.co/image/ab67616d0000b273aeb7829c4ef36b085912e4c3,False,38,"['electro swing', 'nu jazz']"
+Megalodon,Mastodon,False,1rLDTmI8quVUsGy9mzrXBx,41,262906,2004,https://i.scdn.co/image/ab67616d0000b27300388d66c87c2c0033849bfd,False,60,"['alternative metal', 'atlanta metal', 'metal', 'progressive groove metal', 'progressive sludge', 'sludge metal', 'stoner metal', 'stoner rock']"
+Telepathy/Ted Haggard Got Cured of the Gay,Joe Rogan,False,3myWaNZksZnt9SgAEWX9uW,18,179520,2010,https://i.scdn.co/image/ab67616d0000b2731d810b660b8e2a9ec18b3cfe,True,38,['deep comedy']
+Flamme & co,Les Ogres De Barback,False,4UWnxIBEJ1XVLDQIKJHwES,6,405613,2004,https://i.scdn.co/image/ab67616d0000b273702653334441fd813ea08738,False,43,"['french folk pop', 'french reggae', 'french rock']"
+Todo Lo Que Soy,Carlos Ponce,False,7xblkpSnIy5stXyVpHcqTW,8,221960,1999,https://i.scdn.co/image/ab67616d0000b273a7160cb480832881ed3431f0,False,57,"['latin pop', 'puerto rican pop']"
+Baby Don't You Change,Tyrone Wells,False,10UODHKRwS29xz5VpzZIPP,0,252693,2006,https://i.scdn.co/image/ab67616d0000b273029555be5290c83c1f5e1b3b,False,49,"['acoustic pop', 'neo mellow']"
+Dichoso,Willie Bobo,False,2v5Rbspjg3ZlC8Yg0uhOx9,10,196253,2003,https://i.scdn.co/image/ab67616d0000b273f2196cc31316fda0986c4697,False,43,"['afro-cuban percussion', 'boogaloo', 'latin jazz']"
+The Three-Dimensional Shadow,Scar Symmetry,False,5zaYEQmgngRKiLRjNG2Rxg,18,237840,2008,https://i.scdn.co/image/ab67616d0000b27390f5616f919333498358d1e5,False,43,"['melodic death metal', 'melodic groove metal', 'swedish melodeath', 'swedish metal']"
+Early In The Morning,B.B. King,False,3QP9B2esvPxLlbxaiNGQVK,29,287960,2005,https://i.scdn.co/image/ab67616d0000b273292095f19ce3f6e84a0688f4,False,64,"['blues', 'blues rock', 'classic rock', 'electric blues', 'jazz blues', 'soul', 'soul blues', 'traditional blues']"
+Sportin' Life,John Sebastian,False,2ydcXC2w5rmSjc3kWPpg2M,5,189506,1974,https://i.scdn.co/image/ab67616d0000b2734d24f099af3bc0a4768581d3,False,36,"['country rock', 'folk', 'folk rock', 'singer-songwriter', 'yacht rock']"
+Deviate From The Form,Scar Symmetry,False,17mh54ovFWLJQKgFnpRnSP,25,326608,2006,https://i.scdn.co/image/ab67616d0000b2738176975e647fcb4de883d8b3,False,43,"['melodic death metal', 'melodic groove metal', 'swedish melodeath', 'swedish metal']"
+The Door,Silverchair,False,58nHFSWj5N5JxNtWgS85TL,41,213133,1997,https://i.scdn.co/image/ab67616d0000b273f6e1df99ae6316a4badcce58,False,60,"['alternative metal', 'alternative rock', 'australian alternative rock', 'australian psych', 'australian rock', 'grunge', 'nu metal', 'post-grunge']"
+Better Luck Next Time,Lifehouse,False,7rikx0wMqTGAp6wqTL6gcB,27,215866,2005,https://i.scdn.co/image/ab67616d0000b273a35daeab41d7d6da14cc809c,False,66,"['neo mellow', 'pop rock', 'post-grunge']"
+Mambo Tipico,Tito Puente,False,6GFlOwT37bL5rTpQUHyp22,1,179266,2006,https://i.scdn.co/image/ab67616d0000b273bd908722ebfaddf84a2e9a66,False,34,['latin jazz']

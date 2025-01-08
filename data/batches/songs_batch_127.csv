@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Abu-Pia,Papa Wemba,False,092A2gpQVlcItHiXkGtvf2,13,409480,2009,https://i.scdn.co/image/ab67616d0000b273e56e0f4a7a50fec2888ab848,False,44,"['afropop', 'rumba congolaise', 'soukous', 'zilizopendwa']"
+El Gatito,Los Cumbieros Del Sur,False,0POsLMuWn29qJlUeFQcJWb,36,190906,2007,https://i.scdn.co/image/ab67616d0000b273f04415522e57de042e32f4a8,False,43,['musica costena']
+Superman,Unwritten Law,False,4gmC6fbDNBBHGo3a18NFfo,21,216826,1996,https://i.scdn.co/image/ab67616d0000b2736b32b5d40c471639424ee750,False,46,['skate punk']
+Little Things,Streetwize,False,5WOH4U7ZozwLKG7J7NE2oh,4,294066,2005,https://i.scdn.co/image/ab67616d0000b27344611980ef211aac886b1fe9,False,36,[]
+From Now Until Then,Marshall Crenshaw,False,7yB3XVqWAbuu7HEqupGsna,0,245933,2003,https://i.scdn.co/image/ab67616d0000b2730dea5828cd7188245f275595,False,0,[]
+Harmonia,Pitch Black,False,6SnRBTOjW0eDYnElFZAQWt,7,481258,2010,https://i.scdn.co/image/ab67616d0000b273a10b18b4b6a49781ec031f68,False,30,"['nz electronic', 'nz reggae', 'psychill']"
+Alfil_ Ella No Cambia Nada,Luis Alberto Spinetta,False,3OXhCCVe88Bn63dz4PgGHE,9,255000,1994,https://i.scdn.co/image/ab67616d0000b273354f52748eedcaf37b3ba2ce,False,60,"['argentine rock', 'post-punk argentina', 'rock nacional']"
+Eeshwar,Niraj Chag,False,5qOzQ22wti8uig6g25rzc1,2,110207,2007,https://i.scdn.co/image/ab67616d0000b27320167943de7e715c2e47b30d,False,29,['world fusion']
+Josephine,Chris Rea,False,6JFfOp1LTXnyDCTfHlOc9j,56,237560,1985,https://i.scdn.co/image/ab67616d0000b273ce4eb485b7c47c199ae70b4d,False,74,"['soft rock', 'sophisti-pop']"
+Don't Be Deceived,The Winans,False,3ngwiTYwhfv6rGZPTLLSOc,10,241533,1995,https://i.scdn.co/image/ab67616d0000b273f0432d31ea70e37e907682cd,False,39,['gospel']
+Love In Time,Esperanza Spalding / Leo Genovese,False,2SpVlyUps3AcbDkAMTRwQK,23,345573,2008,https://i.scdn.co/image/ab67616d0000b2733d0bdc59a47cf5b39a5d68a9,False,53,"['electric bass', 'jazz', 'jazz pop', 'vocal jazz']"
+Oversleeping,themselves,False,6hkmUm1u6XbJlXABQQDMTx,3,112906,2019,https://i.scdn.co/image/ab67616d0000b273a11f5d2b4b69a0e5f553b33e,True,18,['abstract hip hop']
+Let's Wrap Up,Roy Roberts,False,5m23lrVVIP7qe6sbGCXoGo,6,296130,2017,https://i.scdn.co/image/ab67616d0000b273c5ae873f1f0fab8136ec966c,False,4,[]
+We Three Kings,The Roches,False,2stlpR6UTNhbFbID2KTumu,28,329400,1990,https://i.scdn.co/image/ab67616d0000b273967938c942c2b62bea720667,False,41,['folk rock']
+The End. [Live In Mexico],My Chemical Romance,False,1HLuOVDTWAFNVmmDvyrwmi,31,154306,2008,https://i.scdn.co/image/ab67616d0000b273e059074baf87ec49b883e127,False,81,"['emo', 'modern rock', 'pop punk', 'pov: indie', 'rock']"
+Sleepy Man Blues,Bukka White,False,3etC2qfa8fMRYUNnvnKTg7,1,172120,2003,https://i.scdn.co/image/ab67616d0000b2730dea1709a29f35f0d4c6ffd4,False,32,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'traditional blues']"
+I Go to the Rock,The Rambos,False,2DvfzEHscXcr262GavhbAX,6,226280,1994,https://i.scdn.co/image/ab67616d0000b273ad484b023c2ca939fec3c3ef,False,20,"['family gospel', 'southern gospel']"
+Misty Blue,Billie Jo Spears,False,5rk0C63hfDYR72tOpMOJob,14,159760,1987,https://i.scdn.co/image/ab67616d0000b27372be65ee79f25602a032ca45,False,43,['classic country pop']
+Main Street Eyes,Iggy Pop,False,36zWd8MqxsuzxF9V4VV4ld,25,221493,1990,https://i.scdn.co/image/ab67616d0000b273f392793e1a8d61a44ecd4727,False,64,"['alternative rock', 'glam rock', 'permanent wave', 'protopunk', 'rock']"
+East to West,Starski and Clutch,False,0voDLvlZXgWINZGwFtfbsZ,11,291474,2001,https://i.scdn.co/image/ab67616d0000b273b8bab9a292e4257e9b8b6d38,False,12,['ghettotech']
+Can't Make You Love Me,Britney Spears,False,7pY6xLJqmezJNG7VwuKVSH,39,197186,2000,https://i.scdn.co/image/ab67616d0000b273c50b7d96737041f4bfd844d6,False,84,"['dance pop', 'pop']"
+Piracy,Tanya Chua,False,2VWDfpKFoEnor612FDsVNm,11,210866,2003,https://i.scdn.co/image/ab67616d0000b273f6db57992ac2db66de1a44d8,False,60,"['mandopop', 'singaporean mandopop', 'singaporean pop', 'singaporean singer-songwriter', 'taiwan singer-songwriter']"
+The Story Goes On,The Steeles,False,3NxMt9JREtteiyHhI5NYWi,0,261040,1988,https://i.scdn.co/image/ab67616d0000b2734bcb709018bb96f13e84b660,False,18,['family gospel']
+You Never Wash Up After Yourself (Live),Radiohead,False,2YdjFX6PdEMDGMqTM1IXPK,39,104440,1994,https://i.scdn.co/image/ab67616d0000b27394e9f3151ade1a3e37b060e0,False,85,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']"
+Tu Mejor Amigo,David Summers,False,1wtKz7tvOwlhag5Fjw2HTU,10,213253,2001,https://i.scdn.co/image/ab67616d0000b273d7887fd8ca1bb228ad07696d,False,49,[]
+Magali,Gloria Lasso,False,6gcI2pFGk9Gyn7TGQZlu0l,0,200600,2018,https://i.scdn.co/image/ab67616d0000b273e202384bee635b104a7e29e7,False,33,['cancion melodica']
+Here We Are,Dallas Holm,False,7JVasYtmxtMdzfQAR3kqTe,23,270000,1991,https://i.scdn.co/image/ab67616d0000b2735f8c349de0f375975f33b10c,False,28,['jesus movement']
+Guns And The Young,Mighty Mighty Bosstones,False,6IzptAMQYI3gIoODJT3Y7j,10,142733,1992,https://i.scdn.co/image/ab67616d0000b2731a6a51facf2a0fcec01f2018,False,54,"['boston punk', 'boston rock', 'punk', 'ska', 'ska punk', 'skate punk']"
+Jesus Loves Me (Now More Than Ever),Russ Taff,False,5ykrgXxIvBHr5AO7kRtqHI,0,158666,2007,https://i.scdn.co/image/ab67616d0000b27313e0d984b56fe6965e83c0d7,False,33,['deep christian rock']
+Me quedo sin ti,Julio Iglesias Jr.,False,4y3Z0J09P9w56YrBFDr8c3,0,244493,2003,https://i.scdn.co/image/ab67616d0000b27381b35919d840bdd8a0fdbeef,False,5,['spanish pop rock']
+Judgement Begins With The House Of God,STEVE CAMP,False,5cKfnJuYR4C1ZavSajTAW4,2,223422,1986,https://i.scdn.co/image/ab67616d0000b2738482118cbed3e679c4f00db7,False,29,"['christian music', 'deep christian rock']"
+Bonjour,Jacques Douai,False,3jofi82b4Ac9dIDi4zdQc0,0,42466,2008,https://i.scdn.co/image/ab67616d0000b27386cc577b944c9ea44087a1be,False,11,['vintage chanson']
+Lo Decidio,Orquesta Aragon,False,5mEqgdraQHnpSV5G24yoJs,3,160906,1958,https://i.scdn.co/image/ab67616d0000b273ab2e4e06aaabcd5f4a69da8a,False,44,"['bolero cubano', 'cha-cha-cha', 'charanga', 'danzon', 'latin jazz', 'mambo', 'musica tradicional cubana', 'salsa', 'son cubano clasico']"
+I got A Woman,Eddie Boyd,False,13kygLzzdqc3myjYxFewxR,0,291760,1995,https://i.scdn.co/image/ab67616d0000b27356de7926e66b7bc259718603,False,24,"['chicago blues', 'piano blues']"
+Vida De Mi Vida,Banda La Bocana,False,0N5qTofETElfJvRvpF3Mk6,70,184623,2024,https://i.scdn.co/image/ab67616d0000b273a96e0f1e5c4e01b7a9dc6255,False,81,"['gruperas inmortales', 'musica mexicana', 'nu-cumbia', 'ranchera', 'tropical']"
+Jam-Master Jammin',RUN-DMC,False,29gofni9hKJmMxlxiDSf2m,9,404013,1985,https://i.scdn.co/image/ab67616d0000b273c2a168906a5672f98a7b3b0f,False,68,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']"
+Medley: Safe To The Rock / Hiding In Thee,George Hamilton IV,False,2gToJgRMGxoDieCMG2K2PT,0,323173,2007,https://i.scdn.co/image/ab67616d0000b2732c9c5d16ecd7058450dc136d,False,36,['traditional country']
+The Carrying Arms,The Antlers,False,6tjptqPm268HIev9sa2ZFL,17,107480,2007,https://i.scdn.co/image/ab67616d0000b273301e1938dc24cb78ee08acc8,False,43,"['brooklyn indie', 'chamber pop', 'indie rock', 'melancholia']"
+We Blame Love,Heaven 17,False,6dq6mq6vVlM9RKMZsK5Yxe,0,231733,2014,https://i.scdn.co/image/ab67616d0000b273af644923afaf1e2edce57937,False,43,"['new romantic', 'new wave pop', 'sophisti-pop', 'synthpop']"
+Pills (Dub) (Dub),Cedric Gervais feat. Second Sun,False,0CIrejmm32Y6LQDwRqDkU7,0,392906,2006,https://i.scdn.co/image/ab67616d0000b27320369c664263bda04bebcf65,False,66,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']"
+Un Gran Vacio,Michael Salgado,False,2o6vwfPmcWRLjjVAQvXIrB,1,191346,2001,https://i.scdn.co/image/ab67616d0000b2736532f62249c230521fafa99a,False,44,"['norteno', 'tejano']"
+On The Wing,Owl City,False,3c13ucL6ziDiGD68rqoBNF,33,301213,2009,https://i.scdn.co/image/ab67616d0000b273785d4e702802da500fc78b32,False,70,"['indietronica', 'pop']"
+Yo Yo Man (Garter Belt),Tony Joe White,False,3nfuTQSwYvnrJ4VAt3KW8Y,20,332266,1995,https://i.scdn.co/image/ab67616d0000b273b826d57937cf2d0e15cc98a2,False,55,"['acoustic blues', 'louisiana blues', 'swamp blues', 'swamp pop', 'swamp rock']"
+Remember (The Beauty Of Simplicity Album Version),Telecast,False,1ZQJbNlWcNiPqcHQGAItLx,5,224906,2003,https://i.scdn.co/image/ab67616d0000b2733d7301993caf5418cbf76154,False,17,[]
+Murder In The Graveyard,Screaming Lord Sutch,False,1yFHVymVzxFc8nVbaLsSXA,16,182600,2015,https://i.scdn.co/image/ab67616d0000b2737401398491a0b7601279bfeb,False,21,[]
+The Door,Keb' Mo',False,6FQnk9vWnjk8fCkNubEeQB,15,236493,2000,https://i.scdn.co/image/ab67616d0000b273afc200a86d1c64f5782b8355,False,51,"['acoustic blues', 'blues', 'country blues', 'electric blues', 'modern blues', 'piedmont blues']"
+Automatic,Less Than Jake,False,6hxxNvnPcPZFUqQxtjHMG7,39,126360,1996,https://i.scdn.co/image/ab67616d0000b27392538da2322e8cb4760dbac9,True,54,"['modern ska punk', 'pop punk', 'punk', 'ska', 'ska punk', 'skate punk']"
+You're My First Lady,T.G. Sheppard,False,1tLH6DXWKd8YN1m26E3kXO,2,210280,2010,https://i.scdn.co/image/ab67616d0000b2735d8fe15f05497f69fb54c461,False,44,"['classic country pop', 'country', 'country rock']"
+I Don't Wanna be a War Hero,Anti-Flag,False,5M470IWa5Rk0yh77o2TK81,0,99000,2003,https://i.scdn.co/image/ab67616d0000b27375d06e1f88cf5abad26b25bb,False,51,"['punk', 'skate punk']"
+Nocturne For Piano No. 5 In B Flat Major_ Op. 37,David Jalbert,False,5T9s1gqvJOpQ2VSsqJ98TY,0,508026,2006,https://i.scdn.co/image/ab67616d0000b273340ef932c5ff867d9480c725,False,15,['canadian classical piano']

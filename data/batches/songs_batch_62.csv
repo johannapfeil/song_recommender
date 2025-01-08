@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Sapphire,Bill Douglas,False,5xUQPYboeM36AMZSkAiRqK,1,273973,1993,https://i.scdn.co/image/ab67616d0000b2735a7974db7e5b9ac59f30a1e2,False,42,['new age']
+Crescent Moon,Ancient Astronauts,False,5BvpI4XzgBtbLsi9DHy29k,8,330706,2009,https://i.scdn.co/image/ab67616d0000b273f1b4abbb01457ca3d1479e4a,False,43,['trip hop']
+La marine,Marc Perrone,False,6YY7Nju4qn9KoWC3cjJZF3,3,204106,2007,https://i.scdn.co/image/ab67616d0000b2736cc3a1960bc8420b045d1c5e,False,29,"['accordion', 'french folk']"
+Caray!,Gabinete Caligari,False,6ehg1ht0vKoGR8ldppNThP,18,183866,1984,https://i.scdn.co/image/ab67616d0000b27303e25546d8e218d474e65cbb,False,47,"['spanish new wave', 'spanish pop']"
+Radiance I,Basic Channel,False,5ffEUgoevg4EE2GngfbRVC,28,239599,1994,https://i.scdn.co/image/ab67616d0000b2731625f96455c5684cb20b396c,False,30,"['ambient dub', 'dub techno', 'german techno', 'intelligent dance music', 'microhouse', 'minimal techno', 'techno']"
+Brother,Steve Vai,False,5JHC79SgRaDL2dgwuTAKS1,16,304706,1996,https://i.scdn.co/image/ab67616d0000b273262e35f2455ae775e8eefbfa,False,52,"['instrumental rock', 'metal guitar', 'shred']"
+Evening,Vanessa Daou,False,5t4sCpGfhICILq7eORaa0o,10,220066,1996,https://i.scdn.co/image/ab67616d0000b27356d7ea32afe9e3d865143d2f,False,35,['downtempo']
+Decline Of the Western Civilization,Deathstar,False,6sScThmjicLHsANsA4C28Y,8,230520,2007,https://i.scdn.co/image/ab67616d0000b2732a0c591d845c3e5dab78cf53,False,23,['christian hardcore']
+What Is A Woman For? (BBC In Concert),The Edgar Broughton Band,False,5nfn80Ei6jPZ97O6kloKe6,0,589000,2010,https://i.scdn.co/image/ab67616d0000b2739a2eb69dce644624c9a8df74,False,24,"['acid rock', 'proto-metal', 'psychedelic blues-rock']"
+Cover To Cover,Wes King,False,7w6w4uBF54tlETmq3JsnbS,5,233400,1997,https://i.scdn.co/image/ab67616d0000b2731caf698540e35b02b097377e,False,20,['deep christian rock']
+What's The Matter With The Mill,Moon Mullican,False,251osjuyLvu2uRsKhlY5iL,2,157853,1976,https://i.scdn.co/image/ab67616d0000b27389d3107ba715dc4820a2afd5,False,17,"['country boogie', 'western swing']"
+Midnight,Joe Satriani,False,1ukRyVJ6HxDUeDrp9K9ak6,33,102680,1987,https://i.scdn.co/image/ab67616d0000b27373dd51cf8328c824f38919e6,False,54,"['instrumental rock', 'metal guitar', 'shred']"
+Hey!,Laidback Luke & Diplo,False,6fju423UdedU4FC5QuA4T8,8,307626,2009,https://i.scdn.co/image/ab67616d0000b27390bf4cd3720da566657076ff,False,58,"['big room', 'dutch edm', 'dutch house', 'edm', 'electro house', 'house', 'melbourne bounce', 'pop dance', 'progressive electro house', 'progressive house']"
+Civilized Reggae,Burning Spear,False,2jQ3PdDGSqlrQHSyABTe5r,19,347200,1979,https://i.scdn.co/image/ab67616d0000b2732fb77dedd1a52d3ba9945fc9,False,52,"['dub', 'reggae', 'roots reggae']"
+Macarena,Los Del Rio,False,6mhw2fEPH4fMF0wolNm96e,63,222626,2002,https://i.scdn.co/image/ab67616d0000b273b32c683cba9d35640c19ef21,False,60,['tropical']
+Mate Tron,Luke Vibert,False,1fFljnwTnZfGroa6jeTAYs,0,421013,2007,https://i.scdn.co/image/ab67616d0000b273bfa684443f5aa38b92f3b34a,False,35,"['acid house', 'drill and bass', 'intelligent dance music', 'trip hop']"
+Ladies And Gentlemen,Spiral Stairs,False,1DiP4sXUD3K8kN2oX9psWT,0,65567,2009,https://i.scdn.co/image/ab67616d0000b273862ca79e0c195fc23adbae4e,False,4,['lo-fi']
+Time Will Tell,Ice,False,2FtreteRfqu1qaDUGguZcg,21,286605,2022,https://i.scdn.co/image/ab67616d0000b2734252c4a9982570ad5771032c,False,41,"['afrobeat', 'jazz funk']"
+Arrows Of The Gods,Elliot Goldenthal,False,5n3QNevWcfObttKsDLLrRE,8,91733,2000,https://i.scdn.co/image/ab67616d0000b2734090d8e5b9ce542928252e66,False,34,[]
+Wonderful Peace,Dino,False,33ekQvqTr897ox6TPKmmhH,4,206960,1993,https://i.scdn.co/image/ab67616d0000b2735f132eda4b5ccaa02bcb33b1,False,28,['instrumental worship']
+Classic Material,Casual,False,6s6BdSAETJPmVBO232AU2n,0,188066,2003,https://i.scdn.co/image/ab67616d0000b273de059b936b73b2edb48802e6,False,32,"['alternative hip hop', 'turntablism']"
+Groovin' With Jimmy,Jimmy Burns,False,1COBp2CYFQPKgPX4mfxMtn,0,211746,2003,https://i.scdn.co/image/ab67616d0000b27303aa62cc931af4cf90526bb1,False,20,"['northern soul', 'soul blues']"
+Conqueror Worm,Tsar,False,1SYFFo2zJp3XE5wjvuuOkd,0,220360,2005,https://i.scdn.co/image/ab67616d0000b273f1090b6612242bac1b61f7f5,False,17,['modern power pop']
+White Christmas,Martin Sexton,False,4N15bdOLfIKPAU2uJhlewH,16,144306,2005,https://i.scdn.co/image/ab67616d0000b2736672212eaeccaebb33fd4564,False,34,['alternative americana']
+E,Rea_ Chris,False,07kHEKcyRksZGqAwL7dTSh,35,139946,2023,https://i.scdn.co/image/ab67616d0000b273380010415566303e65f8b972,False,75,"['classical tenor', 'italian tenor', 'operatic pop']"
+San Juan,Dave Valentin,False,2tuRDwLsgnS2uiqwCFAM85,5,262560,1996,https://i.scdn.co/image/ab67616d0000b273d2cc55744f4a14a60d3660d7,False,28,"['jazz flute', 'latin jazz']"
+Washed Away,Tom Cochrane,False,3wR6OMYNmu93lR1BAJx1KK,11,320560,1992,https://i.scdn.co/image/ab67616d0000b273a72e095ba0855a68b9290897,False,50,"['canadian singer-songwriter', 'classic canadian rock', 'mellow gold']"
+Voices,James Newton Howard,False,43FTtRFa7IbuxwgoUtK3cY,2,95800,2008,https://i.scdn.co/image/ab67616d0000b2738363adc8830b781de7f8fad8,False,65,"['orchestral soundtrack', 'soundtrack']"
+Song 2,Faith Yang,False,08U8RMXtqKjYrVP4ZFvgwV,2,134973,2009,https://i.scdn.co/image/ab67616d0000b273e194594d3602593d7024b32d,False,45,"['mandopop', 'taiwan pop', 'taiwan singer-songwriter']"
+Angel Of Heaven's Gate,Erik Berglund,False,0iXrBeIlJD0R7kBPrUDyw3,16,371866,1988,https://i.scdn.co/image/ab67616d0000b273a617e91ae6279262ca88249a,False,28,[]
+Backlash,Sonic Subjunkies,False,2r1snUU2CfucTSrBSCjlhl,0,238000,1998,https://i.scdn.co/image/ab67616d0000b2731b56d429cdc8d7d48c9f8924,False,4,"['breakcore', 'digital hardcore', 'german techno']"
+Sophisticated Lady,Toots Thielemans,False,1P4bE14IK7Dvfm3nfwkAN5,9,179933,1989,https://i.scdn.co/image/ab67616d0000b273851e02f0a279d619c391a9bd,False,47,"['belgian jazz', 'harmonica jazz']"
+Spacer,Ketty DB,False,5Ik5AMd9FrUBP3OAINfren,1,289573,2010,https://i.scdn.co/image/ab67616d0000b27368c180a3cd27f5efcdcdeb37,False,0,[]
+Watch Them,SOJA,False,1OOaZIrjQsUxtUxOqogyjx,16,297866,2000,https://i.scdn.co/image/ab67616d0000b27302f87e8a7ba81073a2ad136d,False,64,"['east coast reggae', 'reggae']"
+Pour toute la vie,Les Hou-Lops,False,67vR7IfrIwar8LLLYxNvp0,0,160083,2022,https://i.scdn.co/image/ab67616d0000b273ba8ef17fbef8194cc56b03f1,False,13,['chanson quebecois']
+Binaural Presentation - Focus On A Beam Emptied Of Thinking_ Outward...,Roger Reynolds,False,41V7y581gelLTFEvnMeKRs,0,842067,2004,https://i.scdn.co/image/ab67616d0000b273fd552914bef6f499a25739a6,False,2,['american contemporary classical']
+Morning's Coming,Jeff And Sheri Easter,False,4jXo6VKymybmroOlMVAahZ,9,185533,1999,https://i.scdn.co/image/ab67616d0000b2734c100baba63a97985c64c5a6,False,42,"['family gospel', 'southern gospel']"
+Asheville Turnaround,The Del McCoury Band,False,7sTvx8rvOHAqvveEXyrGCh,24,155226,2003,https://i.scdn.co/image/ab67616d0000b273539d7065be3b1a21922e6986,False,41,"['bluegrass', 'jam band', 'progressive bluegrass']"
+I Guess I'm Crazy,Jim Reeves,False,1eeayP7DLQpXsKZQbGp3DW,31,142560,1992,https://i.scdn.co/image/ab67616d0000b273d5d93fc5baf42b6f2c18793d,False,61,['nashville sound']
+U Complete Me (Blues Version - Bonus Track),Ana Popovic,False,6XjzrmPRdc0wlcsGn9z8Cf,3,322653,2007,https://i.scdn.co/image/ab67616d0000b273a05c5bf2d570258eaa72becf,False,45,['modern blues']
+La Nit De Reis,Gertrudis,False,0ogk3sl5mKyT8giS6FzZff,1,216026,2004,https://i.scdn.co/image/ab67616d0000b2736890f74954862c1b61c19819,False,37,"['indie catala', 'musica catalana', 'rock catala', 'rumba', 'rumba catalana']"
+Let Me Be Your Fantasy,Baby D,False,3x4skRSE10kW3hIpAQjtWY,52,231493,1992,https://i.scdn.co/image/ab67616d0000b273b822852fc410cc5379ada199,False,43,"['hardcore techno', 'hip house', 'uk garage']"
+Violence,Juelz Santana / Bezel,False,3ktv273dFi8DFz1jAtsAzX,15,254466,2005,https://i.scdn.co/image/ab67616d0000b273f163445f10aad2eeadc80bee,True,65,"['gangster rap', 'harlem hip hop', 'hip pop', 'nyc rap', 'pop rap', 'trap']"
+Cheddar Chasin',Lunasicc,False,1tMLQk1QoMjNnJRovSAO0O,3,304373,2000,https://i.scdn.co/image/ab67616d0000b273643e5d91d8e8033ee89e66a1,False,23,[]
+Cut Here,The Cure,False,1SuAd1VNCDpM2ovs1ic9tN,42,250653,2001,https://i.scdn.co/image/ab67616d0000b273041dc87f77396196f0f41c64,False,79,"['new wave', 'permanent wave', 'rock', 'uk post-punk']"
+Carovana,I Nuovi Angeli,False,5Ztfxk2AfNOFyjQjNkuwYr,4,228906,1994,https://i.scdn.co/image/ab67616d0000b2735ce657018af2d44203ae713e,False,37,['classic italian pop']
+Baby Face,Tiny Tim,False,0AIa4RNKucADvv2gVwgbrh,1,126760,2007,https://i.scdn.co/image/ab67616d0000b2738727dc95202c42ac2d5c70a2,False,47,"['novelty', 'outsider']"
+Stuck On Your Love,Emilio,False,2Uw6Ky2bw2sd5Hel6Xfflj,4,165040,1997,https://i.scdn.co/image/ab67616d0000b2736ae2088fccc4d7af0a7ecc3c,False,19,[]
+Secret,Eddie Turner,False,15QSaxHWTo0kT42ghFbAhp,0,254893,2006,https://i.scdn.co/image/ab67616d0000b2738212b4c8deff401347d8b66f,False,4,['power blues-rock']
+A Night in Tunisia,Art Blakey's Jazz Messengers,False,6DH9qxj2GJi0lU2Y5FDHky,31,676320,2004,https://i.scdn.co/image/ab67616d0000b273b571e015d3fafa30b50b5a3f,False,49,"['bebop', 'hard bop', 'jazz', 'jazz drums']"

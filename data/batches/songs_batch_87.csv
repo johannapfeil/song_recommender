@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+A New Heart,Michael Whalen,False,2aOup5o62pxs1dUpl5bpMn,1,317786,2004,https://i.scdn.co/image/ab67616d0000b273423cda1438a3a47e3bd0ba6c,False,30,[]
+See That Girl,Righteous Brothers,False,63GYPSzNsUdAROhzeferhG,27,192840,1965,https://i.scdn.co/image/ab67616d0000b273cd7530409d09802935c840f9,False,65,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'motown', 'rock-and-roll', 'rockabilly']"
+Members Only,Tyrone Taylor,False,2m85KGGHJO3lrLjtUONrJt,23,225786,1998,https://i.scdn.co/image/ab67616d0000b2736429f801fd60af8cb0284f7b,False,29,"['deep ragga', 'lovers rock']"
+Chasing Cars,Snow Patrol,False,5hnyJvgoWiQUYZttV4wXy6,79,267960,2006,https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f,False,71,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']"
+All I Ask Of You,Erik Berglund,False,2kJ2loHvyjHXTdCq3XhCHY,0,253040,2002,https://i.scdn.co/image/ab67616d0000b273874e781c6efa654017433187,False,28,[]
+King Kong,Shanadoo,False,4KN5geJTRuqrw3ryPo32hr,16,225146,2006,https://i.scdn.co/image/ab67616d0000b2737dbeabe4a75b137c28af69f9,False,15,['bubblegum dance']
+Theme III,Silent Stream Of Godless Elegy,False,6Bt474dttLjADXjIkvvYiQ,0,50106,2000,https://i.scdn.co/image/ab67616d0000b273de4b66672d748f4d97dcebc3,False,14,"['czech metal', 'folk metal', 'slavic folk metal']"
+Back To Burn,T-la Rock,False,3Lnv5TBGHzSwITXMVpEb1h,8,214986,1987,https://i.scdn.co/image/ab67616d0000b2734852f519fece25cb80315f61,False,25,"['bronx hip hop', 'east coast hip hop', 'old school hip hop']"
+Voodoo Chile Blues,Jimi Hendrix,False,2z34AUAlDL5ZVjZpCNqwD1,39,528133,1994,https://i.scdn.co/image/ab67616d0000b2731e3d153c8ecda03a495ca811,False,70,"['acid rock', 'album rock', 'alternative rock', 'classic rock', 'hard rock', 'proto-metal', 'psychedelic rock', 'rock']"
+Iron-head: Palestine,Asterisk*,False,5urIiYuVqdcRVbaM4tNq0j,1,41840,2003,https://i.scdn.co/image/ab67616d0000b27363ef9302b7c57fe830f1731a,False,9,"['mathgrind', 'technical grindcore', 'umea hardcore']"
+Sho' Enough,Tommy Castro,False,6viIrDTXljGbO2aIVs8xn4,10,240266,1996,https://i.scdn.co/image/ab67616d0000b2736201d48763ae85f283b2e6fc,False,42,"['electric blues', 'modern blues', 'soul blues']"
+Ingenting,Kent,False,1KJe9UbBelM1Jz0uZRPlhi,41,257746,2007,https://i.scdn.co/image/ab67616d0000b2734604ba67380d0397c42719f8,False,62,"['classic swedish pop', 'swedish alternative rock', 'swedish indie rock', 'swedish pop']"
+Grandma's Spending Christmas with the Superstars,Dr. Elmo,False,2tXfF3ewSCLThqgFbQ4KZx,37,185560,1992,https://i.scdn.co/image/ab67616d0000b273be21279ea3b7450344704f57,False,43,[]
+L'education du corps des porcs,Les Ogres De Barback,False,1X20kICXe4IpZm7uJbHT7O,3,287573,2001,https://i.scdn.co/image/ab67616d0000b27317cb50888a86fa06bbbdefa1,False,43,"['french folk pop', 'french reggae', 'french rock']"
+WHEN I AM YOU,Panzer AG,False,4II7Cwlrvgpd0yiJloNREy,3,305000,2006,https://i.scdn.co/image/ab67616d0000b27351c288e3f7e3b28c029f1019,True,15,"['aggrotech', 'ebm', 'electro-industrial', 'futurepop', 'industrial metal']"
+Until I Believe In My Soul,Dexys Midnight Runners,False,37muxUIi92J8ZGjPXc2JSn,17,426360,1982,https://i.scdn.co/image/ab67616d0000b2738bd8adbdc4727d9080240905,True,63,"['new romantic', 'new wave', 'new wave pop']"
+Angelito (Directo 09),Carlos Baute,False,6aroZjeSrim0i2Uibx8xXv,3,211453,2008,https://i.scdn.co/image/ab67616d0000b273fe0319e01baba982e3e46264,False,65,"['latin pop', 'spanish pop']"
+Ricky Ticky Toc,Eminem,False,27eOHLIdWzqzZawiRSEi9s,42,169586,2004,https://i.scdn.co/image/ab67616d0000b273726d48d93d02e1271774f023,True,93,"['detroit hip hop', 'hip hop', 'rap']"
+Hot Dental Supplies,Marga Gomez,False,0AUf4uMjPl8VH5UjedCxcY,0,95733,1998,https://i.scdn.co/image/ab67616d0000b27314f4a04489af6a29a9540a61,True,0,['comedienne']
+Come Monday,Barry Manilow,False,1yzWJYBjiU9jzYHQ6yJFK2,4,236000,2001,https://i.scdn.co/image/ab67616d0000b273d9e5d1e38c95d3769b5cca89,False,65,"['adult standards', 'mellow gold', 'soft rock', 'yacht rock']"
+Everyday,Rikk Agnew,False,55wVBc2NFD3ifuM7kOB0hP,10,270866,1982,https://i.scdn.co/image/ab67616d0000b27342dcd81a5fc450e88b3f79cc,False,12,"['deep hardcore punk', 'deep punk rock']"
+Mana Laina Chahida,Malkit Singh,False,4un5TvacNVVud8nZ1E5mjW,0,328150,2002,https://i.scdn.co/image/ab67616d0000b273a16742ed8ca1f41d9cdbefc1,False,45,"['bhangra', 'classic bhangra']"
+Old Hobo,Furry Lewis,False,53KxofEYid14nliZIgY3Kc,0,237693,2003,https://i.scdn.co/image/ab67616d0000b27368c230f2e5d21d19736fb6f7,False,26,"['country blues', 'memphis blues', 'traditional blues']"
+Moon Loop (Improvisation),Porcupine Tree,False,6SPlvJai5oxYKoiah92lpc,15,1041333,1995,https://i.scdn.co/image/ab67616d0000b27343c1c4a885898002d281d0c6,False,56,"['progressive metal', 'progressive rock']"
+Heidi,Frank Chacksfield,False,5sRUky5sMwn8nkZD3kF5KJ,4,152773,2020,https://i.scdn.co/image/ab67616d0000b273005e4d29cb8756f74b8ca4c8,False,35,"['easy listening', ""man's orchestra""]"
+Tel Que Tu Es,Charlotte Gainsbourg,False,3Ysc4pBFo6vebIhLhlKLI1,20,189706,2007,https://i.scdn.co/image/ab67616d0000b273fde48b3d73cf9caedc0d35a8,False,49,['art pop']
+Non Conformist Acclaimed,Agnes,False,5ZrwGT60UJ6yRsYiXW1784,0,358182,2005,https://i.scdn.co/image/ab67616d0000b2736307742739977b44f26b077b,False,8,['minimal tech house']
+El Ventilador,The Party Group,False,1RrYn4ajx1knu2vsmxF47t,0,190000,2007,https://i.scdn.co/image/ab67616d0000b273a2c7e840cf0dedb314d82940,False,5,[]
+He Has Risen (Communication Album Version),DeGarmo & Key,False,62KO14lQwGJxA2t9PySKJx,3,171705,1984,https://i.scdn.co/image/ab67616d0000b2735f8918507eb0baff1f96e6a7,False,28,['deep christian rock']
+I Just Need Your Lovin' - Original,Chris Farlowe,False,73thYQxhuMh27MkVKpsLMn,0,192250,2006,https://i.scdn.co/image/ab67616d0000b2738967a03d5fb62c446db20d70,False,29,"['british blues', 'british invasion']"
+Lord Of The Thighs,Aerosmith,False,2CVfNg22TjHfXXus4BXKZJ,39,254686,1974,https://i.scdn.co/image/ab67616d0000b273263ba11563649efef10f7642,False,77,"['album rock', 'classic rock', 'hard rock', 'rock']"
+This Is My Country,The Impressions,False,0jQ6JOVJqRb70yo1DFjeUC,19,168026,1968,https://i.scdn.co/image/ab67616d0000b2734d3d84faac7188a06e5c6aa0,False,49,"['chicago soul', 'classic soul', 'funk', 'quiet storm', 'soul']"
+Welcome To My World (Live),Tammy Wynette,False,6CYTT8y8W8CXoI67kFwGDi,4,79120,2019,https://i.scdn.co/image/ab67616d0000b273e6935b7a0b836db0fe94d0ca,False,55,"['country', 'country dawn', 'nashville sound']"
+Les Amours de Nathalie,Les Malpolis,False,6RyFG0sTUfcB2bCedZpruc,1,250346,2003,https://i.scdn.co/image/ab67616d0000b2735d037479e2b752cc04173829,False,7,['french folk pop']
+Imparable,Tommy Torres,False,0HliXx8B3ETokoNavhNqEM,41,222320,2008,https://i.scdn.co/image/ab67616d0000b273df33c3cc8734d4f969ec4119,False,59,"['latin pop', 'puerto rican pop']"
+Por La Calle Abajo,Los Chunguitos,False,3leXcSVbqxpwIa1zJCjj4p,34,160440,2000,https://i.scdn.co/image/ab67616d0000b2734b8d0fd93ab9127e20a1e84c,False,54,"['carnaval cadiz', 'pop flamenco', 'rumba', 'spanish pop']"
+Say How I Feel,Rhian Benson,False,2HkcalIlbYABTmEiCZyWlC,18,270493,2003,https://i.scdn.co/image/ab67616d0000b273e3adea2846d65e99a4f3086b,False,13,[]
+Cold In Hands Blues,Bessie Smith,False,7frhdcGQchsc20TVPn8DbP,0,192447,2014,https://i.scdn.co/image/ab67616d0000b273cfc44156e6f0d53b5df9e57a,False,40,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+Bucket's Got A Hole In It,Washboard Sam,False,6mBWikixSVyqM4V1hOtaJz,1,166191,1993,https://i.scdn.co/image/ab67616d0000b273d2b3f1c741a3e25693e116cc,False,10,"['chicago blues', 'traditional blues', 'washboard']"
+Tu Hi Tu Sada,DCS,False,6Dl2hOsYjMtjGzh1EpDeAs,0,305333,2001,https://i.scdn.co/image/ab67616d0000b273867280ea550b2a4f052b0c08,False,22,"['bhangra', 'classic bhangra']"
+Someone To Hold,Singing Melody,False,5lYLjnctYrCR58LatcL8V9,21,214906,2005,https://i.scdn.co/image/ab67616d0000b27360920a0d9aa6c0909d3ef0bc,False,42,"['deep ragga', 'lovers rock', 'old school dancehall', 'roots reggae']"
+Let's Blame The Lightman,GWAR,False,0UCJTz3OKt7ZFvnkORw8L6,11,189866,1997,https://i.scdn.co/image/ab67616d0000b273559a2100cc07f18cc5053450,False,45,"['comic metal', 'groove metal', 'industrial metal', 'nu metal', 'old school thrash', 'virginia metal', 'virginia punk']"
+He Will Lead His Children Home,Bill & Gloria Gaither,False,1zeqSwSd03a3TiSHCG2hG9,10,167213,2005,https://i.scdn.co/image/ab67616d0000b273f04c7a190952aa9bc65155ca,False,42,['southern gospel']
+My Heart Is Yearning,NOFX,False,6y51vG6SY1uqDssyUpxKDB,33,143640,1994,https://i.scdn.co/image/ab67616d0000b273b00c510f182b92234ca2b93d,True,61,"['punk', 'skate punk', 'socal pop punk']"
+Air: My Lagan Love,Willie Clancy,False,2XdfTQOUjh5reRLpvqtugX,1,166931,2010,https://i.scdn.co/image/ab67616d0000b273c550d35b1d0303a79dad2311,False,17,"['irish folk', 'uilleann pipes']"
+Viaje Al Averno,Gabinete Caligari,False,7tJcAFyA39X8ajbGOMu3cK,10,168426,2009,https://i.scdn.co/image/ab67616d0000b27375eed2ca4967d8534ed28507,False,47,"['spanish new wave', 'spanish pop']"
+The Burp Heard 'Round The World,James Newton Howard,False,26OiaQjhblncUk4GHDCysZ,2,110800,2010,https://i.scdn.co/image/ab67616d0000b273ac348a6537981917a4255edd,False,65,"['orchestral soundtrack', 'soundtrack']"
+Great Big Problem,FFH,False,7nYXeLCXe5qGoL3ooonLLs,1,264066,2005,https://i.scdn.co/image/ab67616d0000b27314d5d7e460c4507b260a943f,False,34,"['christian alternative rock', 'christian music']"
+Brown Girl,John D. Loudermilk,False,5ufOKZIPmTeuQ3ppK8rhaL,0,252693,1969,https://i.scdn.co/image/ab67616d0000b27302657084a93387327184fa93,False,25,['rock-and-roll']
+La Copa Grande,Pablo Montero,False,25P8owbxjBekOyhgRmCA1u,2,191266,2002,https://i.scdn.co/image/ab67616d0000b273e28e11e7b3c290d426f58a7b,False,45,"['latin pop', 'mariachi', 'ranchera']"

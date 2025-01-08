@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Endless Flight,Gustavo Santaolalla,False,5YBYdzcznzNTHCfQCArAD3,28,180918,2023,https://i.scdn.co/image/ab67616d0000b273ad6a5b940806f50ad230048e,False,21,[]
+Black Diamond,Taking Dawn,False,4Hl3jnwww1ZV5rFFF2WS1w,4,236793,2010,https://i.scdn.co/image/ab67616d0000b273a966d9ba9dad6898306abca6,False,26,[]
+It's Alright,Graham Central Station,False,0GvmH0lqTuNVDm3oYfiXDq,14,229266,1975,https://i.scdn.co/image/ab67616d0000b2736fe1576c855933f12bdea43f,False,23,[]
+Poem To A Horse,Shakira,False,3znoF3XEVQgg1ej2jV0QXw,40,246426,2001,https://i.scdn.co/image/ab67616d0000b2731f400a1f4d821b00824cf58f,False,88,"['colombian pop', 'dance pop', 'latin pop', 'pop']"
+Underlying Lies,Scott Matthews,False,1T4g3UHI2eYE58U8qIl9Lx,4,325506,2009,https://i.scdn.co/image/ab67616d0000b2733a1483d816858c28d0545911,False,33,['chamber pop']
+What If,Alex,False,146sthZp7wxxyWWcy25Us6,20,163286,2024,https://i.scdn.co/image/ab67616d0000b273f70cb1e2fa1aeedc710142e1,False,15,[]
+Our Sand,Vusi Mahlasela,False,4CwND8WQvv0YxIVHdZL4ha,0,360053,2006,https://i.scdn.co/image/ab67616d0000b273768665d8c143cb9654013f77,False,28,['south african jazz']
+Sweet Contradiction,Aaron Watson,False,7GbOWIBcoOKrRMEZJRjIiJ,6,257360,2008,https://i.scdn.co/image/ab67616d0000b273973d256880adb5d4ebc153b1,False,52,"['classic texas country', 'country road', 'red dirt', 'texas country']"
+666lb. Bongsession,Bongzilla,False,5eMlSZnu2tBUlPeNPNThnQ,25,475106,2002,https://i.scdn.co/image/ab67616d0000b2735bda5347e1f198285ecc69ac,True,34,"['doom metal', 'drone metal', 'sludge metal', 'stoner metal', 'stoner rock']"
+Sorrow's Call,Dave Eggar,False,2tSax040mQKGUEIOv5Byv5,5,237773,1998,https://i.scdn.co/image/ab67616d0000b273cbf9325d5d1f64e471103bfb,False,29,[]
+Vogue [Live],Madonna,False,4A6LUIzDhbu3A01agDT1yz,34,248440,2013,https://i.scdn.co/image/ab67616d0000b273185877648c3b294998ca3508,False,81,"['dance pop', 'pop']"
+Dysfunction,Liquid Soul,False,3tkoahMxuXb28d7JePGujU,5,286000,2000,https://i.scdn.co/image/ab67616d0000b2730c93bc4388b9b3102b8418cf,False,18,['instrumental funk']
+Once a Year,Beenie Man,False,3zp9uIsrKSonVX8DXKzhIZ,1,243201,2024,https://i.scdn.co/image/ab67616d0000b2736b37400bf5fc796e54460072,False,62,"['dancehall', 'jamaican dancehall', 'reggae fusion', 'soca']"
+Hesitate,MyKungFu,False,32Bc9icVTnp7iqhtYLul8l,0,210026,2009,https://i.scdn.co/image/ab67616d0000b27395597c79bd5e213e41955663,False,1,['swiss singer-songwriter']
+Why can't we live together,Sin Plomo feat. Boris G.,False,5kh3goOEQeEFitBNwHS0HZ,0,144390,2019,https://i.scdn.co/image/ab67616d0000b27373fc70f8c87468c6307fd2ed,False,10,[]
+Katie,Mary Black,False,4u10lVn7cliTtwPuT5QbL6,33,283600,2008,https://i.scdn.co/image/ab67616d0000b273663fda4165a0482e09ddd9dd,False,45,"['celtic', 'irish folk']"
+Drunken's Man's Dream,Suzy Thompson,False,1Nb5sIc3GTqI7Zl05DeLtm,0,196626,2005,https://i.scdn.co/image/ab67616d0000b2734853b5fd194a93103257de3e,False,4,[]
+No Sympathy For Fools,Behemoth,False,0Au2qzM8RcWTVlEKyeBUCM,25,229346,2002,https://i.scdn.co/image/ab67616d0000b27341c46797f6ac06ff61136836,False,52,"['black metal', 'death metal', 'groove metal', 'metal', 'pagan black metal', 'polish black metal', 'polish death metal', 'polish metal']"
+The Kingdom - Titles,Danny Elfman,False,4ll0Kq3AEkgy7vmz4fssxH,6,269746,2007,https://i.scdn.co/image/ab67616d0000b2737f0041e1279e42738385db97,False,66,"['orchestral soundtrack', 'soundtrack']"
+Ethiopian Serenade,Mystic Revelation of Rastafari,False,6hBfGcfScR9656W5oIDuNi,4,250983,2016,https://i.scdn.co/image/ab67616d0000b2732473a385c8a73035526195ed,False,19,['nyahbinghi']
+Latinas,Flora Purim,False,3OgZscF3VJrTYga6IOTxRx,8,222933,1977,https://i.scdn.co/image/ab67616d0000b273a8d1f33becd7e52c95b07dd5,False,28,['brazilian jazz']
+I Am Your Mother Too,Keb' Mo',False,0PiIIxkF572o6orLf1fc5I,8,242800,2001,https://i.scdn.co/image/ab67616d0000b273cb800c176e9e0af0bd95483c,False,51,"['acoustic blues', 'blues', 'country blues', 'electric blues', 'modern blues', 'piedmont blues']"
+Dangerous Dance,Dolores Keane,False,5Xh4G8D1meKLKC5s4YDv7e,8,252342,1997,https://i.scdn.co/image/ab67616d0000b27345af043852f0a9a127218336,False,39,"['celtic', 'irish folk']"
+Rock America,Danger Danger,False,5zR2SIo0RncU1PNNNbMzsu,35,292866,1989,https://i.scdn.co/image/ab67616d0000b2733633cfd870d7f544aff97f1d,False,43,['glam metal']
+Don't Panic,Coldplay,False,2QhURnm7mQDxBb5jWkbDug,68,136866,2000,https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a,False,92,"['permanent wave', 'pop']"
+My Soul Is Gonna Live With God,Josh White,False,32r9Msj5TubDmc5UIJH914,0,180466,2000,https://i.scdn.co/image/ab67616d0000b2734c74de1489a05573baf55621,False,8,[]
+Givin' My Love,Clay Crosse,False,5m9PRfbx6eUnAPvmGhB2S2,4,246733,1992,https://i.scdn.co/image/ab67616d0000b273b6038c9746be17392cd71a2d,False,28,"['christian alternative rock', 'christian music']"
+Where Is The Love?,Bobby Broom,False,2tx1UGgI9KzhYFLxDRAT5W,0,382973,2007,https://i.scdn.co/image/ab67616d0000b27380ba13686f70573cbd086185,False,19,['jazz guitar']
+The Same God,Carman featuring Commissioned & The Christ Church Choir,False,6wLxqOuD39Zv8FHoDTZ6IE,4,247133,1991,https://i.scdn.co/image/ab67616d0000b2730d2d35fdd38ffa1e1ecd7135,False,37,"['christian alternative rock', 'christian music', 'classic praise']"
+Ultra-Funk,Los Amigos Invisibles,False,08B50C0oIQUxSRHLOjR39T,19,218666,1998,https://i.scdn.co/image/ab67616d0000b27381d2e6c40d4a100aaac23c6d,False,61,"['latin afrobeat', 'latin alternative', 'latin funk', 'latin rock', 'rock en espanol', 'venezuelan indie', 'venezuelan rock']"
+Living Again,John Wesley Ryles,False,0r5TZiIo532kStE39qiQyp,0,183991,2020,https://i.scdn.co/image/ab67616d0000b2732a3964cae2f11bb91a7fc403,False,4,[]
+La Alegria Del Batallon,Alfredo Kraus,False,1bxuzdIaJw2dvTrZ4ZWd8V,0,159906,2014,https://i.scdn.co/image/ab67616d0000b273cda93bdc83c619b9e4e484e1,False,37,"['classical tenor', 'opera']"
+Kalanta,Despina Vandi,False,2t7UIzFUvdbNUVtQFHgimy,32,308240,2001,https://i.scdn.co/image/ab67616d0000b273bd8f5e5b8e4d3b2ca9ca962d,False,55,"['greek pop', 'laiko']"
+Nehi Mamma Blues,Frank Stokes,False,0AWTjcOZdbFNUAorTNr5XX,0,188693,1990,https://i.scdn.co/image/ab67616d0000b273945280334325880834121f0a,False,15,"['country blues', 'memphis blues', 'traditional blues']"
+Rappin' About Rappin' (Uh-Uh-Uh),Junie,False,358MNOjYfDdRnh6ejobeUi,7,242866,1981,https://i.scdn.co/image/ab67616d0000b273f8520fb03482f3188e8e4fc2,False,21,['p funk']
+Presenting The Eight Wonder Of The World,Max Steiner,False,1N8tSP7Uv40mFF59BGUDrA,0,24133,2007,https://i.scdn.co/image/ab67616d0000b2737d052193d99b1948d0aec298,False,35,['classic soundtrack']
+Smile,The London Pops Orchestra,False,6P1lxo90gpBMQGEt9mRpbO,6,219906,1997,https://i.scdn.co/image/ab67616d0000b273ac6d18a7286a1329cc12581c,False,38,['classic soundtrack']
+Fell In Love Today,Lee Michaels,False,3eFRgu5Ra0gx2LC3wVle5d,0,119120,1968,https://i.scdn.co/image/ab67616d0000b2730811591f1498ed5b72798ecd,False,30,['hammond organ']
+Voices Inside My Head,The Police,False,0Jvn32u7plWgz5YQk6OoSo,41,233253,1980,https://i.scdn.co/image/ab67616d0000b273fb1bc65edf4717e75fbc70ab,False,80,"['album rock', 'classic rock', 'permanent wave', 'rock']"
+In The Midst,Byron Cage featuring Tye Tribbett,False,1SIG3oKcfE9VKeARPNfuZw,12,240440,2009,https://i.scdn.co/image/ab67616d0000b273635546e0b9e1f7cda642d9f1,False,40,['gospel']
+Hidden Sun,Room 5,False,1XAeMLbWaFN8MzP7I1uAuw,11,402973,2003,https://i.scdn.co/image/ab67616d0000b2733e4e6be7009f5481671322e4,False,50,"['disco house', 'vocal house']"
+It's All Wrong_ But It's All Right,Dolly Parton,False,2hVA5ueg3MuftreNk9AkXe,28,201354,1977,https://i.scdn.co/image/ab67616d0000b273c12470f3f9af38f20ba4f2f1,False,77,"['classic country pop', 'country', 'country dawn']"
+You Turn Me,Vickie Winans,False,4ahk98XgajaGrGl6CMXZDY,2,349626,2008,https://i.scdn.co/image/ab67616d0000b273975ae8f14d92e936ed239573,False,33,['gospel']
+Sacred,Moonspell,False,4F74xFwU5gFkt2CRJ6ge9Y,10,313600,1997,https://i.scdn.co/image/ab67616d0000b273eae1208a6abda978d2c17e70,False,44,"['gothic black metal', 'gothic metal', 'melodic death metal', 'metal', 'portuguese black metal', 'portuguese metal', 'portuguese rock', 'power metal']"
+Rain Love,Al Denson,False,0IK8njOB3zrz5CzjfUbvRA,2,248373,1997,https://i.scdn.co/image/ab67616d0000b273dc1740f503dd1efdfd74b337,False,15,['deep christian rock']
+Nomades Monades,Frederic Galliano,False,0ZgspoLR4yCFlXhCnMgaza,1,1394706,1997,https://i.scdn.co/image/ab67616d0000b273385eda9fcb0d9fd0966bceb3,False,6,[]
+Mosquito Coil,Zeromancer,False,5oMnfxjeE8FpOBC6OelZ51,6,275813,2003,https://i.scdn.co/image/ab67616d0000b2734589e333afb27f7c94f758c6,False,35,['industrial metal']
+The Last Stand,Statues,False,1at5rZK1OkkZeO0nQKdyDO,1,127746,2007,https://i.scdn.co/image/ab67616d0000b273c46cbdd8618abb35d2846787,False,7,[]
+Hold On Tight,Lambda,False,6mV2vxirmUG8mXBvZB6amy,34,751644,1997,https://i.scdn.co/image/ab67616d0000b27383b7b93719ea0d4f5c37cb55,False,28,['bubble trance']
+I Never Know,Singing Melody,False,5ypfE3B9IorkCu4Fay3OQ0,0,231680,2006,https://i.scdn.co/image/ab67616d0000b273e171e217efdf10839c82d17c,False,42,"['deep ragga', 'lovers rock', 'old school dancehall', 'roots reggae']"

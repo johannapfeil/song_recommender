@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Enclosed_ One Broken Heart,Eddy Arnold,False,0CoFXvhDKVatCDdBZ9e22G,0,158533,2011,https://i.scdn.co/image/ab67616d0000b27308f46350ee2bd7a8fb8ff419,False,50,"['classic country pop', 'nashville sound', 'traditional country', 'yodeling']"
+Du Verstehst Mich Nicht,Andreas Dorau,False,08SCUrUR3fiuQIS8l0M0rA,1,318986,2020,https://i.scdn.co/image/ab67616d0000b273077cfac8afab3fcb4b424fdb,False,55,"['classical', 'german romanticism', 'post-romantic era']"
+Turn Me On,Johnny Osbourne,False,6kLQok30RotWrRS50kq1be,3,211800,1997,https://i.scdn.co/image/ab67616d0000b273dba751565149c2162df832fa,False,44,"['dub', 'lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Honor The Lord (He Holds The Keys Album Version),Steve Green,False,7lfUuPo9YkPPSdIreVyPfW,4,149293,1985,https://i.scdn.co/image/ab67616d0000b2739a5befc6ab8f1d82ef662923,False,48,['classic praise']
+Dicen Por Ahi,Enrique Iglesias,False,2YwN6flLpSpWm4mO25Q9Tw,27,228026,1998,https://i.scdn.co/image/ab67616d0000b273638e19ba914d1e74aa053d61,False,79,"['dance pop', 'latin pop', 'mexican pop']"
+Babylon,Judas Iscariot,False,6gk9ivrRwjZrv6MQhf5fw8,12,393840,1995,https://i.scdn.co/image/ab67616d0000b2731174d0a56094d3c682c0650a,False,29,"['black metal', 'usbm']"
+Le complexe de Sisyphe,Melatonin,False,020JyK9OsQN6KYHYMdq13c,0,233280,2010,https://i.scdn.co/image/ab67616d0000b273b4e2ab6c9d7d31d1c0008ffb,False,0,[]
+Jalousie,Andr\xc3\xa9 Verchuren,False,4fnImQF8UhoxlGejixtugQ,30,179880,2017,https://i.scdn.co/image/ab67616d0000b273d46bd7cfa437851c2eb13e86,False,72,"['basshall', 'pop urbaine', 'r&b francais']"
+We Will Stand,Russ Taff,False,2167rwWY1N0bUmSZQ522kL,25,278626,1983,https://i.scdn.co/image/ab67616d0000b273ed099088f1c53befb344d308,False,33,['deep christian rock']
+Indian Queen,Electric Light Orchestra,False,0UqJ6MI4b2oCiMopuhK9aS,5,57400,1972,https://i.scdn.co/image/ab67616d0000b27387a1388cadab1536efd3464b,False,73,"['album rock', 'art rock', 'beatlesque', 'classic rock', 'glam rock', 'mellow gold', 'rock', 'soft rock', 'symphonic rock']"
+Jenny Jenny,The Shirrows,False,2O7WVfQ2zlZw5bMG11iSWA,0,106040,1964,https://i.scdn.co/image/ab67616d0000b273e817b63645eae6dc083e6b68,False,0,[]
+How Old Are You,Loudon Wainwright III,False,2J3UNN9KV0xji9aPq9tue9,1,128666,1985,https://i.scdn.co/image/ab67616d0000b273c86d7b9913f5c80d9ec9de9c,False,45,"['folk', 'singer-songwriter']"
+Con La Tinta De Mi Sangre,Mazz,False,6axOAAVqIkqafBoLwtROfr,16,184133,1996,https://i.scdn.co/image/ab67616d0000b27349ba0fe8552d3931a60f0e9e,False,48,['tejano']
+Hillcrest Drive,The Del McCoury Band,False,7bRvIAcmJvBiLVcF1Jxorj,2,200200,2003,https://i.scdn.co/image/ab67616d0000b273539d7065be3b1a21922e6986,False,41,"['bluegrass', 'jam band', 'progressive bluegrass']"
+Descontrol,Daddy Yankee,False,42RRK0WSxwG117CEFHdGOY,62,172906,2010,https://i.scdn.co/image/ab67616d0000b273d55d06f510870ea67dccbb2e,False,88,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']"
+Genesis,Busta Rhymes,False,2n5iZW75RPN83Bdb5c9D93,28,236906,2001,https://i.scdn.co/image/ab67616d0000b273075418a1fafdfd7a455941dd,True,73,"['east coast hip hop', 'hardcore hip hop', 'hip hop', 'pop rap', 'rap']"
+Engine Skull,Cancer Bats,False,2d6AAquJRlsJPJ5IkK72tJ,0,161586,2009,https://i.scdn.co/image/ab67616d0000b273e81912ea973579faeae72d1c,False,37,"['canadian hardcore', 'canadian metal', 'canadian metalcore', 'canadian punk']"
+You Gotta Move,Mississippi Fred McDowell,False,2En6kxGCjZxXmKJ1IYu4Fp,42,200666,1989,https://i.scdn.co/image/ab67616d0000b273d002b4926c9ee7f6cf54290f,False,35,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'traditional blues', 'traditional southern folk']"
+Put It Off Until Tomorrow,Mae West,False,03FQx0YO7XgO5QPItSNNzH,0,149893,2007,https://i.scdn.co/image/ab67616d0000b2731c4866313e2a96d81da1f6a2,False,17,['vintage hollywood']
+Dream Of Ice,Dave Eggar,False,4snS3Bl4d6PGQDWwP0Ebjz,5,224525,2019,https://i.scdn.co/image/ab67616d0000b27341a96befbf3b3a22b7e15959,False,29,[]
+Soul Simplicity,Soulwax,False,1tOkdgGQnAOaTX563m0ejX,4,274733,1995,https://i.scdn.co/image/ab67616d0000b273cc5cf3fe12d1ab44f519bb40,False,50,"['alternative dance', 'belgian electronic', 'belgian indie', 'belgian indie rock', 'belgian rock', 'electronica', 'filter house', 'ghent indie', 'mashup']"
+El Sabor lo Pongo Yo,David Andreu,False,0xpcJmeLv7rohh8suIpg3k,0,250560,2009,https://i.scdn.co/image/ab67616d0000b273fa95c1582f9b5cf510f49b21,False,1,[]
+Livin' On The Edge,Aerosmith,False,6OZAcgTPxmjUTuiatU0Viq,57,381400,1994,https://i.scdn.co/image/ab67616d0000b273d5fdfcb083cb825348505a93,False,77,"['album rock', 'classic rock', 'hard rock', 'rock']"
+REALIZATION: REMORSE,This Is Hell,False,15kmfYa9vWHrUee7mGFF5C,3,106426,2008,https://i.scdn.co/image/ab67616d0000b273d1107e2a36456dfabfdbd532,False,17,"['chaotic hardcore', 'long island punk', 'melodic hardcore', 'nyhc']"
+Mary Had A Little Boy (Maestro Mix),SNAP!,False,7HiCu4QuBz4BSu3SJVHQF7,7,330743,2006,https://i.scdn.co/image/ab67616d0000b273cb5f62f8c54543a202783fdc,False,65,"['diva house', 'eurodance', 'german techno', 'hip house']"
+Come Around (Acoustic),Sister Hazel,False,4qmUsh58qV9sip8MqQbP7I,12,283493,2008,https://i.scdn.co/image/ab67616d0000b273d60d90097253a48da70c9fb8,False,51,"['neo mellow', 'pop rock', 'post-grunge']"
+Groundhog Day f/Cee-Lo Green & DJ Craze,Mayday,False,3cSTq3VdUKfxjS5rMhThEa,11,233840,2006,https://i.scdn.co/image/ab67616d0000b273a6d26691c08d57356d890b1b,True,47,['miami hip hop']
+Visitor,Donna The Buffalo,False,5vKCuW3MAw4Zu8qgnLuoGt,1,251600,1996,https://i.scdn.co/image/ab67616d0000b273e6ad5e799120b0bb4ce1d7a5,False,34,"['jam band', 'ny roots', 'progressive bluegrass']"
+Icicle Rain,Claire Hamill,False,0x2IRtSRwldsnoB0mrZwXh,4,315279,1986,https://i.scdn.co/image/ab67616d0000b2738ce7f558893793ec8e0b8c4f,False,11,['british folk']
+Non-Stop Floater,Marcelo Radulovich,False,4n7uIzJ84H9n3PaHGOApOn,0,267600,1996,https://i.scdn.co/image/ab67616d0000b273715aa0a7d8009a148cdde92a,False,4,[]
+The Strongest Wind That Blows,Shriekback,False,7uiOrjTAq6h3epAcGCdrc2,0,286093,2007,https://i.scdn.co/image/ab67616d0000b2739730f7ec950c5ba164fb1fb5,False,25,['deep new wave']
+Great Escape (Good Intentions),Bob Neuwirth,False,2g3kHSZesjQgvegvaLOTbO,0,312627,1998,https://i.scdn.co/image/ab67616d0000b273c5120deb0121638860826958,False,16,['alternative roots rock']
+Main Title/Animal Crackers,The Marx Brothers,False,3AM2gKekBbkECMAnu6oe3D,1,102146,2004,https://i.scdn.co/image/ab67616d0000b273072708e4628ffba67dc8057e,False,9,['drama']
+Ki An O Ageras Fisa,Nikos Xilouris,False,5iyuJu2b9ByOkt1S16SxeD,0,109800,1976,https://i.scdn.co/image/ab67616d0000b273090f7dd3f20402d8c84edc19,False,39,"['classic greek pop', 'entehno', 'kritika', 'neo kyma']"
+Ill Always Love You,The Tokens,False,5BfXW2iEvhT6tQaPPIYQex,0,139711,2020,https://i.scdn.co/image/ab67616d0000b273a9aa5389d1daec7de7c8d689,False,50,"['doo-wop', 'sunshine pop']"
+Ouroboros,Dax Riggs,False,5m8bgegupmaILNfaWvJMzy,18,100546,2007,https://i.scdn.co/image/ab67616d0000b2735f91f693a87e9fecc7903b37,False,36,['swamp rock']
+Still Ballin,Messy Marv featuring Clover Geez,False,3OeZ7Nwd03KLpXzqnRLPsB,18,285893,2005,https://i.scdn.co/image/ab67616d0000b273488046b6317152963ce6d4ec,True,41,"['cali rap', 'hyphy', 'oakland hip hop', 'west coast rap']"
+Running in Place,Walter Trout,False,1dytP0dequsu7ygaGjvXTA,4,325133,1992,https://i.scdn.co/image/ab67616d0000b2731b5f304414886811d95f435f,False,18,[]
+Not Going Back Again,Curtis,False,3ECl92ZA82qFEeIKngRGfm,0,209400,1998,https://i.scdn.co/image/ab67616d0000b273563682062b45fe23c12106f9,False,3,[]
+Infected,Bad Religion,False,16E7LWSzLLMPWYGNCwu7Sc,51,247600,1994,https://i.scdn.co/image/ab67616d0000b273bfd1236318a87ad06963ebed,False,63,"['punk', 'skate punk', 'socal pop punk']"
+Tara De dinicolo De Negura,Negura Bunget,False,1ioRKo8mSMSRzSutz1e4zG,3,354413,2010,https://i.scdn.co/image/ab67616d0000b273e5a744f8794a0797974020ba,False,18,"['atmospheric black metal', 'avant-garde metal', 'balkan folk metal', 'black metal', 'blackgaze', 'pagan black metal', 'romanian black metal', 'romanian metal', 'slavic metal']"
+Stora kusetus,Murskahumppa,False,4ikmlWreK2XoTnDpen1MKD,0,92680,2009,https://i.scdn.co/image/ab67616d0000b273c1e2cb1ff873665674891850,False,0,[]
+Les Playboys (Version Espagnole),Jacques Dutronc,False,1hoeTMhi1qnRKpjaNf7KNS,0,186253,2004,https://i.scdn.co/image/ab67616d0000b273610e36a3d77a58dfe9f763eb,False,51,"['chanson', 'ye ye']"
+Take Me With You,Marilyn Scott,False,1iXiyon0ZFOCyhV3dEGdsV,1,245640,1996,https://i.scdn.co/image/ab67616d0000b273ca9a4d4bc5a7998bb252516d,False,21,"['contemporary vocal jazz', 'deep soft rock']"
+Funk You,Babylon Disco,False,51RdQToI0CdHKSvf50bIci,0,153440,2005,https://i.scdn.co/image/ab67616d0000b2735081f9e194e5f5e5db83b71e,False,0,[]
+I'm A Lazy Sod (Live),Sex Pistols,False,1H3RbAxM1QrJntYSCSTNdm,2,129826,2008,https://i.scdn.co/image/ab67616d0000b273bee5c64cd30804a80e58503e,False,57,"['alternative rock', 'punk', 'rock']"
+...And He Loves It,The Kitchen,False,6NR3bcfVhOaNP6zmtXITiu,0,135853,2000,https://i.scdn.co/image/ab67616d0000b27396c473ade019bb0e778bea19,False,5,[]
+Don't Worry About It (Edited),N.E.R.D.,False,1tU3LYvzmUHd5OE4G6b4Gv,4,221480,2004,https://i.scdn.co/image/ab67616d0000b27353ffbec2f91ba22082e8d48a,False,58,"['hip hop', 'virginia hip hop']"
+Rock'n'Roll Heaven,The Refreshments,False,6nT0uwSXM72lgGg3gDDEdx,2,168440,2009,https://i.scdn.co/image/ab67616d0000b2738e5c47a7b5b9e95c0ed919e2,False,40,['dansband']
+Rescue Me,Fontella Bass,False,1GY8zOFi8rC39xXnD0tKO8,62,171026,1966,https://i.scdn.co/image/ab67616d0000b273754ec71bd163ad6b10873880,False,50,"['chicago soul', 'classic soul', 'rhythm and blues', 'soul']"

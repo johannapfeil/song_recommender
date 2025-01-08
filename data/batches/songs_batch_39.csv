@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Simon's Folly,Dharma Bums,False,4tdabOwjbLgLdobNIy3yKs,0,127906,2010,https://i.scdn.co/image/ab67616d0000b2737c75c4f55a74a45436e1906a,False,3,['underground grunge']
+In This Life,Cama,False,0ErkaqiXcfMrUf1TP08E52,0,210373,2008,https://i.scdn.co/image/ab67616d0000b2739ec82fb38e798f09baf307ac,False,3,[]
+Cowboy Ways,James Hunter,False,35SHRLon8xQlbR1FYVdSSb,0,186746,2023,https://i.scdn.co/image/ab67616d0000b2734133c8aa95ff1681517548be,False,0,[]
+The Emperor Falls,John Wesley,False,2dq9mEgzYTlz3GnZrkQM4Z,0,485000,1998,https://i.scdn.co/image/ab67616d0000b2734101db2759be169ab0050d8e,False,14,[]
+Setanta matins,Elena,False,1ZV1Ff9ebiB5pXpnC8Hfan,0,269573,2009,https://i.scdn.co/image/ab67616d0000b273ce40e5423c36b1b94a058426,False,3,[]
+Crazy Mixed Up World,Faye Adams,False,0Y1PUXMu94V2Wkn3ertE4s,0,152200,2021,https://i.scdn.co/image/ab67616d0000b2738e27217350897d9ce27546d8,False,18,['rhythm and blues']
+Superconfidential,Clp,False,2MQ9WXvvSysUgjVeEpZA0q,0,338454,2009,https://i.scdn.co/image/ab67616d0000b2739b78dbef8cb713bfae24a6ff,False,5,[]
+James (Hold The Ladder Steady),SUE THOMPSON,False,1N58xQLv5FZ6LgEfcxVByP,12,135160,2011,https://i.scdn.co/image/ab67616d0000b273e82eff0514f9b38a302c8c3f,False,37,['deep adult standards']
+It Makes No Difference Now,Billie Jo Spears,False,5782PuIXEr0LqRoESTXQRM,6,132896,2020,https://i.scdn.co/image/ab67616d0000b273ecae76ec66e4f20af78006eb,False,43,['classic country pop']
+Spanish Grease,Willie Bobo,False,4FOFC3YNvDgLesoVqRthZh,43,168733,1965,https://i.scdn.co/image/ab67616d0000b2730017515920bd365b8a63ef9a,False,43,"['afro-cuban percussion', 'boogaloo', 'latin jazz']"
+I Think My Wife Is Running Around On Me (Taco Hell),Tim Wilson,False,5C5ZC5iYJ00ZmTLmEdBCk3,1,186440,2005,https://i.scdn.co/image/ab67616d0000b2731a47740f5e9baaa9486297f0,False,27,[]
+Do You Finally Need A Friend,Terry Callier,False,6XP5Q2jIDdOjlEC2tswNvC,8,343520,1972,https://i.scdn.co/image/ab67616d0000b2731defb21f0caa73761e153818,False,45,[]
+Setting Fire to Sleeping Giants,The Dillinger Escape Plan,False,2ZyNYdziwt0ZS9mxRiwnXM,37,207773,2004,https://i.scdn.co/image/ab67616d0000b2734688955962b5e267448efb95,False,45,"['american metalcore', 'mathcore', 'new jersey hardcore', 'new jersey punk', 'post-hardcore']"
+Twist and Shout,The Shangri-Las,False,252vw1ZYNM5A6UJJRZLzTe,1,167173,2013,https://i.scdn.co/image/ab67616d0000b273c5a6089dcfab238e476c32d7,False,46,"['brill building pop', 'classic girl group', 'rock-and-roll']"
+Sabor Guajiro,Roberto Torres,False,0dBDAUnJn1IvPohFbZUniX,6,226666,1975,https://i.scdn.co/image/ab67616d0000b2735ed039be9d401a31c5d397b0,False,44,"['charanga', 'latin jazz', 'musica tradicional cubana', 'salsa']"
+Crossfire,Stevie Ray Vaughan,False,0jlLHrrb4aR9evd3ZwNs5I,48,248893,1989,https://i.scdn.co/image/ab67616d0000b273fb58ea8f6d1a6d3ac6ee9731,False,63,"['album rock', 'blues', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'instrumental rock', 'rock', 'texas blues']"
+Human Cannonball,Loudon Wainwright III,False,0lPdDLJLEaqiBfyh0qnjO3,3,190426,1995,https://i.scdn.co/image/ab67616d0000b27381bc372fa417acfbe303daf0,False,45,"['folk', 'singer-songwriter']"
+OUTE ENA EFHARISTO,Despina Vandi,False,0qHDXKI58TdkAGIJhgIpTc,18,303026,1999,https://i.scdn.co/image/ab67616d0000b273688bbf7acc918fcc965bbe3a,False,55,"['greek pop', 'laiko']"
+Spin,Scarlet's Remains,False,0zBNnqGC1OT87ShLOVuWzx,11,198733,2007,https://i.scdn.co/image/ab67616d0000b27345d6dc68d2c4121b6dfd757f,False,26,"['deathrock', 'gothic rock']"
+Burning In The Aftermath,The Suicide Machines,False,5C1dZf6gFgBo7m4SgQznjx,15,95853,2003,https://i.scdn.co/image/ab67616d0000b2737c19cad8f98aba02b630946d,False,45,"['punk', 'ska', 'ska punk', 'skate punk']"
+In A Subtle Way,Jacob Young,False,055muESTeShEPTRc1LS55R,0,459773,1997,https://i.scdn.co/image/ab67616d0000b273cc3431344a37704860cc7d45,False,21,"['ecm-style jazz', 'jazz guitar', 'norwegian jazz']"
+Human Being,The New York Dolls,False,2SMb9giEDzHeyFVA2FO1u8,23,344000,1974,https://i.scdn.co/image/ab67616d0000b273fcae243e8e39eef3f9c04423,False,43,"['early us punk', 'glam punk', 'glam rock', 'protopunk', 'punk']"
+The More I See You,Eliane Elias,False,1Fg2CbRUrIMx2G1XIB8NqX,29,251826,2008,https://i.scdn.co/image/ab67616d0000b27362949d9f6849ade22623ee72,False,48,"['bossa nova', 'brazilian modern jazz', 'contemporary vocal jazz', 'jazz pop', 'piano mpb', 'vocal jazz']"
+I Can't Be Satisfied,John Hammond,False,4orRKt7RWHaArfC6McKHcd,6,197146,2005,https://i.scdn.co/image/ab67616d0000b2733e454621bfe3b38e3671efc3,False,32,"['blues', 'country blues', 'traditional blues']"
+Nashville Parthenon,Casiotone For The Painfully Alone,False,2bGhSMe3u2qwSgETq0Kab3,23,175733,2007,https://i.scdn.co/image/ab67616d0000b273bb02842a107bf095ff549b1e,False,35,"['anti-folk', 'indietronica', 'lo-fi']"
+Certain Things We Do,Lost Boyz,False,343iM3EtxR7VG6ike05upP,8,269760,1997,https://i.scdn.co/image/ab67616d0000b27386ddf213f15246dd7495fd06,True,44,"['east coast hip hop', 'queens hip hop']"
+Cocain Ducks,Ec8or,False,5qqX3y9HHCDJOeSWe2Vkzy,10,217226,1995,https://i.scdn.co/image/ab67616d0000b2730f8146d4dfaff2cbf8f2220d,False,13,"['breakcore', 'digital hardcore']"
+Glory Be,R.L. Burnside,False,2XTHsWwgPQTziAjqn9OiGN,26,277773,2004,https://i.scdn.co/image/ab67616d0000b27398fa3b1585597aeedf06199e,False,45,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'traditional blues']"
+Myth Takes,!!!,False,55Vw3rz6kdvUpMwgcaCDio,31,143986,2007,https://i.scdn.co/image/ab67616d0000b2730273fa14effc59ee03dd4241,False,40,"['alternative dance', 'dance rock', 'dance-punk', 'neo-synthpop', 'new rave', 'sacramento indie']"
+Someone to Watch Over Me,Frank Chacksfield,False,3EFMaA61IY3sheaLH4kEqK,0,163527,2000,https://i.scdn.co/image/ab67616d0000b2733f2368369d1df93f4985432c,False,35,"['easy listening', ""man's orchestra""]"
+Just As Much As Ever,Bert Kaempfert And His Orchestra,False,1KAKW4uGKn1uHTpGACg1iC,1,160933,1968,https://i.scdn.co/image/ab67616d0000b273311490633ef7d10d9ddae21d,False,52,"['ballroom', 'easy listening']"
+Hard Times,RUN-DMC,False,0AEDeskXKRo2E0r7ISoMAy,34,232306,1984,https://i.scdn.co/image/ab67616d0000b2730c653d22500b21d83c6e2b82,False,68,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']"
+Filipino Baby,Hank Locklin,False,0AUVXB67LjeGG437EhS6eW,0,155977,2014,https://i.scdn.co/image/ab67616d0000b273fb83fce596608b69b836ea69,False,40,['nashville sound']
+The Boss,Lady May,False,5LlgvMflxAxK37mubMTvyy,0,214040,2010,https://i.scdn.co/image/ab67616d0000b273495b6ed3886980d12473afab,False,11,[]
+Escapist,Nightwish,False,66X2i4bMFJB9zGgff9gyzq,33,301853,2008,https://i.scdn.co/image/ab67616d0000b273a394ce36b4d05c5828a98398,False,68,"['fantasy metal', 'finnish metal', 'finnish power metal', 'gothic metal', 'gothic symphonic metal', 'opera metal', 'power metal', 'symphonic metal']"
+The Cube (Live),S.U.P,False,5V7klCbvIDlOixunyrZXGS,0,369173,2003,https://i.scdn.co/image/ab67616d0000b2738fcec48bee895819ab8b04df,False,6,[]
+Witch Weed (Live),Bongzilla,False,1qtitWm6np0Lg9koO1wvhy,6,396984,2000,https://i.scdn.co/image/ab67616d0000b27329480bc0adf865b8f2713f45,False,34,"['doom metal', 'drone metal', 'sludge metal', 'stoner metal', 'stoner rock']"
+(Bloody Paw On The) Kill Floor,Busdriver,False,1N32F6e5IboU0x9ynKb0M7,7,192120,2007,https://i.scdn.co/image/ab67616d0000b273250902f1f75f71242e7efcb3,True,39,"['abstract hip hop', 'alternative hip hop']"
+Rain And Snow,Pentangle,False,1odOeJgKbkb71D9L6F4k3n,15,228013,1971,https://i.scdn.co/image/ab67616d0000b273eda02adfb3e2aebc08b0f55a,False,35,"['british folk', 'folk rock', 'psychedelic folk']"
+Beyond the Light,Aberdeen,False,0YyjeRGMH3cUVoqHO4rDzC,0,266667,2000,https://i.scdn.co/image/ab67616d0000b273324c94e2c1230967efeda5f5,False,13,"['c86', 'tape club', 'twee pop']"
+Gerra De De,DJ Dips,False,3jop2VXhGmDXq4wmvdAZQX,33,238346,2009,https://i.scdn.co/image/ab67616d0000b27337591428dfd1cea13b8d8b8d,False,28,['bhangra']
+Inolvidable,Bebo & Cigala,False,6wWOgPDrLsbeXIwOEFufmg,43,200133,2014,https://i.scdn.co/image/ab67616d0000b27361cbfc5663516f4716b679e3,False,48,"['cha-cha-cha', 'jazz cubano', 'latin jazz', 'musica tradicional cubana']"
+Miracle,Bizarre Inc,False,0zu5eWzHfUXujd1Ea96XiC,0,420133,1996,https://i.scdn.co/image/ab67616d0000b273a1c7895e4622b26a63fd871b,False,37,"['classic house', 'diva house', 'hardcore techno', 'hip house']"
+Not Buried Deep Enough,The Gone Jackals,False,24pQRk3gcgGmJkmbqUYaa8,4,229800,1995,https://i.scdn.co/image/ab67616d0000b273b6724999d7335263d4becb74,False,16,[]
+U Killed It,Lily Allen,False,4I1Q1IuhmFAj23bXOdM9dJ,24,264851,2006,https://i.scdn.co/image/ab67616d0000b27327ff5787bb1d875c3199ba62,False,70,"['dance pop', 'electropop', 'neo mellow']"
+I Wish My Mother Was Here,Byther Smith,False,1h3czn1xJhPrliLoJbrAxZ,0,386440,2023,https://i.scdn.co/image/ab67616d0000b273c073575c626991e0a7ba7acf,False,33,"['blues', 'electric blues']"
+Voices On The Corner,Jason Miles,False,1TD3MS40gYhBs9hu0IEgpD,0,235760,2005,https://i.scdn.co/image/ab67616d0000b2738c1435899c0f93a77dc2f969,False,13,[]
+Give Me 40 Acres (To Turn This Rig Around),The Willis Brothers,False,24xMWnOl8SBi1eaixvR3lC,2,156960,2009,https://i.scdn.co/image/ab67616d0000b27389b0a2c5b52cdba5d2bce73a,False,30,['truck-driving country']
+Get Back Down,Boogie Pimps,False,7AmbrteLRZQNJFaFNTFv7b,0,415034,2010,https://i.scdn.co/image/ab67616d0000b273c153b4e5d5c6dbde1f9aafc7,False,34,[]
+Have Yourself A Merry Little Christmas,Hem,False,5Uvn257Wyxz47mJ5ntg8eL,29,133666,2007,https://i.scdn.co/image/ab67616d0000b273e5d8ea5ce89d52aa9a6521d8,False,38,"['ectofolk', 'lilith']"

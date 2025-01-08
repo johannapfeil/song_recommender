@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Dept. Of Youth,Pretty Boy Floyd,False,3lAEzKUKMJPZeRUJKiehjp,2,179480,1999,https://i.scdn.co/image/ab67616d0000b27354d9b6b58691db430cf73463,False,30,"['canadian metal', 'glam metal', 'sleaze rock']"
+Turntable Terrorist,Sonic Subjunkies,False,60jC4K58sTPIFJbkEQvj50,1,355706,1998,https://i.scdn.co/image/ab67616d0000b2731b56d429cdc8d7d48c9f8924,False,4,"['breakcore', 'digital hardcore', 'german techno']"
+PDA,Backstreet Boys,False,5t8OBe3jR3yQ7CQWusiFOx,27,228400,2009,https://i.scdn.co/image/ab67616d0000b2731c5da65d09721ebfbc778d15,False,78,"['boy band', 'dance pop', 'pop']"
+Porcelain Man,John Debney,False,7aHcPwKyWhb071v5kIz23t,2,77560,1999,https://i.scdn.co/image/ab67616d0000b273c691ec0234246ff2cebb4181,False,55,"['orchestral soundtrack', 'soundtrack']"
+Did You Ever Go Sailin',Isaacs,False,3jzlCBCldRnKZWx5INoc1v,1,194026,1999,https://i.scdn.co/image/ab67616d0000b2730026ad7943270f8c1f8aa922,False,40,"['bluegrass gospel', 'family gospel', 'southern gospel']"
+Vollmond,In Extremo,False,1b40eJC3YKoHfayUF2IWlT,44,239066,2001,https://i.scdn.co/image/ab67616d0000b273a8cb1d342e16b39f88b39fb9,False,53,"['folk metal', 'german metal', 'hurdy-gurdy', 'medieval rock', 'neue deutsche harte']"
+Moving Up,Gustavo Santaolalla,False,18JHrRy5j7hX1NAaToSW5B,4,95720,2010,https://i.scdn.co/image/ab67616d0000b273b35cdf30f5434db81cc81d40,False,66,"['argentine ambient', 'latin classical', 'latin soundtrack', 'orchestral soundtrack', 'soundtrack']"
+Give Your Heart a Home,Don Francisco,False,5YLoaJNtS9oeCoinDmbpRM,20,265546,1998,https://i.scdn.co/image/ab67616d0000b2733c6d010dc17a3a2ea3cd56f4,False,31,['jesus movement']
+Nobody's Perfect,Mike And The Mechanics,False,3d8uHVNYxhVFmY2llCoNyq,34,288960,1988,https://i.scdn.co/image/ab67616d0000b273875b64d1bb42e702179ea11b,False,59,"['album rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock']"
+Hao Lai Hao Qu,Alex Fong,False,5t39oYOFdMxSqeBRmSPMZ7,0,191982,2004,https://i.scdn.co/image/ab67616d0000b2736631d199a017f7e34a5080a1,False,44,['cantopop']
+Real McKoy Feat. Busy Signal,Mavado,False,0x50dstr4C54wbWTgI9NHD,18,211293,1900,https://i.scdn.co/image/ab67616d0000b273f31b6d66dffbddd4f894fa48,False,57,"['dancehall', 'jamaican dancehall', 'reggae fusion']"
+This Train (Munk Edit),Who Made Who,False,08DP1KnqQvvjKOZtmeqFp1,0,480954,2009,https://i.scdn.co/image/ab67616d0000b2731b434928a42de5336613710f,False,60,"['dance-punk', 'danish indie', 'electronica', 'experimental pop']"
+Knowledge Is King,Kool Moe Dee,False,1lUK4vRyELOO4NJyNh8Q5p,4,219773,1989,https://i.scdn.co/image/ab67616d0000b273355e395396ecd687a7307811,False,52,"['east coast hip hop', 'harlem hip hop', 'new jack swing', 'old school hip hop']"
+Decir Adios,Carlos Ponce,False,6reBDUywHDqzG83LVQHscL,35,269933,1998,https://i.scdn.co/image/ab67616d0000b273096be2cc5c7e64e9f4576bb6,False,57,"['latin pop', 'puerto rican pop']"
+I Remember,Patrick Lamb,False,39CUkYpNU9NFECW2c3ysbK,12,236538,2024,https://i.scdn.co/image/ab67616d0000b273353034de2258eb6f62b10a22,False,17,['smooth saxophone']
+The Last Round,Amoral,False,67equeoL2ZhQYuiImsEea0,1,520906,2004,https://i.scdn.co/image/ab67616d0000b2735626ed68e70a20cc4e7889a9,False,17,"['finnish death metal', 'finnish progressive metal']"
+When I Grow Up,Fever Ray,False,6i1jX7UaerEKuKCUGtvYGY,40,269640,2009,https://i.scdn.co/image/ab67616d0000b273e27b7fb8b8aeed9e76a6b67a,False,52,"['alternative dance', 'art pop', 'dark pop', 'electronica', 'neo-synthpop', 'swedish electropop', 'swedish synth', 'swedish synthpop']"
+Somos Gitanos,Gipsy Kings,False,2k1eUZCV0Fw7bV5TQyKqzA,23,220933,2001,https://i.scdn.co/image/ab67616d0000b273097eba0e2e438ca390cc354c,False,68,"['flamenco', 'rumba', 'world']"
+Luv,Stan,False,17SzIc4UfF43ocOAuxUdUU,0,135953,2022,https://i.scdn.co/image/ab67616d0000b27350b830ffd27a24b6bef82fef,False,0,[]
+Let Me Go Home Whiskey,Asleep At The Wheel,False,3WphM04Z51fiK0CbHuUNeT,6,255160,1975,https://i.scdn.co/image/ab67616d0000b273f8d46e789c3e2fbfa48f2921,False,42,['classic texas country']
+Magdalaine,L.A. Guns,False,09mCZcm3gXwXLmKQtDMnZF,18,368547,1989,https://i.scdn.co/image/ab67616d0000b2733e881843da7e3c3e58998feb,False,46,"['glam metal', 'hard rock', 'sleaze rock']"
+Gaviota Traidora,Flor Silvestre,False,65DppNriLfxOOM5eCSaKm3,40,162272,1991,https://i.scdn.co/image/ab67616d0000b27312b1c13bbd1429ca5adc51a1,False,47,"['mariachi', 'ranchera']"
+Sweet & Dandy,Toots & The Maytals,False,4TGfQRisk1rx5P3SRj79sk,32,187506,1984,https://i.scdn.co/image/ab67616d0000b273eec2dd05c356e8082b490b48,False,57,"['reggae', 'roots reggae', 'ska']"
+Better,Vivian,False,1JGvBglLhh5wmEIUBytVDK,6,251333,2010,https://i.scdn.co/image/ab67616d0000b273932c1e62e5c1f818be4d3ce3,False,41,"['contemporary r&b', 'neo soul', 'r&b', 'urban contemporary']"
+Wichita Cathedral [live],Butthole Surfers,False,0htIBLLAh2g5IW8plk9cwI,5,165386,2003,https://i.scdn.co/image/ab67616d0000b273f4b6c1e1c75ec90fa83c859c,False,53,"['alternative rock', 'experimental rock', 'grunge', 'noise rock', 'psychedelic punk', 'punk']"
+Piece Of My Heart,Janis Joplin,False,1xKQbqQtQWrtQS47fUJBtl,64,253333,1968,https://i.scdn.co/image/ab67616d0000b2731ba5ee8bc24979ce3eee4797,False,55,"['blues rock', 'folk rock', 'psychedelic rock']"
+Si Yo Tuviera,Los Brujos,False,0MXGGke5oGuJGoulVkn84f,6,36546,1993,https://i.scdn.co/image/ab67616d0000b273bbc3e793a26791d6dafad6f7,False,29,"['argentine punk', 'argentine rock', 'rock nacional']"
+Merzwaltz,Atom,False,2LYmsEfzzZti2JEE5KgExf,0,331893,2013,https://i.scdn.co/image/ab67616d0000b2730f65a25ed9b1c0ad04c9052f,False,7,[]
+Hot Night Downtown,Charlie Peacock,False,2Tygna4fz9QR6PhFxGNo8J,0,203600,1991,https://i.scdn.co/image/ab67616d0000b273d407a9f9686f2bca66952023,False,35,['deep christian rock']
+No More Blues,Jimmy Wyble,False,4Q3Q4GcJnrIga3wAqAysXz,0,180906,2014,https://i.scdn.co/image/ab67616d0000b273f209e771dd4f81391811b391,False,10,[]
+Tootie Blues,Paul Geremia,False,63Xf0BoqfXEv8uY7ZsaCsk,0,205666,2005,https://i.scdn.co/image/ab67616d0000b27307d7c48feef7b77f2d447c68,False,6,['piedmont blues']
+II Allegro,Varios,False,5QNODcpGx0lUqGU1CUDNac,0,153906,2018,https://i.scdn.co/image/ab67616d0000b27314cc9f68ced2ab300c60a0d1,False,71,"['baroque', 'classical', 'early music', 'english baroque', 'german baroque']"
+Insanity,S.U.P,False,2LaAWr0FMmBetuzrqMoAnp,0,370626,2008,https://i.scdn.co/image/ab67616d0000b27309ada0f522bbe7c7d44150df,True,6,[]
+Mr. Bozack,EPMD,False,4Ia8dklxpmGfGo8hTTN3I8,8,159213,1990,https://i.scdn.co/image/ab67616d0000b2735f983d126b377e1dafcf5a2e,False,50,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop']"
+Time Will Crawl (Extended Dance Mix),David Bowie,False,0XkOT9wz2okDUjOJ4mLbxm,4,369560,1987,https://i.scdn.co/image/ab67616d0000b273c20d24c2b5f874884fa2aa02,False,79,"['art rock', 'classic rock', 'glam rock', 'permanent wave', 'rock']"
+Porn,Whitney Cummings,False,6dILmFIWIi5rUZLuzK4pQd,9,78945,2013,https://i.scdn.co/image/ab67616d0000b27371b5c93bb760a1c9febb39f7,True,27,"['comedienne', 'comedy']"
+Razamataz,Bruce BecVar,False,0tNkWma2cpox8xG954UpLo,2,228666,1994,https://i.scdn.co/image/ab67616d0000b27345d64048f4393e433aa119f5,False,25,['new age']
+Celebration,Vivian,False,1vYIr3o3mpssy9fmoHxSUq,0,182640,2009,https://i.scdn.co/image/ab67616d0000b273b9cc281aa629302903864dc8,False,1,[]
+Gone But Not Forgotten,The Del McCoury Band,False,6MmKXcArHSt6yetGBKwBPW,6,190879,2007,https://i.scdn.co/image/ab67616d0000b2732e2cbbd025e61e4e34739382,False,41,"['bluegrass', 'jam band', 'progressive bluegrass']"
+Why Don't You Spend The Night,Ronnie Milsap,False,3O5WcJapaaqnIiQZWpryDU,34,253066,1980,https://i.scdn.co/image/ab67616d0000b273ed42998de249e964c8eeefc3,False,58,"['classic country pop', 'country', 'country road', 'country rock', 'nashville sound']"
+Thank You Mama,The Jackson Southernaires,False,4U2oHiCun5zNORNDQ07rMx,1,249000,1990,https://i.scdn.co/image/ab67616d0000b2734684ef95dd4204e53e7b6046,False,28,['praise']
+The Ultimate,The Roots,False,43uq2bBjLeeZCgU3FVMIyG,13,237533,1999,https://i.scdn.co/image/ab67616d0000b27363773c96d277a0c17fb93238,True,62,"['conscious hip hop', 'east coast hip hop', 'hip hop', 'philly rap', 'political hip hop']"
+In Place Of Love [edit],Terminal 11 feat. b.b0Nd,False,5c8qhTUcBVMUpUAEEH8lyA,0,114840,2005,https://i.scdn.co/image/ab67616d0000b273b7ae6a34821fdcb68637ebe8,False,0,[]
+Sangre americana,Bacilos,False,7BfBIgfrIrSgHRyjoSUOcq,16,229320,2004,https://i.scdn.co/image/ab67616d0000b273cbf29d4f89935f6a27894bb8,False,68,"['colombian pop', 'latin alternative', 'latin pop', 'rock en espanol']"
+Hip Hug Her,Jimmy McGriff,False,1hvtzQOn8iIPnYBW0IM7Dw,0,272560,2003,https://i.scdn.co/image/ab67616d0000b2736ab5bca35b77dc790a7afdec,False,37,"['hammond organ', 'jazz funk', 'jazz organ', 'soul jazz']"
+Sabina,Sam Fan Thomas,False,4JAS9Ik7zdw2oWppTTBcDq,16,428429,1983,https://i.scdn.co/image/ab67616d0000b2739ea5468b3881ea02890d3849,False,23,"['makossa', 'zilizopendwa']"
+Grin'in In Ya Face,Smidi Beats,False,5MLdeUHSK09SyDInhmCmGx,0,189000,2022,https://i.scdn.co/image/ab67616d0000b2737d4804f758e40d7df60c2f16,False,2,[]
+I'm Going Around In Circles,Jimmy Witherspoon,False,0GmxT1oTWEOg2YoAUR1lwW,0,194333,2008,https://i.scdn.co/image/ab67616d0000b27340f1b4e594d27cf48528193b,False,33,"['blues', 'jazz blues', 'jump blues']"
+Stranger In My Room,Year Long Disaster,False,3l4NrzeIAfYnb9vAcMLzAK,3,222053,2010,https://i.scdn.co/image/ab67616d0000b273e8c48047e3c8286ca5ec4f29,False,21,['alternative roots rock']
+Are We Mindless?,Headhunter,False,0SPseAVuX7a1lm2LvcPp2F,0,285320,2020,https://i.scdn.co/image/ab67616d0000b2735cfb60c8f8e178a46d6461b4,False,4,['power thrash']

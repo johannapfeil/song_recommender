@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+We're Out Of Gas,Alan Silvestri,False,7wWwip5z9CQfwcGsqPVOax,11,77573,1990,https://i.scdn.co/image/ab67616d0000b27339f5fb9120dd23d57b3c27ce,False,61,"['orchestral soundtrack', 'soundtrack']"
+The World In My Hands (We Are One),SNAP!,False,3RWPtFoB4HByOS7cKOPKKn,15,314977,1994,https://i.scdn.co/image/ab67616d0000b27392215b3ed86d652474241c68,False,65,"['diva house', 'eurodance', 'german techno', 'hip house']"
+Superstar,For Squirrels,False,4xe5TjpTN1ixFiD6Pu7H6l,8,200066,1995,https://i.scdn.co/image/ab67616d0000b273bb13941b376d3408bd90dc50,False,16,['gainesville indie']
+Dirty Old Man,Len Barry,False,5SlRl7E0DKGbtscl8Ip0LJ,0,294053,2009,https://i.scdn.co/image/ab67616d0000b2734c20dad859b9485b6df62370,False,27,['philly soul']
+La Sitiera,Barbarito Diez,False,7nFk5etqrezn6JCIWsQiSY,0,175866,2011,https://i.scdn.co/image/ab67616d0000b273624b947f6579407a2cd0125d,False,32,"['bolero cubano', 'musica tradicional cubana']"
+When A Man's In Love,The Chieftains,False,6ES3ihvRu5mMwIbTMDwhZ3,4,217000,1979,https://i.scdn.co/image/ab67616d0000b2735a7a1354d94a72bcd13d2242,False,53,"['celtic', 'irish folk']"
+Scelxenak,Orthrelm,False,6N3HX2aicvL9AS7Od3HUMf,1,72080,2002,https://i.scdn.co/image/ab67616d0000b2730aa219ae6a42d0944c9586b3,False,3,"['avant-garde metal', 'brutal prog']"
+Serenata,Orquesta Romantica de La Habana,False,1ueqemeMKuXGDQVXmsUek9,6,200760,2008,https://i.scdn.co/image/ab67616d0000b273982bfd937dce42af972bdc1a,False,47,['romantico']
+You Don't See Into The Blues Like Me,Lonnie Johnson,False,5Nh89JU4COilQU25HnX8mG,0,164072,1991,https://i.scdn.co/image/ab67616d0000b2737eab21a6d0d1dace91f573b0,False,31,"['acoustic blues', 'blues', 'country blues', 'jazz blues', 'louisiana blues', 'memphis blues', 'new orleans blues', 'traditional blues']"
+Gross Throw-up Burp (Sonnerie_ Ringtone),Blingtones,False,6822PzBPFyeKMCDiOHBTcd,0,15020,2009,https://i.scdn.co/image/ab67616d0000b273d094c3a876c65aab06903966,False,0,['ringtone']
+Speak Low,Charlie Byrd,False,5Hpkc2zcPrVCyngCAU6cMI,13,223066,1997,https://i.scdn.co/image/ab67616d0000b27317dc282a64aff348f00881af,False,48,"['bossa nova', 'jazz guitar']"
+Dj,Markscheider Kunst,False,5FOa3yH36HZgtXDlp6ctGz,2,240848,2010,https://i.scdn.co/image/ab67616d0000b273891a8db6664e4b30a01ba0ae,False,16,['russian ska']
+I'm Hot,Erick Sermon,False,4evK7IRrUwfqtX9y2ZEvm7,23,228400,2001,https://i.scdn.co/image/ab67616d0000b2737276e48a634ae645c8a169b8,True,50,"['hardcore hip hop', 'hip hop']"
+Me Lo Dijo Adela,Tito Rodriguez,False,0c7XOT0xHogL6oekwOjjTF,15,176000,2012,https://i.scdn.co/image/ab67616d0000b27319f9521b48681c275c486a50,False,43,"['charanga', 'latin jazz', 'mambo', 'salsa', 'salsa puertorriquena']"
+The Way,Saigon Kick,False,3F3n2V9XBrtb1omqLfcNPe,49,264173,1992,https://i.scdn.co/image/ab67616d0000b273def72c14cd4931b35ff88df9,False,39,['glam metal']
+The Way You Do The Things You Do,Jerry Butler,False,4TY7ZowSIGpXuPDi4pKhIv,7,149957,2010,https://i.scdn.co/image/ab67616d0000b2732d01005d68574e2ec360834b,False,42,"['chicago soul', 'classic soul', 'doo-wop', 'rhythm and blues', 'southern soul']"
+Exception To The Rule,Dann Huff,False,1r1wcFUycV57agD6eg52iO,11,147893,2000,https://i.scdn.co/image/ab67616d0000b273f4ec866ca02505986cfb789c,False,16,[]
+Touch My Body,Mariah Carey,False,2aEuXA1KswHlCGPOuPmCOW,71,204733,2008,https://i.scdn.co/image/ab67616d0000b273633bb0a5f75b91c45c3a6b37,False,88,"['dance pop', 'pop', 'urban contemporary']"
+She's All I Ever Had,Ricky Martin,False,4Bza6algEDbY8yrm8qMeg7,39,295333,1999,https://i.scdn.co/image/ab67616d0000b273e7e9b85cc1f021ec12130d80,False,74,"['latin pop', 'mexican pop', 'puerto rican pop']"
+Sensemilla,Mighty Diamonds,False,6iJtcc20bD6spIF3lt48dF,6,253533,1988,https://i.scdn.co/image/ab67616d0000b2733fee4ab9f96cca44e6f5c5ca,False,40,"['dub', 'lovers rock', 'reggae', 'roots reggae']"
+But Not For Me,Frank Vignola,False,6IU6QQq17yWBsmkeVvzSwb,1,234453,2007,https://i.scdn.co/image/ab67616d0000b273c9545165111b7294c34ca8a6,False,26,"['gypsy jazz', 'jazz guitar']"
+Girl Nation [Live],D.A.D.,False,6sXTyaHGzzHXvu4vSPvk7W,2,259933,1990,https://i.scdn.co/image/ab67616d0000b273864d81acd8a1028ae59a8980,False,50,"['danish alternative rock', 'danish rock']"
+Hey Sexy Lady,Shaggy / Brian & Tony Gold,False,4u8IPU322yG7mNrqv89GGL,65,199893,2002,https://i.scdn.co/image/ab67616d0000b2739791e400bf42ca4130a11ae9,False,74,"['dance pop', 'pop rap', 'reggae fusion']"
+What To Do,Alias,False,0hzq6c3ejgYdkaXakvFU4i,7,257906,1990,https://i.scdn.co/image/ab67616d0000b273aa342118c75cf890db12b3c7,False,38,[]
+RAMUKA,Tri Atma,False,3q47t94aETcFPrxq7Str1m,0,325000,2006,https://i.scdn.co/image/ab67616d0000b27356e3c3ae349520d029e4ea28,False,4,['raga rock']
+You Know It's True,The Cat's Miaow,False,1ZG9Pjq4JHvWVUUWwtNBNA,24,137273,2022,https://i.scdn.co/image/ab67616d0000b2734585deade44385cb7b0b9bc5,False,35,['tape club']
+Edo Pou Ta Leme,Angela Dimitriou,False,4Nas6zkiJ3QS3L84riWFyU,18,165080,1999,https://i.scdn.co/image/ab67616d0000b273882481de49abcf9f0f4c22b2,False,39,"['greek pop', 'laiko']"
+All Burned Out,Savoy Brown,False,6ElIpxmz19mT8MBvRAiZiK,1,171626,1989,https://i.scdn.co/image/ab67616d0000b27337876ec4eaed2735a3262dba,False,40,"['blues rock', 'british blues']"
+The Kangaroo Theory,Edelweiss,False,0vxwbWKm3txWuU7TtKy80p,1,201440,1992,https://i.scdn.co/image/ab67616d0000b273b2ad5f050bc85761319ca756,False,23,[]
+More,The Crystal Method,False,33OS65zxO1EiIFPQk0q5E5,21,359573,1996,https://i.scdn.co/image/ab67616d0000b2736bd011295bd24de02b9dcf6f,False,50,"['big beat', 'breakbeat', 'electronica']"
+John the Revelator,Blind Willie Johnson,False,6L7TWfy2jqYdrpoatl2oFn,28,196373,1928,https://i.scdn.co/image/ab67616d0000b273ca26ce52fd1ac32db22ecacc,False,36,"['acoustic blues', 'blues', 'country blues', 'gospel blues', 'texas blues', 'traditional blues']"
+Venite Pa' Maracaibo,Guaco,False,32R0HBReWvcp2MZOCscgRH,45,265334,2000,https://i.scdn.co/image/ab67616d0000b2736f696c76961fc5ba911ee652,False,60,"['classic venezuelan pop', 'gaita zuliana', 'salsa venezolana', 'venezuelan rock']"
+N.Y. Electric / Hunter Interlude,Aesop Rock,False,5dfssLsyYd3JXwhYuatoVF,15,310800,2003,https://i.scdn.co/image/ab67616d0000b273c38772c47944be541c699fb6,False,57,"['abstract hip hop', 'alternative hip hop', 'conscious hip hop']"
+In My Arms (Live Auditorio Nacional 08),Aleks Syntek,False,60yQfMMpwtvrfSucXoGJyg,5,224085,2009,https://i.scdn.co/image/ab67616d0000b2732ae7f62aa4ba78e325a90d6a,False,66,"['latin arena pop', 'latin pop', 'mexican pop']"
+Chi Chi Man,T.O.K.,False,7vA8V8LAKcqlm8BWUNTeFM,42,232306,2016,https://i.scdn.co/image/ab67616d0000b273feef6eb9e2d2e134a7ff1c5c,False,71,['schlager']
+Moonlight Serenade,Klaus Badelt,False,7LaVbnMUBnpzWmYDdZ5Y0j,38,128638,2003,https://i.scdn.co/image/ab67616d0000b27397de5f41f1bda315d128e086,False,66,"['german soundtrack', 'orchestral soundtrack', 'soundtrack']"
+Kinky Woman,Jimmie Vaughan,False,5sGBCreGmQQBhp5d6iTS3B,16,207106,1998,https://i.scdn.co/image/ab67616d0000b2732d3888ba2dd8a511a6e87ea5,False,48,"['blues', 'blues rock', 'electric blues', 'modern blues', 'soul blues', 'southern rock', 'texas blues', 'traditional blues']"
+Intro. (The Plan Album Version),Raze,False,7h6tUzOjF2kGl42xJTlUWC,0,25826,2000,https://i.scdn.co/image/ab67616d0000b2739b8937bc6f85bc9aa4eafcd3,False,10,[]
+It's The Three Of Us Left,Rustless,False,6OqYteX0ujNLW3YkxckSG6,0,119706,2008,https://i.scdn.co/image/ab67616d0000b273b6c4e4000aafb5735cb483a9,False,0,[]
+Monologue With the Sky,Havok,False,5ZM2RFsfe22GGL6O6kxfe2,0,238080,2009,https://i.scdn.co/image/ab67616d0000b273a80883d10dce0691f14a0bf3,False,0,[]
+1900's Madness #1,Ennio Morricone,False,4QM6LBU0Tq6PcBBy03PwGr,19,134373,1998,https://i.scdn.co/image/ab67616d0000b273b03cdbbce28f82e5ba64f548,False,68,"['classic soundtrack', 'italian soundtrack', 'orchestral soundtrack', 'vintage italian soundtrack']"
+After I Made Love To You,BMX Bandits,False,3dvCp9Bmaben3lo9X05ayL,2,208426,2007,https://i.scdn.co/image/ab67616d0000b27392c24e7f01d7f99dbc2332ce,False,18,"['c86', 'scottish indie', 'scottish new wave', 'scottish rock', 'tape club']"
+Corre_ Corre (Keep On Running),Los Salvajes,False,4DFd4hf1jOCT2DbnkxgsC2,0,229133,2004,https://i.scdn.co/image/7fb7b8549ad6ee0e0075a7cfd8c7810a37942d1a,False,26,['spanish invasion']
+Love Like This,Natasha Bedingfield,False,49ppqF73rOz5Nyt1paRxIF,56,222293,2007,https://i.scdn.co/image/ab67616d0000b273861f87fea3ad0f7b23453780,False,75,"['dance pop', 'pop', 'post-teen pop']"
+Freed From Desire (Alternate Mix),Flame,False,6OWYoB8btRY5HuRk0YGQbk,20,259386,2006,https://i.scdn.co/image/ab67616d0000b273157deef5212f57387596aa9a,False,10,[]
+Shifter,Timo Maas featuring MC Chikaboo,False,75ezKaQXcv7RVhrCpuRMSD,30,335093,2002,https://i.scdn.co/image/ab67616d0000b2732d988e0d5b92facb4a1097db,False,43,"['big beat', 'breakbeat', 'classic progressive house', 'nu skool breaks', 'tribal house']"
+Fried Neck Bones And Some Home Fries,Santana,False,5181ReeEhP7WnG8rN9FW2u,21,461026,1969,https://i.scdn.co/image/ab67616d0000b273c894463d06b775f87d57361b,False,72,"['blues rock', 'classic rock', 'mexican classic rock']"
+Thriller,Fall Out Boy,False,07kBp5VuebubsozpQd3nyK,48,209720,2007,https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d,False,81,"['emo', 'modern rock', 'pop', 'rock']"
+1000 Of Years Ago,Namatjira,False,2skxsw7q8QiqRIVT3TuR7C,2,567850,2007,https://i.scdn.co/image/ab67616d0000b2739a01a195feab9befd5581a91,False,17,[]
+Getto Boys,Jack Orsen feat. Fumanschu_ Justus,False,2lR57vcjnPE80CHaym1wdh,2,211320,2004,https://i.scdn.co/image/ab67616d0000b273cb3bd3f01bfb59bba503f7d2,True,17,[]

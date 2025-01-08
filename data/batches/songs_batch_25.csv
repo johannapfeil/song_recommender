@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+A Baby's Born,James Ingram,False,3ZGMdDtGTOHzdGaDhabbuQ,24,376693,1993,https://i.scdn.co/image/ab67616d0000b27304374f1a06ec86f4d0a3703b,False,61,['quiet storm']
+Look Up At The Stars And You're Gone,Evergreen Terrace,False,4bTEaYqzb4XPjCOtYTSpV5,2,159480,2001,https://i.scdn.co/image/ab67616d0000b273f92e2e0495de2ebeea43a4dc,False,36,"['melodic metalcore', 'metalcore']"
+Cerilene,Sister Hazel,False,3M834O9COKhnRqTZ30Tzyn,13,332866,1997,https://i.scdn.co/image/ab67616d0000b273ec9714658411bb44e6bbf798,False,51,"['neo mellow', 'pop rock', 'post-grunge']"
+Faces,RUN-DMC,False,23kqbnvhwNRVkKyYMTR7nF,11,267733,1990,https://i.scdn.co/image/ab67616d0000b273dafc665e5199dadbf07d2109,True,68,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']"
+How Does It Feel,Avril Lavigne,False,7vTCIwHvCT3zMmtYBo0uff,44,224933,2004,https://i.scdn.co/image/ab67616d0000b2739c291af4bf0c3071847f2b80,False,78,"['canadian pop', 'candy pop', 'dance pop', 'pop']"
+Do It To Me,Sasha,False,37kgHlkT7xNsBNq0TXPo5T,1,183160,2000,https://i.scdn.co/image/ab67616d0000b273dd44e03c47443958da3b709f,False,52,[]
+Let Me Play With Yo' YoYo,Blind Willie McTell,False,4QvwnJh7NDAP7zOAKpIQ66,0,188200,2007,https://i.scdn.co/image/ab67616d0000b273c76699d07c7d31f2978d47c4,False,32,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'piedmont blues', 'traditional blues']"
+It Makes No Difference,Jimmie Davis,False,74koA2TNVRtYw695i9PURF,17,142293,1995,https://i.scdn.co/image/ab67616d0000b2730422c0193743f38daf9654ef,False,24,"['country gospel', 'traditional country', 'western swing']"
+Hummingbird,Leon Russell,False,7H6ndWy2sgvk6IIEdBnJpp,34,241093,1997,https://i.scdn.co/image/ab67616d0000b27388633ebf0f4bebca731881bc,False,48,"['blues rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'outlaw country', 'piano rock', 'roots rock', 'singer-songwriter', 'southern rock', 'swamp rock']"
+Much Against Everyone'S Advice (Dave Bascombe Radio Mix),Soulwax,False,7eKs3UB3sQy3OGZAUeDEi2,8,171426,2000,https://i.scdn.co/image/ab67616d0000b2736d88dfd47f86173cb633e860,False,50,"['alternative dance', 'belgian electronic', 'belgian indie', 'belgian indie rock', 'belgian rock', 'electronica', 'filter house', 'ghent indie', 'mashup']"
+Thirteen [Live at Lafayette's Music Room_ Memphis_ TN_ January 1973],Big Star,False,1iBXecIxZoMr2C3y2ukf2j,2,181266,2009,https://i.scdn.co/image/ab67616d0000b2734c48e4c24a0f5c10ade07ed3,False,46,"['alternative rock', 'baroque pop', 'beatlesque', 'jangle pop', 'melancholia', 'power pop']"
+Where Do We Go Now But Nowhere,Nick Cave & The Bad Seeds,False,1qhodKcmnyABCLUU301FXO,35,346066,1997,https://i.scdn.co/image/ab67616d0000b27388f436c4a60e459f793f7b74,True,66,"['alternative rock', 'permanent wave', 'singer-songwriter']"
+Juliet,The Four Pennies,False,0DSdbz0U4leo7OUCRcHIVz,15,143426,2006,https://i.scdn.co/image/ab67616d0000b27371adece731a17f856d0f4b9a,False,19,['british invasion']
+Broken Radio,Jesse Malin,False,5xk4DuC1A2dvIfnxY1ymrm,30,221852,2022,https://i.scdn.co/image/ab67616d0000b273bff6b1723355f5b377353012,False,39,['alternative country']
+Amazing Grace,Bill Murk,False,2PHq5YySZGVIseYaInACoz,0,219103,2005,https://i.scdn.co/image/ab67616d0000b27312a8acc55938325f64d11332,False,0,[]
+Sonho (Dream),Nando Lauria,False,3p0uTBZJYhF8vNc1husA1v,11,351000,1993,https://i.scdn.co/image/ab67616d0000b27322919523c124a44f465ce4bc,False,17,[]
+Flight To Jordan,Tito Puente,False,6VWtVJ4lD0K1VVB2vJOWTs,2,356346,2002,https://i.scdn.co/image/ab67616d0000b27325607bdfbc344200bfc26619,False,50,"['afro-cuban percussion', 'jazz puertorriqueno', 'latin jazz', 'mambo', 'musica tradicional cubana', 'salsa']"
+Street Loafin' Woman,Jimmy McCracklin,False,68I8f8oCcKxm6EjFk3L7XF,0,179493,2015,https://i.scdn.co/image/ab67616d0000b2735c3531d70aea7bca6c991b2d,False,19,"['jump blues', 'piano blues', 'rhythm and blues', 'soul blues', 'southern soul']"
+Mother Of Greed,Jason & The Scorchers,False,12RqKBOscGTSrcqaY7ZWWG,1,252506,2010,https://i.scdn.co/image/ab67616d0000b27363c26c733cca576c13950ebc,False,26,"['alternative country', 'cowpunk', 'roots rock']"
+I Was Blind But Now I See,Greater Vision,False,0n6ekopvIr7EZxbG2kVwH6,5,187893,2004,https://i.scdn.co/image/ab67616d0000b273c0de1b1df0e0e941d998523b,False,33,['southern gospel']
+The Wrapper,Marco Beltrami,False,6s17xjj2kLaAPpoCYoNloS,0,172706,2009,https://i.scdn.co/image/ab67616d0000b273c205a4f8135414da137fdf40,False,47,"['orchestral soundtrack', 'soundtrack']"
+Tule illoin,Fredi,False,01jvVeKyFPlcQXiJ016MH6,0,181359,1997,https://i.scdn.co/image/ab67616d0000b2730d9446f6eb40cff6222d4d13,False,30,"['classic finnish pop', 'classic iskelma']"
+Ready For The Love,Angela Stewart,False,1uvyHjvggtX92kXamvdZKV,1,211280,2007,https://i.scdn.co/image/ab67616d0000b2738fe35776c5302ad4522a5da6,False,1,[]
+Guardian Angel,Since The Flood,False,6bE5l08gqDgnz5DapK5VeP,1,195133,2008,https://i.scdn.co/image/ab67616d0000b273af16c750fd0ff23ed3a76503,False,8,['beatdown']
+Class Compromise (&History's Glory),The Business,False,3Eb7DHk4nLUJBYKHKmaEFo,6,142600,2023,https://i.scdn.co/image/ab67616d0000b273cbfa277a99c749e8752326e2,False,35,"['oi', 'punk', ""punk 'n' roll""]"
+Why Do You Have to Go,Dells,False,5JXspcqA8RLKdVrzDpCG0n,0,155960,1954,https://i.scdn.co/image/ab67616d0000b273d7b77f168df60d714a1fe749,False,40,"['chicago soul', 'classic soul', 'disco', 'funk', 'quiet storm', 'soul', 'southern soul']"
+Once,Del Horno,False,4JIeMP9sopPbViamEPihnb,0,395520,2013,https://i.scdn.co/image/ab67616d0000b27337b6db84e93b21cec9c3094b,False,4,[]
+Same Old Song And Dance,Aerosmith,False,37Ptnxxd7WXAaCfWXxcElU,50,233567,1974,https://i.scdn.co/image/ab67616d0000b273263ba11563649efef10f7642,False,77,"['album rock', 'classic rock', 'hard rock', 'rock']"
+Best Kept Secret,Dons,False,3PT5qYXVwB16uBfMeJaPp2,0,240160,2006,https://i.scdn.co/image/ab67616d0000b273797689b21b049e1b53279a68,False,42,['latvian pop']
+Tanguero,Laurindo Almeida / Charlie Byrd,False,778sJu5GPCEfc36g1nGxBP,0,232666,1985,https://i.scdn.co/image/ab67616d0000b273d7e39bfb014a364f19c24999,False,52,"['bossa nova', 'brazilian jazz', 'jazz guitar', 'violao', 'violao classico']"
+Freestyle Ministry (server Verbals),KRS-One,False,1xOsVLI1Fp6TQcyXFpDb7M,3,136960,2004,https://i.scdn.co/image/ab67616d0000b273a7cd2040855740c9afeb1b6f,False,55,"['bronx hip hop', 'conscious hip hop', 'east coast hip hop', 'golden age hip hop', 'hardcore hip hop', 'hip hop', 'old school hip hop', 'political hip hop']"
+Moving On,Constance Demby,False,6v6kZrlx5MNzyRyh9Oxw0q,4,285760,1989,https://i.scdn.co/image/ab67616d0000b273ef544d0b1b667d08b9df9bdc,False,30,"['healing', 'new age']"
+To My Victim's Families,Birds of Prey,False,3k23Tvs1uAiHmfxd2X8LN0,0,162493,2008,https://i.scdn.co/image/ab67616d0000b273cf44073272a0efc415c91089,False,3,['virginia metal']
+Love Is An Uphill Climb  (),David Robertson,False,4C84ll8sYcrGcrLF6rzMJr,0,285000,1996,https://i.scdn.co/image/ab67616d0000b273138cf3c062b7a97880a97d93,False,24,[]
+He Dreams Of Spaceships,Lorna,False,4rxXI9Q9v3nFqsF8mF5KXC,1,273346,2006,https://i.scdn.co/image/ab67616d0000b273cf5b443da02d8532abe17397,False,3,[]
+Stuck On Rewind,Rockit,False,4WYfoaNxH0OEcT114PXfDR,0,219613,2007,https://i.scdn.co/image/ab67616d0000b273c59da8d77c8b9c3b722ddc6f,False,1,[]
+Juncales,Juan Carmona,False,0zK0jdhwWDlPoL4WH15JPj,0,370320,2002,https://i.scdn.co/image/ab67616d0000b273bcd21a1a2f8f0d53b434f8da,False,18,"['flamenco', 'flamenco guitar']"
+Open your Eyes,Call To Preserve,False,53ss1LxdMraJfubdTQWMAE,0,199866,2008,https://i.scdn.co/image/ab67616d0000b273d97a200a8f342ebf3a239be3,False,6,[]
+Corner Story,Del The Funky Homosapien,False,6O4zEx1kzm32mXlUIOthSw,36,242866,1998,https://i.scdn.co/image/ab67616d0000b273aafc8647846661b4d4f14749,True,54,"['alternative hip hop', 'hip hop', 'oakland hip hop']"
+3 Deuces,Marcus Miller,False,5OdL6yus1xszwAYdbl8QRn,20,349626,2001,https://i.scdn.co/image/ab67616d0000b273a73c7b5df259f062571e7380,False,50,"['electric bass', 'instrumental funk', 'jazz funk', 'jazz fusion']"
+Ta Min Vals (Take This Waltz),Ebba Forsberg,False,3fUgLmFQy2xkJpHyYWS8kX,22,372600,2009,https://i.scdn.co/image/ab67616d0000b273587cff01386f663773ed2104,False,30,['swedish singer-songwriter']
+So Lonely,The Police,False,2wnsBaxrmkthIFAm6vqCuX,64,289586,1978,https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436,False,80,"['album rock', 'classic rock', 'permanent wave', 'rock']"
+Sin Ti,Anthony Cruz,False,4EA9XkQAm5nsKYdvOCxxA6,11,325000,1993,https://i.scdn.co/image/ab67616d0000b273c7f38d77d7daa3d22d8100e3,False,38,['salsa']
+Mo lanmou,Patrick Saint-Eloi,False,3hBqFoj9VLEdPEIPk6TmVt,3,200880,2007,https://i.scdn.co/image/ab67616d0000b2738a480d9d1e447b7a4d3324b6,False,40,"['musique guadeloupe', 'zouk', 'zouk riddim']"
+Follow The Leader,Eric B. & Rakim,False,1p80AptLonBW0VilSi6xFj,38,336866,1988,https://i.scdn.co/image/ab67616d0000b2736d67eac5384fb3c555843058,False,54,"['bboy', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop']"
+Room At The Bottom,Vince Guaraldi,False,4M9A6PPX83JnECQY0FAS0w,13,270760,1964,https://i.scdn.co/image/ab67616d0000b27357d7471d5158217ec4e9d723,False,60,"['jazz piano', 'space age pop']"
+Do Somethin' Crazy,Mighty Mighty Bosstones,False,6GnQ9TEKUjqGnLqmTTpNS2,11,147466,1989,https://i.scdn.co/image/ab67616d0000b273f0a4d5cecff42cf495e8d539,False,54,"['boston punk', 'boston rock', 'punk', 'ska', 'ska punk', 'skate punk']"
+Thine Is The Kingdom,Parachute Band,False,2udIyS61NlXj6q9diRZgUQ,0,285360,2007,https://i.scdn.co/image/ab67616d0000b273ee7949dc51aea51b75bbcd23,False,32,"['ambient worship', 'nz christian']"
+He Can't Love you,Michael Stanley Band,False,1XymXdDST6eFyZQmjrnIIo,29,214613,1980,https://i.scdn.co/image/ab67616d0000b2739433677f78b5514f4a92fcab,False,30,['heartland rock']
+Sonnenfreunde,Carl Crack,False,2JLmrYoHbm8pZ2IUh72gQe,2,78973,1998,https://i.scdn.co/image/ab67616d0000b27333c474cef3b761fc8bf393ed,False,11,"['digital hardcore', 'sound collage']"

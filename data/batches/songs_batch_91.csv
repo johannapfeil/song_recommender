@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Eleanor Put Your Boots On,Franz Ferdinand,False,24AFErHUiORpll04wrR6u4,40,169933,2005,https://i.scdn.co/image/ab67616d0000b27392c508bc5a40ea588bcaed38,False,70,"['alternative rock', 'dance rock', 'indie rock', 'modern rock', 'rock', 'scottish rock']"
+Sally In the Garden,Kathy Mattea,False,0cWSquIusPs7EB1bjUoqnX,2,44640,2008,https://i.scdn.co/image/ab67616d0000b273e078b95455c3f8ac39fcc35c,False,46,"['classic country pop', 'country', 'country rock', 'deep contemporary country']"
+Sous la Tour Eiffel,Taboo,False,5DjAXAZV2WxmQhtr20KGEt,2,302132,2010,https://i.scdn.co/image/ab67616d0000b273b52340b90ccec82dcb680b06,False,2,[]
+The Joes Mobilize,Alan Silvestri,False,3YkKoXIUlqi2Vs9wEl4y08,3,504772,2009,https://i.scdn.co/image/ab67616d0000b273268d68dc04f5bcd4158c7d38,False,61,"['orchestral soundtrack', 'soundtrack']"
+Ammonite,Zeromancer,False,39VbcjPgW8um9TkrU1YgO4,9,362520,2009,https://i.scdn.co/image/ab67616d0000b273403f14601c8b10eee2d4ebcb,False,35,['industrial metal']
+So Unhappy,Byther Smith,False,7L9H9fSzusHZ6Dn3JUmm8I,2,269800,2004,https://i.scdn.co/image/ab67616d0000b273cc0d4968c470db6c2407e3be,False,33,"['blues', 'electric blues']"
+San Cristobal,Dusminguet,False,5w8GF3APVlYjjoSottPBd4,7,199066,2001,https://i.scdn.co/image/ab67616d0000b2730b8aefa586a46326dfec5d51,False,26,"['rock catala', 'rumba catalana']"
+If I Ruled The World,Regina Belle,False,0Oem3xfZWW2vVAW2yeF0Oa,2,274840,2004,https://i.scdn.co/image/ab67616d0000b27397206e95cfea205abc003103,False,48,"['contemporary r&b', 'quiet storm', 'urban contemporary']"
+I Got To Quit My Baby,Sunnyland Slim,False,3TtUYhs6Xuq2DvjqLktl6w,0,149013,2005,https://i.scdn.co/image/ab67616d0000b273c4d3b51fb86f4e4e41b5499b,False,24,"['chicago blues', 'delta blues', 'piano blues']"
+Don't Cry_ Joe,Gordon Jenkins,False,1Yu3UwVorxHTirKfCGkmMa,1,194573,2009,https://i.scdn.co/image/ab67616d0000b273ef7da6daa6fbf7586d63ba99,False,20,['space age pop']
+Lobotomy,Chaotica,False,3M2wnHPA0BZlCPUhgMIhjR,4,243200,1999,https://i.scdn.co/image/ab67616d0000b27393755f97c318c3eb72979087,False,29,['neo-industrial rock']
+To The Stars,Claire Hamill,False,7caFuW0pCkHRQpldK9LVfU,1,123342,2020,https://i.scdn.co/image/ab67616d0000b2732882f33300e7a94f9b90d5e2,False,11,['british folk']
+Party Til The Cows Come Home,Elvin Bishop,False,7roWKlqrevJBxZ7Y7odtiY,14,207373,2002,https://i.scdn.co/image/ab67616d0000b2734a76132ea75f5402cf273e31,False,8,[]
+The tears I cried,Lara & The Gumbo Lickers,False,2cZMz21FhPxsHtJlMNS1q8,0,233346,2008,https://i.scdn.co/image/ab67616d0000b27384eb781874203af1bd47f8ef,False,12,[]
+Into A Swan,Siouxsie,False,2EtgMHMtlnnbSTnNHH6WRz,22,251533,2007,https://i.scdn.co/image/ab67616d0000b2733ad4641a4e5207acd5a9bcb4,False,33,[]
+Compulsory Resurrection,Abysmal Dawn,False,5xKie4qu4trmuxaGauywHp,4,250346,2008,https://i.scdn.co/image/ab67616d0000b273c98cf8a1c84213a078a3e8bc,False,25,"['brutal death metal', 'cosmic death metal', 'death metal', 'deathgrind', 'technical death metal']"
+La Excursion,1. Futurologischer Congress,False,36vE9rAkGY1W7zLPtIPZCj,0,107453,2006,https://i.scdn.co/image/ab67616d0000b2730a74e7e7f5ccdaa5d9cdc854,False,6,['neue deutsche welle']
+Big Balls And Cow Town,Asleep At The Wheel,False,0BaJhQpni1PSzqpew3punk,0,251898,2018,https://i.scdn.co/image/ab67616d0000b273505d47a54a95ae79c5c2a5e9,False,42,['classic texas country']
+I Hold Your Hand In Mine [Live At Royal Albert Hall],Tiny Tim,False,22vqeGWiaOdGf06SvCOlLF,1,43373,2000,https://i.scdn.co/image/ab67616d0000b27302cdb71bc8c7648f93d12789,False,47,"['novelty', 'outsider']"
+Larger Than Life,Backstreet Boys,False,6sbXGUn9V9ZaLwLdOfpKRE,66,232826,1999,https://i.scdn.co/image/ab67616d0000b2732160c02bc56f192df0f4986b,False,78,"['boy band', 'dance pop', 'pop']"
+Salt In NYC,Trafik,False,4lnICEWpsFpAps1NRcqpYF,0,405293,2007,https://i.scdn.co/image/ab67616d0000b273fa7a49072807a76aa93edf27,False,7,[]
+Baby Come To Me,Kenny G featuring Daryl Hall,False,3nvxupC482qUUd9sgACMdr,21,235400,2004,https://i.scdn.co/image/ab67616d0000b2736ec48f57d6dc04dc71159417,False,69,"['smooth jazz', 'smooth saxophone']"
+Blessed Assurance,Glad,False,60JNevpOBPto1EMhU4hlHk,7,271600,1993,https://i.scdn.co/image/ab67616d0000b2737414383023c2b90365732ea9,False,31,['christian a cappella']
+Den Pai Alo,Christos Dantis,False,0XvX8v2xopXyu7P6ufRLst,6,242600,1984,https://i.scdn.co/image/ab67616d0000b2735899355d7efeef51b3d97819,False,38,"['classic greek pop', 'greek pop', 'laiko']"
+Knocked Out Of The Park,John Davis,False,49c5ZyHWQcv9WBncskBqmD,0,183160,1997,https://i.scdn.co/image/ab67616d0000b2733455821b8ee2a56769b451f6,False,12,[]
+It Wont Be Christmas,David Martin,False,2IMJIDzbp8zsmHLXYErOtN,0,237732,2012,https://i.scdn.co/image/ab67616d0000b2736be138b460be145d207b422e,False,4,[]
+OAKtown,Casual,False,1EcdpT0BFTESFuL6t7ay37,1,259440,2004,https://i.scdn.co/image/ab67616d0000b273c099c29f7f47daa619440b23,False,32,"['alternative hip hop', 'turntablism']"
+Wessex Loses a Bride,Nick Ingman;Gavyn Wright,False,2aL3RbCFmGsr9n9RjMs0vM,9,111626,1998,https://i.scdn.co/image/ab67616d0000b273ce7fb992b78d0afc5380498f,False,43,"['british soundtrack', 'soundtrack']"
+I Hate You,The Stolen Minks,False,2fa3DKWlxMINFOHM7gItKU,0,56426,2008,https://i.scdn.co/image/ab67616d0000b273db35be668558032c95211ebb,False,0,['halifax indie']
+Shameless,All Time Low,False,5pWqD58cZ9TNvL9WbNfcQ3,39,221733,2007,https://i.scdn.co/image/ab67616d0000b273c8913cd7b91bb7f6bbbec305,False,70,"['modern rock', 'neon pop punk', 'pop punk']"
+Little Sister,Debbie Davies,False,26N8Dg1RENXnzG7qBa0Hc7,1,226373,1998,https://i.scdn.co/image/ab67616d0000b273963be1c74644d5bdde0af350,False,29,"['electric blues', 'modern blues', 'power blues-rock']"
+Just A Little Lovin' (Will Go A Long Way),Eddy Arnold,False,5wom0gQ5Zsa6iZ4pD3WLRE,6,172160,1992,https://i.scdn.co/image/ab67616d0000b27386f7f85094ee00214818b22b,False,50,"['classic country pop', 'nashville sound', 'traditional country', 'yodeling']"
+Quiet Time,Regina Belle,False,0JMqKxcGZo1nsKrBVWmUIh,21,307333,1993,https://i.scdn.co/image/ab67616d0000b273a743b88f89ee58a228549c97,False,48,"['contemporary r&b', 'quiet storm', 'urban contemporary']"
+All Over Me,Jay Tee & Baby Bash,False,2IlEotpi9hzjK4liBOCXVs,0,203693,2007,https://i.scdn.co/image/ab67616d0000b27374466ad8f282d604a5acebf9,True,1,[]
+And I Love You So,Brian Dullaghan,False,11T0n1Qx46W3pifwpxt8JZ,0,214506,2016,https://i.scdn.co/image/ab67616d0000b273a5acb5da4e6ae3af5d9337ed,False,16,"['irish folk', 'irish pub song']"
+Panda Bear,Owl City,False,0rNc5XzUVEjZZuWF1SLsyg,24,187640,2007,https://i.scdn.co/image/ab67616d0000b27396ddda94ecd7b6525af8e528,False,70,"['indietronica', 'pop']"
+Turning Away,Mary Black,False,22lilBvYSZq47sNY831QK7,8,294760,1999,https://i.scdn.co/image/ab67616d0000b2739e9333e61072664985fe92d0,False,45,"['celtic', 'irish folk']"
+Metal from Hell...22nd Century,Satan's Host,False,1E3BfOKb50oUvYfLnj8nBW,0,332680,2006,https://i.scdn.co/image/ab67616d0000b2738659999aaaffe520177beef9,False,8,['denver metal']
+Rollercoaster Ride,Aaron Watson,False,2HI7hqgEw4cuI7u9ne8rUj,21,217400,2008,https://i.scdn.co/image/ab67616d0000b273973d256880adb5d4ebc153b1,False,52,"['classic texas country', 'country road', 'red dirt', 'texas country']"
+Flores Negras,Barbarito Diez,False,2udArY9R6chKujKZtWCgrP,19,184058,1990,https://i.scdn.co/image/ab67616d0000b273d0dc0353b90b805509626e94,False,32,"['bolero cubano', 'musica tradicional cubana']"
+Hawaiian Chimes,Leonard Kwan,False,1bDQY7asH4uLK5XeKQs1GE,9,170306,2003,https://i.scdn.co/image/ab67616d0000b2732ac6f0b306803ca618a23b89,False,21,['slack-key guitar']
+Suffocating Under Words Of Sorrow (What Can I Do),Bullet For My Valentine,False,1KKDxGFbEYHC1ftBo0S7ZG,45,215533,2005,https://i.scdn.co/image/ab67616d0000b27340deaedd1bc625494819049b,False,69,"['alternative metal', 'nu metal', 'post-grunge', 'uk metalcore', 'welsh metal']"
+Tumba Tumba,Charanga Forever,False,5otNiphSfl8cvhVLS17mlC,7,367426,2000,https://i.scdn.co/image/ab67616d0000b27382695543a6f5e79c534baca5,False,15,"['charanga', 'timba']"
+Turn Around,True Believers,False,65CdX76hoxBeAMusDwcJRy,1,361533,2007,https://i.scdn.co/image/ab67616d0000b273a9248d01935ca29380e52ded,False,3,[]
+Hex Breaker,Taint,False,1cWxKKc6Y130lxey6w6PQz,0,281466,2007,https://i.scdn.co/image/ab67616d0000b2730839c00a87f381428c5f1883,False,3,"['power electronics', 'sludgecore', 'welsh metal']"
+Why don't you eat where you slept last night ?,Zuzu Bollin,False,5szczyB4hqLZyNroGU5Quv,31,174133,2012,https://i.scdn.co/image/ab67616d0000b2739ff9264444c838d0b517aa7e,False,20,['texas blues']
+The Melting Moon (Edit),VHS Or Beta,False,6S71kDIaK8DCQ7Kfi3flz9,0,224146,2004,https://i.scdn.co/image/ab67616d0000b2737c2c5f52596ca1c2687a1494,False,23,['dance-punk']
+Rain / Ekoln,Olov Johansson_ Catriona Mckay,False,1c5lKSLM9866mPk51VNkXT,0,470160,2009,https://i.scdn.co/image/ab67616d0000b273511d28039c14ad20a0108f5d,False,13,"['folkmusik', 'nordic folk', 'nyckelharpa']"
+Sex Objekt,Jack Orsen & Taktlo$$,False,3L8iHZGrZlmNAtNNTLatpZ,1,201106,2004,https://i.scdn.co/image/ab67616d0000b273dd87287120a286b79d7bb323,True,28,[]
+A La Memoria Del Muerto,Fruko Y Sus Tesos,False,2WVKO3CvMIgMiBkSFw3u5r,33,262653,2015,https://i.scdn.co/image/ab67616d0000b273ad693a61e1effa4acbc940a1,False,61,"['salsa', 'salsa colombiana']"

@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Play,Jennifer Lopez,False,7fFCnttacpotkyhTOxKv14,49,211493,2001,https://i.scdn.co/image/ab67616d0000b273bfa0a1de59696c7a6fe15ebb,True,77,"['dance pop', 'pop', 'urban contemporary']"
+I Don't Want To Hear Any More,Eagles,False,2w71Icai5AhKlbxJhoRNMY,30,261106,2007,https://i.scdn.co/image/ab67616d0000b273d6bbbf090e657f3625056c24,False,80,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']"
+The Shaskeen / Gan Ainm,Cherish The Ladies,False,74ubeYvPtD1YJq5TPWnFX2,0,139186,1995,https://i.scdn.co/image/ab67616d0000b2730b71f5409b5a84e6fc819274,False,29,"['celtic', 'irish folk']"
+Santeleco,Luiz Bonfa,False,3gqoUi78Vy4zvvfaSG0fDL,0,143673,2021,https://i.scdn.co/image/ab67616d0000b273eb774ea472318688759870e7,False,57,"['bossa nova', 'brazilian jazz', 'jazz guitar', 'samba-jazz', 'violao']"
+Anyday,Amil,False,5OzrSUpREgU3YyMh8J66CK,1,248493,2000,https://i.scdn.co/image/ab67616d0000b273d36410a754eea0c9299dcc75,True,45,['hip pop']
+Get Me To The Church On Time,Shelly Manne,False,3Xprr5brSHhNPyFP3Mtyct,7,252066,1956,https://i.scdn.co/image/ab67616d0000b2730154fbe492d7c977675f4955,False,25,['cool jazz']
+She cracked,Modern Lovers,False,2HLT2fdvfb0Ewawp8gENlo,29,175893,1976,https://i.scdn.co/image/ab67616d0000b273b44ebe6e50148bca8bce584d,False,44,"['alternative rock', 'boston rock', 'experimental rock', 'garage rock', 'lo-fi', 'no wave']"
+Washboard Swing,Washboard Sam,False,3TnHoKrYxY06pmO5Qcu1KZ,4,184790,1993,https://i.scdn.co/image/ab67616d0000b273d2b3f1c741a3e25693e116cc,False,10,"['chicago blues', 'traditional blues', 'washboard']"
+The Book of Disquiet,Hey Colossus,False,6yEHBJOw2K4NhGx5HYIls7,0,420447,2007,https://i.scdn.co/image/ab67616d0000b273aef0bf137ce0e4ac39accbd8,False,12,"['noise rock', 'uk noise rock']"
+Moon River,The London Pops Orchestra,False,6lolpQ02jU6mNSVw3QHXIa,0,162026,1995,https://i.scdn.co/image/ab67616d0000b273ccdfbc69aa049707f64729e9,False,35,['pops orchestra']
+The Earth Will Shake,Thrice,False,7dHs1eJRtIb5XVr8ylDI10,33,268186,2005,https://i.scdn.co/image/ab67616d0000b2736bd2184d9f6250a26ae48f9f,False,57,"['post-hardcore', 'screamo']"
+Gravedom,Goatwhore,False,1Kmlxq3leZQkPm20KRV57z,0,206333,2000,https://i.scdn.co/image/ab67616d0000b27322a647bc97330b9db6ae21ab,False,33,"['brutal death metal', 'death metal', 'deathgrind', 'groove metal', 'louisiana metal', 'sludge metal']"
+Intro,DJ Godfather,False,7xSwcjQaJw2v8bcKWmlkU1,4,54253,2006,https://i.scdn.co/image/ab67616d0000b273727274aab87834815892a21b,False,40,['ghettotech']
+Magnificent Obsession,Fehlfarben,False,4ZhmqxuIiP1Ohl7rD32R9g,10,291840,1983,https://i.scdn.co/image/ab67616d0000b27342ff9aba92b571dfa01e447d,False,33,"['german punk', 'neue deutsche welle']"
+Ghetto Child,Eric Burdon,False,1udG29vN9Wo6LndnqjSd4Y,0,437760,2006,https://i.scdn.co/image/ab67616d0000b2730eb753126ffea11cbd1c5a10,False,41,['british blues']
+Just Say Yes,Snow Patrol,False,4k7P2LIQco8YCVbIZl1vZB,58,281346,2009,https://i.scdn.co/image/ab67616d0000b27309e243a09405dcfc10de9935,False,71,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']"
+Commercial Reign,Inspiral Carpets,False,1fiF0kitjNoAM4xov6wGaK,20,287066,1990,https://i.scdn.co/image/ab67616d0000b273b20bc192977cbc6ae59a7982,False,43,"['britpop', 'madchester']"
+Am I That Easy To Forget,Skeeter Davis,False,0TzeBQi8xCehTIoETCRQoc,20,126866,1994,https://i.scdn.co/image/ab67616d0000b273c4c4a5d82534d5e6b2ed349a,False,53,['nashville sound']
+Some Love Like Yours,The Real Kids,False,3rhGD5EhMaBjkjAk04Vys5,0,256360,1993,https://i.scdn.co/image/ab67616d0000b2735d74a0903c6d28bcc57b26b7,False,20,"['boston rock', 'protopunk', 'rhythm rock']"
+Who Do You Love,The Kings,False,5NzW7P8eMhMBSvyIj7jzpM,0,191226,1990,https://i.scdn.co/image/ab67616d0000b2732cd7eb712b166814a8bd0dc0,False,0,[]
+Teri Nau Ke Paune Teen,Daler Mehndi,False,4THgMfOK1581qPr1b3yQfj,1,245453,2001,https://i.scdn.co/image/ab67616d0000b273c36c56a4a47c8f2324a4b433,False,62,"['bhangra', 'filmi', 'modern bollywood']"
+White Christmas,The Statler Brothers,False,2mJ6AnO1wIvUubR7PuGD27,28,144240,1978,https://i.scdn.co/image/ab67616d0000b273883bb967e4d522a6b6077b70,False,52,"['country', 'country rock']"
+Canyon,Vex'd,False,43SRBLcqRKoniHsO74HFjK,1,363813,2005,https://i.scdn.co/image/ab67616d0000b2739a4f02f555fc4905c32a5839,False,12,['classic dubstep']
+Liu Zi Zhen Yan,Sammi Cheng,False,79pnz59TYn5PmHuIDXEJ0B,4,249426,2016,https://i.scdn.co/image/ab67616d0000b273d025dcac5029ad8fb753ec66,False,54,"['c-pop', 'cantopop']"
+Battle Hymn Of The Republic,Mannheim Steamroller,False,1qW4Q1q4V3LUzq0t8CNubW,5,285760,2003,https://i.scdn.co/image/ab67616d0000b2730c5c6202a3e9c54cb26271a7,False,64,[]
+Real World,Snowgoons,False,1J3XDvFOFd4ewCjj6Oulrc,6,212266,2007,https://i.scdn.co/image/ab67616d0000b2733e56548f576b10f519cd7cbd,True,45,"['flick hop', 'underground rap']"
+Head Over Heels,Sylvia Tosun,False,2o84fB5054nvaStAvfp16z,0,499773,2007,https://i.scdn.co/image/ab67616d0000b273300fae92fcec1d551f84ee5e,False,36,['vocal trance']
+Day Old Blues,Kings Of Leon,False,5n2baMkrm41hmkH6zLIcNh,32,212986,2005,https://i.scdn.co/image/ab67616d0000b2738df6e3203adc247218810906,False,77,"['modern rock', 'rock']"
+Son of Jack the Ripper,Screaming Lord Sutch,False,4WmztV2J1xCbF5XyX29gjh,0,233760,2010,https://i.scdn.co/image/ab67616d0000b27378870169246853b9244593e0,False,21,[]
+Boo Hoo,KT Tunstall,False,5X0alVNSEqiFQENRmVLQdf,17,296866,2006,https://i.scdn.co/image/ab67616d0000b273bc40f7c6c4d8b6c7c797ce07,False,63,"['ectofolk', 'lilith', 'neo mellow', 'pop rock', 'scottish singer-songwriter']"
+Rock Me Baby - Live,Hound Dog Taylor and The Houserockers,False,2vpbK2mVEv1hH90Fq2C1ns,1,335293,2006,https://i.scdn.co/image/ab67616d0000b273443b564542ca057a0fc90e38,False,35,"['blues', 'chicago blues', 'traditional blues']"
+(Coming With) Loving on My Mind,Tony Mathews,False,1YcFdqSL9OtXvCVA92eiJK,0,282000,2008,https://i.scdn.co/image/ab67616d0000b27334354214e48b42bbc08f888d,False,0,[]
+What's Love Got to Do With It,The Chap,False,23qWa54fXBXWSd2bgArrDV,0,216266,2008,https://i.scdn.co/image/ab67616d0000b2735dcca21cd38797fd5233de68,False,11,"['british experimental', 'experimental pop']"
+Take This Trail Trip Beside Me (The Best Of Janet Paschal),Janet Paschal,False,5OnLaJAL5TnxT6s8fHxVMm,5,214146,2007,https://i.scdn.co/image/ab67616d0000b27378a3054404b804bfce8d497d,False,27,['southern gospel']
+Each Time I Think Of You,CoCo Lee,False,2bg5EpKHzWyPaux0vdINdI,21,266000,1997,https://i.scdn.co/image/ab67616d0000b273295fc0117ee5b484341f26c1,False,46,"['mandopop', 'taiwan pop']"
+Joe Sent Me,Vanessa Daou,False,569aMrSg6JbCRqnlJEuGKH,1,228706,2008,https://i.scdn.co/image/ab67616d0000b2730df02c8aa445538e34b73353,False,35,['downtempo']
+Bad Boy Willie,Gene Simmons,False,60mUoRJqLk6mGb4yTzOdln,0,117173,2011,https://i.scdn.co/image/ab67616d0000b273485206e14173236e461538ad,False,4,[]
+Freak Out,Erick Sermon,False,0V4VFbRr9IhiF3LEs5mrT3,15,187466,1995,https://i.scdn.co/image/ab67616d0000b2736f441dc52f0ab41753d22138,True,50,"['hardcore hip hop', 'hip hop']"
+Photographs,James Newton Howard,False,78yA58Dk8ojS5CQyh2iLIZ,21,55200,1999,https://i.scdn.co/image/ab67616d0000b273251e56bf0a618eaefcda1223,False,65,"['orchestral soundtrack', 'soundtrack']"
+Just A Pair Of Blue Eyes,Tex Williams,False,7ccDmuQpJIeagY0hukuQK3,0,147879,2014,https://i.scdn.co/image/ab67616d0000b273bd2d3d6203bc8d10ede12703,False,36,"['cowboy western', 'western swing']"
+Dancing Shoes,Arctic Monkeys,False,0hAMkY2kwdXPPDfQ1e3BmJ,61,141133,2006,https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf,False,89,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']"
+Paid Vacation,Circle Jerks,False,0EAaMsnkZL2dSq1k5lv2kr,23,89000,1980,https://i.scdn.co/image/ab67616d0000b273ac8f9b86440ba36a32e54a7d,False,45,"['hardcore punk', 'punk']"
+Amie,Lonestar,False,4hh4VK6N6XOKInbNsgGGnz,16,245706,1997,https://i.scdn.co/image/ab67616d0000b273395e228008afee64f4455b70,False,59,"['contemporary country', 'country', 'country road']"
+Morgane regarde le ciel,SANSHIRO,False,7kAfzwj9yrLCcyNPqW6yI3,0,273120,2003,https://i.scdn.co/image/ab67616d0000b273fac413404e7a9cef028d1f84,False,5,[]
+Don't Let Go,Kofi,False,6vb91FJBKVQWK7xG2VxgGs,1,305373,2024,https://i.scdn.co/image/ab67616d0000b273c2009618c292c973426bdc43,False,26,['audiophile vocal']
+Cover For Me,Freddie McGregor,False,6YigMQEUZNc8njlPuvsHqE,2,249173,2002,https://i.scdn.co/image/ab67616d0000b273677cf988ded6b4a7e978253c,False,51,"['lovers rock', 'reggae', 'roots reggae']"
+Tonight It's Just Me,Amber Nicholson,False,1aggmMS0l5crnkqlGUTr1l,0,252525,2007,https://i.scdn.co/image/ab67616d0000b273fbdfc5fb6f0c29a30b97a83a,False,0,[]
+Walkin' In The Snow,Hank Penny & Sue Thompson,False,7FVdszURPFLgN7KY0IOXNN,0,122986,2014,https://i.scdn.co/image/ab67616d0000b27355c8e5cd1dd0afa56d5592fb,False,25,"['cowboy western', 'western swing']"
+Folly Ranking,Johnny Osbourne,False,64xL94A9qV5gsoMbIZDvz9,4,252851,2023,https://i.scdn.co/image/ab67616d0000b2736af70fed5f42aea1cd5f5b07,False,57,"['dancehall', 'reggae', 'reggae fusion']"
+Didn't You Notice,JennyAnyKind,False,1OVCfvHXqzrPVY6DOFymqH,0,251106,1998,https://i.scdn.co/image/ab67616d0000b273ff6483d2a8ea3ceed33e1b62,True,2,[]

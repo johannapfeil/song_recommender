@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Chere Duloone,Al Rapone,False,6ztGxHb1L18cGm92SYtqlm,0,185933,1990,https://i.scdn.co/image/ab67616d0000b2732b0df3ddf16660181df05a83,False,2,[]
+Sex Dance,H-Town,False,233UtuAN1lw2shpcQMFTM0,5,289306,2015,https://i.scdn.co/image/ab67616d0000b2736ef14b5313cdcb2cce9f9a63,False,51,"['boy band', 'contemporary r&b', 'new jack swing', 'r&b', 'urban contemporary']"
+Searching,Mighty Diamonds,False,5TaTxnGo0WESYbFP1ArDsH,0,218240,2001,https://i.scdn.co/image/ab67616d0000b27354b3f7b1930185b53302d878,False,40,"['dub', 'lovers rock', 'reggae', 'roots reggae']"
+Beneath an Evening Sky,Aisha Duo,False,0eUadyrEAvgmPHE1Ig8DRz,5,381400,2005,https://i.scdn.co/image/ab67616d0000b273dad5efa9e9d226e8329eefd4,False,11,['mallet']
+Juno,Sub Focus,False,3gtizQ7doQBpQr6ogtG1s2,6,320053,2005,https://i.scdn.co/image/ab67616d0000b2739d380bfcf8537f37ef6fd5f7,False,68,"['dancefloor dnb', 'drum and bass', 'uk dance']"
+What's Wrong,Dead To Me,False,0StnWTbKRQzDyWybbPQoc8,12,105640,2008,https://i.scdn.co/image/ab67616d0000b27357179ea43fb3f0bdea4ff924,False,32,"['orgcore', 'skate punk']"
+Final Flash,Hatiras,False,6S25Mx2xgg4kYM6GP31Zft,0,177146,2006,https://i.scdn.co/image/ab67616d0000b2735962d9f17aa45dfe83b22add,False,31,"[""jackin' house""]"
+South,Bob Wills,False,0lfB0XQhJLHjDM8A4lKQBp,30,137560,1967,https://i.scdn.co/image/ab67616d0000b27327d279e43ca05982c99f65ec,False,34,"['cowboy western', 'traditional country', 'western swing']"
+When the Broken Hearted Love Again,Danielle Bollinger,False,5nXQCQmMgjQ35ZK04USYL9,0,267960,2005,https://i.scdn.co/image/ab67616d0000b27393cf81922b15a7f92b830576,False,5,[]
+Rockberry Jam,L.a. Dream Team,False,78T20W8GR3Apm2rBhkVoYL,30,316253,1986,https://i.scdn.co/image/ab67616d0000b2737ba71b16a1e19a6c7484fe0d,False,24,"['electro', 'old school hip hop']"
+Let's Get Sweaty,Modern Day Escape,False,3i7TTS78hFucSE3xkKCDyN,7,187066,2009,https://i.scdn.co/image/ab67616d0000b2738967f576acffea31456d7871,False,25,['screamo']
+La Muneca de Alcazar,Quadro Nuevo,False,3SRmLwH49IoGTiGo2bB52G,1,232866,2002,https://i.scdn.co/image/ab67616d0000b27313348f0e22fe78c191daa8bc,False,42,['tango']
+Mindless,Steve Porter,False,2VCBxhzYocDFRIL0DcfFp1,0,511786,2000,https://i.scdn.co/image/ab67616d0000b273ea34a3cd36577a4403ea8fe6,False,8,[]
+Canela Pa'  Tu Boca,Los Del Rio,False,5UxAm1MGmx5ravuGEXX6zb,3,216800,2001,https://i.scdn.co/image/ab67616d0000b273442314974e3d78b3e214cdb8,False,60,['tropical']
+You're My Love,Michael Stanley Band,False,0XfqZKwPCGN7XlDNDx63pc,4,164066,1981,https://i.scdn.co/image/ab67616d0000b2735d9e4eeddce3e36bf9050411,False,30,['heartland rock']
+Welcome You Back Home - Original,Jackie Edwards,False,0IT8RdNQbS3gbb345ALkLq,0,161000,2006,https://i.scdn.co/image/ab67616d0000b273c163545176a3d4e6ec6c4955,False,29,"['jamaican ska', 'rocksteady']"
+Turn It Up,Channel Live,False,17sKyIDVraNId7PoJDuanF,3,240866,2000,https://i.scdn.co/image/ab67616d0000b27365bf38377c8781d04861430d,True,37,"['deep east coast hip hop', 'hardcore hip hop']"
+Tango,Igor Stravinsky,False,31USZ8AIl6nHDR6OMUkEZ1,4,193040,1980,https://i.scdn.co/image/ab67616d0000b273971ea56459446c218a54f2d2,False,51,"['classical', 'early modern classical', 'neoclassicism', 'russian modern classical']"
+Never Look Back,Blue Rodeo,False,0OIVHQixnNsuIpqi5DRU1M,0,199626,2009,https://i.scdn.co/image/ab67616d0000b273a9b7c1eccd319ac1a77289b0,False,50,"['canadian rock', 'country rock']"
+8th Wonder,The Sugarhill Gang,False,0n0jYIH3G0CE2GOqVS2DD0,27,451400,2000,https://i.scdn.co/image/ab67616d0000b27328349de0b379b51662051205,False,52,"['east coast hip hop', 'funk', 'new jersey rap', 'old school hip hop']"
+I'ma Bang,DMX,False,5uXr1MD44LEP3qu0BbKYS7,25,303640,2001,https://i.scdn.co/image/ab67616d0000b2736ec8344d2f5f364bbdf15c0b,True,72,"['detroit hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']"
+Never Gonna Give You Up,Rick Astley,False,4PTG3Z6ehGkBFwjybzWkR8,78,213573,1987,https://i.scdn.co/image/ab67616d0000b27315ebbedaacef61af244262a8,False,68,"['new romantic', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']"
+Bad Seed,Wayne Kramer,False,7t7ZQ4mPjfkkrRWqmWpRKd,10,249119,1998,https://i.scdn.co/image/ab67616d0000b273291a3e8ec508adc8d9786509,False,19,[]
+A Martyr For My Love For You,The White Stripes,False,46trhGOpR1wVqm59HMVLAh,33,259533,2007,https://i.scdn.co/image/ab67616d0000b27375a9cde08f286d9420709048,False,72,"['alternative rock', 'blues rock', 'detroit rock', 'garage rock', 'modern blues rock', 'permanent wave', 'punk blues', 'rock']"
+Get-U-Now,KMD,False,6NnRYI3s3rkm7hmscgsLjE,31,147213,2000,https://i.scdn.co/image/ab67616d0000b273a049672caf582b864bc98d68,True,42,"['alternative hip hop', 'golden age hip hop']"
+Little Brigid Flynn,The Irish Rovers,False,6nANhbcHNMFbzxcu8VoTzZ,13,182040,1998,https://i.scdn.co/image/ab67616d0000b2732cd381cd7b988b12b8bdaf42,False,56,"['canadian celtic', 'irish folk', 'irish pub song', 'shanty']"
+YOUR LOVE,Freddie McGregor,False,3iFc9gQU6dJlZrwQo3D8gK,2,229946,2005,https://i.scdn.co/image/ab67616d0000b27364e9d12736e8b29b0adac7bc,False,51,"['lovers rock', 'reggae', 'roots reggae']"
+Explode (Epic Extended Mix),Jordan & Baker,False,7jvE23VecS5su78qW81JEH,36,424861,2003,https://i.scdn.co/image/ab67616d0000b273faaca44904fa3133a7639601,False,29,[]
+No Storm,Dorothy Norwood,False,4slFDmwMj8itThFAuSWMSM,3,512906,1995,https://i.scdn.co/image/ab67616d0000b2739ba0e295ec234b543faa26bd,False,33,"['gospel', 'praise']"
+Just Come In,Margaret Becker,False,1CfdTUMQXIxTt3nTdJST85,7,268773,1989,https://i.scdn.co/image/ab67616d0000b273831b4605fc2c5af0cf168e81,False,28,['deep christian rock']
+What He Done For Me,Sister Rosetta Tharpe,False,1l7BIZ3yGm0CwFrXegR8KP,2,162351,1995,https://i.scdn.co/image/ab67616d0000b2739e333ac43d45586d771617cc,False,44,"['acoustic blues', 'gospel blues', 'traditional blues']"
+For You Mom & Dad,Stefon Harris,False,1RUQSKNbYbInguSx5UNAD9,0,375400,1998,https://i.scdn.co/image/ab67616d0000b273720b835101ebc8c5f58738f6,False,26,['jazz vibraphone']
+Old Dan Tucker,Jim Smoak & The Louisiana Honeydrippers,False,4Q251wVcXexbCZrlLVpAvX,8,140640,1961,https://i.scdn.co/image/ab67616d0000b27347a45bc1e3749af868867d99,False,4,['banjo']
+That Old Gang Of Mine,Dean Martin,False,28GYyXRWewtq52ajV7fKOM,7,146666,1974,https://i.scdn.co/image/ab67616d0000b27329a872110b4ff2bdf75ce6dd,False,84,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']"
+Happy,Shunza,False,0FqhEdhAsZokNIqcFkidIb,2,273560,2002,https://i.scdn.co/image/ab67616d0000b2734b82285b5b5c744b7c0803b6,False,33,"['classic mandopop', 'mainland chinese pop', 'mandopop']"
+Ta Methismena S' Agapo,Angela Dimitriou,False,3RvbFknve6sU2lL1pVJNCJ,2,230640,2001,https://i.scdn.co/image/ab67616d0000b2739545f306980e220c1a06de8a,False,39,"['greek pop', 'laiko']"
+One More Breath,Rhinoceros,False,6RRYDwz9bWR9R6iR4A7Ajy,0,77240,2009,https://i.scdn.co/image/ab67616d0000b273323c0bf688d4221a39bf657e,False,12,['buffalo ny metal']
+Driving Wheel,Syl Johnson,False,6d5gAdohmm9uhazW5juA3W,1,238866,1994,https://i.scdn.co/image/ab67616d0000b273c32994b2645387652f58d732,False,49,"['chicago soul', 'memphis soul', 'southern soul']"
+Don't Get Around Much Anymore,Natalie Cole,False,0W6FhRSlsugS8P0nhEtwPP,24,154626,1991,https://i.scdn.co/image/ab67616d0000b273dfb2b41e8669c38536b7c3b6,False,66,"['adult standards', 'disco', 'quiet storm', 'soft rock', 'soul', 'vocal jazz']"
+Lucille,Rockin' Dopsie_ Jr._ The Zydeco Twisters,False,00AfLPQHP0SeZ1elf7M5Fv,10,259399,2008,https://i.scdn.co/image/ab67616d0000b273c6e473346d23c7a2650fcd6b,False,15,[]
+Take it slow,The Real Kids,False,4NudwCLabuU8TNWIk5DXrr,0,183840,2001,https://i.scdn.co/image/ab67616d0000b2731cb0ef9bdd7bc5159d334f86,False,20,"['boston rock', 'protopunk', 'rhythm rock']"
+Please Love Me,B.B.King,False,1NRZsuvO69KzsPfUx3ZNo9,29,255333,1997,https://i.scdn.co/image/ab67616d0000b2730cb9e4d49412fce4ae730004,False,64,"['blues', 'blues rock', 'classic rock', 'electric blues', 'jazz blues', 'soul', 'soul blues', 'traditional blues']"
+Those Less Fortunate Than I,Darryl Worley,False,1N2ri7ZJEhVUQLCrLz5gdZ,7,237333,2003,https://i.scdn.co/image/ab67616d0000b273e730cfe19175c6fcfbfd524b,False,41,"['country', 'country road']"
+Voice of Angels Drone for Spiritual Well Being,Ambient Music Therapy,False,4Bz4FMZzHXLyTzzQdy1Z4s,0,167996,2015,https://i.scdn.co/image/ab67616d0000b2731db59b9e19aa52768c6cc07c,False,21,['sleep']
+Mi Raza,Peret,False,2Zo92PAZbf3c7IiVYGb9Y7,0,285773,1979,https://i.scdn.co/image/ab67616d0000b27360533a45dc82ad93ee8247f7,False,42,"['rumba', 'rumba catalana']"
+Be,Jessica Simpson,False,4xR88DZIvAD3DjXlaEIVH7,18,249293,2003,https://i.scdn.co/image/ab67616d0000b273adefab4c77e8a845234eeee4,False,53,"['dance pop', 'post-teen pop']"
+At The County Fair - Original,The Impressions,False,4iuCTswUWmu59P3DfCIvT7,0,124973,2006,https://i.scdn.co/image/ab67616d0000b27349be70e7ccf39dc134f9bc64,False,49,"['chicago soul', 'classic soul', 'funk', 'quiet storm', 'soul']"
+Peaceful World,John Mellencamp,False,44Tj7ZB93HGDmJEQ1rAP6e,29,244040,2001,https://i.scdn.co/image/ab67616d0000b2732e1b73ac281745dce83a61a2,False,66,"['album rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']"
+Tuggathanug,Legion Of Green Men,False,5b2Ls1oVzD9P8EjzsrB3aZ,0,339893,2007,https://i.scdn.co/image/ab67616d0000b27363cd307a0f22a3870c73666c,False,3,[]
+There It Go (The Whistle Song),Juelz Santana,False,0f7gbjwkZOs9loj2fr0lGH,58,180493,2005,https://i.scdn.co/image/ab67616d0000b273f163445f10aad2eeadc80bee,True,65,"['gangster rap', 'harlem hip hop', 'hip pop', 'nyc rap', 'pop rap', 'trap']"

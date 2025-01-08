@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Cumberland Gap,Danny Barnes,False,4IpqRga9FZIXj1Jr2HxoWH,0,160480,2005,https://i.scdn.co/image/ab67616d0000b273545c193b9b2674e056d7b28b,False,15,"['instrumental bluegrass', 'progressive bluegrass']"
+Svedomi,Krystof,False,7f0mTfWYhBDJ4pEtMFxkxu,19,222266,2006,https://i.scdn.co/image/ab67616d0000b27353ea9b19e85885dc73ac953a,False,50,"['czech pop', 'czech pop rock', 'czech rock']"
+It's Alright Bruv,Cockney Rejects,False,19EruMMKWaYnXQYMAQV7RU,3,241493,2007,https://i.scdn.co/image/ab67616d0000b2737b2b3201f7b393dc01eca327,False,34,"['oi', 'punk']"
+New Morning (Live),Nick Cave & The Bad Seeds,False,44H99nfwYw4M0rfpL9o0W1,13,202000,1993,https://i.scdn.co/image/ab67616d0000b27353d0454984f039e63f58344a,False,66,"['alternative rock', 'permanent wave', 'singer-songwriter']"
+Sea_ Subsurface,Aisha Duo,False,04mpR58R5Gl4G7VcXACeBx,2,350653,2005,https://i.scdn.co/image/ab67616d0000b273dad5efa9e9d226e8329eefd4,False,11,['mallet']
+De Lai Bu Yi,Justin,False,33SVGQPRdsaCbluG0ylONG,9,219962,2006,https://i.scdn.co/image/ab67616d0000b273d2cea76eea82f1ef61abbf55,False,49,['cantopop']
+Les Fleurs,Minnie Riperton,False,4XCGfHpGVq8xw800o5cwWs,57,199293,1970,https://i.scdn.co/image/ab67616d0000b273d85c957794c2a5b8b11de5f9,False,55,"['classic soul', 'disco', 'funk', 'motown', 'quiet storm', 'soul']"
+Birak Yakami,Ebru Yasar,False,5CX5vkUevnd76yUzGDofgi,16,214906,1999,https://i.scdn.co/image/ab67616d0000b2738d91b6214b7e18e75e20b33c,False,65,"['arabesk', 'deep turkish pop', 'turkish pop']"
+Afonsina y el mar,Triana Pura,False,3DozPCLGcTsnuWyPRy2mUL,4,253000,1998,https://i.scdn.co/image/ab67616d0000b273ec85831f1dd76a4c3425d3d7,False,37,[]
+Cruz,Christina Aguilera,False,0yDr111P0vlLbUPyCJWgu6,34,229546,2002,https://i.scdn.co/image/ab67616d0000b2737cd872c7701c4737b2f81d87,False,80,"['dance pop', 'pop']"
+Take a Ride,Frost,False,3ys0y5AfCBbGqJ1IaGkEd9,30,270258,2023,https://i.scdn.co/image/ab67616d0000b273311a7b212a81e74aad71dc87,False,43,['chicano rap']
+Show Me The Way,Mix Mob,False,1xR6yVpPiDvHaXXsd0znbX,1,194821,2002,https://i.scdn.co/image/ab67616d0000b273a7c8033fc26fe173e49985ca,False,6,[]
+Only Lonely,Bon Jovi,False,1EcQEUQ04NonsWfSVeP3vG,36,300626,1985,https://i.scdn.co/image/ab67616d0000b2739c00533da2c655af4754fdf6,False,81,"['glam metal', 'rock']"
+C'est Toujours Le Matin,Cali,False,5fq6LeuzZ6WBh5NSHuHsaG,16,210373,2003,https://i.scdn.co/image/ab67616d0000b273c665362e20f71d8422720452,False,41,"['chanson', 'french pop', 'french rock', 'nouvelle chanson francaise']"
+Happy Mother's Day,Casiotone For The Painfully Alone,False,1heVNlPdLGX08jfGL99PO8,13,47466,2007,https://i.scdn.co/image/ab67616d0000b273bb02842a107bf095ff549b1e,False,35,"['anti-folk', 'indietronica', 'lo-fi']"
+All The Lessons,Melanie And The Secret Army,False,3eIOO9LsKWIVbxiYYZnvAI,0,186160,2010,https://i.scdn.co/image/ab67616d0000b2737345c35c31f226c7066c22be,False,2,[]
+Valium,Vincenzo,False,1olDF3dyrme7BAEZwRfAKs,0,439120,2005,https://i.scdn.co/image/ab67616d0000b273ff63be95036e3becefe5212f,False,33,['deep deep house']
+Lieder_ Die Uns Ein Leben Lang Begleiten,Maria & Margot Hellwig/Die Garmischer Alpenj\xc3\xa4ger,False,48azfITVsoFd1sDRTo19fs,1,202733,2010,https://i.scdn.co/image/ab67616d0000b2732e828b808bb0cdbd0d74f3ce,False,24,['volksmusik']
+Black Celebration,Monster Magnet,False,2iEz5Rab1Mm8LMLbKeFQc3,12,257545,2001,https://i.scdn.co/image/ab67616d0000b2738378d6e1ca31b202ac5791d9,False,47,"['stoner metal', 'stoner rock']"
+Ke T' Oniro Egine Efialtis,Despina Vandi,False,09tLKlpFjcji1QNeBkHbYq,1,242120,2004,https://i.scdn.co/image/ab67616d0000b273f6b4780c73d4545414345b98,False,55,"['greek pop', 'laiko']"
+No Volveras A Mi,KALIMBA,False,0JKvFF9nqQxmrb1g9hwyTc,20,208093,2007,https://i.scdn.co/image/ab67616d0000b273ac6672700c3a5367672716c2,False,61,"['latin arena pop', 'latin pop', 'mexican pop']"
+Please Heart_ You're Killing Me,Eleanor McEvoy,False,093cIx3o9SREuC1uBeIgTJ,3,280040,1999,https://i.scdn.co/image/ab67616d0000b273e1d27a1f4e3b337b79b719fd,False,36,"['irish folk', 'irish singer-songwriter']"
+Le Fiacre,Gisele MacKenzie,False,1Tz3oiAUPwtmbQtzzPrjR8,0,142773,2000,https://i.scdn.co/image/ab67616d0000b273838b87f4262eb3b5dd8f22cf,False,16,['deep adult standards']
+Superscout,Sensations,False,5FH7MnhuFQ272TnnG5uHfM,0,165200,2005,https://i.scdn.co/image/ab67616d0000b273f8be7795059bc85956667a86,False,1,[]
+Sophie,Eleanor McEvoy,False,2bos9ja0rxRaFf9IODwX9Y,16,258426,1999,https://i.scdn.co/image/ab67616d0000b273e1d27a1f4e3b337b79b719fd,False,36,"['irish folk', 'irish singer-songwriter']"
+Meeting Daisy,Alexandre Desplat,False,6fDupoXzxA5ePjuHJgm0Y1,24,81706,2008,https://i.scdn.co/image/ab67616d0000b2739badfc05c4f273038d116067,False,65,"['french soundtrack', 'orchestral soundtrack', 'soundtrack']"
+So Many Roads,Joe Bonamassa,False,4rsRYhm78huEfclb5NW5Ps,42,425853,2006,https://i.scdn.co/image/ab67616d0000b273e60d9094d076a1f29b1744b9,False,58,"['blues', 'blues rock', 'electric blues', 'modern blues', 'modern blues rock']"
+You Saved My Life,Kieran,False,1NaBXhWLlCR405t3WUsP7V,2,246563,2007,https://i.scdn.co/image/ab67616d0000b2732bf5964946f2043603912278,False,5,[]
+Madeleine,Marcel Mouloudji,False,4Nd2S5EwD2dlgAPJA92oqX,0,129773,1992,https://i.scdn.co/image/ab67616d0000b27396d893a5f930541e4431a07e,False,44,"['chanson', 'ye ye']"
+Oceans,Vex'd,False,0uXMgNa1KwyAAg55uXbty5,1,299426,2010,https://i.scdn.co/image/ab67616d0000b2731869134edbc2614016844545,False,12,['classic dubstep']
+New Born Soul,The Blind Boys Of Alabama,False,01dDEqf9Ise9l93aUeL1WE,2,176386,2005,https://i.scdn.co/image/ab67616d0000b273daf12a0223f4cda775778d89,False,42,['gospel singers']
+Prends-Moi La Main,Princess Lover,False,4Pd6R07RgJfjtai6dOBVEe,18,262480,2007,https://i.scdn.co/image/ab67616d0000b273763f2734c2b001100a110f5d,False,42,"['rap antillais', 'zouk', 'zouk riddim']"
+Too Tight Blues No. 2,Blind Blake,False,03ylDacz92hS6T26eBay5I,26,173500,1929,https://i.scdn.co/image/ab67616d0000b273ab8b7b9ba5d9a86c325e16ec,False,31,"['acoustic blues', 'bahamian folk', 'country blues', 'piedmont blues', 'pre-war blues', 'ragtime', 'traditional blues']"
+War?,System of a Down,False,5Q7m1Km199HHMB926xxbrs,60,160493,1998,https://i.scdn.co/image/ab67616d0000b2732dc63e977bd5101072adcef6,False,84,"['alternative metal', 'nu metal', 'rap metal', 'rock']"
+El Oro De La Gallina De Los Huevos,Seguridad Social,False,064M2uMIr0VWXnS4zDsA9G,1,254533,1999,https://i.scdn.co/image/ab67616d0000b27391667301b9d9ddb699501109,False,52,"['rock en espanol', 'spanish new wave', 'spanish pop']"
+Splendido Sundance,Al Di Meola,False,5C1TtHv0Qv9B9MmeU3KIjq,13,428200,2022,https://i.scdn.co/image/ab67616d0000b2736ddd3f9a20605059823d616b,False,44,"['flamenco guitar', 'jazz fusion', 'jazz guitar']"
+If You Leave Me Now,Brazilian Tropical Orchestra,False,0K3gBaZce40U27GDoQTI5e,1,174666,1993,https://i.scdn.co/image/ab67616d0000b27304d76e8342d2c2ec0e5b8eea,False,26,[]
+Don't Look Back (Radio Edit),Antigone Rising,False,37MwMEElFB7oPVO76D1Y5l,4,213680,2005,https://i.scdn.co/image/ab67616d0000b27380eca0a3d924d10e133d3623,False,12,['lilith']
+Dekh Le,Sunidhi Chauhan / Anu Malik / Jatin Sharma,False,67VTo7nSPjXrkvGVScsdao,26,203506,2003,https://i.scdn.co/image/ab67616d0000b273519da3dffcedfe12cd1230bb,False,78,"['filmi', 'modern bollywood']"
+Act Won (Things Fall Apart),The Roots,False,4x7uHC8or1AwVeRCh1mULV,31,53800,1999,https://i.scdn.co/image/ab67616d0000b273bac8015c7e47644fb86e27e2,True,62,"['conscious hip hop', 'east coast hip hop', 'hip hop', 'philly rap', 'political hip hop']"
+Down In The Jungle,Monster Magnet,False,3KBk9FF2t3cN08VbTITMJD,8,289066,2000,https://i.scdn.co/image/ab67616d0000b27329cb5a99d735050419c23c87,True,47,"['stoner metal', 'stoner rock']"
+Skymning,Groupa Med Lena Willemark,False,0HKBjytz6pvOwDhveOXoKH,0,228536,2005,https://i.scdn.co/image/ab67616d0000b2732c14b504eda6139ad110f766,False,3,['folkmusik']
+Mientras me quieras,Tranzas,False,3qKbxgIPCcXCiPPXbr7l5P,12,213706,2006,https://i.scdn.co/image/c8d6f14635b286ac7c71450c7c8d69f3d6951b50,False,54,"['ecuadorian pop', 'latin pop', 'mexican pop']"
+Sister Seagull (Live),Be Bop Deluxe,False,6QgdgVtAcq2J2HatkTFhAL,4,222106,2021,https://i.scdn.co/image/ab67616d0000b27325a66e2b06d45c53ace4e2cb,False,29,"['art rock', 'glam rock']"
+Exit People,Fergie,False,7lumSK52PjetJiQLV8ZdB3,18,440275,2009,https://i.scdn.co/image/ab67616d0000b273b2caaf07bbeae5f79ad5bb69,False,71,"['dance pop', 'pop']"
+Te Quiero Mamma,Sergio Dalma,False,1Za0FIT63klXXC8f30DUDc,5,242373,1991,https://i.scdn.co/image/ab67616d0000b273d764cb8e16bd2059d90a8faa,False,57,"['latin arena pop', 'spanish pop', 'spanish pop rock']"
+Salamanders In The Sun,Steve Vai,False,27IzFXjudwC3BTQPn1g7gT,22,145277,2010,https://i.scdn.co/image/ab67616d0000b27390603bd89b33de222664860b,False,52,"['instrumental rock', 'metal guitar', 'shred']"
+Alpha River,Eclier,False,4WVb9xQIvHg2twChHEfoyo,0,322478,2009,https://i.scdn.co/image/ab67616d0000b27389a9ac5e0c5e68515fdf3d5b,False,0,[]
+Pleasure Zone Mix,Joy Kitikonti,False,1gFmoD7NcxWL3boBSv4GRx,1,415000,2009,https://i.scdn.co/image/ab67616d0000b2739172fd01ee066e7dc3b6d9c0,False,28,['italian trance']
+Love Oh Love (Live in Chicago),Leroy Huston,False,6wPLv60wXEAubYdOc95iSm,0,291586,2017,https://i.scdn.co/image/ab67616d0000b2736504e6f81b7af74e080a1be1,False,0,[]

@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Stay Awhile,Danny Williams,False,6skoRWhpvDa9QYiS3M5a0K,0,201626,1996,https://i.scdn.co/image/ab67616d0000b27372f6d0b9249c81c0443a8e0b,False,31,[]
+Everybody's Blues,Furry Lewis,False,7dnjwhcrZtXoAiFy7fqu0j,2,175566,2024,https://i.scdn.co/image/ab67616d0000b27303224bcfdc5ebf11c3c3a5c4,False,26,"['country blues', 'memphis blues', 'traditional blues']"
+Have you got a Minute to spare,Mikey Dread,False,1FsKUooZlpLk0jPnqAedTO,2,251146,1983,https://i.scdn.co/image/ab67616d0000b273505e62b9e3dddd7ba3487f1f,False,37,"['dub', 'old school dancehall', 'reggae', 'roots reggae']"
+Liar in the Glass,Eyes Set to Kill,False,2FCnESq1s2jS7OpeuILj0z,30,238066,2008,https://i.scdn.co/image/ab67616d0000b2735f0cbbb2a5fa8ad240a1d21b,False,41,"['metalcore', 'pixie', 'screamo']"
+Dolorosa (Live),Cali,False,5GYoSaKoQGyFcWqx4VW2Nb,1,418733,2009,https://i.scdn.co/image/ab67616d0000b273e878bd076d0d3f0e3045aab6,False,41,"['chanson', 'french pop', 'french rock', 'nouvelle chanson francaise']"
+Still I'm Sad,Rainbow,False,6SGyIqFinpL3bwsvmCrijd,36,233173,1975,https://i.scdn.co/image/ab67616d0000b2733626f32e555553b537a6493f,False,61,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']"
+Ooh Baby (feat. Lil Bandit & Royal T),Mr. Sancho,False,50KvZSxTV1CRaDzHOOUTnf,0,216426,2009,https://i.scdn.co/image/ab67616d0000b2736001d90b0abaf00ee2515b24,False,39,['chicano rap']
+Pantera Fans In Love,Nerf Herder,False,7IuwYm9J6tMw6emT5ocVLZ,25,200040,2000,https://i.scdn.co/image/ab67616d0000b273b19eb6c572903aaf2f7fdeba,False,34,"['power-pop punk', 'socal pop punk']"
+Looking For Clues,Robert Palmer,False,7zYPlyTDW35Cqf2qK6y7o1,41,292240,1980,https://i.scdn.co/image/ab67616d0000b273465552dcea0a15db8715d655,False,60,"['album rock', 'classic rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'singer-songwriter', 'soft rock', 'yacht rock']"
+Personne Stop (feat. Nixon),Royal S,False,10sFCvPMOq9CiRKdQcy0YY,0,286573,2008,https://i.scdn.co/image/ab67616d0000b2735f692162f27b4081996e4d01,False,10,['jumpstyle']
+After The Dark,Jimmy McGriff,False,0BUFBDHSMZHg5AKAasffDv,1,334226,1988,https://i.scdn.co/image/ab67616d0000b2736a67d98b8f8d5c7cdb695782,False,37,"['hammond organ', 'jazz funk', 'jazz organ', 'soul jazz']"
+Girls All Pause,Kurupt,False,4Z7mzqSik40hPKbOeUHMIB,27,208000,2012,https://i.scdn.co/image/ab67616d0000b273b3d0e4f3a732275aef023ba6,True,63,"['g funk', 'west coast rap']"
+Sensible,Sun Yan-Zi,False,0jh9UpnLusXOkgqxZzpNNu,17,263640,2007,https://i.scdn.co/image/ab67616d0000b273ddacdfea10f4357a9be174ea,False,62,"['mandopop', 'singaporean mandopop', 'singaporean pop', 'singaporean singer-songwriter']"
+Death Of Neira,Nightfall,False,0YYLIU4JURgQsHJMZecKzr,1,272693,2003,https://i.scdn.co/image/ab67616d0000b273a0fa1b1f4a938bbcfb919ec6,True,15,['greek metal']
+My Lord,David Banner / Sky / Marcus,False,1PCB3zOEW50KsI6zo8uKQt,7,259706,2003,https://i.scdn.co/image/ab67616d0000b2734526178c8248e3c45a3f99ec,True,53,"['conscious hip hop', 'crunk', 'dirty south rap', 'mississippi hip hop', 'southern hip hop']"
+Whispering Grass,The Knightsbridge Strings,False,3wqzXFDwy3nZbZ38GxZNQK,0,188440,1959,https://i.scdn.co/image/ab67616d0000b2733caed973486ff30707554773,False,0,[]
+Occasional Rain,Terry Callier,False,6SbBuQIcxth9hiGZnYMXaE,10,243480,1972,https://i.scdn.co/image/ab67616d0000b2731defb21f0caa73761e153818,False,45,[]
+Janice's Party,Fountains Of Wayne,False,26acaraVrO13gAXPlOK4an,10,165573,2005,https://i.scdn.co/image/ab67616d0000b273f6a9b50e1f2b9d04eef6aaaf,False,60,"['pop rock', 'power pop']"
+Otra vez,Abracadabra,False,0zaJgX7H2lLGqxHtwQK0tp,10,199271,2020,https://i.scdn.co/image/ab67616d0000b273871737f150e3350bf4654c7b,False,46,['grupero romantico']
+Endless Ocean,Event Horizon,False,5V7oachEp4d4hDyPYNw3Hj,5,441533,2001,https://i.scdn.co/image/ab67616d0000b2734581e108d982f597c77820b6,False,1,[]
+Ya Got Me,Nancy Walker,False,6X4DHxXX423fMnDzLO4k3W,0,228066,1996,https://i.scdn.co/image/ab67616d0000b273847e5d560b31bef2f08f08c0,False,1,[]
+The High and The Mighty,Roger Williams,False,0BBOVCgaSdgGs9ClgM6men,37,161626,1958,https://i.scdn.co/image/ab67616d0000b273519f546c80d13678993e2358,False,44,['easy listening']
+Again,Janet Jackson,False,1aJnGme5ZRltYTp8FJ52eZ,62,301200,1997,https://i.scdn.co/image/ab67616d0000b2732416d363e4220c21c5454efe,False,67,"['dance pop', 'r&b', 'urban contemporary']"
+Keep On Doing What I'm Doing,The Jackson Southernaires,False,2WA1dBzy0IEFYxe9BhgW6V,1,193266,1976,https://i.scdn.co/image/ab67616d0000b27314e663c92b970e0686aaa77a,False,28,['praise']
+Tobacco Spit,Bare Jr.,False,2KIc6zpl8T0e37KHp9238V,2,228133,1998,https://i.scdn.co/image/ab67616d0000b2731d0366a2417c9a06e8e5b143,False,8,[]
+Just One Of Those Things,Dionne Warwick,False,0LUxrWebVe8rsiHAKj4Miw,2,210973,1990,https://i.scdn.co/image/ab67616d0000b2735ecf046defa2ce0e38686112,False,63,"['adult standards', 'brill building pop', 'disco', 'quiet storm', 'soft rock', 'soul', 'vocal jazz']"
+Je n'irai pas ailleurs,France D' Amour,False,1o5JIpDpnRdU2qJ3OjuuL8,28,229786,2009,https://i.scdn.co/image/ab67616d0000b27378ff4dfd3401221ed380f38d,False,33,"['auteur-compositeur-interprete quebecois', 'chanson quebecois', 'rock quebecois']"
+...and Heavens Cried Blood,Swallow The Sun,False,3zFaQeP7iCmMntiJgPwGLG,23,377800,2009,https://i.scdn.co/image/ab67616d0000b27306730e4a53990e16107c6b19,False,45,"['doom metal', 'finnish death metal', 'finnish doom metal', 'finnish melodeath', 'finnish metal', 'melodic death metal']"
+Domino,Kiss,False,4h8Ur8W1zGHVwihvIyW12T,15,240493,1992,https://i.scdn.co/image/ab67616d0000b273d70b66e62eeef929f1c1782b,False,74,"['glam rock', 'hard rock', 'rock']"
+Where in the World,Tony Martin,False,3ZTvUBe6GoMIeYQj5qtIn5,0,192546,2009,https://i.scdn.co/image/ab67616d0000b27358798a40449253a6de15c440,False,27,['deep adult standards']
+Dedicado,Miguel Gallardo,False,4HtQZuE6kEdw2CLZSQQplm,33,227853,2016,https://i.scdn.co/image/ab67616d0000b2738d8c5985473778847541e33b,False,60,"['pop romantico', 'ranchera']"
+To Your Arms of Love,Jah Cure,False,5lkN5WcRm4qiJusUhC8hRD,7,231213,2009,https://i.scdn.co/image/ab67616d0000b273c448e47354f5af1de89b4069,False,55,['reggae fusion']
+Aguas Claras De Olimpos,Pescado Rabioso,False,2pOTg0rJjwuZaqzBicGq1w,25,525773,1973,https://i.scdn.co/image/ab67616d0000b273714844f9b7c64a47b5bd2c93,False,55,"['argentine rock', 'rock nacional']"
+What Goes Around...Comes Around,Justin Timberlake,False,3pD0f7hSJg2XdQ6udw5Tey,71,448573,2006,https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091,False,83,"['dance pop', 'pop']"
+Jack's Lament,The All American Rejects,False,4cFec3TCGU005G9O2bPFCH,35,194066,2006,https://i.scdn.co/image/ab67616d0000b2733183d685e21fad0233710ac3,False,68,"['alternative metal', 'modern rock', 'neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-grunge']"
+I'm On My Way Blues,Washboard Sam,False,2ArH0XkbB0G7MYDG96Mn0U,0,169221,1993,https://i.scdn.co/image/ab67616d0000b273afb8c1bb9a8597797be27eaa,False,10,"['chicago blues', 'traditional blues', 'washboard']"
+Appapas Del Calabar,Los Van Van,False,6ANU9mG8aM4glQp7AVBFll,14,268053,2003,https://i.scdn.co/image/ab67616d0000b2734cd9ff53913a993cea341c0f,False,46,"['cuban funk', 'cuban rumba', 'salsa', 'salsa cubana', 'timba']"
+Side Street,Viktor Krauss,False,1Ps4olEgCls7CTabQA4v8P,1,243160,2004,https://i.scdn.co/image/ab67616d0000b273b60c7346f68fbd19ad1440b6,False,16,[]
+Get Away,Rooney,False,0Wl9ZicDknlGzuSd0GvslY,1,171960,2007,https://i.scdn.co/image/ab67616d0000b273100d2c6b0947d7d2ea707530,False,42,['modern power pop']
+Moonlight Lover,Barbara Jones,False,5GIdY8aAAxqgkGwicRwDPG,0,243386,2010,https://i.scdn.co/image/ab67616d0000b27326e482a8d0b9ca08b43d2072,False,29,['lovers rock']
+Les Corps Glorieux: III. L'Ange aux parfums,Timothy Byram-Wigfield,False,4JzpVJo4wBiWIaJ0HoKCIB,0,473466,2006,https://i.scdn.co/image/ab67616d0000b27350058d20b68a2ddce1ad8129,False,37,"['avant-garde', 'classical', 'contemporary classical', 'early modern classical', 'laboratorio']"
+Think About Me,Sister Hazel,False,6YqFgzAF8yedYPplcxC2sv,14,188573,1997,https://i.scdn.co/image/ab67616d0000b273ec9714658411bb44e6bbf798,False,51,"['neo mellow', 'pop rock', 'post-grunge']"
+Meat Parade,Lockwood,False,6TnJCFhA6yQo9RTpc9RLzp,0,256487,2001,https://i.scdn.co/image/ab67616d0000b273df36b80e85c56b8f6370a386,False,1,[]
+Even If I Tried,Emilio,False,2s9vQfqU8LixIIYQmZx3R2,22,176666,1995,https://i.scdn.co/image/ab67616d0000b2732a1ad7b7d6b24c81418a8d54,False,19,[]
+Watermelon Man,Albert King,False,0po72HXIkB40vDqxyiuwTW,11,244368,2024,https://i.scdn.co/image/ab67616d0000b273d6a2b1d44ddd97add61f6efe,False,53,"['blues', 'blues rock', 'electric blues', 'memphis soul', 'soul blues', 'traditional blues']"
+Flamenco Sketches (Intro),Jason Miles,False,5JQbgkc3CALBZEvfP2fHJt,0,30400,2005,https://i.scdn.co/image/ab67616d0000b2738c1435899c0f93a77dc2f969,False,13,[]
+Mumbling or hearing loss?,Jeanne Robertson,False,5mWJZywrGSJCrDnUhDAoDF,5,140093,2007,https://i.scdn.co/image/ab67616d0000b2730517419c0b6470f4413173a2,False,18,"['clean comedy', 'comedienne']"
+Turn It Around,Bob Neuwirth,False,0uvtQH7nnVqRAmI5jhqqW2,0,209493,1998,https://i.scdn.co/image/ab67616d0000b273c5120deb0121638860826958,False,16,['alternative roots rock']
+Summer Of Love,Novaspace,False,6i5YSqN1iKbyDKnQ5lbcxt,6,239413,2004,https://i.scdn.co/image/ab67616d0000b27359a909507683065c6e3ef3ea,False,37,"['cantaditas', 'eurodance']"
+Escuta_ Noel,Maysa,False,2keGEMXOlUtiVb0YFXqktZ,2,177600,1957,https://i.scdn.co/image/ab67616d0000b27324685ab3aa40131e774b6289,False,40,['velha guarda']

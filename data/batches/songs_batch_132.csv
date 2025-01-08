@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Two of a Kind,Frost,False,29ZEfLaalWP8wNQuZAdmBO,0,272760,2008,https://i.scdn.co/image/ab67616d0000b2734226d1118d03c2298d03ffad,False,0,"['birmingham metal', 'british black metal']"
+Gangsta Lean (Gangstapella),D.R.S.,False,0eSw72pv55YgdaqvoFnzNh,10,235337,1993,https://i.scdn.co/image/ab67616d0000b273ab539ffb052b24fac9b39834,True,23,[]
+Bed Of Roses,Warrant,False,14q2jY9n9KY24Onk5QyObf,28,244093,1990,https://i.scdn.co/image/ab67616d0000b273ca00891c544ffcab44bf7a34,False,56,"['album rock', 'glam metal', 'hard rock']"
+Every You Every Me (Infected By The Scourge Of The Earth),Placebo,False,2uqbbxQDNXjwVTVi7K1EU1,12,237566,1998,https://i.scdn.co/image/ab67616d0000b273ebe9f3a71b869ccc0574759d,False,66,"['alternative rock', 'britpop', 'permanent wave', 'rock']"
+Jole Brun,Harry Choates,False,4ylNLBOd2gInBUzgZemb5B,0,138200,1993,https://i.scdn.co/image/ab67616d0000b27344b5823578ce8415de529799,False,9,"['cajun', 'country boogie']"
+Celluloid Heroes,Bon Jovi / Ray Davies,False,6OJJK6H3DTG7md3ieYVRE4,17,318253,2010,https://i.scdn.co/image/ab67616d0000b2734a98e10ea88732d1f4384fe3,False,32,[]
+Bonita,Barbara Lusch,False,5zy4ycMgOkkN2Be1zarP4R,0,263813,2008,https://i.scdn.co/image/ab67616d0000b2734c3c923b7eadbdf007e34a06,False,2,[]
+Fly Talkin',Lil Wayne,False,44vyhR5cmJ4cAKcTfUWDBV,19,95066,2002,https://i.scdn.co/image/ab67616d0000b2732192e5c0e33056913bad42fa,True,89,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']"
+Indo,Studio,False,7uMqTb40eOMZz2qrLUaiN3,30,137000,2024,https://i.scdn.co/image/ab67616d0000b273210a86c4419806b90719725c,False,44,[]
+Losing track,You Should Go Ahead,False,0jex9whNAWfRLXq5q5pVUM,0,235533,2010,https://i.scdn.co/image/ab67616d0000b273140082724e2f9e479f7c1707,False,0,[]
+Eleanor,Low Millions,False,0BBJthWfuC0TiJ9WTCLyvf,22,190600,2004,https://i.scdn.co/image/ab67616d0000b2738492678914d520580d5e7294,False,14,['grunge pop']
+Linoleum (live),NOFX,False,31YbjPpwXVzfPz2K00Pr36,23,135533,1995,https://i.scdn.co/image/ab67616d0000b273d749424a9a409f5469bf5577,False,61,"['punk', 'skate punk', 'socal pop punk']"
+The Drug Suite,Stew,False,0Y5avb3otkWItyWoIsZATa,0,569160,2002,https://i.scdn.co/image/ab67616d0000b273404d4ad306e1d5cf1b66fae9,True,17,[]
+Was wollen wir noch mehr?,Die Fantastischen Vier,False,2LubqRNJIElw2QovuEIlSs,13,316546,2010,https://i.scdn.co/image/ab67616d0000b2732b16e4f950ae1e614c7f4b89,False,57,"['german pop', 'german rock', 'oldschool deutschrap']"
+Final Solution,Blanks77,False,040b5PpEGVltoOsBJZVUP2,3,121026,1996,https://i.scdn.co/image/ab67616d0000b273090bd5e0f5dbd8d2a5d064c5,False,15,"['hardcore punk', 'new jersey punk', 'oi', 'street punk']"
+(eskomolto),Pagan Wanderer Lu,False,3EghwWsFE3TZJ9Wo5hPBdM,0,131440,2007,https://i.scdn.co/image/ab67616d0000b27362a0489deb8cd59470772fc2,False,0,['cardiff indie']
+Bad Man Story,Beenie Man,False,3y9KyJND4OzzaGzU6y4thR,17,179999,2011,https://i.scdn.co/image/ab67616d0000b2731e216eaf425e0a361d5b510d,False,62,"['dancehall', 'jamaican dancehall', 'reggae fusion', 'soca']"
+Child Support,DJ Nasty,False,3w7fHQWYsuFuPWl5j3agSR,14,221796,2006,https://i.scdn.co/image/ab67616d0000b2732beb3b473928485942a19cc7,True,20,['ghettotech']
+Il N'Etait Pas Sentimental,Line Renaud,False,2KO8S2eQtGSub11mP8OIAd,0,141932,2024,https://i.scdn.co/image/ab67616d0000b273e6f7c779e932badbcc43d765,False,32,"['vintage chanson', 'ye ye']"
+Turn It Up,Devine and emilyPLAY,False,6fTMN5X5PIVEY0vmCPpaRA,0,375652,2009,https://i.scdn.co/image/ab67616d0000b273ba53b625d2eec7cb87a32907,False,8,[]
+Rolo Le Baroudeur,Julien Clerc,False,2wjpl3AiyoypeuWqgje6hb,3,207533,1971,https://i.scdn.co/image/ab67616d0000b273f7dcbd5b2e31aaa4e86577ac,False,54,['chanson']
+Job's Defiance,Don Francisco,False,2Ow0TQutKJMkPNsIoSRZf0,2,266466,1994,https://i.scdn.co/image/ab67616d0000b273337cc882669266e947e044c1,False,31,['jesus movement']
+Chasing Windmills,Heavy D,False,1kRUFANTyDp0aY86AOxUx4,5,207013,2008,https://i.scdn.co/image/ab67616d0000b273e616e7553428fb6cef9897d5,False,44,"['contemporary r&b', 'new jack swing', 'r&b', 'reggae fusion']"
+Slipping Away,Vivian,False,32UBYTr4JItNvjfXmzriCw,0,192440,2001,https://i.scdn.co/image/ab67616d0000b2734fff3e6d077a7f6d1ae9b28e,False,10,[]
+All Night Worker,Dave Alvin,False,1ElOeaMU51Kb0IBTqRJ7bR,0,255933,2006,https://i.scdn.co/image/ab67616d0000b273280c1cd3e15b4fcbfd3feee5,False,35,"['alternative country', 'country rock', 'folk', 'heartland rock', 'roots rock']"
+Coward,Hoods,False,6M8To74NDgKYP8BfJcKhzr,30,81680,2019,https://i.scdn.co/image/ab67616d0000b2737928ee826436a96dfa7720c2,False,32,"['beatdown', 'hardcore', 'straight edge']"
+No Reply (Demo),Buzzcocks,False,6xX5mDOjYeVj0wYYHQSWZb,1,135173,1997,https://i.scdn.co/image/ab67616d0000b2739792279be4c8dd9b3e9bee9c,False,50,"['alternative rock', 'britpop', 'madchester', 'new wave', 'post-punk', 'punk', 'uk post-punk']"
+Long Lonesome Blues,Blind Lemon Jefferson,False,01vhv1CufwLG5FpKkJq0Nr,0,180440,2006,https://i.scdn.co/image/ab67616d0000b27388169d356d861709a0686a47,False,28,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'gospel blues', 'pre-war blues', 'texas blues', 'traditional blues']"
+Nature Boy,Quadro Nuevo,False,1SVRzXNDnqWohLXkkRwjPF,8,133920,2002,https://i.scdn.co/image/ab67616d0000b27351016159603bbbd8af2db9de,False,42,['tango']
+Lonely Shooting Stars,Sandy Lam,False,1CkG3aOMTrMZUI44Fvaoes,22,239960,2000,https://i.scdn.co/image/ab67616d0000b2737e1f3e6047aba831cd3b4a4f,False,53,"['c-pop', 'classic mandopop', 'mandopop']"
+Where You Think You're Goin'?,Darryl Worley,False,3WN1jgkntz14WK1kSZIRQZ,3,223133,2002,https://i.scdn.co/image/ab67616d0000b273d50a7bc3269da9353ac55719,False,41,"['country', 'country road']"
+Unsafe Sextet/Gilded Hearts of Booklovers,Busdriver,False,22GfmeZZUCMHgQNaMJJfxv,4,311120,2009,https://i.scdn.co/image/ab67616d0000b27385279165bac7061102e0e577,True,39,"['abstract hip hop', 'alternative hip hop']"
+Test 72,Mush,False,7p1xeslpepPmzlge3TJTd9,0,384000,2009,https://i.scdn.co/image/ab67616d0000b273170fcd3ffe1accf26e1d7263,False,1,[]
+One Of These Days,Mike Bloomfield,False,3NN23aQkZGC3wBSubgXskg,0,147065,1979,https://i.scdn.co/image/ab67616d0000b273154405538673f52a9a7b773f,False,38,"['blues', 'blues rock', 'chicago blues', 'electric blues', 'traditional blues']"
+Con La Misma Tijera,Los Originales De San Juan,False,13gYOnFnqBqRTuwwoC98a0,22,196946,2010,https://i.scdn.co/image/ab67616d0000b273027a5851fee6caa2635c06c7,False,64,"['banda', 'musica mexicana', 'norteno']"
+Freak,Stephen Pearcy,False,6JxbEbRBCrfofgipnIKENu,1,216627,2007,https://i.scdn.co/image/ab67616d0000b273aabdfa48eb3960cb74229bcb,False,26,['glam metal']
+Tirador (Carlos Jean Remix),Hevia,False,21WZRiNQyN9wc6dANlxC1Y,3,258853,2005,https://i.scdn.co/image/ab67616d0000b273e70188dfe18048d864cded19,False,35,"['gaita', 'musica folk asturiana']"
+Rock Island Blues,Furry Lewis,False,4q7busgkIkJzakjVbh3MRu,2,167021,2024,https://i.scdn.co/image/ab67616d0000b27303224bcfdc5ebf11c3c3a5c4,False,26,"['country blues', 'memphis blues', 'traditional blues']"
+Wait And Bleed [Demo],Slipknot,False,2EpqvJ8aga45T4y11w5zth,35,154280,2009,https://i.scdn.co/image/ab67616d0000b273baf04a1d30db6ac9de26da7d,False,81,"['alternative metal', 'nu metal', 'rap metal', 'rock']"
+"Messiaen : Et exspecto resurrectionem mortuorum : IV ""Ils ressusciteront_ glorieux_ avec un nom nouveau",Pierre Boulez,False,45yqbXiyd6xFbEAEDIpUiO,0,530706,2000,https://i.scdn.co/image/ab67616d0000b273ef3d466cc3b72889d30e450b,False,37,"['avant-garde', 'classical', 'contemporary classical', 'early modern classical', 'laboratorio']"
+The Last Thing I Need,Big Mike Griffin,False,4W6uKhEex0OycjwC7zH0qZ,0,232840,1995,https://i.scdn.co/image/ab67616d0000b2735e9a35439cf2cf7132b42f79,False,1,['power blues-rock']
+Bury Me,Ashes to Ashes,False,5fgjYbKkE1ym1682CF0w7m,0,235173,2006,https://i.scdn.co/image/ab67616d0000b27331f1d49c17a7bf0baa98d661,False,0,[]
+I Remember/Great Is Thy Faithfulness,Kathy Troccoli with Aaron Jeoffrey,False,3ifptvj8bSLlDycV6tox6G,0,417840,1998,https://i.scdn.co/image/ab67616d0000b273882efeb9e7519704fcb944e4,False,42,"['christian music', 'classic praise']"
+Getting Closer,Cocoa Tea,False,43EYvPnKwQ8aMSznnEcwD5,0,243173,1993,https://i.scdn.co/image/ab67616d0000b27320db48dd88797917fd7d1bb4,False,49,"['dancehall', 'lovers rock', 'old school dancehall', 'reggae', 'roots reggae']"
+Tough Guy,Open Hand,False,16Yjz8K40o4Z3DZ1iowXjC,11,187800,2005,https://i.scdn.co/image/ab67616d0000b273c90f20164563d508abcde8bd,False,20,['spacegrunge']
+Bubble Music,Cam'Ron,False,3X3bxDDMPEVxwH54upvRH1,25,231973,2004,https://i.scdn.co/image/ab67616d0000b27341378d36f9f76bc8e6950f89,True,60,"['battle rap', 'east coast hip hop', 'harlem hip hop', 'southern hip hop']"
+Flesh And Blood,Mary Black,False,45LPrBFYl3JXcEZY1G8T5Y,20,252133,1993,https://i.scdn.co/image/ab67616d0000b273914c04d47974603e0bc20274,False,45,"['celtic', 'irish folk']"
+Total Vision,David Tao,False,4QgfXncODUSYqiBptxXbxl,0,194266,1990,https://i.scdn.co/image/ab67616d0000b2737eea41b3e5d5617b02575e13,False,0,[]
+Yellow Brown,Jesus Jones,False,40WmmvWptVjpRp80gcUBZ4,6,203773,1993,https://i.scdn.co/image/ab67616d0000b273188cfe2517a8bf0952ca9b0d,False,42,"['britpop', 'dance rock', 'grebo']"
+Buckle Down (2002 Digital Remaster),Red Hot Chili Peppers,False,6eHgupxpb00Lzygak9eTYQ,28,204266,1984,https://i.scdn.co/image/ab67616d0000b27329e7d4966ce2ec927224b730,False,84,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']"

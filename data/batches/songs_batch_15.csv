@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Evalia,Placebo,False,2dw8j9XxKteZL3t4O8ZZmA,12,260706,2016,https://i.scdn.co/image/ab67616d0000b273b53e6b2c22826cc9dc07314c,True,66,"['alternative rock', 'britpop', 'permanent wave', 'rock']"
+Boulevard In Heaven,Barbara Fairchild,False,4Y8LLDkvdDHT8aJvmkXrs6,0,236573,2006,https://i.scdn.co/image/ab67616d0000b273608e476e6c4bd2648a035f94,False,20,"['arkansas country', 'classic country pop', 'country gospel']"
+Two Four One,Dave And Ansel Collins,False,6iSXY5ZgcDdkDeRmNb5qg0,4,151880,1971,https://i.scdn.co/image/ab67616d0000b273f57d5d4f3972072ddea021ff,False,32,['early reggae']
+Stagger Lee,Nick Cave & The Bad Seeds,False,4ljz5s6Rt6WmEmUcg3Ie95,39,315146,2011,https://i.scdn.co/image/ab67616d0000b27368ff574ecb5b8eeb3f580ebc,True,66,"['alternative rock', 'permanent wave', 'singer-songwriter']"
+I'll Come Running,Connie Smith,False,7AM9VDxalLyDVQtWeWxCUk,7,124075,2018,https://i.scdn.co/image/ab67616d0000b273cf114448107267f1408df0a7,False,41,"['classic country pop', 'nashville sound']"
+Thresh Hold,Uphill Battle,False,6SDYBqC4uzO85Evc4Cj2Hk,0,166373,2004,https://i.scdn.co/image/ab67616d0000b2730fc407aea7c6cc9de6007fb8,True,2,['american grindcore']
+Boogie,Wilks featuring pee wee ellis,False,4V8Yk9jWu6s0AmsG1vTzmD,0,233000,2013,https://i.scdn.co/image/ab67616d0000b273133c3a0f1ef48abc3c60e962,True,1,['pop r&b']
+Neir,Mau Mau,False,0waFh8NZ5hb0fWg0EH3rKs,2,255493,1992,https://i.scdn.co/image/ab67616d0000b27394ff7e96320e7525eb31d894,False,16,"['folk rock italiano', 'musica etnica', 'musica piemonteisa']"
+Survivalism,Nine Inch Nails,False,04k85vfh2EbwmBFG7ssCF0,32,262493,2007,https://i.scdn.co/image/ab67616d0000b273f7bfb912023ea0333134de93,False,68,"['alternative metal', 'alternative rock', 'cyberpunk', 'electronic rock', 'grunge', 'industrial', 'industrial metal', 'industrial rock', 'nu metal', 'post-grunge', 'rock']"
+Sarah Palin {I Wanna Lay Pipe},John Brown,False,5BYfKaCDiTM9TBZ8f3ya6y,0,241062,2008,https://i.scdn.co/image/ab67616d0000b2733a3849d232d764047debc731,False,1,[]
+Nowhere To Run,Michael McDonald,False,148qBGyh7UTRcG2sLugvPe,17,193760,2004,https://i.scdn.co/image/ab67616d0000b2737f6bfd1586bf305337134d76,False,59,"['mellow gold', 'soft rock', 'yacht rock']"
+Chlore,Pascal Obispo,False,5IzjFqs3Ajmvr8IsZlEIyw,5,231600,1994,https://i.scdn.co/image/ab67616d0000b273750217eaced1026c5a6e8c1e,False,52,"['chanson', 'french pop']"
+AquaCityBoy,K-OS,False,1yIN3ZBCdizLar4hJrKcUl,5,161640,2006,https://i.scdn.co/image/ab67616d0000b27355e4f0a196192a3d65baf7cc,False,44,"['alternative hip hop', 'canadian hip hop', 'canadian old school hip hop']"
+Santa Claus Is Coming To Town,Buddy Miles,False,6PCcvtZJhoNO2fVjuRoNjP,6,177693,1991,https://i.scdn.co/image/ab67616d0000b27386e3c7e21dcc27943a970a5f,False,36,"['psychedelic soul', 'rock drums']"
+Fat Tianne,Tanto Metro & Devonte,False,3qlsdlysIhETJADuDgCKDU,6,208453,2009,https://i.scdn.co/image/ab67616d0000b2734817679f338b5f23a4536803,False,46,"['dancehall', 'jamaican dancehall']"
+Houston Anthem,DJ Nasty,False,3m3BKualaLRyxhBqbwCq06,0,188689,2008,https://i.scdn.co/image/ab67616d0000b2734f54fa5663357b75b409c8da,False,20,['ghettotech']
+Til The Storm Passes By,Bill & Gloria Gaither,False,0ikvqzSuoQPTsYd013Uma2,6,175293,1993,https://i.scdn.co/image/ab67616d0000b273cf3b5f665e9d4fdaf1e5f647,False,42,['southern gospel']
+Width Of The World,Tin Hat Trio,False,6f3Fj783uKT2Bk4D8kO8Z9,4,407026,2000,https://i.scdn.co/image/ab67616d0000b273f40b4a3ad3a5e264b8e56f3e,False,29,"['indie jazz', 'modern chamber music']"
+Music Of The Sun,Rihanna,False,3vPkkIsaQ5NqOqvj7Ht8kR,34,236026,2005,https://i.scdn.co/image/ab67616d0000b273b21609e1a2d7c1b7ba8efae2,False,92,"['barbadian pop', 'pop', 'urban contemporary']"
+More Than One Love,Venice,False,2H7PObVtG6h9Hg4xrvYCyH,0,74675,1991,https://i.scdn.co/image/ab67616d0000b2737fb8b4f07012aeefbe5b08b3,False,14,[]
+Street Lights,Kanye West,False,6j8gTlbhj9KJSeypNcNAS9,60,189906,2008,https://i.scdn.co/image/ab67616d0000b273346d77e155d854735410ed18,False,93,"['chicago rap', 'hip hop', 'rap']"
+Fire (Orange Factory Dub),Dolce; Orange Factory,False,4fJuLnHGnID8ca0KKor9zq,0,419760,2002,https://i.scdn.co/image/ab67616d0000b273af6ab647c08f228a9a30a1a7,False,12,[]
+Pegadito,Tommy Torres,False,3NkWUspEJzcMcUJKoX1KJa,44,219213,2008,https://i.scdn.co/image/ab67616d0000b273df33c3cc8734d4f969ec4119,False,59,"['latin pop', 'puerto rican pop']"
+Curiosity,The Jets,False,5bEukFlKKliiP6y1MaDk1O,13,300106,1985,https://i.scdn.co/image/ab67616d0000b273b59106c37ddf4ebaff826864,False,50,"['freestyle', 'minneapolis sound']"
+Cuando Ya Me Empiece A Quedar Solo,Sui Generis,False,60tOZaaBTUXfiqxShmGEY1,41,217960,1973,https://i.scdn.co/image/ab67616d0000b273a54654c1c6a625909b473363,False,55,"['argentine rock', 'rock nacional']"
+La Matanza,Grace Gale,False,01xe6EIr6ivVTqf5BplXGv,2,247733,2008,https://i.scdn.co/image/ab67616d0000b2734430c73c0665db72d71803cd,False,10,['screamocore']
+Medley Final,Kassav',False,5AoJ6rycjhVWeAWSf1uUF6,10,734400,1996,https://i.scdn.co/image/ab67616d0000b2736da1cc03e7bd73fa6258af9f,False,51,"['musique guadeloupe', 'zouk']"
+Beautiful,Eminem,False,1HR2CTi0ytRJIcik1QKdOa,67,392826,2009,https://i.scdn.co/image/ab67616d0000b273506c4cc93e5a6234164125e1,True,93,"['detroit hip hop', 'hip hop', 'rap']"
+Juggernaut,Cauda Pavonis,False,1GVW5ix4XaTzG0VVuldzpj,0,210653,2008,https://i.scdn.co/image/ab67616d0000b273d61360948c860deaeb85df4d,False,8,['corrosion']
+On Tha Rox,King Tee,False,5oOk8m74m3mDbJthxGvgZo,11,109133,1993,https://i.scdn.co/image/ab67616d0000b27357e6bf5751c66d90c8405f1a,True,42,"['g funk', 'old school hip hop', 'west coast rap']"
+All Over Now,X,False,1qNcUzOO5lqcvU49QnSzUN,28,170000,2010,https://i.scdn.co/image/ab67616d0000b273ff21d3f5f774216ad86adabe,False,86,"['adult standards', 'easy listening', 'lounge', 'swing']"
+L'Amour en Heritage,Alain Morisod,False,0Jvy9b3zx4iGB9GBHk91BW,2,241600,2001,https://i.scdn.co/image/ab67616d0000b2732895a480f8e713102e489f45,False,43,[]
+No More Troubles,Sunnyland Slim,False,0vDXgOmD7prPGbMA3pzOn3,0,345106,2005,https://i.scdn.co/image/ab67616d0000b273c4d3b51fb86f4e4e41b5499b,False,24,"['chicago blues', 'delta blues', 'piano blues']"
+Two-Sided Politics,Suicidal Tendencies,False,2ytzNU7aRj6ro9OCiaMExq,41,63760,1983,https://i.scdn.co/image/ab67616d0000b273ff66248fdc73fb872acf7087,False,56,"['alternative metal', 'california hardcore', 'crossover thrash', 'funk metal', 'hard rock', 'hardcore punk', 'metal', 'nu metal', 'old school thrash', 'punk', 'thrash metal']"
+Firedance,Mystic Rhythms Band,False,2yScBrg0zVe6WnafJLfCIL,0,206266,2006,https://i.scdn.co/image/ab67616d0000b2737665b36e103f33dd9dd617f8,False,8,['world chill']
+The Keys,Jerry Goldsmith,False,0rLKQTH3NNeVVju83zJpDa,3,114000,1997,https://i.scdn.co/image/ab67616d0000b2735454562ad7b91633be1ae156,False,52,"['classic soundtrack', 'orchestral soundtrack', 'soundtrack']"
+Prelude In C Minor From The Well Tempered-Clavier,Steve Erquiaga,False,5W2p20QLbqKDYU93H7XyKg,11,184293,1994,https://i.scdn.co/image/ab67616d0000b273a0244951c5b09f770d7401b7,False,80,"['baroque', 'classical', 'early music', 'german baroque']"
+Love Can Run Faster,Robert Palmer,False,2g1mRG3cPzVdtJBRX5GeAw,13,245160,1978,https://i.scdn.co/image/ab67616d0000b273d21768bf9d19871c505e0aa2,False,60,"['album rock', 'classic rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'singer-songwriter', 'soft rock', 'yacht rock']"
+Juste Une Fois,Alexis HK,False,01nh6UIimaU8LwY5R705AE,1,98586,2004,https://i.scdn.co/image/ab67616d0000b27301fb4ac224e0279ab8444996,False,36,"['french folk pop', 'french rock', 'nouvelle chanson francaise']"
+New Detroit,Neon Blonde,False,10PJyZYMJ9RbdmjNZw395V,7,170720,2005,https://i.scdn.co/image/ab67616d0000b27372fe0f1d1b51752b85db0909,True,12,['sasscore']
+Proud,Korn,False,0YDVWdAuSTqrFqpfEIugT1,31,206800,2006,https://i.scdn.co/image/ab67616d0000b27316ca70ae96340e9f5f605690,True,78,"['alternative metal', 'funk metal', 'hard rock', 'nu metal', 'post-grunge', 'rap metal', 'rock']"
+Hopelessly,Epitaph,False,0lbbdNTYiyj3pmmjcZIhun,3,494253,1971,https://i.scdn.co/image/ab67616d0000b2733587cafb5f7c8184215ea330,False,14,"['german hard rock', 'german prog', 'german rock', 'psychedelic blues-rock']"
+da da Diamonds,Soul Ballet,False,1YphfIb2VViV4sGOjnmzTe,11,224853,2007,https://i.scdn.co/image/ab67616d0000b2739edb8e076fc5df9c14f13fc6,False,18,['smooth jazz']
+The Blue Side of The Sun,Sigmatropic,False,4nh8ztGzYlcLVCAVDx4pmX,0,235800,2007,https://i.scdn.co/image/ab67616d0000b273778df268727c15e1169121dc,False,14,[]
+Let's Have Some Fun,Rodney O_ Joe Cooley,False,76vSdM1ERmtHMBD7J6mr46,14,227893,1989,https://i.scdn.co/image/ab67616d0000b27366a9086be2dacf97d305a9bc,False,33,"['electro', 'miami bass']"
+Platoon Goons,Snowgoons,False,0QkT1dGGibcCrxoep2ffzu,6,257266,2009,https://i.scdn.co/image/ab67616d0000b27370568142d278aa7aa6e4b0a2,True,45,"['flick hop', 'underground rap']"
+Nigun,Kol Simcha,False,6mDXhpWk1UvaEPluhCxDad,0,163200,1993,https://i.scdn.co/image/ab67616d0000b273181d4bc77a5f445c4bbe9f28,False,4,[]
+Questo sporco mondo meraviglioso,Piero Umiliani,False,65KhMC0N0Ky7S65RZKYy3K,20,159217,2009,https://i.scdn.co/image/ab67616d0000b2731032da633b10ae40067383c3,False,58,['vintage italian soundtrack']
+Paul,Eminem,False,2FPtJP6CQ68hOTHt0OysXC,38,32026,2004,https://i.scdn.co/image/ab67616d0000b273726d48d93d02e1271774f023,True,93,"['detroit hip hop', 'hip hop', 'rap']"
+Up Close and Personal,Bukue One,False,2cuKrm0OT9qHeX8fU9hpK8,0,131657,2002,https://i.scdn.co/image/ab67616d0000b273070d2ef8928db5ac50cb08b8,True,10,[]

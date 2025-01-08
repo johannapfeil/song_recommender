@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Te Necesito,Angelica Maria,False,3ogIraOv1mAAkgkB4pMzzF,0,160774,2002,https://i.scdn.co/image/ab67616d0000b2734beb0a0a01f9e7000cd8856d,False,49,"['mexican rock-and-roll', 'ranchera']"
+Love Me,Jars Of Clay,False,4eZ7Lb4hrPLyQjgvPQLxTM,24,228800,1999,https://i.scdn.co/image/ab67616d0000b27312eb9fcc3eb9befa41cbc0b9,False,48,"['ccm', 'christian alternative rock', 'christian music']"
+The Witching Hour,John Mayall,False,6NEQSjmRRdv6497BWuTAlm,8,262800,2002,https://i.scdn.co/image/ab67616d0000b273f3451b4e5baa156df7219cbf,False,49,"['blues', 'blues rock', 'british blues', 'british invasion', 'electric blues', 'traditional blues']"
+Underarms,Grandmaster Flash,False,0BR1uAArFtiShhpYfDJTdF,5,190160,1987,https://i.scdn.co/image/ab67616d0000b2737a2ff311049770f1c47fc570,False,44,"['bronx hip hop', 'old school hip hop']"
+Heut' Nacht,Spliff,False,4C6pYy4xLhC7colYvHSypW,30,263308,1982,https://i.scdn.co/image/ab67616d0000b27334f6a1c35529f52a2c38e67e,False,39,"['german rock', 'neue deutsche welle']"
+Put Down Your Weapons,Yami Bolo,False,4c5InjjO2wVsIAF7iCGzPk,10,226000,2023,https://i.scdn.co/image/ab67616d0000b2730c313a5a9faa83172e7e2b3d,False,57,"['dancehall', 'lovers rock', 'reggae', 'roots reggae']"
+L'Amour Existe Encore,Lara Fabian,False,0ywI1hDqCaAGDHHSscNFZM,18,229746,2009,https://i.scdn.co/image/ab67616d0000b27392691c85b17d25edb9327604,False,59,[]
+Leather Prowler,Liars,False,6Q9xImsv2w4BSdX3lbUgMJ,2,265120,2007,https://i.scdn.co/image/ab67616d0000b2736ce1b5bb4c0eb0738c33f061,False,34,"['dance-punk', 'experimental rock', 'grave wave', 'noise rock']"
+Una dolce melodia,Franco_ Valeriana,False,6EZAsICMpMOOryuPtkbRwZ,0,207438,2007,https://i.scdn.co/image/ab67616d0000b2737589fcf4a2374ebb0f924c5d,False,1,[]
+This Is My Life,Rita Chiarelli,False,6UgmOvx3OCV0gbHDH4hNmU,0,252693,1992,https://i.scdn.co/image/ab67616d0000b27339c87a5b7ee665621d968417,False,11,['canadian blues']
+War,Trick Trick / Obie Trice,False,0i4bubru4UD6YIiTsResJS,27,249040,2016,https://i.scdn.co/image/ab67616d0000b27381e81229b5437b5e98eb6205,True,46,['nu-metalcore']
+Hi De Ho,Bobby Darin,False,43VotfSNyCHHqjNTF1MJMj,2,352226,1987,https://i.scdn.co/image/ab67616d0000b273027303ae1c5b6e6ebf0c03ce,False,63,"['adult standards', 'easy listening', 'lounge', 'rock-and-roll', 'rockabilly', 'vocal jazz']"
+La Maquina Del Sabor,Fruko Y Sus Tesos,False,5TFhrTD460NX5Sxbe6toJ3,0,265466,2015,https://i.scdn.co/image/ab67616d0000b27331f0871e0ffeb34bb8d9ece7,False,61,"['salsa', 'salsa colombiana']"
+Playgirl's Love,The Five Stairsteps,False,3OgK9d874SYVdn6UrOMwMN,13,132693,2001,https://i.scdn.co/image/ab67616d0000b273b4b2642b767f641a15c9fef1,False,51,"['chicago soul', 'classic soul', 'motown']"
+Hold On To Freedom,Lee Michaels,False,34qftJr4LG1dUZYQzSNPE7,2,296073,2015,https://i.scdn.co/image/ab67616d0000b273f3356bebb35c9ed8ff754868,False,30,['hammond organ']
+A Void Of Lifeless Dreams,Limbonic Art,False,7pGJlCGT7aFwzK16TGEbBM,8,291040,2007,https://i.scdn.co/image/ab67616d0000b27342815d7ed9ed475f0f9f9fd7,False,22,"['black metal', 'norwegian black metal', 'norwegian metal', 'symphonic black metal']"
+I Will Bless Your Name,Daryl Coley Featuring the New Generation Singers Reunion Choir,False,3lMP5mBTAhHK6nm36fpooo,0,274733,2015,https://i.scdn.co/image/ab67616d0000b273c279c80a3a6e99c825ff23b7,False,30,['gospel']
+Endless Light,Erik Berglund,False,0KBTLWpjWUYQTI1YAYoB0l,0,1815213,2008,https://i.scdn.co/image/ab67616d0000b273a967fbda9aacbb24557662a2,False,28,[]
+All Creatures Of Our God And King,Patty Griffin,False,0hPkWYZ4JIqj9hAvCQtBOI,10,256546,2010,https://i.scdn.co/image/ab67616d0000b27388f4397e924e07b86715d044,False,46,"['alternative country', 'ectofolk', 'folk', 'lilith', 'singer-songwriter', ""women's music""]"
+Make A Move On Me,Joey Negro,False,4twa5BOerk6oQtCth5o7kj,43,458586,2004,https://i.scdn.co/image/ab67616d0000b2732e432b861303f02cb2d680db,False,41,"['classic house', 'vocal house']"
+Chiove,Rita Chiarelli,False,6oRhHdLqwB3FgLdQM23Peb,0,228386,2011,https://i.scdn.co/image/ab67616d0000b273c8505f5ee1fa10aef7196b3e,False,11,['canadian blues']
+Doin' It,Professor Longhair,False,5w6qdVGxjuTQGIk6YEVRzJ,2,301307,2002,https://i.scdn.co/image/ab67616d0000b27302ae4853a03f1d7fafe43959,False,39,"['blues', 'boogie-woogie', 'louisiana blues', 'memphis blues', 'new orleans blues', 'new orleans soul', 'piano blues', 'traditional blues']"
+Bitches For Breakfast,Vodka Collins,False,7Aaglnx0kyMnb2wlXbJ6Oj,0,119493,1998,https://i.scdn.co/image/ab67616d0000b273c59a30c166ca4dcb32089116,False,0,['glam rock']
+It Came Upon A Midnight Clear,Cristy Lane,False,2TJ7UFgcvgIf2oF8gppi9s,9,142920,1983,https://i.scdn.co/image/ab67616d0000b273b5ce95711684f90cc068ae0b,False,34,['country gospel']
+Apagon,Estopa,False,3v69iPsJjjp8rnE5WUpy2x,44,185840,2004,https://i.scdn.co/image/ab67616d0000b27363c4b23bc717b4d5f5a36349,False,72,"['pop flamenco', 'rumba', 'spanish pop']"
+All For The Sake Of The Song,Roger Creager,False,4trhELRE3GI0oCmyMPMgPq,1,277560,2003,https://i.scdn.co/image/ab67616d0000b2736dc6dbb9d36333f3312a88dc,False,39,"['classic texas country', 'outlaw country']"
+Red Barchetta (feat. James LaBrie_ James Murphey_ Sean Malone_ Sean Reinert & David Townson),Steve Morse,False,76uH7uoJPrafTSEiS7b6Wt,3,344240,2009,https://i.scdn.co/image/ab67616d0000b2733eb9c141040411e635c7022b,False,36,"['instrumental rock', 'shred']"
+Looking In Your Eyes,Suicidal Tendencies,False,6JsqXMSLV4LdTwBN80agU2,20,169866,1987,https://i.scdn.co/image/ab67616d0000b2735eb40d1db247cd3641164d3d,False,56,"['alternative metal', 'california hardcore', 'crossover thrash', 'funk metal', 'hard rock', 'hardcore punk', 'metal', 'nu metal', 'old school thrash', 'punk', 'thrash metal']"
+Crazy,Aerosmith,False,3QxKpdTB8ZSFn8MGeCCpsQ,72,316826,1993,https://i.scdn.co/image/ab67616d0000b27391b246743456e285a20a46ed,False,77,"['album rock', 'classic rock', 'hard rock', 'rock']"
+Down South Blues,Sleepy John Estes,False,4NFdEd6k31B8zlZJG9J7DS,0,191840,2023,https://i.scdn.co/image/ab67616d0000b2738a96fa5760414eda85ceb89c,False,18,"['country blues', 'memphis blues', 'traditional blues']"
+The Law Gonna Step On You (1931),Bo Carter,False,41DwvqZNtuBdRvgOFZTIh5,0,162600,2005,https://i.scdn.co/image/ab67616d0000b273636a1f1c6a03bafad69a3cb8,False,19,"['country blues', 'delta blues', 'traditional blues']"
+Believe In What I Say,Cookies,False,6LfM6uBRQUqzvIxkyM3zYu,0,394493,2015,https://i.scdn.co/image/ab67616d0000b273e747400897f711a658f10bcc,False,0,[]
+Glisse,Fred Merpol,False,39v1w7cwmw3Cw2Wu5FeHS9,0,117546,2009,https://i.scdn.co/image/ab67616d0000b273733a43f39d275d18ef3c4e33,False,0,[]
+Mykel And Carli,Weezer,False,6BChuiHmHY9qnUfHzt9CA0,34,173506,2004,https://i.scdn.co/image/ab67616d0000b273ccb905a7b403aa786f96b374,False,76,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']"
+You Gotta Be Safe,Twenty 4 Seven,False,40VhJwvn2g9PcRNeFT6YuM,10,223600,2010,https://i.scdn.co/image/ab67616d0000b2739db5a6f65fce141a3afd543c,False,43,"['eurodance', 'hip house']"
+Kan Hai De Ri Zi,Hacken Lee,False,42M2z03G0jNxM2l2bDT3KL,6,221826,1999,https://i.scdn.co/image/ab67616d0000b2737f67d0481b3eb302e1f3c32f,False,53,"['c-pop', 'cantopop', 'classic cantopop']"
+Rancho Moreno,Mar Azul,False,68kNvhLvI0z07KIVz8fMoa,1,165400,2004,https://i.scdn.co/image/ab67616d0000b27366de386c74cec42d70c371c4,False,30,['musica costena']
+When Rules Change,Life In Your Way,False,6na8VcsWQ981SzasvLF7KD,0,198053,2005,https://i.scdn.co/image/ab67616d0000b2730a439c1cd9df76352d49b580,False,22,"['christian hardcore', 'christian metal', 'connecticut hardcore']"
+Milkman_ Keep Those Bottles Quiet,The King Sisters,False,3ZLust6QSUJwts9W0FoJ7n,0,134500,2006,https://i.scdn.co/image/ab67616d0000b273f79c8767bb29931ad4b6b2ff,False,4,[]
+Take The Time,Michael Stanley Band,False,00drgzklCYUPHnEDRi7ROJ,15,333560,1982,https://i.scdn.co/image/ab67616d0000b273d9dc6a99761bd95c59cce8f1,False,30,['heartland rock']
+Hold On,22-20s,False,4WPcZ1LbJk60Rq73HKQaRB,1,378503,2005,https://i.scdn.co/image/ab67616d0000b273f8343b09d2fef7c736e8bdad,False,26,['garage rock']
+Talking To Trees,The Cat's Miaow,False,7mG4DROPHTmdUpNDgecjz9,4,102798,2024,https://i.scdn.co/image/ab67616d0000b2738e5a933c53d73c3d176031c2,False,35,['tape club']
+Morning Bird,Sade,False,2MYrRBXN6kfZLQaTzlFrXD,38,234266,2010,https://i.scdn.co/image/ab67616d0000b27398da02db8bb9253c3367e41a,False,78,"['british soul', 'sophisti-pop']"
+Janie's Got A Gun,Aerosmith,False,5fMwvrqujbQjUxcNPcYrUF,58,330533,1994,https://i.scdn.co/image/ab67616d0000b273d5fdfcb083cb825348505a93,False,77,"['album rock', 'classic rock', 'hard rock', 'rock']"
+Minner,Mons Leidvin Takle,False,7lNdXLJmDvqv7qqP71VpZX,0,88546,2006,https://i.scdn.co/image/ab67616d0000b2736f017d5bc0b3a69fb3d03316,False,18,['norwegian gospel']
+Outubro,Irtio,False,3GXdIgycIdDPEoLmVY6Wdc,0,334200,2002,https://i.scdn.co/image/ab67616d0000b273d3496f9bf1098b561b0324d5,False,0,['galician folk']
+Enchanted Garden,Paul Taylor,False,6LiFJV19tx3Djc3SlIqZmf,14,275493,2003,https://i.scdn.co/image/ab67616d0000b273d08f8a92ce8ab23a34cc69d6,False,42,"['smooth jazz', 'smooth saxophone']"
+Lawyer Clark Blues,Sleepy John Estes,False,7i7YHi1qKvYEfW4naeTmTo,0,184957,2020,https://i.scdn.co/image/ab67616d0000b2730dbd359837a9bf5c7fd68ef5,False,18,"['country blues', 'memphis blues', 'traditional blues']"
+Jesus Is Gonna Make Up My Dying Bed,Josh White,False,5ZBq69iKgj8UKdzmXG01cV,0,196733,2014,https://i.scdn.co/image/ab67616d0000b273dab0ab3a5b54d246016bc174,False,19,"['piedmont blues', 'traditional blues']"
+Damn those eyes,Kane,False,1flJwFi1EyRrJ7bzBQ1ySw,34,250653,2011,https://i.scdn.co/image/ab67616d0000b273b17b93fbe663684c707487ca,False,46,"['dutch pop', 'dutch rock']"

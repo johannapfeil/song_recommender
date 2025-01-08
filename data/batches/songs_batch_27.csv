@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Sanchez Family,Harry Gregson-Williams,False,6QdXijr7ZHhFh8dRrzfC9T,10,287066,2004,https://i.scdn.co/image/ab67616d0000b2735060851be5fa1ce67d82f408,False,61,"['british soundtrack', 'orchestral soundtrack', 'soundtrack']"
+Le Beeatch,Trafik,False,6HInYxrUNrdBEA9yI0rjwE,0,276190,2008,https://i.scdn.co/image/ab67616d0000b2735e2b07aa7b84e00d28275cab,False,7,[]
+Franks Plea,Marco Beltrami,False,2XMdemTHGMY7mZUTTggjtm,1,160733,2004,https://i.scdn.co/image/ab67616d0000b273276eaf80db44dceb12193795,False,47,"['orchestral soundtrack', 'soundtrack']"
+Quinze mai,Gus Viseur,False,1WXVv01EWN4NIVf5Bzg9Vb,0,196640,2012,https://i.scdn.co/image/ab67616d0000b2730e5835dc291675b2bdb0b1a5,False,32,"['bal-musette', 'jazz accordion']"
+Bricks And Mortar,The Jam,False,05zMBBrA6nfNKgIHr39Qag,17,157333,1977,https://i.scdn.co/image/ab67616d0000b2733952925e01d6fcc1d688417b,False,59,"['mod revival', 'new romantic', 'new wave', 'punk', 'ska revival']"
+Plage de Belle Maison,Thomas Battenstein,False,2Up6DtT9CRmKtyNAfb5yRU,0,237800,2019,https://i.scdn.co/image/ab67616d0000b273c6ff7948b6d6304627978a6d,False,15,[]
+You And Only You,FFH,False,5PeNUiHFZJ3GHajrPtSM2A,2,215506,2003,https://i.scdn.co/image/ab67616d0000b2738810fd579ed7c3b66225fbf8,False,34,"['christian alternative rock', 'christian music']"
+Mental Beat,Hanoi Rocks,False,20Z6L8YGlyUlnprNYuJ9c8,10,302733,1983,https://i.scdn.co/image/ab67616d0000b2735a5a6c543bdda6ce7610de07,False,41,"['finnish hard rock', 'glam metal', 'glam punk', 'glam rock', 'sleaze rock']"
+Won't You Spread Some Flowers On My Grave,Guitar Slim,False,16jnZD4t4Lm8IOo5W6wMAE,0,183440,2008,https://i.scdn.co/image/ab67616d0000b2737359daf11d8966e5d2353d14,False,28,"['acoustic blues', 'blues', 'louisiana blues', 'new orleans blues', 'traditional blues']"
+Thump Thump Da Box,DJ Phiene,False,0QzgNN7OFNG31XYREvdaoq,0,190549,2009,https://i.scdn.co/image/ab67616d0000b2730ae7f77bc96615b362637797,False,0,['ghettotech']
+Scars and Souvenirs Intro,Max Stalling,False,1s2bPX4MqRp2VLumQvoxoo,1,43853,2007,https://i.scdn.co/image/ab67616d0000b273942b41a0ff2956181f24d795,False,29,['classic texas country']
+Talkin' Bout A Revolution,6CycleMind,False,2Koo3wnCdy8BvWWak6eTQ7,11,278386,2007,https://i.scdn.co/image/ab67616d0000b273efe819c5d4a3cc6c59831852,False,56,['opm']
+Luna Latina,Nestor Torres,False,6Ou5cSpCll88bpkv0GgpfC,8,330466,1999,https://i.scdn.co/image/ab67616d0000b273214b143c79d8c8ba2a7ddac9,False,16,[]
+Cross The Bridge,Beenie Man,False,6OrWasX63Q3R80QXNT4eGY,3,219400,1994,https://i.scdn.co/image/ab67616d0000b2730d6b21e8568aa9d225028a89,False,62,"['dancehall', 'jamaican dancehall', 'reggae fusion', 'soca']"
+The Distance,Bon Jovi,False,58gjJAthsStlkYJS05dET9,28,288426,2002,https://i.scdn.co/image/ab67616d0000b27336b92971a57850eaa9eaa58c,False,81,"['glam metal', 'rock']"
+Jambalaya (On The Bayou),Johnny Copeland,False,2UffrhB4TO14zYAzwhefX6,3,222000,1992,https://i.scdn.co/image/ab67616d0000b2730bd47953fb9b2b544195ec06,False,34,"['blues', 'electric blues', 'texas blues']"
+Comeback,Eric Burdon,False,3PDzMLYvPZiTyAmL8rypUR,0,124813,2011,https://i.scdn.co/image/ab67616d0000b2736ee562d6f8a161dbc74d0f33,False,41,['british blues']
+You're Crazy,Guns N' Roses,False,4WWUSzyxCUengfmWvKCdhR,50,197013,1987,https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5,True,81,"['glam metal', 'hard rock', 'rock']"
+Oh! quand je dors,Dennis O'Neill,False,2OBBGU06GlzBIbKyKlFCki,0,384626,2006,https://i.scdn.co/image/ab67616d0000b273d2a2d35e2a530d61c808898f,False,65,"['classical', 'late romantic era']"
+Main Theme from Jaws,Orlando Pops Orchestra and Andrew Lane,False,7LiVCyNafc0PRLmVNlW2V3,9,430933,2005,https://i.scdn.co/image/ab67616d0000b273f06e2dd36ca57c86cdbb0268,False,25,['pops orchestra']
+Mine All Mine,Jimmy Wakely,False,7LfhSvj8PxPp8zTDRYAxfx,10,179350,2020,https://i.scdn.co/image/ab67616d0000b2739c21c4a9cc2f8240b901131b,False,32,"['arkansas country', 'classic oklahoma country', 'cowboy western', 'western swing']"
+The Small Print,Muse,False,6U6MIIspkSRd5lBgzPWIIi,47,208737,2003,https://i.scdn.co/image/ab67616d0000b2733303a842ee1bc0b23204333d,False,77,"['alternative rock', 'modern rock', 'permanent wave', 'rock']"
+Termites in the Bathtub,Dntel,False,5cuEoFzxZrfpyrVrHDv0aa,0,265466,2008,https://i.scdn.co/image/ab67616d0000b2733382f6c6d7c946ac2cefa8b9,False,27,"['downtempo', 'experimental synth', 'indie electronica']"
+Rock 'n' Roll,Generation X,False,6c7K35cI1ouFScxCSqMpww,8,183800,2003,https://i.scdn.co/image/ab67616d0000b273f10cb55d9e3699daf8719a80,False,51,"['glam punk', 'punk']"
+Easily,Vivian,False,0fjyVSdqMrYRfKUldxd1T1,2,187336,2021,https://i.scdn.co/image/ab67616d0000b27380d7482ddf9a34ae56237e56,False,1,[]
+Shut Up,Pretty Boy Floyd,False,1VOwHRtpnTeH0nv27lPdCP,4,236053,2004,https://i.scdn.co/image/ab67616d0000b27399a626985000c8af24b8af25,False,30,"['canadian metal', 'glam metal', 'sleaze rock']"
+This is My Father's World/For the Beauty of the Earth,Glad,False,3NlinGrkTJdCKBq20BSVzb,2,232866,1994,https://i.scdn.co/image/ab67616d0000b273e2854e720128c5fbac29eafe,False,31,['christian a cappella']
+From a Jack To a King,Ned Miller,False,34tzSG70boQTq1UYX9ouew,40,133342,2021,https://i.scdn.co/image/ab67616d0000b2734bb2b88e2ba16acd27f988bf,False,36,['nashville sound']
+Drinkin' Wine - Original,Gene Simmons,False,7goodqzmVG6a0a69AqwGIZ,5,158980,2023,https://i.scdn.co/image/ab67616d0000b27329a4ac6cd3e44b8c6144addc,False,14,[]
+Crazy,Aerosmith,False,3QxKpdTB8ZSFn8MGeCCpsQ,72,316826,1993,https://i.scdn.co/image/ab67616d0000b27391b246743456e285a20a46ed,False,77,"['album rock', 'classic rock', 'hard rock', 'rock']"
+Out in the Streets,The Shangri-Las,False,2nCMkTfSIjCSN7OjdQK1AC,37,167093,1996,https://i.scdn.co/image/ab67616d0000b2739bd4306ef696c6fcfd8e417b,False,46,"['brill building pop', 'classic girl group', 'rock-and-roll']"
+Viimeinen lento,Kaija Koo,False,7BjG9trAbDv1t6qI4SzmdP,21,180506,2007,https://i.scdn.co/image/ab67616d0000b2730c737f964523efd62a34c37b,False,48,"['classic iskelma', 'finnish dance pop', 'finnish pop', 'iskelma', 'suomi rock']"
+Wanted Dead Or Alive,L.A. Guns,False,3xhlspufb2O2zrTrapVYIy,0,300720,2009,https://i.scdn.co/image/ab67616d0000b273617b1f72f800758a1b231806,False,46,"['glam metal', 'hard rock', 'sleaze rock']"
+Scrimmage,Gerald Clayton,False,7rq9S06eY3LAhIXSQh9d7l,2,393666,2009,https://i.scdn.co/image/ab67616d0000b27373f6fa1a16571a0d1a7f3e3e,False,38,"['contemporary jazz', 'jazz', 'modern jazz piano', 'straight-ahead jazz']"
+Farenheit 303,Orbital,False,664NRJCZCorDlsWWaBkhcd,17,504466,1991,https://i.scdn.co/image/ab67616d0000b27313be62609b461b316907f351,False,49,"['big beat', 'breakbeat', 'electronica', 'intelligent dance music', 'rave']"
+Give My Heart A Break aka You Don't Seem To Understand,Jimmy McCracklin,False,3EQ4D2VusOFe8ZKCcNI1Am,0,184400,1991,https://i.scdn.co/image/ab67616d0000b27382132f679e45199087f3309a,False,19,"['jump blues', 'piano blues', 'rhythm and blues', 'soul blues', 'southern soul']"
+So It Goes,Mister Ries,False,16a2K7jydCfS6h9kHQInIb,0,192000,2007,https://i.scdn.co/image/ab67616d0000b27397fb53f7dfc8f18461de10af,True,4,['ghettotech']
+summer jam,Set Your Goals,False,4niRvzP0UmPhsvqaNrpwNV,28,185866,2009,https://i.scdn.co/image/ab67616d0000b273ae1d54adb2c3d396e56b4be9,False,36,"['anthem emo', 'easycore', 'pop punk']"
+India,Jeff Wahl,False,5g8bFWXMpjVGpvU7U7xPxZ,0,260547,2020,https://i.scdn.co/image/ab67616d0000b2732638654e58f8bac1082c93e3,False,44,"['christmas instrumental', 'instrumental acoustic guitar']"
+Horn Webb,Art Ensemble Of Chicago,False,6w6Eam9G1TD4cvwTpWeuTT,0,1179680,2004,https://i.scdn.co/image/ab67616d0000b273e215626c489ccf7c9e6f63e9,False,23,"['avant-garde jazz', 'free improvisation', 'free jazz']"
+Contagious,Ill Harmonics,False,3ujYTKy483hRgIpaosFFGh,0,267880,2004,https://i.scdn.co/image/ab67616d0000b2734155a2a85bc6991bde8ae4fa,False,5,[]
+Star Signs,Leona Naess,False,66JMDGuT654yaXKLab60BW,4,292906,2003,https://i.scdn.co/image/ab67616d0000b2733fdc9ee052826b260893eaa2,False,34,"['ectofolk', 'lilith']"
+Rock Around The Christmas Tree,Daniel Johnston,False,1xUc7lu9KIkUO9oidiVcfN,17,130892,2006,https://i.scdn.co/image/ab67616d0000b2738d457417582cfe36ef4a6ce9,False,47,"['alternative rock', 'anti-folk', 'chamber pop', 'countrygaze', 'lo-fi', 'melancholia', 'noise pop', 'outsider']"
+Love Round The Corner,The Motors,False,5Ih4olDKTXWuqiwo4ajMrt,1,161600,1995,https://i.scdn.co/image/ab67616d0000b2730968fca5b9b0236295387c8f,False,32,"['classic uk pop', 'pub rock']"
+After Hours,Phantom Planet,False,05bIKDN4R26x4JwknoibFn,11,164026,2004,https://i.scdn.co/image/ab67616d0000b2732363bfe35da36e0c27e0c66b,False,49,[]
+Tell Me Why,Smokin' Joe Kubek & Bnois King,False,6qwJyl4GcEAUfzwMQVo7sW,14,221386,2003,https://i.scdn.co/image/ab67616d0000b2731763c4023b4c018c001f21cf,False,29,"['blues', 'electric blues', 'modern blues', 'power blues-rock']"
+Night Time,Suicide,False,6edzy3LuhpgGVx34XJVUMc,1,394800,2004,https://i.scdn.co/image/ab67616d0000b273390f141e01f0d487f13e72da,False,43,"['experimental', 'experimental rock', 'no wave', 'noise rock', 'synth punk']"
+Real People (Cybernetic Dub),Apache Indian,False,3hKyjDI7mqd56BZIJF6Z7T,0,286760,1997,https://i.scdn.co/image/ab67616d0000b273f1cc071fe48b07cff66b2620,False,47,['uk dancehall']
+Psihi Mou Moni,Pegy Zina,False,4Gc7CYm6pHOQczjhJfLpBz,0,263440,2008,https://i.scdn.co/image/ab67616d0000b2730eb8e0633a67861a3e8ecc02,False,46,"['greek pop', 'laiko']"
+So Much Love,Shangri Las,False,48oekgKr2zx5t9jJTwRPXx,1,134693,2009,https://i.scdn.co/image/ab67616d0000b2736ed284203ea2d052bdd9bd29,False,46,"['brill building pop', 'classic girl group', 'rock-and-roll']"

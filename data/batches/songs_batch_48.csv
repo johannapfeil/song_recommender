@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Temblando,Alex Ubago,False,4pTPP7kZWF6wGJYjYdkgEl,23,201093,2007,https://i.scdn.co/image/ab67616d0000b273bd41d799d5c35433db7306c5,False,66,"['latin arena pop', 'latin pop', 'spanish pop', 'spanish pop rock']"
+I Want You Back,The Plimsouls,False,3aFRj2jpmzytmMaz9Reade,4,153306,1981,https://i.scdn.co/image/ab67616d0000b273c53fb04de503bbb5b066c2e4,False,32,"['jangle pop', 'power pop', 'underground power pop']"
+Heartburn,Alicia Keys,False,4SQjx8r47JIqjvurpZtxOi,37,208026,2003,https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b,False,81,"['neo soul', 'pop', 'r&b']"
+Put Your Hand In The Hand,Rance Allen Group,False,4gjq4hjIDokux1fOGCkYNc,2,253110,1972,https://i.scdn.co/image/ab67616d0000b273922a597ad01d60f3b5ec3c6d,False,35,['gospel']
+Woodcarver,Glen Campbell,False,2Z1wobit1aXA7MbssL4H2M,2,203573,1990,https://i.scdn.co/image/ab67616d0000b273d4049d56edb766fa2a3e45de,False,64,"['adult standards', 'arkansas country', 'classic country pop', 'folk rock', 'mellow gold', 'nashville sound', 'singer-songwriter', 'soft rock']"
+LDN (Warbox Original Cut Dub),Lily Allen,False,0EjdS5fqNKtPQFebC4VTwV,7,234693,2009,https://i.scdn.co/image/ab67616d0000b273571dc64be2b4ae73dddab803,False,70,"['dance pop', 'electropop', 'neo mellow']"
+Through Bucky's Eyes,Michael Gettel,False,3bKsyf9N0lb0BwokfdL4mX,2,232666,1995,https://i.scdn.co/image/ab67616d0000b27331c2be69a6c42e706128475e,False,33,"['new age', 'new age piano']"
+Sleepwalkers,Non Phixion,False,2XoRqaHWXylPSKrnqfZddO,30,218592,2024,https://i.scdn.co/image/ab67616d0000b273d7708166a3e628e64b9a004c,True,42,"['east coast hip hop', 'political hip hop']"
+Welcome,Les Bonapartes,False,6sNjcCpgsgXXV7N1j8XUYJ,0,190733,2008,https://i.scdn.co/image/ab67616d0000b27350e4644b4d588c4193340541,False,0,[]
+One Shine,The Roots,False,7oSs6vXftNpbcnkDRiTJzf,23,340400,1996,https://i.scdn.co/image/ab67616d0000b2730d8b1d7869e62f341e528e38,False,62,"['conscious hip hop', 'east coast hip hop', 'hip hop', 'philly rap', 'political hip hop']"
+Don't Stop,Flame,False,508YrRap7JrViCCVz5WUdy,8,236591,2019,https://i.scdn.co/image/ab67616d0000b2733f8d32a46b75808a21f69333,True,2,[]
+What's Your Damage?,Test Icicles,False,66yllLgg37KnEtggLq10Nu,11,249480,2005,https://i.scdn.co/image/ab67616d0000b273fd3837886f067c9f05ad8aa8,False,18,['dance-punk']
+RECKLESS,This Is Hell,False,1NocxwEaSnRhIBChv2tH2k,3,119866,2008,https://i.scdn.co/image/ab67616d0000b273d1107e2a36456dfabfdbd532,False,17,"['chaotic hardcore', 'long island punk', 'melodic hardcore', 'nyhc']"
+Tender Lies,Beres Hammond,False,2dpnDaFnMHHFk1XpaJj3wg,5,193066,1992,https://i.scdn.co/image/ab67616d0000b27363672d2ced83638b95f33fe9,False,54,"['lovers rock', 'reggae', 'roots reggae', 'soca']"
+Brillantin' Brutal',Falco,False,5s8qApaZjds49jKB7vvSe1,36,228745,1984,https://i.scdn.co/image/ab67616d0000b273c4660a03ae1bca8bfd7dc339,False,62,"['austropop', 'neue deutsche welle']"
+Living Dead,The Plasmatics,False,0WToBfBTVGC0eN65viKuOk,4,98640,1980,https://i.scdn.co/image/ab67616d0000b273bb38222a937d343837953d56,False,28,['hardcore punk']
+Gib mir den Tod (Live),Der Moderne Man,False,0eembNDKPE6YYHHW6YzUSO,0,238840,2012,https://i.scdn.co/image/ab67616d0000b273021385a0372f180d2fe9a5ac,False,11,['neue deutsche welle']
+Chao Wo,Miriam Yeung,False,18ECkpnxAKxF1G7V72kOeV,8,277385,2004,https://i.scdn.co/image/ab67616d0000b273a2ff4b3594c000d777f16234,False,53,['cantopop']
+Sigui,Djelimady Tounkara,False,4QB0YuT8wFI7ZZGwGo1XN2,5,304400,2002,https://i.scdn.co/image/ab67616d0000b273d7a94154438570bb5fdf90dd,False,25,"['afropop', 'griot', 'malian blues', 'mande pop', 'musique mandingue', 'west african jazz', 'world']"
+Whispering Grass - Original,Dee Clark,False,1LanX3bcxOq0a30fs6UbX3,0,178500,2011,https://i.scdn.co/image/ab67616d0000b273183330291af295ca469c0b66,False,29,"['chicago soul', 'doo-wop', 'rhythm and blues']"
+It Must Be Love (Live Acoustic Version),Rickie Lee Jones,False,4QBiXzuwCYVF1RLB6DZUJb,8,287173,1995,https://i.scdn.co/image/ab67616d0000b273a40992964c8e0510d84e148a,False,47,"['folk', 'singer-songwriter']"
+Autobahn (Live),Kraftwerk,False,6PckDXH6bx6d8tw2ULGsNx,7,531560,2005,https://i.scdn.co/image/ab67616d0000b2730155b4b3050b529f278e7056,False,54,"['dusseldorf electronic', 'early synthpop', 'electro', 'proto-techno', 'synthpop']"
+Frustration,Rocket From The Tombs,False,3LgjTQWt0m5fx6xOdCsgWU,1,133445,2011,https://i.scdn.co/image/ab67616d0000b2735ca2d16913f0a58a9d8dce02,True,15,"['protopunk', 'punk blues']"
+Slash,Long John Hunter,False,3N6Wj0xUeJBv1ICZZ0au4M,0,117827,1999,https://i.scdn.co/image/ab67616d0000b273969e3bc70f0f5ef4eb1cdb57,False,19,['texas blues']
+What It Do,J.R. Writer_ Jha Jha,False,1wVQtBMY7Kzslbo7DXb5En,4,147333,2006,https://i.scdn.co/image/ab67616d0000b27330baf6890be2a531d8152406,True,54,"['gangster rap', 'harlem hip hop', 'trap']"
+Midnight Rider,Buddy Miles,False,4fEQ1aqzWEb6x4dIcUY16N,17,216266,1997,https://i.scdn.co/image/ab67616d0000b2733c4b089368f1d1c467db319f,False,36,"['psychedelic soul', 'rock drums']"
+Two Wars,This Or The Apocalypse,False,4LTaf71HFXr9cODAfLl0bQ,2,293666,2008,https://i.scdn.co/image/ab67616d0000b273957cb6a08a844ecaab6f6d9d,False,27,"['deathcore', 'melodic metalcore', 'metalcore']"
+Out Of The Danger Zone (Degarmo And Key Album Version),DeGarmo & Key,False,1PFb4POeNDG3ll5qYclhaB,6,171293,1987,https://i.scdn.co/image/ab67616d0000b27358b1aecf404162da8147a2fa,False,28,['deep christian rock']
+Take Me To Paradise (Nicky Scanni's Garage Mix),Will To Will,False,30gjq8b0abDVmxJaC2PSbz,0,510933,2008,https://i.scdn.co/image/ab67616d0000b27396072017abb4afd7072d0f63,False,0,[]
+Thrill Me (Atfc's Jackhammer Re-Rub),Junior Jack,False,12MFH2SIHZHwsfHaFLBfIo,0,482506,2002,https://i.scdn.co/image/ab67616d0000b273dfaa99c2241837808878dea0,False,51,"['deep house', 'disco house', 'filter house', 'tech house', 'vocal house']"
+Sunday Morning (Sony Connect Set),K-OS,False,2RSsPYpVVZpWUnf6pQaPcr,0,214373,2007,https://i.scdn.co/image/ab67616d0000b273f704bba361d6918d40f38322,False,44,"['alternative hip hop', 'canadian hip hop', 'canadian old school hip hop']"
+A Sound That Only You Can Hear,K's Choice,False,2sMjbhTga6TfQ9yrCQFHlG,14,252840,1995,https://i.scdn.co/image/ab67616d0000b27388dde9ef914280eb26825492,False,44,"['alternative pop', 'belgian rock', 'lilith']"
+I'm A Believer,Tyrone Taylor,False,47p5pakwLzTh15MgFgC97c,4,229613,1998,https://i.scdn.co/image/ab67616d0000b2736429f801fd60af8cb0284f7b,False,29,"['deep ragga', 'lovers rock']"
+Maiden Voyage (Rudy Van Gelder Edition) (2006 Digital Remaster),Bobby Hutcherson,False,18pFtnmeQWyl5vmf0f9q7q,16,349666,2006,https://i.scdn.co/image/ab67616d0000b2739d9c698d83e21be1bd785dd9,False,39,"['contemporary post-bop', 'free jazz', 'hard bop', 'jazz', 'jazz funk', 'jazz vibraphone', 'mallet']"
+Gaita Gaitero,Rincon Morales,False,06236tEAMD2WLiJggFzLlo,23,197746,2009,https://i.scdn.co/image/ab67616d0000b27397c86acc2cb76f26ab88ac19,False,45,['gaita zuliana']
+Man In A Suitcase,The Police,False,6C1ZUDfuIL0xHQeoGSdIMP,43,138066,1980,https://i.scdn.co/image/ab67616d0000b273fb1bc65edf4717e75fbc70ab,False,80,"['album rock', 'classic rock', 'permanent wave', 'rock']"
+Columbia,Oasis,False,20EkniSUbhZ86v1Oc0hhUI,50,377400,1994,https://i.scdn.co/image/ab67616d0000b273d86a1e021e7acc7c07c7d668,False,80,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']"
+Baby's First Christmas,Connie Francis,False,1qCnHL5ZvJIYmXnWbDCF95,47,145666,1959,https://i.scdn.co/image/ab67616d0000b273e3d3798a252b4319d5cfeca2,False,57,"['adult standards', 'brill building pop', 'easy listening', 'rock-and-roll', 'rockabilly']"
+Liar of Nastrond,Goatwhore,False,2YQFPrswqkzKWHC1nMQwc1,9,153666,2000,https://i.scdn.co/image/ab67616d0000b273f70dbc4a57fc7b80f73e0eae,False,33,"['brutal death metal', 'death metal', 'deathgrind', 'groove metal', 'louisiana metal', 'sludge metal']"
+Desperate Man Blues,Daniel Johnston,False,6sopJT570BxVowIaKxnNhL,24,219679,1983,https://i.scdn.co/image/ab67616d0000b2739c375e43c9f3a2dbb0a8010c,False,47,"['alternative rock', 'anti-folk', 'chamber pop', 'countrygaze', 'lo-fi', 'melancholia', 'noise pop', 'outsider']"
+Held Der Tastatur,Melanie And The Secret Army,False,0aDiMhAKkEYMCaC7d4RqXu,0,255586,2010,https://i.scdn.co/image/ab67616d0000b2737345c35c31f226c7066c22be,False,2,[]
+The Nightmare Begins,ZombieSuckers,False,1x9nqaziKhUTPH6XouckAu,0,62957,2010,https://i.scdn.co/image/ab67616d0000b2732dc740aa81a95e6014053adb,False,8,['horror punk']
+Open Up Your Mind (Guido Osorio Club Mix),Eyes Cream,False,2GHNWAMVFx5FRgPR0uoy1F,0,492240,2002,https://i.scdn.co/image/ab67616d0000b2733b7c15acb9e5353da6e0a5c1,False,10,[]
+Ready For The Floor (Radio Edit),Hot Chip,False,4HPLHh1xFc9RUiBnHKHsFg,17,202161,2008,https://i.scdn.co/image/ab67616d0000b2738ea9b7a85ee1b452943dd8b0,False,54,"['alternative dance', 'dance rock', 'electronica', 'indie rock', 'indietronica', 'neo-synthpop', 'new rave']"
+Planetary Takeover,Snowgoons,False,2XBcjoEVcdJODo6pn7YnSH,4,239640,2009,https://i.scdn.co/image/ab67616d0000b27370568142d278aa7aa6e4b0a2,True,45,"['flick hop', 'underground rap']"
+Bliss,The Dreamtree Project,False,65UgOqOwfLidl4jetqjBD2,2,798200,2007,https://i.scdn.co/image/ab67616d0000b273da57ea13d3e202d90e426776,False,4,[]
+Spencer-Tracey,Danny Wilson,False,1Mjo7jAJGeGufdO3ILQpbZ,5,92373,1987,https://i.scdn.co/image/ab67616d0000b27308461725d51061b4dc212784,False,41,"['new wave pop', 'scottish new wave', 'sophisti-pop']"
+Que paso,D.A.R.,False,01Jt57nVmWeVxJHdQ6Gyg7,27,145600,2024,https://i.scdn.co/image/ab67616d0000b2735ccbdd70aafc8933c662afac,False,33,[]
+Just A Glance Away,Sam Baker,False,6p8lis9SYNyBAe0e8xobfp,0,166997,1966,https://i.scdn.co/image/ab67616d0000b273609ac18948036630dd0ffd37,False,8,[]
+Who Cares,Don Gibson,False,3ShR6ds3vc92ur4ZrqYxfm,11,134000,2001,https://i.scdn.co/image/ab67616d0000b273e2de04d4e89c5a6051f2bc6d,False,42,['nashville sound']

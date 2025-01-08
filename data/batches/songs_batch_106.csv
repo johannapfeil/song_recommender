@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Chateau Strut,Doyle Bramhall,False,1wNUieeXJwWoSKgCVaSoQB,2,235746,2007,https://i.scdn.co/image/ab67616d0000b27371c8a53ecc11e0810467c8fc,False,34,"['modern blues', 'texas blues']"
+Across The Universe,6CycleMind,False,1F02aCFwch7JpJygVgw24O,11,267386,2007,https://i.scdn.co/image/ab67616d0000b273efe819c5d4a3cc6c59831852,False,56,['opm']
+Gut Rot,Fudge Tunnel,False,3K4QZGGYfdm3kGwK0Okfp9,22,235373,1991,https://i.scdn.co/image/ab67616d0000b2734156c5a6188f98433eacb9ad,False,31,"['dub metal', 'sludge metal']"
+Breakin' Dishes,Rihanna,False,46aZJc0z1HHHSFxaIRxYSP,82,200573,2008,https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98,False,92,"['barbadian pop', 'pop', 'urban contemporary']"
+Lightning Breaks,Plasmatics,False,0XicbYWUFn8gNC4OJ7Xqzm,12,168386,1983,https://i.scdn.co/image/ab67616d0000b2732e46406dd69ea423041ca258,False,28,['hardcore punk']
+Call On The Father,Beres Hammond,False,4c0moTsZ9hv1KlrwZriBC1,21,230466,2003,https://i.scdn.co/image/ab67616d0000b27378f45fa7584009cde099e0f7,False,54,"['lovers rock', 'reggae', 'roots reggae', 'soca']"
+Bruno Dika,Madilu System,False,1wPohZBWUaKhYQGPVvuRWZ,21,394360,2007,https://i.scdn.co/image/ab67616d0000b273d82b674b369d1fcc81cee37c,False,44,"['rumba congolaise', 'soukous', 'zilizopendwa']"
+Skit #2 (Kanye West/Late Registration),Kanye West,False,466XcSgGAiQxcDrcV0yoMP,48,31360,2005,https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2,True,93,"['chicago rap', 'hip hop', 'rap']"
+Under The Bridges Of Paris,Percy Faith,False,29ctlBW6iXmFjruPJvypDT,2,165333,1953,https://i.scdn.co/image/ab67616d0000b273ccd2fb2d7a3a38c9b2609c07,False,64,"['easy listening', ""man's orchestra""]"
+Nunca Sabras,KALIMBA,False,38UDy0DVeMQMGT2YSNxgWS,17,229133,2007,https://i.scdn.co/image/ab67616d0000b273ac6672700c3a5367672716c2,False,61,"['latin arena pop', 'latin pop', 'mexican pop']"
+Go Tell It On The Mountain,Michelle Wright,False,1ch23Hh4EVIRoLoeeuYi4i,3,172666,2024,https://i.scdn.co/image/ab67616d0000b27331574ed578e66aec71e31f05,False,28,"['canadian country', 'country dawn']"
+We Got It (Cadillac),Toby Love featuring Julio Voltio,False,3Mxo5VC4IUXNfnNoVvGRum,8,278120,2006,https://i.scdn.co/image/ab67616d0000b2732090d71d7da50783b030753d,False,53,"['bachata', 'reggaeton']"
+Harda They Come,Gyptian,False,50n4ubayfJpxBSUOjJhlKf,0,165933,2008,https://i.scdn.co/image/ab67616d0000b273dd100fec58639fa8e77ba36e,False,59,"['conscious hip hop', 'dancehall', 'reggae fusion']"
+Amthran Na Bh Fiann (Ireland),The London Theatre Orchestra,False,75b0dphddg5WCmSi1SQZjr,0,175600,1995,https://i.scdn.co/image/ab67616d0000b273666861b3fb41f5001ca69926,False,28,['theme']
+A Boy Named Sue,Johnny Cash,False,5xMNjx7uqCzMpJZSo4Wq55,53,233813,1969,https://i.scdn.co/image/ab67616d0000b2738cdc0a6885821934441089ee,False,76,"['arkansas country', 'outlaw country', 'rock']"
+Journey's End,Primordial,False,2K7pDJpV2XayT4z3BpiUuI,7,480840,1998,https://i.scdn.co/image/ab67616d0000b273c9b044b322088d33d87fb3ff,False,33,"['black metal', 'celtic metal', 'doom metal', 'folk black metal', 'folk metal', 'irish black metal', 'irish metal', 'pagan black metal', 'symphonic black metal']"
+Si Je M'En Sors,Julie Zenatti,False,6jb9vvG6RVONVxEWhHCnMK,41,203800,2000,https://i.scdn.co/image/ab67616d0000b2730091e1ba966293c459809957,False,40,"['chanson', 'french pop']"
+Instrumental Traditional,La Divina Pastora,False,0FU104sce0tuYFMTaJY9gL,13,334053,2009,https://i.scdn.co/image/ab67616d0000b27357d275ad563c5d6b34a44263,False,9,[]
+The Order Of Death,Public Image Ltd,False,6LM5C6vEAwfAlaobFOURz7,37,299120,1984,https://i.scdn.co/image/ab67616d0000b2733be317a9f0a7448a4c0e8e92,False,45,"['alternative rock', 'new romantic', 'new wave', 'post-punk', 'punk', 'uk post-punk']"
+I Still Remember,John Pagano_ Burt Bacharach,False,3VmdofozjXYf46bgfqCl2q,0,290839,2009,https://i.scdn.co/image/ab67616d0000b273c0f39684eddc417539ad3a04,False,49,"['adult standards', 'brill building pop', 'easy listening', 'lounge']"
+I Just Knew,Kellie Coffey,False,0CFPkDpA3ZF1Iw2TLh8jJH,3,187160,2002,https://i.scdn.co/image/ab67616d0000b273a18bb402edff63be3b99b9a4,False,20,"['classic oklahoma country', 'country dawn']"
+When She Dances,Joe Bonamassa,False,17VqQQo5RkdA7iukLr0okv,19,293706,2004,https://i.scdn.co/image/ab67616d0000b2738ac70f2cbf72a0bdbebe5506,False,58,"['blues', 'blues rock', 'electric blues', 'modern blues', 'modern blues rock']"
+Stardust,Henry Mancini,False,3OsvGDwiJT1iH9obLFckxw,20,178615,2015,https://i.scdn.co/image/ab67616d0000b27395acde1e0c7b7f627beb7d8b,False,17,[]
+In The Good Old Summertime,Sophie Tucker,False,4BhsX6AnwjQya7ayMM0GH7,0,74386,2010,https://i.scdn.co/image/ab67616d0000b27349a43a4ef8923ad4cdac2234,False,25,"['torch song', 'vaudeville']"
+Each & Every Direction,Donna The Buffalo,False,7eGgjiU0eKC3WiDkvdwtdW,15,376373,2006,https://i.scdn.co/image/ab67616d0000b27316d0e80d783c97ac48d226ff,False,34,"['jam band', 'ny roots', 'progressive bluegrass']"
+Since You're In Love,Jesse Malin,False,15o777mKsID6xcwSl2v67L,4,246880,2022,https://i.scdn.co/image/ab67616d0000b27313cd2b1f036e923e5299139f,False,39,['alternative country']
+Hey!,Laidback Luke & Diplo,False,6cBvgkiJ3JJ6pyfcfkzZKS,2,264386,2009,https://i.scdn.co/image/ab67616d0000b27390bf4cd3720da566657076ff,False,58,"['big room', 'dutch edm', 'dutch house', 'edm', 'electro house', 'house', 'melbourne bounce', 'pop dance', 'progressive electro house', 'progressive house']"
+All The Fools It Sees,Mitch Ryder & Engerling,False,5vMNf6jMxFJxyHJ32tBWl7,1,314381,2024,https://i.scdn.co/image/ab67616d0000b2730e5300af994439965ebc8be1,False,23,[]
+Michaelangelo,23rd Turnoff,False,0zz04AjoYiSsL23bfN0VdD,18,143826,1998,https://i.scdn.co/image/ab67616d0000b2738dca1b9e86213f147479d4ce,False,8,"['classic psychedelic rock', 'freakbeat']"
+Pose No Threat,Lunasicc,False,5ooMy99GgxulKPQyRzYYqf,1,291800,1997,https://i.scdn.co/image/ab67616d0000b273a7e7afd565d2bb2f74a907d4,True,23,[]
+Happy Halloween Anniversary,Dr. Elmo,False,4syAn7pRakNnbp9jS4MV9J,0,151840,2005,https://i.scdn.co/image/ab67616d0000b27396db722c73128e21b4db3252,False,43,[]
+It Ain't No Use,Z.Z. Hill,False,1lCF8rXswH5P3iXRqXVsev,1,290938,1971,https://i.scdn.co/image/ab67616d0000b273f74f4b1c211a07528f9c9883,False,34,"['classic soul', 'soul', 'soul blues', 'southern soul blues']"
+Mad About the Boy,The Radio Dept,False,6LbDk77spl2osNVS0ZM6ZW,24,207213,2011,https://i.scdn.co/image/ab67616d0000b273a21ef0ee106ac84cfb187ad8,False,53,"['dream pop', 'lund indie', 'metropopolis', 'modern dream pop', 'nordic shoegaze', 'nu gaze', 'shoegaze', 'swedish indie pop']"
+Cryin',Aerosmith,False,4t1fWWJQs5V9YErfsrDslC,69,308560,1993,https://i.scdn.co/image/ab67616d0000b27391b246743456e285a20a46ed,False,77,"['album rock', 'classic rock', 'hard rock', 'rock']"
+Mass Destruction,Faithless,False,18XnvWLy7QFko3MvJnuX5p,40,212800,2005,https://i.scdn.co/image/ab67616d0000b273828cfb835d229a32720bc6af,False,62,"['big beat', 'downtempo', 'electronica', 'trip hop']"
+I'm Thinking Tonight Of My Blue Eyes,Dolly Parton,False,56bkZlnGJZWJaccSZinDEu,11,171800,1994,https://i.scdn.co/image/ab67616d0000b27303743c257a13e835aa7e96ff,False,77,"['classic country pop', 'country', 'country dawn']"
+We're Always Losing Blood,Evergreen Terrace,False,6KiIZFJqbMGC7tQnZJMMs6,13,241480,2009,https://i.scdn.co/image/ab67616d0000b2738059429d2624cfb7324e67e3,False,36,"['melodic metalcore', 'metalcore']"
+Mean Streak,Y&T,False,7x46WcotUUy3ft5KcLqETA,36,246120,1983,https://i.scdn.co/image/ab67616d0000b2732997e086b61ffc52e8ecb1c9,False,43,"['glam metal', 'hard rock']"
+El Chisme De La Cuchara,Los Munequitos de Matanzas,False,6nleHGIbLe1MG3BnG1oSVQ,2,182560,2009,https://i.scdn.co/image/ab67616d0000b2733977de9d5f8985f1dd652210,False,26,"['afro-cuban percussion', 'cuban rumba', 'musica tradicional cubana']"
+Morning at the hotel,Zbigniew Preisner,False,0ytNVtgfqMsfU2Cc4gUhUF,15,146906,2003,https://i.scdn.co/image/ab67616d0000b273521b843af12ecda7560869a1,False,51,['polish contemporary classical']
+Letter To The King,The Game / Nas,False,0pETU65Nri4vBhUi9fYqnW,29,345546,2008,https://i.scdn.co/image/ab67616d0000b2732e3fb52c1be3ba6a4fc56e9c,True,72,"['detroit hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+La La,The Verve Pipe,False,3dY333lAf3k3EfK7gtRsvs,13,240906,2014,https://i.scdn.co/image/ab67616d0000b2735073731f36d47134f36b98fb,False,47,"['pop rock', 'post-grunge']"
+God's Hands,The Oak Ridge Boys,False,3HvntkD2IVBJPCDxSaFkCA,0,151960,2022,https://i.scdn.co/image/ab67616d0000b273ea1fb20faca56d55da6e26c4,False,55,"['classic country pop', 'country', 'country road', 'country rock']"
+T-Bone,T-Bone,False,3DjwjAUPT4zvIu6ZzcgLGJ,49,228626,2005,https://i.scdn.co/image/ab67616d0000b273f7552225cf22b11067ba4656,False,46,"['blues', 'chicago blues', 'electric blues', 'jazz blues', 'texas blues', 'traditional blues']"
+When The Levee Breaks,W.A.S.P.,False,6PGNkwqIqvBLoyr5eLiGVy,17,426800,1992,https://i.scdn.co/image/ab67616d0000b2733fbf116d769bd5fb13253256,False,55,"['glam metal', 'hard rock', 'metal', 'speed metal', 'thrash metal']"
+Yoga de Sensualite,David & Steve Gordon,False,1qtE0lvTO6DqSxvi9G6oTa,3,480826,2009,https://i.scdn.co/image/ab67616d0000b273cc91e3e8ba8f805cb96492b0,False,37,['healing']
+Summer Sands (feat. Carol Keogh),Sharon Shannon_ Carol Keogh,False,7CqUpijlfbAxqGbgqw2dAX,0,198146,2019,https://i.scdn.co/image/ab67616d0000b273cbc1db2c4c5ece2ca804b85a,False,0,[]
+Abstracted,Scar Symmetry,False,67D6aZXXkIwBdgCEn28qo1,16,204956,2006,https://i.scdn.co/image/ab67616d0000b2738176975e647fcb4de883d8b3,False,43,"['melodic death metal', 'melodic groove metal', 'swedish melodeath', 'swedish metal']"
+Polles Fores,Giorgos Tsalikis,False,5QmRTCKr7qKFNYCaHFbSoy,6,78066,2006,https://i.scdn.co/image/ab67616d0000b27321450b0136bd924f4634de63,False,39,"['greek pop', 'laiko']"
+Break My Mind,The Jordanaires,False,3EZdNEFNjhbZQDkI2Qb8l5,0,134225,2008,https://i.scdn.co/image/ab67616d0000b2739d47664bd5373bf9399d35ff,False,58,['country gospel']

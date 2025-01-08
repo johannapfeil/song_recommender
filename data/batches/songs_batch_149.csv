@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+If They Want It,DJ Clue / Fabolous Sport,False,44CjZCJW7MfJOKaIKsFqQZ,15,242706,1998,https://i.scdn.co/image/ab67616d0000b273c3eb89dbb59d32ab80d397dc,True,41,"['dirty south rap', 'east coast hip hop']"
+Turn The Heat Up,Bobaflex,False,3T7W0A3sTz7py3sLgZLUkW,18,146973,2005,https://i.scdn.co/image/ab67616d0000b2736d46028e7c064c090b95e60f,False,41,['west virginia indie']
+Blue [Da Ba Dee] [Gabry Ponte vs. HiFi Blueprint Remix],Eiffel 65,False,6TWVt5WNyEdEzI3WPFQ5D4,11,388754,2009,https://i.scdn.co/image/ab67616d0000b273a5428eae107626b39d68cb73,False,63,"['eurodance', 'europop', 'italian adult pop', 'italo dance']"
+La Otra,Marisela,False,7yaJr3x7iylq9rRb37i7jk,33,221200,2002,https://i.scdn.co/image/ab67616d0000b273be0849c98ff98f2abb26ffa1,False,72,"['latin pop', 'ranchera']"
+Here I Am,Phantom Planet,False,4TuBsW4QYp2biljcHvx215,1,120666,2006,https://i.scdn.co/image/ab67616d0000b273e03f2137aaee14a350f554ce,False,49,[]
+This Very Moment,Set Your Goals,False,1jy7GQO4gdFDToCzTfje8w,18,153360,2006,https://i.scdn.co/image/ab67616d0000b273de89795304f83803df634d5c,False,36,"['anthem emo', 'easycore', 'pop punk']"
+Feeling,Jaco & Mixxmaster,False,1GY1aODWhIPUmLNitZMgRL,50,214011,2019,https://i.scdn.co/image/ab67616d0000b2737607aa9ae7904e1b12907c93,True,87,['canadian contemporary r&b']
+Be my Lover,Hysterie,False,2Dfa3SrtLNQUWJcjTjNsAp,0,448013,2010,https://i.scdn.co/image/ab67616d0000b27358564b3906f4e164a01c6520,False,3,[]
+Gotta Cut Out,Jimmy McCracklin,False,6XbbglAHQeVlfjANbPTdzQ,0,148533,1945,https://i.scdn.co/image/ab67616d0000b273bde6e70a04956521ac3b919a,False,19,"['jump blues', 'piano blues', 'rhythm and blues', 'soul blues', 'southern soul']"
+Kill Your Darlings,Soulwax,False,1jK7OsdhwW1NPoVAVGjdTD,0,282706,1996,https://i.scdn.co/image/ab67616d0000b2733505930a154db8ec44660406,False,50,"['alternative dance', 'belgian electronic', 'belgian indie', 'belgian indie rock', 'belgian rock', 'electronica', 'filter house', 'ghent indie', 'mashup']"
+"Rinaldo : Act 1 ""Cor ingrato_ ti rammembri"" [Rinaldo]",Marilyn Horne,False,27JTWAVHnPvIvVwTNLvI67,0,282360,2009,https://i.scdn.co/image/ab67616d0000b273005a28e51a98490f318a1a78,False,71,"['baroque', 'classical', 'early music', 'english baroque', 'german baroque']"
+Felicidade,Moraes Moreira,False,1mTMoGj5rWLsPcpHIYP1ZY,1,195706,1996,https://i.scdn.co/image/ab67616d0000b2731c6b08321a14b503be8a0180,False,42,"['bossa nova', 'mpb', 'samba', 'velha guarda']"
+New War,4 Skins,False,3neJSlDocu38qTl15oLxQW,4,250493,1983,https://i.scdn.co/image/ab67616d0000b2739e9514389c642ee483ab9670,False,32,['oi']
+Dead End Sign,Bonita,False,79i5kUBPLpSEXJA7lXnFc2,0,220680,2005,https://i.scdn.co/image/ab67616d0000b2732ce166ef3b366bf10e506ee9,False,12,[]
+Forever,Orbital,False,5vHat2tEE9JRRSBaCRZJU9,19,478466,1994,https://i.scdn.co/image/ab67616d0000b27318798bddb1242795de253320,False,49,"['big beat', 'breakbeat', 'electronica', 'intelligent dance music', 'rave']"
+Some Kind of Record,Rockit,False,7wPoGt1xdG0Mq16sUzyoFF,0,217040,2007,https://i.scdn.co/image/ab67616d0000b273c59da8d77c8b9c3b722ddc6f,False,1,[]
+Prayer Walk,Kris Gruen,False,4P2UPSjEK1BbUI87YRZeLU,0,185280,2007,https://i.scdn.co/image/ab67616d0000b273e3cdaeece15ebf805773776d,False,11,[]
+Only Just Begun,John Holt,False,2VCgtk5OZInU7iOYBgWVFX,0,212866,2000,https://i.scdn.co/image/ab67616d0000b2736ef8fbcbafe8ad3706ba1651,False,52,"['dub', 'lovers rock', 'reggae', 'rocksteady', 'roots reggae']"
+It's A Secret,Mungo Jerry,False,64vljHrhto3jOZXjX8Yly0,7,192700,1976,https://i.scdn.co/image/ab67616d0000b273b115e01e00db1d5e694d9732,False,57,"['british blues', 'classic uk pop']"
+I Never Did No Hitler,20/20,False,02ykkNYTpRwufq49WsFu7M,0,223560,1998,https://i.scdn.co/image/ab67616d0000b2731e777c1e632347b0ff9d2d8c,False,17,"['power pop', 'underground power pop']"
+C'est pas ma faute,Betika_ Daouda,False,1gqepYQdwka7a6SFrgCRbU,14,286940,2009,https://i.scdn.co/image/ab67616d0000b2736a98fc3e3d92038b84a05931,False,23,['zouglou']
+Cross Currents,Richard Souther,False,1Eob4hsu2if9wAFcmu9JKI,3,273000,1989,https://i.scdn.co/image/ab67616d0000b273711ff362a363b9352dd95b62,False,34,[]
+No. 6 The Coombe,The Chieftains,False,3R5lRiXo65H52y4ZQXZ12n,12,229706,1992,https://i.scdn.co/image/ab67616d0000b2735fe92b080b13a1b6572c6634,False,53,"['celtic', 'irish folk']"
+Don't Speak,Kinky,False,44OzoUfF54LPrv55ZCGrKk,0,234013,2010,https://i.scdn.co/image/ab67616d0000b273288d856848310a8cd392bd74,False,54,"['electro latino', 'funk mexicano', 'latin alternative', 'mexican rock', 'rock en espanol']"
+Everyday Stranger,Dub Pistols feat. TK & Ashley Slater,False,3rTDyTRoOIDyOZn7eGHLAn,8,326486,2009,https://i.scdn.co/image/ab67616d0000b273e3ec2149e5f97a8cfc6530e2,False,40,"['big beat', 'breakbeat', 'ragga jungle']"
+Death Song,The Last Days Of Jesus,False,0o6E3E4xHt552rjhpB3d82,0,292426,2004,https://i.scdn.co/image/ab67616d0000b2736cc6f8612613f8987fc610b0,False,7,['deathrock']
+Frankie & Sue,Darden Smith,False,13jw206gg2RCvS24lfuVc8,0,181600,1978,https://i.scdn.co/image/ab67616d0000b2736ea56abf41112c09450d1eeb,False,22,[]
+Ain't That Something,High Strung_ The,False,3DUdxWl9l2hNeLmjigv32x,1,165293,2004,https://i.scdn.co/image/ab67616d0000b2734516ec93c33fd485bae8d2de,False,33,['detroit indie']
+I've got Vilking in Me,Four Tet,False,5dfKLe9wxckGUft5aiEcaQ,2,136213,2004,https://i.scdn.co/image/ab67616d0000b273bd8a7aabb5bc54fad5fb9d95,False,64,"['electronica', 'folktronica', 'indietronica', 'intelligent dance music', 'trip hop']"
+Seize the day,Time Factory,False,64FsE8gx0BDFhSFDWyrped,0,244560,2006,https://i.scdn.co/image/ab67616d0000b273f7585b156d0ac8d919bb5c26,False,0,[]
+Warung Beach,John Digweed,False,5DiKMAchJsRlB67TFLC4c4,12,482612,2006,https://i.scdn.co/image/ab67616d0000b273c54a562105894eba324b339e,False,40,"['classic progressive house', 'minimal techno']"
+Song Sung Blue,Neil Diamond,False,57KfogSy3eKuk5JHLKwCJv,54,185653,2014,https://i.scdn.co/image/ab67616d0000b2736092ac99aa00b2918ce33ec7,False,70,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']"
+Mutter Erde,Monika_ Wolfgang,False,6OPYoqaMVKXrTDPlnZRCPq,0,178800,2010,https://i.scdn.co/image/ab67616d0000b2736a38164d32b63a291cd6034d,False,0,[]
+Got To Tell The People,Cornell Campbell,False,696RBWIB11qo1cN5WuxS3p,1,182804,1983,https://i.scdn.co/image/ab67616d0000b273543556e14fd77f2eb96d0c75,False,39,"['dub', 'lovers rock', 'reggae', 'rocksteady', 'roots reggae']"
+Gigantor,Dickies,False,7HZVjZXzOA9Qxw5q6IrwUD,2,179600,1990,https://i.scdn.co/image/ab67616d0000b2735a6c00ddef2e5c80c4da4559,False,40,"['early us punk', 'hardcore punk', 'punk']"
+If I'M Dreaming just Let Me Dream,Brenda Lee,False,7yFy6bJzv1P7NeDMvSyPpF,19,170453,1960,https://i.scdn.co/image/ab67616d0000b27394d826a48aa675028d2a94da,False,82,"['adult standards', 'easy listening', 'lounge', 'rockabilly']"
+Distant Cousin,George Schuller,False,40lJx6OBaPFsk2mYhkIXUn,0,803814,2002,https://i.scdn.co/image/ab67616d0000b27384562ac40738d15840d9e5f6,False,4,[]
+Love,Opals,False,1zJ5ZervtsYePw1AMyREpV,0,136773,2015,https://i.scdn.co/image/ab67616d0000b273eaec9ec7f28d2686afe09d05,False,1,[]
+Rotate,Capone-N-Noreaga feat. Busta Rhymes and Ron Browz,False,4TWK5tEXSUtSlFXE8aLpci,2,203973,2009,https://i.scdn.co/image/ab67616d0000b27357c1c46b75c4d86b9224bdd4,True,49,"['east coast hip hop', 'queens hip hop']"
+The Hills Of Old Wyomin',Roy Rogers,False,4lwPGr91FQygaQUsxDdyFC,5,185013,2000,https://i.scdn.co/image/ab67616d0000b273c6e07d482a7ed9527f82013d,False,33,"['cowboy western', 'western swing']"
+Here And Beyond,Behemoth,False,4MPE0zerNCZMdxMPdBzT8F,14,206400,2002,https://i.scdn.co/image/ab67616d0000b27341c46797f6ac06ff61136836,False,52,"['black metal', 'death metal', 'groove metal', 'metal', 'pagan black metal', 'polish black metal', 'polish death metal', 'polish metal']"
+Natural Light (Subliminal Self-Help),Steven Halpern,False,6SmBMBxQp9Ki5eNrFpwb9V,6,248626,1994,https://i.scdn.co/image/ab67616d0000b273c4f199a7863dd72fa3102673,False,54,"['healing', 'meditation', 'sleep']"
+America's Suitehearts,Fall Out Boy,False,6uq4CjBN51iCkbwrqc2xsU,44,214133,2008,https://i.scdn.co/image/ab67616d0000b2739d0807e52789a2715a0419bc,False,81,"['emo', 'modern rock', 'pop', 'rock']"
+(Prayer Is The Key To Heaven) Faith Unlocks The Door,Don Gibson,False,4XDSGP2xBMENAviLGkPpkJ,8,151706,1958,https://i.scdn.co/image/ab67616d0000b2732b13083344b68f9c0a301654,False,42,['nashville sound']
+The One Who Lives Inside Your Heart,Lari White,False,2BnIBAubrDmCxHRt1l5mG4,8,239906,2001,https://i.scdn.co/image/ab67616d0000b273c3efc584475c9f3cfa42bfed,False,16,['country dawn']
+Finisterre (Live),Mau Mau,False,1liHcjqfBM6BYGPtC8BspI,0,746212,2001,https://i.scdn.co/image/ab67616d0000b273fd7154c87039c5ae3f4435a9,False,16,"['folk rock italiano', 'musica etnica', 'musica piemonteisa']"
+Boulevard St. Germain,Bloomfield,False,7DpLuyyNA10EZRAUXPvN0x,16,350373,2006,https://i.scdn.co/image/ab67616d0000b27352518e50ca89fdf7117da166,False,32,"['chill lounge', 'deep chill']"
+Your Love Takes Good Care Of Me,The Jordanaires,False,1Henetl9NehxiemO1FChOI,0,131024,1968,https://i.scdn.co/image/ab67616d0000b2731dc1ea1030d12b8a6891e150,False,58,['country gospel']
+Only You,Ayo,False,4feHUhngDBQDpTUZOhlOml,30,234840,2006,https://i.scdn.co/image/ab67616d0000b273babb6e0586bb1071c365d59d,False,51,['neo soul']
+Let It Bang,X-ecutioners featuring M.O.P.,False,2tKbb0wHIA7LSrcTa3Wyxb,21,210066,2002,https://i.scdn.co/image/ab67616d0000b273eeb5d940509f3320ca16c601,True,38,"['scratch', 'turntablism']"

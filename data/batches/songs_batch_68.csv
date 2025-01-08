@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Hey Joe,The Creation,False,3gtlS0bd5YvejgQrM6BIiW,4,250120,2017,https://i.scdn.co/image/ab67616d0000b2737004db1b97e34bbfd1b05a98,False,28,"['british invasion', 'classic garage rock', 'freakbeat', 'protopunk']"
+Risen From Within,Astarte,False,6RKsCqzlDxZcAyryDKEMKt,2,173220,2017,https://i.scdn.co/image/ab67616d0000b273971566e7d7102a2ac0d0ff06,False,15,"['greek metal', 'melodic black metal', 'slayer', 'symphonic black metal']"
+Humppa,Elakelaiset,False,3yW5krcmUGwybARWmrGu3u,10,122386,2011,https://i.scdn.co/image/ab67616d0000b2738e4d551c261f70b89d6658af,False,40,['humppa']
+Neon Rainbow,The Box Tops,False,1F898dzpPq7Erdd8pDgUad,30,181706,1967,https://i.scdn.co/image/ab67616d0000b2735f4604aff952dc7b0a8e511e,False,60,"['bubblegum pop', 'classic garage rock', 'folk rock', 'merseybeat', 'psychedelic rock', 'rock-and-roll']"
+Blues,Terry Callier,False,0qDWYnO1vHapI3KrILt8nV,33,178200,2018,https://i.scdn.co/image/ab67616d0000b27334f3d6b8d50f09a5bb95782a,False,45,[]
+winning friends,Prisma,False,2L3G3KpEh2VcJ3nZ3S08AA,0,219666,2005,https://i.scdn.co/image/ab67616d0000b273a6cdbafb3ae1146ef83d3e07,False,6,[]
+Glo-Billy-Vee-Vee,Beaver Harris,False,5QNhH8gieD7FgplhrteU23,0,193493,2002,https://i.scdn.co/image/ab67616d0000b273ffa7e75222a975691dc4921d,False,4,"['avant-garde jazz', 'spiritual jazz']"
+Empty Arms,Stevie Ray Vaughan And Double Trouble,False,34FPWRgUUy52vD6TXimqx7,33,208706,1984,https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4,False,63,"['album rock', 'blues', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'instrumental rock', 'rock', 'texas blues']"
+It Has Been A Long Time_ Hasn't It,Anubis Spire,False,2p8pVXY6XG25Yz9fFTOcuX,0,315151,2020,https://i.scdn.co/image/ab67616d0000b2739d40fcb48ac81b4189ce504f,False,0,[]
+Fall Away Into Darkness,The Balustrade Ensemble,False,1MmpcRAJJ4PRCDuKb8t9i6,0,284903,2007,https://i.scdn.co/image/ab67616d0000b273eb76f91dd27bbde634d72190,False,0,[]
+Little Edith,O'2L,False,50drsn193gGPp00CZKOBqE,1,290120,2005,https://i.scdn.co/image/ab67616d0000b27342138a3dbba526f13ffdc2bd,False,3,[]
+Please Remember Me,B.B. King,False,3WICd0wbqF9EUXEYTSwox8,2,197280,1963,https://i.scdn.co/image/ab67616d0000b273bcfbe3880b239fb0cce4b65f,False,64,"['blues', 'blues rock', 'classic rock', 'electric blues', 'jazz blues', 'soul', 'soul blues', 'traditional blues']"
+Only One You,T.G. Sheppard,False,36V6Cb9DjnxlVNqqgD5piw,32,202226,1979,https://i.scdn.co/image/ab67616d0000b27345f16e9a398035b39d11019a,False,44,"['classic country pop', 'country', 'country rock']"
+Johnny Can't Dance,Clifton Chenier,False,40Wu2T1voC6K90gyAE1EQV,2,284786,2003,https://i.scdn.co/image/ab67616d0000b2732c03c40ecfb2a8a84a2e6659,False,27,"['accordion', 'zydeco']"
+Mad World (Money-G. Remix),Jan Wayne,False,4ivcDqqMuYLptrLUeNylZ6,3,495333,2005,https://i.scdn.co/image/ab67616d0000b2738adc240a95e635d3e23bfa5a,False,43,"['bubble trance', 'eurodance', 'hands up']"
+River Is Waiting,Irma Thomas,False,7lwxxEDN72xv3KZuK7dDRh,3,244560,2008,https://i.scdn.co/image/ab67616d0000b273bc1ba0f2590486feeee760ed,False,51,"['classic soul', 'louisiana blues', 'new orleans blues', 'new orleans soul', 'southern soul']"
+Honey,R. Kelly & Jay Z,False,1ZP0yvaWPl8vQV9ZH9jvT7,40,304733,1992,https://i.scdn.co/image/ab67616d0000b273ddf956e37e76de0c4d2a9b92,False,69,[]
+Iron Man,The Cardigans,False,2cpJAVteVpeXFCiOgjcx7m,44,259872,1996,https://i.scdn.co/image/ab67616d0000b2730aac8ca880151fda470e91af,False,71,"['lilith', 'new wave pop', 'permanent wave', 'pop rock', 'swedish pop']"
+Innizar,The Forms,False,0icPjZ4vvCqN7vWxVUQqKt,0,208146,2003,https://i.scdn.co/image/ab67616d0000b2733cee4c6af8ebca759c3858ef,False,10,['stomp pop']
+Take Your Time feat. Yannick Noah,Jimmy Cliff,False,18f4PApKku0tt4gGR6oV8U,7,192933,2005,https://i.scdn.co/image/ab67616d0000b273ea31fd801abb500c00492eec,False,45,"['chanson', 'french pop']"
+Spanish Harlem,Phil Spector,False,37EG3pAwxALtmyaU1kpS6d,10,174506,2014,https://i.scdn.co/image/ab67616d0000b273335129b0d8451b157b189e07,False,37,['brill building pop']
+You Called It Madness [But I Call It Love] [Live At Royal Albert Hall],Tiny Tim,False,7g4B2jtmw8ZZwmP2dZlQN8,1,197893,2000,https://i.scdn.co/image/ab67616d0000b27302cdb71bc8c7648f93d12789,False,47,"['novelty', 'outsider']"
+Squarebiz,Galactic,False,7vybPqtuir09bEVUuOOY5f,5,205080,2007,https://i.scdn.co/image/ab67616d0000b273c2319b7b3dd7bd71c257418e,False,43,"['funk rock', 'jam band', 'new orleans funk']"
+Someday (Immune Album Version),Soul Embraced,False,0IoWFeyvTZ99lTThlcmcHu,2,248760,2003,https://i.scdn.co/image/ab67616d0000b2734dc261c94f5b68f0da019cd9,False,12,"['arkansas metal', 'christian death metal', 'christian hardcore', 'christian metal']"
+Narrative #1,Michael Bloomfield,False,65MnEDuSd7FNPId33AKWtK,1,36000,2004,https://i.scdn.co/image/ab67616d0000b273ee66629d93b8b08577159d6d,False,38,"['blues', 'blues rock', 'chicago blues', 'electric blues', 'traditional blues']"
+The Painter And The Magician,William Coulter,False,3EdTHjOYLIBBgEvBSGWnut,2,253533,2004,https://i.scdn.co/image/ab67616d0000b273b6676f5064e1a295adcb56c0,False,32,['string folk']
+Drugs,At All Cost,False,4mW61eip5sYeVCw5dRp11S,0,444186,2007,https://i.scdn.co/image/ab67616d0000b2736eae06c6074e2e66b45f9e0b,False,7,['austin metal']
+KORITSU HOSPITAL,An Cafe,False,1xRItZurglvXqMdtEpoPwl,10,274106,2009,https://i.scdn.co/image/ab67616d0000b27388bcd34c56a3e5292b277d75,False,32,"['oshare kei', 'visual kei']"
+Somebody's Brother (Somebody's Brother Album Version),Scott Wesley Brown,False,118FptgYLLceGpOrkYeqTZ,3,191800,1995,https://i.scdn.co/image/ab67616d0000b2737d3db53d5bba30ceecc6830d,False,37,"['classic praise', 'jesus movement']"
+Scientas,Shamen,False,5ViJM1dITWN0iRrueT1PPg,9,340826,1992,https://i.scdn.co/image/ab67616d0000b2738dfbe42d76c4fa722347b016,False,40,"['acid house', 'big beat', 'britpop', 'dance rock', 'hardcore techno', 'hip house']"
+Wo bleibt die Mark?,Zeltinger Band,False,0GxERvGBzqgFwczQdwYETZ,0,222253,2005,https://i.scdn.co/image/ab67616d0000b273df4e6b13e81935067ad385fb,False,12,['german rock']
+Dress Me Up,Eric Champion,False,13NFDFZoh3PGBs9z5pKI22,0,327493,2009,https://i.scdn.co/image/ab67616d0000b2732771ff70659288f838328be9,False,9,['deep christian rock']
+Sambangole / Tres Golpes Na' Mas,Colombiafrica - The Mystic Orchestra,False,3ZvD8EO5prcFOdUgVj1WqC,0,320933,2007,https://i.scdn.co/image/ab67616d0000b273c507f647588b3c93fa290823,False,4,[]
+Nice 'N' Easy,Charlie Rich,False,7eNmd6fKV4jijfRexwRpvI,17,182573,1970,https://i.scdn.co/image/ab67616d0000b273b62ff6505da187f5b73b17d0,False,51,"['arkansas country', 'country', 'nashville sound']"
+Sunny Came Home,Shawn Colvin,False,6NUiDZQALrNiDfqDB6ZBaF,40,264733,1996,https://i.scdn.co/image/ab67616d0000b273dd951c57be1d459d54f490f3,False,46,"['austin singer-songwriter', 'ectofolk', 'folk', 'lilith', 'new wave pop', 'singer-songwriter']"
+Darby's Castle,Kris Kristofferson,False,2GrDty9HFxbCs1RSo7tr9L,29,197173,2004,https://i.scdn.co/image/ab67616d0000b273e602e2a264e5579332f796aa,False,65,"['country', 'country rock', 'outlaw country', 'singer-songwriter']"
+South Side Story,Lloyd Banks,False,0IRV6S2eDgypTasHgDPAUM,29,250693,2004,https://i.scdn.co/image/ab67616d0000b273c8789da04949019737754842,True,64,"['detroit hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'pop rap', 'queens hip hop', 'rap', 'trap']"
+Old Friends,Paul Brown,False,6mLcEun45YG0UavYIwFLB5,16,243933,2005,https://i.scdn.co/image/ab67616d0000b273cccd35505ec90918cb344d1e,False,7,[]
+Position,Terror Fabulous,False,3Gd81dB7AH8WV7a9TOxiFa,22,187760,1995,https://i.scdn.co/image/ab67616d0000b273c682cda1cd61e7738c455fc0,False,41,"['dancehall', 'lovers rock', 'old school dancehall']"
+Drifting Away,Mighty Diamonds,False,1v50zLx2snALldjYnFCLNz,0,129000,2001,https://i.scdn.co/image/ab67616d0000b27354b3f7b1930185b53302d878,False,40,"['dub', 'lovers rock', 'reggae', 'roots reggae']"
+Tetrispack,Modeselektor,False,5RLcUeFpz5GfV8rcAvWysQ,12,256266,2005,https://i.scdn.co/image/ab67616d0000b27313367af188bb8438f9724cec,False,45,"['electronica', 'intelligent dance music', 'wonky']"
+Brand New Broken Heart,NewFound Road,False,60Zy7bng2xGSiW8ZUFdUEo,4,177880,2009,https://i.scdn.co/image/ab67616d0000b2737eb5b80ab9eeb45aae09a435,False,30,"['banjo', 'bluegrass']"
+Get Your Hustle On,Lost Boyz,False,0791lqIVdBwRIEA6JlhHC6,7,243493,1997,https://i.scdn.co/image/ab67616d0000b27386ddf213f15246dd7495fd06,True,44,"['east coast hip hop', 'queens hip hop']"
+Vincent,Madilu System,False,7oBSuvqdRmkySk36EaPBVG,17,450586,2007,https://i.scdn.co/image/ab67616d0000b273d82b674b369d1fcc81cee37c,False,44,"['rumba congolaise', 'soukous', 'zilizopendwa']"
+the fallen...,Set Your Goals,False,5N1HE12rj0d82cGOJrzSpl,22,204413,2009,https://i.scdn.co/image/ab67616d0000b273ae1d54adb2c3d396e56b4be9,False,36,"['anthem emo', 'easycore', 'pop punk']"
+The Lifestyle That Got Away,The High Strung,False,5EkUYDwi5bYt5KcyDR4az4,10,153720,2016,https://i.scdn.co/image/ab67616d0000b273bda3b92e77450b4ac9e6897f,False,33,['detroit indie']
+Mi Sangre Latino,Nelson Ned,False,7ehsBAzdEWLtkmYSwZFion,20,178106,1999,https://i.scdn.co/image/ab67616d0000b2739b9fee09f7982d7418d792c8,False,55,"['bolero', 'mexican rock-and-roll', 'pop romantico', 'ranchera']"
+Te quiero tanto,Vilma Palma e Vampiros,False,3okNQ9w68odjhNWXk6SY1n,48,209960,1993,https://i.scdn.co/image/ab67616d0000b27354093f2cb7fb82bcd7f30539,False,66,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol']"
+Yesterdays,Ray Conniff,False,3fuadab9BuUGMNarvfsHW5,4,195533,1959,https://i.scdn.co/image/ab67616d0000b273211b936cd5603edf4f1135c4,False,61,['easy listening']
+T.V. & Movies,D' Militante,False,0FIVvgHCCU0AGclE8YcMyB,0,420493,2002,https://i.scdn.co/image/ab67616d0000b273a8e0cd4db73bd8ecaa1fba36,False,0,[]

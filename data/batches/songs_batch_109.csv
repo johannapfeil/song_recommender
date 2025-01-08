@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+When We All Get To Heaven,The Jackson Southernaires,False,5SMCI63pYJOA6ltnN5Zll1,3,272533,1995,https://i.scdn.co/image/ab67616d0000b273484f98b191525d2937074621,False,28,['praise']
+Baby Here I Am,Midnight Fish,False,5rEdQUnxFXxxUyS7ITEVwb,0,295253,2010,https://i.scdn.co/image/ab67616d0000b2735c214eafc0268451cd5c9e0d,False,0,[]
+Music Is The Healing Force Of The Universe,Albert Ayler,False,7CswNoJUJcH5ehTMKfzfu9,7,521266,1969,https://i.scdn.co/image/ab67616d0000b273874c6eb20f96da22da74fca5,False,30,"['avant-garde jazz', 'free jazz', 'jazz saxophone']"
+In This Legacy,Monty Are I,False,6WcGiZeqbF6HU76wI3V4Ov,22,245066,2006,https://i.scdn.co/image/ab67616d0000b273d6609a840f055a465dddff11,False,20,['rhode island indie']
+Adagio (Albinoni),Mariano Yanani,False,0UbbIJqDq3oU6NSUXFaRez,11,216640,2003,https://i.scdn.co/image/ab67616d0000b2734af0588a4477e3cc7410d805,False,19,[]
+Bad People,Casiotone For The Painfully Alone,False,6DQVnpZkb2FGsKBMSE6xGN,0,26813,2008,https://i.scdn.co/image/ab67616d0000b273f4eb8a88709e0ffd62570878,False,35,"['anti-folk', 'indietronica', 'lo-fi']"
+Soul makossa,Fania All Stars,False,6TVu1qTFdjM8MZMQDlzIUz,17,347261,1974,https://i.scdn.co/image/ab67616d0000b273fa31a62891a9f6dae635db6f,False,48,"['latin jazz', 'salsa']"
+Death Of A Nation,Anti-Flag,False,2NTyRzWmipSpO9nx3I4kLN,3,133045,2017,https://i.scdn.co/image/ab67616d0000b2737df89f5e7354b4d92234b7a7,True,51,"['punk', 'skate punk']"
+The Sector of Foliage,Pumpkin Buzzard,False,0socivBHSFx0pOqjzqpkZc,0,271687,2010,https://i.scdn.co/image/ab67616d0000b273e3bd66f71cbf9cea7ff94820,False,0,[]
+Eight More Miles To Louisville,Jim Kweskin,False,2G1tuDblEgYRFds7CWUKlN,1,165173,2016,https://i.scdn.co/image/ab67616d0000b273cbc6050963681158c6a52c2a,False,16,['jug band']
+How Deep The Father's Love For Us,Kathy Troccoli,False,3YfHGlukPKVUkSK0PIuU4a,8,195040,2014,https://i.scdn.co/image/ab67616d0000b27379e2c1d4c594f1fa576003d6,False,42,"['christian music', 'classic praise']"
+If I Was Your Woman,Alicia Keys,False,0IHa9skAs65KA2AIH4RGFb,40,186200,2003,https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b,False,81,"['neo soul', 'pop', 'r&b']"
+Masuwa,Les Bantous De La Capitale,False,0nlUW6a2JuXRwKBzounRsg,12,331973,1995,https://i.scdn.co/image/ab67616d0000b2734b6df72bc4508f858fa839e5,False,17,['soukous']
+Groovin',Jan Wayne,False,6W7l65kqEDbGauWLGmdmu3,1,230720,2003,https://i.scdn.co/image/ab67616d0000b273a2afffaf8d560b6580b5ab20,False,43,"['bubble trance', 'eurodance', 'hands up']"
+Again And Again,The Unborn Chikken Voices,False,0JhJuwz1LycbrKSPl8FenH,0,217906,2008,https://i.scdn.co/image/ab67616d0000b273a8737249e761e3578847c9b9,False,0,['swiss alternative rock']
+Clown,Mariah Carey,False,7AOlf7YJeuIi9EvzBjThP9,27,197266,2002,https://i.scdn.co/image/ab67616d0000b2736a05a10cce01a91fd7179b3e,False,88,"['dance pop', 'pop', 'urban contemporary']"
+Tic,Helmet,False,4iyW4RQlmcGj1i1igx17RD,35,220266,1994,https://i.scdn.co/image/ab67616d0000b273f9cbf0cd40391d985b2af57b,False,52,"['alternative metal', 'alternative rock', 'groove metal', 'grunge', 'industrial metal', 'industrial rock', 'nu metal', 'post-hardcore']"
+World On Wheels,Dilated Peoples,False,0vonGlSTjuQYe0yYJkU2Rf,24,236546,2004,https://i.scdn.co/image/ab67616d0000b2738186bf9413a587a7061b9755,True,50,"['alternative hip hop', 'hardcore hip hop', 'hip hop', 'west coast rap']"
+Erinnerung an die Meseta,Steinwolke,False,7lxgaZ47GxNz5lrrpPkFdE,0,410012,2010,https://i.scdn.co/image/ab67616d0000b273e001529287b2c512a4654342,False,37,['neue deutsche welle']
+Try to live,Die Bandbreite,False,5dutYLWX9vEMZYn1omhh4c,0,289373,2007,https://i.scdn.co/image/ab67616d0000b273777a570b2f643cd638026270,False,9,['german alternative rap']
+Full House,Alan Silvestri,False,3MG8Qmyt5kzvNNAPsdrDu5,16,81453,2006,https://i.scdn.co/image/ab67616d0000b273f4a75accd2f999e8d15f5b88,False,61,"['orchestral soundtrack', 'soundtrack']"
+Hoop of Flame (III. Between Two Worlds),Mind Furniture,False,0BaG6IdCBdCpJhNSN6s4nt,0,222466,2009,https://i.scdn.co/image/ab67616d0000b27318da40230355611f986cc0f8,False,0,[]
+Stay Down Here Where You Belong,Tiny Tim,False,7rnuKO6Qk9DDPFmcGZjJca,20,160040,1968,https://i.scdn.co/image/ab67616d0000b273cea8b273d59bb63ce43364c7,False,47,"['novelty', 'outsider']"
+Mahafinaritra,Rajery,False,7H64vm3mpUXmF1UXvOlheN,2,222106,2003,https://i.scdn.co/image/ab67616d0000b2733660be272aab58894c532767,False,41,"['malagasy folk', 'world']"
+Proibida Pra Mim (Grazon),Zeca Baleiro,False,5Te6AchmV1n93VD6DUDN3X,52,195000,2000,https://i.scdn.co/image/ab67616d0000b273dee551986b9fdb9e57965181,False,59,"['brazilian rock', 'mpb', 'musica maranhense']"
+Amigo (Con el Coro de Infantes de la Basilica de Guadalupe),Yahir,False,2mE8EDGsNkJyrIZr7vfNUW,2,253280,2006,https://i.scdn.co/image/ab67616d0000b27319885f5b462c3ceac1e2995e,False,58,"['latin arena pop', 'latin pop', 'mexican pop']"
+Chime,Shapeshifters,False,716GwDgXKhdlgT7FHY0qYS,9,488977,2008,https://i.scdn.co/image/ab67616d0000b2738336458ea4901cc03c502085,False,53,"['disco house', 'diva house', 'vocal house']"
+We Gotta Talk,Jennifer Lopez,False,3HsrcX8pSr7NCxYhfrtczZ,20,245666,2001,https://i.scdn.co/image/ab67616d0000b273bfa0a1de59696c7a6fe15ebb,False,77,"['dance pop', 'pop', 'urban contemporary']"
+Todo Tiene Su Fin,Dyango,False,3bDO5ljQCZS9Hz7NcGXoxc,7,283786,1989,https://i.scdn.co/image/ab67616d0000b273a7ab0dfce0214cf7c6358962,False,59,"['cancion melodica', 'pop romantico']"
+Jenny Says,Cowboy Mouth,False,3HSBCz4Tj3l1gtjvXal9ey,35,202586,1996,https://i.scdn.co/image/ab67616d0000b2731aff19db7979dd8fbb254d98,False,29,['alternative roots rock']
+Livin in the Jungle,Mikey Dread,False,2wpkkiysJxUVcgN0IiyMru,0,152000,1991,https://i.scdn.co/image/ab67616d0000b27391aa91a1bc82b22824a6453b,False,37,"['dub', 'old school dancehall', 'reggae', 'roots reggae']"
+Affliction,AFI,False,2pHxFL26gxeS4ZnGTxJZAf,34,328680,2006,https://i.scdn.co/image/ab67616d0000b2736c050d183c1fff7158c7bcd3,False,62,"['alternative metal', 'nu metal', 'pop punk', 'post-grunge', 'punk', 'screamo']"
+Chiaroscuro,Francis Dhomont,False,5e4yd2y9w8BHXxc0PjjRGC,0,1056333,1991,https://i.scdn.co/image/ab67616d0000b27312ae01ac1fa849e0dc5e6b3a,False,2,"['acousmatic', 'avant-garde', 'electroacoustic composition', 'laboratorio', 'musique concrete']"
+Split Part One,Groundhogs,False,04xjUNts9iC1aPdoMqDqUR,0,601373,2009,https://i.scdn.co/image/ab67616d0000b27346fa56b8f78a073c509cf124,False,30,"['british blues', 'proto-metal']"
+Givin' It Back,Capital Tax,False,5clLTbjYiMS8fhtrXQx8RB,4,262800,1993,https://i.scdn.co/image/ab67616d0000b2735aef24fb1bb50b8994ee09a8,True,7,['deep east coast hip hop']
+The Woman I Need (Honky Tonk Mind),Johnny Horton,False,0LwcRAGlAbact6jRilxMZW,16,132240,2013,https://i.scdn.co/image/ab67616d0000b2734971e41391323fb2b8c5c4ba,False,50,"['classic country pop', 'cowboy western']"
+Key To The Highway,Freddie King,False,1iLr1O2gtdvj5vNlpubkVw,25,207666,1971,https://i.scdn.co/image/ab67616d0000b273be4c277f6b8f6bedf7135496,False,51,"['blues', 'blues rock', 'electric blues', 'texas blues', 'traditional blues']"
+Natural High (Interlude),Ms. Dynamite,False,4UwYP0mcrSFQOfPmSoF2Xm,11,56160,2002,https://i.scdn.co/image/ab67616d0000b273e06ab2393cffcc174c604244,False,48,"['uk funky', 'uk garage']"
+Georgia,Cartel,False,6mq7p3GtkKTafOqxmCyMYS,4,234186,2008,https://i.scdn.co/image/ab67616d0000b2733dd0eca32cfdaac280a9929f,False,45,"['atlanta punk', 'neon pop punk', 'pop punk']"
+Balle Balle,Sukhbir,False,1PLsTkbs6MDSpIKxwo5lzf,30,260088,1997,https://i.scdn.co/image/ab67616d0000b273c6a0b56e3557a8ee8a0a678a,False,57,"['bhangra', 'filmi', 'modern bollywood']"
+Fire Alarm,Anneli Drecker,False,5CJPDBq6ZnJDjLTLVcxUgm,0,262453,2000,https://i.scdn.co/image/ab67616d0000b273954e4c00b1cb7c6296695b79,False,17,['norwegian pop']
+Passage To Melilla,Pyrolator,False,14I21BorF669AQcdhe2CSg,1,180480,2013,https://i.scdn.co/image/ab67616d0000b2731b606bce7711a91d694c5afd,False,11,"['dusseldorf electronic', 'neue deutsche welle']"
+Plejersko ponasanje,Beogradski Sindikat,False,2LkU9XfaR2oHCWay1pUV6F,1,298693,2001,https://i.scdn.co/image/ab67616d0000b2735a5941e58956cf6401612c34,False,46,"['balkan hip hop', 'serbian hip hop']"
+Someday Baby,Otis Spann,False,5vTyYoCaZ36Blzv92w2vtC,18,182573,1969,https://i.scdn.co/image/ab67616d0000b2732f750bd149344a63675697fb,False,35,"['blues', 'boogie-woogie', 'chicago blues', 'jazz blues', 'piano blues', 'traditional blues']"
+Mihodina ny tany,Rajery,False,1Q6ccLFaQzs69DkKlCFqj2,0,299306,2003,https://i.scdn.co/image/ab67616d0000b2733660be272aab58894c532767,False,41,"['malagasy folk', 'world']"
+What It Ain't,Josh Turner,False,6t0EGwKbYrDMwht659TDAp,24,205973,2003,https://i.scdn.co/image/ab67616d0000b2739e99a4e0a693f5030e774503,False,67,"['contemporary country', 'country', 'country road']"
+Never Be (Bonus Track),Bomb Squad,False,12lH7gUa3oIcjE5pprzQD1,0,115693,2008,https://i.scdn.co/image/ab67616d0000b27345c223874dda82be028854ca,False,3,[]
+Hole In My Head,Dixie Chicks,False,6wxVOknGabpV763hFCIkV8,30,201160,1999,https://i.scdn.co/image/ab67616d0000b27309874a0209b4bc9c0b3a0a01,False,67,"['contemporary country', 'country', 'country dawn']"
+American Dream,Vixen,False,4WXKXd5iv75upxjNlsDEax,17,259560,1988,https://i.scdn.co/image/ab67616d0000b273d9c142316e6bdbb46a93d0e8,False,41,['glam metal']
+A Boy Who Can't Talk Part 2,Planet P Project,False,2qFTJyCRaDOSgZNDqfdsxN,1,74800,1984,https://i.scdn.co/image/ab67616d0000b273548d7d7f2afb40c72c1db138,False,28,[]

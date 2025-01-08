@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Wind Beneath My Wings,RyanDan,False,49vLtGNCdYsjiSM1Ugb8cs,20,255800,2007,https://i.scdn.co/image/ab67616d0000b2730c85bfdf6bd18469fd68cb5e,False,27,['operatic pop']
+Black Market Hell,Aiden,False,2dPReMYP0Nbyv7SNyTWrZg,1,180480,2010,https://i.scdn.co/image/ab67616d0000b273b9c0afd08764f4077bdc3507,False,37,"['horror punk', 'screamo']"
+The Way I Am,Eminem,False,23wfXwnsPZYe5A1xXRHb3J,71,290426,2000,https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42,True,93,"['detroit hip hop', 'hip hop', 'rap']"
+22 (Acoustic),Lily Allen,False,6uKMv83I0QMPMXUCRL8FOD,5,188066,2009,https://i.scdn.co/image/ab67616d0000b2737f62b5b87e2aa9734631d052,False,70,"['dance pop', 'electropop', 'neo mellow']"
+Nino ven pa'ca,Juan Carmona,False,6skdQtEvZLHz6iakOtrnBC,0,204573,1996,https://i.scdn.co/image/ab67616d0000b27337d61689e81d994825e209ce,False,18,"['flamenco', 'flamenco guitar']"
+Revolver [Tracy Young's Shoot To Kill Remix],Madonna,False,35d5drInpo5DwQogI0e56K,11,564960,2009,https://i.scdn.co/image/ab67616d0000b273eb6f49c6eea56c41f385ed5f,False,81,"['dance pop', 'pop']"
+Hey Joe,Roy Buchanan,False,2yIuOkKwZuH4mVZUrOEbkA,31,436413,2012,https://i.scdn.co/image/ab67616d0000b273f45b400125c72430e71cfca8,False,43,"['acoustic blues', 'blues', 'blues rock', 'electric blues', 'modern blues', 'traditional blues']"
+Parola di faliero,Inoki,False,4XphnVRllyWTMo1EquaF2h,5,75933,2007,https://i.scdn.co/image/ab67616d0000b2732d85b565affa0a6d54098c7f,False,43,"['italian hip hop', 'italian underground hip hop']"
+Can't Find My Sadie,Checkers,False,22esUYtm7TDwWTGg6yslFB,0,161360,2010,https://i.scdn.co/image/ab67616d0000b273c87021fc2c979cebe69a93ae,False,3,[]
+Las Hermanas Granaditas,Los Nakos,False,7oORthO6X2vTWa4QQFnbOh,0,131039,1998,https://i.scdn.co/image/ab67616d0000b2738f496a8a272b8c27c17a8d89,False,7,[]
+Menuet in the Name of Haydn,Alan Feinberg,False,2dKiSSF0FTL8dMSWf4qNUS,1,155200,2008,https://i.scdn.co/image/ab67616d0000b273048c99b5863f42f9fb7d2c9a,False,61,"['classical', 'impressionism', 'neoclassicism', 'post-romantic era']"
+Lies,Pennywise,False,2XzzP3HXqdzK907sGFewD4,28,131480,2018,https://i.scdn.co/image/ab67616d0000b2730b1c378c7f881f362ee3ef8c,False,56,"['punk', 'skate punk', 'socal pop punk']"
+The Imperial March from The Empire Strikes Back,John Williams,False,4TQAjB2yVY6vem4tPRGQhU,31,191800,2024,https://i.scdn.co/image/ab67616d0000b273bfd8db2412b8f34e28e424be,False,80,"['orchestral soundtrack', 'soundtrack']"
+Mr Big Man,Junior Reid,False,7J2LJs4kqD3ZqZVYz6G6Lk,3,213040,2015,https://i.scdn.co/image/ab67616d0000b273c97cc800d542dc85dd3b9d4b,False,43,"['lovers rock', 'old school dancehall', 'reggae', 'reggae fusion', 'roots reggae']"
+Boomerang (Reprise),Cirrus,False,5R6pbCEXUIJ5eq2vurpLRl,3,193910,2002,https://i.scdn.co/image/ab67616d0000b27359b1b1512c173d0f851edc09,False,36,"['big beat', 'breakbeat']"
+In My Bed,Amy Winehouse,False,2TfIuZiaQK2I6Dsn0GxxdN,50,317013,2003,https://i.scdn.co/image/ab67616d0000b27314655886a5d7ef8a606e0c1f,False,80,"['british soul', 'neo soul']"
+Down On My Knees,Ayo,False,7qd4qyZQNCyzOY7kGIlMUv,48,240120,2006,https://i.scdn.co/image/ab67616d0000b273babb6e0586bb1071c365d59d,False,51,['neo soul']
+The Wedding Samba,Edmundo Ros,False,7LiXwMAklDU0ME79V6Z8Cp,28,173336,1950,https://i.scdn.co/image/ab67616d0000b2733d08412250909900aab0f0d1,False,30,"['easy listening', 'mambo']"
+Morning Glow,Michael Jackson,False,1xwdyB2h7UN7pQyITEm3nK,18,217973,1973,https://i.scdn.co/image/ab67616d0000b2731b2590cd1e7d225292bf8672,False,85,"['r&b', 'soul']"
+Slavinka,Edgar De L'est,False,1gvuB9KKhnqhKwHbK7IrXo,1,320626,2001,https://i.scdn.co/image/ab67616d0000b27342e584915e14168e477b95f9,False,5,[]
+Supreme Girl,The Sterns,False,5QpOyRrkCQVIj15KlRumaH,18,151826,2007,https://i.scdn.co/image/ab67616d0000b273bb12796aa38e247d2a99dfad,False,8,['boston rock']
+Hispaniola A,Pheeroan Aklaff,False,4yuIcsKiUh5LCLluKivbgM,0,146520,2007,https://i.scdn.co/image/ab67616d0000b273729d098561134e088cc2d232,False,3,[]
+Te Fuiste En Abril,Palito Ortega,False,31DbaM6D46tpT0szeiLLRk,33,134346,2004,https://i.scdn.co/image/ab67616d0000b273b3d43d227b57e94c9bf525c7,False,55,"['cancion melodica', 'mexican rock-and-roll', 'pop romantico', 'ranchera']"
+Yellow Brick Road,Jack Off Jill,False,55EHnVjzbbfAIU1TgkqjKF,24,137972,2006,https://i.scdn.co/image/ab67616d0000b2734a58518e1d64bc7c80fdea8f,True,52,['riot grrrl']
+Albo,Hevia,False,2oEmW6ebt5Kj2JOKVo7ASv,5,273098,2025,https://i.scdn.co/image/ab67616d0000b273119ad8df55151517e0438e98,False,35,"['gaita', 'musica folk asturiana']"
+Dream State,Paul Taylor,False,3XUyz3ttsUfHcqLGJV0Xds,2,267000,2001,https://i.scdn.co/image/ab67616d0000b273f092a9f181e1e1a7be06e32d,False,42,"['smooth jazz', 'smooth saxophone']"
+It Ain't A Problem,Rick Ross / Carol City Cartel,False,1FEVD3JEFqwFTLTpn5Inza,23,227613,2006,https://i.scdn.co/image/ab67616d0000b27321be37e939cfb51144465d40,True,78,"['dirty south rap', 'gangster rap', 'hip hop', 'rap', 'southern hip hop', 'trap']"
+Fungus,Swim,False,0w0p7IWbzXnZWfowd07pGd,0,311533,1998,https://i.scdn.co/image/ab67616d0000b27376a3ca366000e2bcc6f43610,False,1,[]
+They Ride By Night,Charles Williams,False,1AXzGShv8Dpg3QEumXK6Iy,0,94000,1993,https://i.scdn.co/image/ab67616d0000b2736c14f820fa6b8d69b9646f4e,False,0,[]
+Abscondence,Sun Yan-Zi,False,6330WEbpIOAZ7g2I5N1PAD,36,285293,2001,https://i.scdn.co/image/ab67616d0000b2731615d51c49ccf1f6afd81b6c,False,62,"['mandopop', 'singaporean mandopop', 'singaporean pop', 'singaporean singer-songwriter']"
+Sirius Calling,Art Ensemble Of Chicago,False,02St1NPAGJQxBhQzPyiZt2,0,207093,2004,https://i.scdn.co/image/ab67616d0000b273106f13cffc086c23f8798a16,False,23,"['avant-garde jazz', 'free improvisation', 'free jazz']"
+Make The World Go Away,Ray Price,False,6GdUQeyYPcRX33xZ5JcUGW,14,152680,2007,https://i.scdn.co/image/ab67616d0000b2733bc085a67c575d2b790dcea1,False,44,"['honky tonk', 'nashville sound', 'traditional country']"
+She's On That Revivalism,John Brown,False,6nDCq4anjhI77MAG5zan9t,0,107562,2009,https://i.scdn.co/image/ab67616d0000b273e4a569e483f811c047114e84,False,1,[]
+Million Miles,Blue Rodeo,False,1apAf6yB17vNh4LjtXKAWl,0,544453,2009,https://i.scdn.co/image/ab67616d0000b273a9b7c1eccd319ac1a77289b0,False,50,"['canadian rock', 'country rock']"
+Telecommunication,Statues,False,3HLYjbIQDqbWw6iPpv4wey,0,130360,2005,https://i.scdn.co/image/ab67616d0000b273afc564de0869b5e92e8fa716,False,7,[]
+He'll Deliver Me,Janet Paschal,False,6bXE6HPJsIscdRoHcvN7GE,3,230080,2007,https://i.scdn.co/image/ab67616d0000b27378a3054404b804bfce8d497d,False,27,['southern gospel']
+Olive Oil,Happy Mondays,False,6jKKw0sfQ5K4rRgFTJQ4AV,22,156693,1987,https://i.scdn.co/image/ab67616d0000b2738d7f0ff3d5bd9214e03eee90,False,49,"['britpop', 'dance rock', 'madchester']"
+Llamado De Emergencia,Daddy Yankee,False,2jnZUvhw2LTvDI6YidRVcO,75,239920,2008,https://i.scdn.co/image/ab67616d0000b273522f64d160907ff8a7b61bc7,False,88,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']"
+Assis par terre,Pascal Sangla,False,4mwWIFF1aGXx2oLHGRbtPf,0,335426,2010,https://i.scdn.co/image/ab67616d0000b2730fc8e8e853000cd1f7277da9,False,8,['french soundtrack']
+St. Patrick's Day,John Mayer,False,3W93koK957HaoaNHyA3dTm,44,321093,2001,https://i.scdn.co/image/ab67616d0000b2738848d57cbfa7751e028f4dc9,False,78,"['neo mellow', 'singer-songwriter']"
+Aff E'chad (Nobody) (Live),Hadag Nahash,False,4X7POBqDt9gt3XBsIrpoUa,0,216933,2008,https://i.scdn.co/image/ab67616d0000b273c22881e119160125aeb9d96e,False,47,"['israeli hip hop', 'jewish hip hop']"
+I Don't Want To Let You Go,Weezer,False,0rzaeMb7iSEBP5wIy50Va9,16,228573,2009,https://i.scdn.co/image/ab67616d0000b2732bd8dac621dc885ce0ed97f9,False,76,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']"
+Soldiers At War feat. Kon Juan_ Big Scoob_ Short Nutty_ L.V.,Tech N9ne,False,3JrT85Z5kr8pibFaCClGOL,12,354893,1999,https://i.scdn.co/image/ab67616d0000b273a0ef549842863a43eba8b75a,True,70,"['detroit hip hop', 'kansas city hip hop', 'pop rap']"
+Nu Ren Ben Se,Sammi Cheng,False,11Oo2wgdgKGeydtDCi0nwf,11,198253,2016,https://i.scdn.co/image/ab67616d0000b273d025dcac5029ad8fb753ec66,False,54,"['c-pop', 'cantopop']"
+Big John's A-Blowin',Big John Greer,False,5WhC4zwXJVkvFMH88eJ6R6,0,155440,2022,https://i.scdn.co/image/ab67616d0000b273885f3a940b80271f154717bb,False,19,['rhythm and blues']
+Harder To Breathe,Maroon 5,False,4V9JDRqKjN8F2HWdlEDxvI,64,173693,2002,https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e,True,87,['pop']
+Clavelitos,Charanga de la 4,False,5ty7d49skE8zOX7PY0hEH5,4,330773,1995,https://i.scdn.co/image/ab67616d0000b273734b5a9521e1a70161d744b0,False,23,"['charanga', 'musica tradicional cubana', 'salsa international']"
+Disco Jonki,Dusminguet,False,5wMRc0NR4LFgZvQmMO5flm,9,168640,1998,https://i.scdn.co/image/ab67616d0000b273a5c6bb02d65f47891f7115b3,False,26,"['rock catala', 'rumba catalana']"
+From Tense To Loose To Slack,The Keys,False,7IIepfN2EDH6ee658wPCv8,0,143013,2000,https://i.scdn.co/image/ab67616d0000b273204a6e547a2a0574b444660e,False,0,[]
+Say A Little Prayer,Mary Black,False,6S5gxokuTsmKnFr5Jcyx02,14,217533,1989,https://i.scdn.co/image/ab67616d0000b27336150b4491e621a9565c5f6c,False,45,"['celtic', 'irish folk']"

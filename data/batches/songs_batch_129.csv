@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Ole Con Ole,Peret,False,0Ma9q9db9ZN1TdAHJh2FCS,0,172919,2011,https://i.scdn.co/image/ab67616d0000b273995e8c8179549d620b80c0d1,False,42,"['rumba', 'rumba catalana']"
+Goodnight Irene,Kingston Trio,False,3J7P9JBHECGQEkSEcBR08D,1,207179,1969,https://i.scdn.co/image/ab67616d0000b273140c21666d2d2f0600abd3b3,False,42,"['american folk revival', 'folk']"
+Mom,Josh Mullins,False,7CjLGUCr4MLjIStSjLGJfO,0,162053,2010,https://i.scdn.co/image/ab67616d0000b2731a6642021ccfe5bbc36fe380,True,0,[]
+All The Way,Joey McIntyre,False,3dG12QSmmBIkh6Q2cENk1Q,6,175200,2006,https://i.scdn.co/image/ab67616d0000b273cf142ad9c10c659b09d99080,False,38,[]
+East Bay Bounce,Paul Taylor,False,2obg77Ccz3IPoWPMHsVhqx,16,249880,2005,https://i.scdn.co/image/ab67616d0000b273d3bd09e92536441c4d15aee4,False,42,"['smooth jazz', 'smooth saxophone']"
+Forever,VHS Or Beta,False,5HVLf0ZMWY3GULLA0LE447,5,343506,2004,https://i.scdn.co/image/ab67616d0000b273911b230f33f108689a4edd65,False,23,['dance-punk']
+Teska (Teska),Greek Gypsy Musicians,False,5mxyFHhLbKwJm2mI9pj5Ut,0,214720,2001,https://i.scdn.co/image/ab67616d0000b2731bd98a95a73fa6ad753307bf,False,4,[]
+One Night Alone,Vixen,False,5pZvXqbG8WPu82vDt2FAs7,20,229600,1988,https://i.scdn.co/image/ab67616d0000b273d9c142316e6bdbb46a93d0e8,False,41,['glam metal']
+Why,Kol Simcha,False,6vOd1Mzyo1tBpqGkmePrFT,1,548400,1994,https://i.scdn.co/image/ab67616d0000b27376943d6f7bf0de3d22e16075,False,4,[]
+Infant Dreams,Bill Douglas,False,1yDhmur9N94HHipWDjvejk,11,147173,1988,https://i.scdn.co/image/ab67616d0000b273a7359a84906fb0b5c25ff6cd,False,42,['new age']
+Beauty Supply And Demand,Busdriver,False,15qKXNeqVwiOswRar7fiIL,0,123760,2007,https://i.scdn.co/image/ab67616d0000b273d9240f04045161a5f425efa5,False,39,"['abstract hip hop', 'alternative hip hop']"
+I Will Turn Your Money Green (Take 1),Furry Lewis,False,6TyFZOayzYpeY25QsOZ1lT,2,191000,1988,https://i.scdn.co/image/ab67616d0000b2739b4ff534cf28630e09050a4f,False,26,"['country blues', 'memphis blues', 'traditional blues']"
+To Sir With Love,Lady Saw,False,0LYCGrBVwFArF9Ltk3Apzd,1,180760,1994,https://i.scdn.co/image/ab67616d0000b2734d5fad45407375d668a8374c,False,51,"['dancehall', 'dancehall queen', 'reggae fusion']"
+Sauer,Klimperei,False,4uGSY7HQ08BWIEKCcIZPRb,0,99426,2008,https://i.scdn.co/image/ab67616d0000b273a101c0ecd14accd5b9f84944,False,12,['prepared piano']
+Genius Of Love 2002 (featuring Tom Tom Club & Biz Markie),X-ecutioners featuring Tom Tom Club & Biz Markie,False,4xgLRi6HsN0QfXOo0q6xWv,17,236426,2002,https://i.scdn.co/image/ab67616d0000b273eeb5d940509f3320ca16c601,True,38,"['scratch', 'turntablism']"
+Falling Apart,Dario Marianelli,False,2ITMo2IA1QUVVDpLwu4o4Z,1,70106,2009,https://i.scdn.co/image/ab67616d0000b2737a99312cc5599debd12c4682,False,61,"['orchestral soundtrack', 'soundtrack']"
+Is It Love,3 of Hearts,False,3amYI8aq7j5vV6oJAm6k7z,0,224066,2001,https://i.scdn.co/image/ab67616d0000b27300a68d3a56c4d844f8b71e78,False,2,['country dawn']
+Deep Blue,Dave Eggar,False,7r8Nry4cWiIG6Px33Cm9yd,3,225266,2005,https://i.scdn.co/image/ab67616d0000b273cec0d2e1dbcb20cda950fa2b,False,29,[]
+L.S.M.,Year of Desolation,False,7iBVWQemQn7yV5gHuZ9QDT,0,259053,2012,https://i.scdn.co/image/ab67616d0000b273472c615b7b4e144dd5d2d825,False,2,['melodic thrash']
+High On the Mountain,The Del McCoury Band,False,134U2pAqzv02fvc3H6DfTy,33,185106,2009,https://i.scdn.co/image/ab67616d0000b2739817171e31ba59dc39e81873,False,41,"['bluegrass', 'jam band', 'progressive bluegrass']"
+Llorando Por Amor,Flor Silvestre,False,5fEe2TtcBMcuWLngEJJgch,1,161587,1998,https://i.scdn.co/image/ab67616d0000b273fcc2e845ebfe4aebed9869d1,False,47,"['mariachi', 'ranchera']"
+Cycle Time,Liars,False,782Mpus5VckADTAetUbXyM,1,136386,2007,https://i.scdn.co/image/ab67616d0000b2736ce1b5bb4c0eb0738c33f061,False,34,"['dance-punk', 'experimental rock', 'grave wave', 'noise rock']"
+New Milk Cow Blues,Moon Mullican,False,5TRuVg4ZpV9sN9dbztDU3H,0,174506,1975,https://i.scdn.co/image/ab67616d0000b273b187f6e94617ddea31439ab2,False,17,"['country boogie', 'western swing']"
+Cry Of My Heart,Wayne Watson,False,5bBz63hBdJfw9tzTM0dgbF,0,235293,2002,https://i.scdn.co/image/ab67616d0000b27339b0bfad0d192cd91f3a09a4,False,31,"['classic praise', 'deep christian rock']"
+We're Not Gonna Bow,Jeff And Sheri Easter,False,7BVKXZaLb1XnvUn1uApodO,11,218880,2005,https://i.scdn.co/image/ab67616d0000b273fcae723db2998840de02adfb,False,42,"['family gospel', 'southern gospel']"
+Stand By Me,Atomic Rooster,False,6KreM7f4zraRRdxsvFj6pV,7,226320,1972,https://i.scdn.co/image/ab67616d0000b273a3c3b861878f15f7738d4192,False,31,"['british blues', 'progressive rock', 'proto-metal']"
+Va Por Usted,Rocio Jurado,False,3mwud0vU7NcUAB09AVCzOd,1,359666,2007,https://i.scdn.co/image/ab67616d0000b27300ab55293db8a80a4cb43132,False,52,"['cancion melodica', 'copla', 'pop romantico']"
+Ralph's Rhapsody,Ray Lynch,False,6GOeBMWQVA3GIHSw0LPjXE,13,283746,2005,https://i.scdn.co/image/ab67616d0000b27319bb059c853bff379295d2a7,False,33,['new age']
+Up Jumped The Devil - Live,Clarence Gatemouth Brown,False,1dxXIrgDrGWfxWWYbI6P2r,0,308771,2019,https://i.scdn.co/image/ab67616d0000b2733fde74ac44011d1eefd6dcd7,False,37,"['blues', 'memphis blues', 'texas blues', 'traditional blues']"
+Love & Understanding,Lady Saw,False,3Z6HKFIEran3VMUh2FrQEj,1,218400,1996,https://i.scdn.co/image/ab67616d0000b273cace895efb4799b7ca9000ed,False,51,"['dancehall', 'dancehall queen', 'reggae fusion']"
+We Are The Ones (Lounge Version),Zombie Girl,False,5ari84VNjkFh7lqey2YjJE,0,273346,2007,https://i.scdn.co/image/ab67616d0000b27315768b5ae3ca3bccaac74fe6,False,28,"['aggrotech', 'industrial metal', 'steampunk']"
+He Was Here,Scott Krippayne,False,4K1xlei92RNeL5gqD9cl8h,0,190626,2005,https://i.scdn.co/image/ab67616d0000b273f1f8330ffa204a2cbdc503b6,False,27,['lds youth']
+BOOM!!!,Albin Myers,False,5O8YG678TEyi4dJa8RBDI9,0,142031,2009,https://i.scdn.co/image/ab67616d0000b273fafd03cfbfcd05509bb1f4ee,False,44,"['electro house', 'progressive electro house']"
+Soda Pop,John Fogerty,False,7rNvSUjiIvhHOlIkFjnXRU,14,354373,1986,https://i.scdn.co/image/ab67616d0000b273c51117e6011534aeed3a72ff,False,57,"['album rock', 'blues rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'southern rock', 'swamp rock']"
+Don't Stop,Scweez,False,6NBULVVZxqEMyKtg8KG4M5,0,212786,2006,https://i.scdn.co/image/ab67616d0000b273faf7d821ec2462074333818d,False,1,[]
+Kissing Game,2XL,False,0M4MsyF52bo2xZSXOpLfPA,4,237546,2007,https://i.scdn.co/image/ab67616d0000b27320b8c49569a21ca99eb4750c,False,20,[]
+Other Side of You,DJ Harry,False,22kfUK0fp0Zc9bmuybLVol,0,328080,2004,https://i.scdn.co/image/ab67616d0000b2733c7bf293f5022e657179110e,False,9,[]
+Tennessee Central Number Nine,Pee Wee King,False,0wGGSaaVDVxlptAEAsOQLn,0,165706,2009,https://i.scdn.co/image/ab67616d0000b2736223bee6919abd9f5eb8cf32,False,25,"['cowboy western', 'western swing']"
+Mon Legionnaire,Marcel Azzola,False,2hez0v4e2r82gZDIruZxx2,0,323426,1994,https://i.scdn.co/image/ab67616d0000b2733adc33cbed3995681dbc1ea8,False,27,"['bal-musette', 'jazz accordion']"
+Everyday Struggle (Bonus),Agency 1.9.9.4,False,3Bugi4lmiexfb0Ux25Cdg5,0,168080,2005,https://i.scdn.co/image/ab67616d0000b273c2c7a7bbd9654fbf2931c3a1,False,0,[]
+I Know Where I Am Now,Jake Hess,False,0Xew4XIESnalu18ZdXEQ4W,1,299053,2006,https://i.scdn.co/image/ab67616d0000b2733eda15a071ab413cd3fe1ab1,False,28,['southern gospel']
+Fly Away (Instrumental),HardNox,False,3YAy7jYxlVHcHpn8Ykhep7,0,212978,2009,https://i.scdn.co/image/ab67616d0000b273702d893a92ac90e4509156a0,False,17,[]
+Falling Stars,Desert Dwellers,False,076Nxah5G1eJmNc69fWzpc,16,489758,2010,https://i.scdn.co/image/ab67616d0000b27313001523282e3996409e0ba4,False,43,"['psychill', 'world fusion']"
+Chicago Bound Blues,Bessie Smith,False,6k4sUOMIyhOS6ScNXyB0yT,1,195840,1991,https://i.scdn.co/image/ab67616d0000b2739a049207b539db16a70dc71c,False,40,"['blues', 'harlem renaissance', 'jazz blues', 'traditional blues']"
+Herz an herz (Live Version),Paso Doble,False,4RbSi19F8kJ2OIM2Nz4LnS,0,330360,2008,https://i.scdn.co/image/ab67616d0000b2733aebad50a4ebc718f890d267,False,35,['neue deutsche welle']
+The Lakes Of Pontchartrain,Planxty,False,6xO13LCFa7J4Etj3kOvU75,19,347306,1975,https://i.scdn.co/image/ab67616d0000b2733e8a85b7677284fb22e823ab,False,38,"['british folk', 'celtic', 'irish folk', 'uilleann pipes']"
+Liquid Mercury,Jimmy Page,False,4GkjkuWQFcelnsZYDWL1eY,18,183800,1988,https://i.scdn.co/image/ab67616d0000b273fea6ca88a679381c47875b6c,False,43,"['album rock', 'art rock', 'blues rock', 'british blues', 'classic rock', 'electric blues', 'hard rock', 'progressive rock']"
+Suburban Living,Yuppie Pricks,False,7s7bXqYI90rEpxTiptnNjj,0,161386,2006,https://i.scdn.co/image/ab67616d0000b2732149bd44f46a1f229f29682d,False,0,[]
+Waitin' For The Wind,Spooky Tooth,False,460XUKULXGLORTkPfzCASN,25,224466,2000,https://i.scdn.co/image/ab67616d0000b2732f7a22ba45ea9fc82797e933,False,31,"['blues rock', 'proto-metal', 'psychedelic rock']"
+Psalm 27,Donnie McClurkin,False,0vEa7np8WnYoXpcSbPJtTF,24,302360,2000,https://i.scdn.co/image/ab67616d0000b273ed37fbb325f8893b170ac822,False,50,['gospel']

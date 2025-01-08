@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Coke (Live),Flickerstick,False,16oe0nHATmDmY4E51V1UO7,2,269333,2007,https://i.scdn.co/image/ab67616d0000b273cf799001b7d51854062a062d,False,20,"['denton tx indie', 'grunge pop']"
+Overdrive,Foo Fighters,False,5kxa7byBuZ5MuY7RrIyRL6,34,270186,2002,https://i.scdn.co/image/ab67616d0000b273b00ee453b3496535eaa6e4b3,False,78,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']"
+Rendezvous - Ich hab' Dich seit langem nicht gesehen,Jawoll,False,2gc7cKm077NQvTutS6FaSB,24,237933,1990,https://i.scdn.co/image/ab67616d0000b273ec2b6713d61a09dabefd8791,False,14,['neue deutsche welle']
+She Made My Blood Run Cold,Rod Piazza & The Mighty Flyers,False,7syOOU937ZixNqBKW8T7Pp,0,257226,2005,https://i.scdn.co/image/ab67616d0000b2736dd119353c1b88295638926e,False,9,[]
+Zap Zap,Dynamite Deluxe,False,4A8UNyWXMzdYcocenPiQ7n,11,85160,2000,https://i.scdn.co/image/ab67616d0000b2738cd0386d83ad92c8427155b3,True,35,"['german alternative rap', 'hamburg hip hop', 'oldschool deutschrap']"
+Morning Has Broken,Bill Murk,False,07YR5yq9HRz75WbLxCuboR,0,170271,2005,https://i.scdn.co/image/ab67616d0000b27312a8acc55938325f64d11332,False,0,[]
+Ms. Marseilles,John Brown,False,1z5E7bq7USohcr7n8BbohO,0,114000,2008,https://i.scdn.co/image/ab67616d0000b273bb17a211fe1a842da2d5a055,False,1,[]
+Desde el este,Facto Delafe y las flores azules,False,3qJ588MifWAmC9wuJnG84B,15,100360,2007,https://i.scdn.co/image/ab67616d0000b273df0ff8f51358a2f4c5caf1e4,False,31,['spanish indie pop']
+"The Marquis and the Scaffold (From ""Quills"")",Nick Ingman,False,0kG7EQwjjKlv9w0MLUBlfo,2,186626,2000,https://i.scdn.co/image/ab67616d0000b2738993831410949e257240f4c0,False,51,['library music']
+The Bad And The Beautiful,David Raksin,False,3Tnx5ZePfMSjVE7Cmw5YTZ,3,337000,1989,https://i.scdn.co/image/ab67616d0000b273fbe3f5d909dc61624fcb8dc6,False,19,['classic soundtrack']
+Hiroshima,Utopia,False,7mEYunr23o047tHh27mhDd,9,435933,1977,https://i.scdn.co/image/ab67616d0000b27361851fbeec55f82d8dafe155,True,29,['beatlesque']
+Finish the Job,Al Toomer,False,4rlCWFK2yIPEOOUFsYe5F2,2,225906,2003,https://i.scdn.co/image/ab67616d0000b2732b7bb11962f1ab5a654211eb,True,11,['black comedy']
+Let Me Show You The Way (Out),Toni Braxton,False,07KpA5ZHXUqHHB7FsfyW9n,26,258493,2002,https://i.scdn.co/image/ab67616d0000b273aa312809105ddb1d9023a619,False,66,"['contemporary r&b', 'dance pop', 'r&b', 'urban contemporary']"
+Wave,Gal Costa,False,318S9DRPOPYHK3xnJwo1U6,36,170680,1989,https://i.scdn.co/image/ab67616d0000b2737bd1bc1f39ea445ff229130b,False,65,"['bossa nova', 'mpb', 'tropicalia']"
+O Morro (Live At El Matador_ San Francisco),Sergio Mendes,False,5Vb7Wq2rkhwhLysbnlkmzB,4,157680,1965,https://i.scdn.co/image/ab67616d0000b2738ccbdca9fa89072b5d1cdb1c,False,63,"['bossa nova', 'brazilian jazz', 'samba']"
+Caution,Maxi Priest,False,3YEcl1WZUtwWfhv2w4DzM8,5,292440,1985,https://i.scdn.co/image/ab67616d0000b2736bbc1adcee125a41fb906ff4,False,52,"['lovers rock', 'reggae', 'reggae fusion']"
+Yesss Lord...,Perfection,False,5yUuiO7TxCUH7NRWineLY1,0,251960,2008,https://i.scdn.co/image/ab67616d0000b273c0a688e3e4156523db2212e3,False,1,[]
+Bed's Too Big Without You,Inner Circle,False,4Yr6V8HWqI68npDsKn82SZ,1,228902,2008,https://i.scdn.co/image/ab67616d0000b273bf4b54fa78dfc8d34f6fbd08,False,65,"['reggae', 'reggae fusion']"
+Cranford: Holbrook,Carl Davis,False,7qjLt3zl6Jm3yBMioaE2Ot,7,157760,2010,https://i.scdn.co/image/ab67616d0000b273c45498fc454e5b2c7d1a6a18,False,44,[]
+Swing Life Away,Rise Against,False,3yupzluZdw77zjfskZnQgc,55,200066,2004,https://i.scdn.co/image/ab67616d0000b2731107b18eac8c7824908069cd,False,73,"['alternative metal', 'chicago hardcore', 'chicago punk', 'hardcore punk', 'modern rock', 'pop punk', 'post-grunge', 'punk']"
+The drifter,Dennis Brown,False,2PwJ5oBwnHgvqCSr0R80z1,1,225000,2007,https://i.scdn.co/image/ab67616d0000b2732515bd75076e2ff0db627fbf,False,52,"['lovers rock', 'reggae', 'roots reggae']"
+Inhume,Inhume,False,3x4iQKx76Z75clde4n4Vdx,3,185346,2003,https://i.scdn.co/image/ab67616d0000b273bf9631fdf7f3400bef2312ea,False,9,"['deathgrind', 'dutch death metal', 'goregrind', 'grindcore']"
+Warten,Andreas Dorau,False,5bwX2QX2dklBu1gmBHjayf,0,114831,2013,https://i.scdn.co/image/ab67616d0000b27376a39568ef79968cf3a93199,False,17,['german soundtrack']
+God's Will,Martina McBride,False,1gnGpGoosJEKQRs5MNoQQw,30,349333,2003,https://i.scdn.co/image/ab67616d0000b2731afac23dd54e6420bf11b4a8,False,63,"['contemporary country', 'country', 'country dawn', 'country road']"
+Excuse me,Papa Wemba,False,5b7qBwVPWwTH33Zerqcg1U,4,168746,2006,https://i.scdn.co/image/ab67616d0000b27343f28659a03f9cdb747085fa,False,44,"['afropop', 'rumba congolaise', 'soukous', 'zilizopendwa']"
+I Want To Know You More,Scott Krippayne,False,3lvKfo4PwO2IfNaf5vF3SO,1,231666,2001,https://i.scdn.co/image/ab67616d0000b273c2803348d728a565d0f759f7,False,27,['lds youth']
+Never Really Knew U,Arika Kane,False,3iMwRi2wYDJQaNhyMOOXVC,0,237146,2011,https://i.scdn.co/image/ab67616d0000b273a881c337db19efc2eb384b73,False,2,[]
+Lindas Africanas,Africando,False,22wKz3FV5Tcop46U8yBhZ4,21,461200,2003,https://i.scdn.co/image/ab67616d0000b2732e067d0665ff375f0b7d42b5,False,37,"['mambo', 'salsa']"
+Baby Doll,Migraine,False,7HnahRE4NMn9oXe1UJuXeY,0,110733,1996,https://i.scdn.co/image/ab67616d0000b27382107daeb4dd5bcf1d627b93,False,0,[]
+Ghetto Curse Words (Chopped&Screwed),5th Ward Boyz,False,4U8DmtdTwpHKHnTBXNFQWP,0,120813,2007,https://i.scdn.co/image/ab67616d0000b273c473f00c670baf35be02ab86,False,26,"['dirty south rap', 'dirty texas rap', 'houston rap']"
+The Rainbow Bridge,Danny Williams,False,6JEFU3FPGrdYB2lVzlWAtk,0,254000,1996,https://i.scdn.co/image/ab67616d0000b27372f6d0b9249c81c0443a8e0b,False,31,[]
+Two Hearts One Love,Shania Twain,False,3EwT9KiFKvvjZDKQxVA5Ft,0,216706,2011,https://i.scdn.co/image/ab67616d0000b2734f3ea563de2b36431a640bfd,False,75,"['canadian country', 'canadian pop', 'contemporary country', 'country', 'country dawn']"
+Brampton Boogaloo,Mocambo Allstars,False,5bZyFQc8gatxSFhHGVMaUr,0,233746,2007,https://i.scdn.co/image/ab67616d0000b273a86d7655cd623af48813e8a2,False,0,[]
+Now It's My Turn (Aqualite Mix),Berlin,False,1tKRXlOxUtdHknEDmygUim,2,231173,2006,https://i.scdn.co/image/ab67616d0000b273368e1bd1ead91ac3f1c440f3,False,63,"['new romantic', 'new wave pop', 'synthpop']"
+Ruby Don't Take Your Love To Town,Ed Bruce,False,2zgiLXuDGxBZKM1ldyrvb0,0,165250,2006,https://i.scdn.co/image/ab67616d0000b2738b8f4c303e0b1ccde3794969,False,44,"['arkansas country', 'classic country pop', 'outlaw country']"
+Single Again (Remix),Rick Ross,False,3xxmiEjqoSo6BG2ptL6L3o,26,181626,2019,https://i.scdn.co/image/ab67616d0000b2731c013cff8a00902af868c55f,True,55,"['contemporary r&b', 'dirty south rap', 'hip pop', 'miami hip hop', 'r&b', 'rap latina', 'southern hip hop', 'trap queen']"
+A Fall Song,Cross Country,False,4UpsgSsn0tXXTUAKk9M2C6,0,168773,2006,https://i.scdn.co/image/ab67616d0000b273bdc76cef207f6f8203737240,False,3,[]
+Alive,Dala,False,6LM6yXPoL5gXI12ZpdSwqw,3,242040,2009,https://i.scdn.co/image/ab67616d0000b273685cd0314971d03a5c9e6bbd,False,21,"['canadian folk', 'tearout']"
+The Conversation,Mt. Wilson Repeater,False,4yM5LxN8EPz01YMCPJLuni,0,299880,2008,https://i.scdn.co/image/ab67616d0000b27330671d314080505b2bc9a948,False,0,['jangle rock']
+Vapour Fragments,Intex Systems,False,3VGakoiaqkFZZJKPQCfWNq,0,131146,2008,https://i.scdn.co/image/ab67616d0000b2732ff10415b6ee66dc5f782071,False,1,[]
+Ich bin jung und brauche das Geld,Eko Fresh feat. G-Style,False,1ImJQbsJLoHj0YueZO21OT,36,266573,2003,https://i.scdn.co/image/ab67616d0000b2733d58cfde196ccbb9bdf05d61,False,52,"['cologne hip hop', 'german hip hop', 'turkish hip hop']"
+Standin In,Tunsi,False,0tZVOBJcMBcP0SF1ADqJFD,0,235773,2010,https://i.scdn.co/image/ab67616d0000b27308bd24bbfbc4d35d4403031a,False,13,[]
+Angel Fire,Eddy Raven,False,6YBJBPOzf0UtOtAAWtNPRu,6,223226,1998,https://i.scdn.co/image/ab67616d0000b2732dae7e28ee709722b681452a,False,42,['classic country pop']
+Slangen I Paradis,Cutting Edge,False,4KOPgVbRJ9D3Q8nufBJemZ,0,340349,1995,https://i.scdn.co/image/ab67616d0000b273049eefbc8c0071b46a407f9b,False,1,[]
+M'En Vas A La Fontaine,Jacques Douai,False,6ZExp35nJd2YKrr4sAf9fA,0,107453,2008,https://i.scdn.co/image/ab67616d0000b27345fb4042ecd788512338c10b,False,11,['vintage chanson']
+Naval War,Gina V. D'Orio,False,3JpdHmc5pwrUdTGSuDJkdC,0,142093,2004,https://i.scdn.co/image/ab67616d0000b2730e2c47f0936058bb1241924a,False,1,[]
+Make Me Believe,Martina McBride,False,2pTx28BoRNLrMqXBDuCMPl,2,230640,1999,https://i.scdn.co/image/ab67616d0000b273d78fda5c4f823307ab671897,False,63,"['contemporary country', 'country', 'country dawn', 'country road']"
+Loving You,Johnny Nash,False,55mF9hQGB8NVO7vjSGZNaL,4,159893,1991,https://i.scdn.co/image/ab67616d0000b27316df75907937be3c80456a27,False,61,[]
+Let's Go To The Darkside Of The Moon (Piano Version),Original Love,False,5v2NBuOUyBNPlzHfodf4X0,0,168066,2003,https://i.scdn.co/image/ab67616d0000b273b1888bf67035b04cd818a426,False,46,"['j-rock', 'shibuya-kei']"
+"Born In Louisiana [with Clarence ""Gatemouth"" Brown] [Live]",Kenny Wayne Shepherd,False,09U08wgUg5akPwH7wDM80a,9,386493,2006,https://i.scdn.co/image/ab67616d0000b273ebd21ae8a097989188823cbe,False,52,"['blues', 'blues rock', 'electric blues', 'modern blues', 'modern blues rock']"

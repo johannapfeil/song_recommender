@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Her Golden Robe In Silence Veiled,Autumnblaze,False,7j1iTl6aScpxpjhZLEn6Nj,0,286400,1999,https://i.scdn.co/image/ab67616d0000b273bbb2b68e892e287d783af5aa,False,14,['gothic black metal']
+I Got Stripes (Live),Johnny Cash,False,0ry355UoTbc3NScBC2F3jA,36,105573,1968,https://i.scdn.co/image/ab67616d0000b2734a04593b7c149dc7b725683e,False,76,"['arkansas country', 'outlaw country', 'rock']"
+Same Old Song,Kris Kristofferson,False,3DlEQpYfwuxDKhEwUJGZv1,9,184686,2024,https://i.scdn.co/image/ab67616d0000b273708040788df2f81302f4e44c,False,65,"['country', 'country rock', 'outlaw country', 'singer-songwriter']"
+No Survivors,Speedball,False,4usnKCYzqERVoztx3B3yTN,4,212400,2009,https://i.scdn.co/image/ab67616d0000b2737416364624db1f0625b3eb13,False,3,[]
+The Greed Of Our Stare,Hatesex,False,5wO3F8tmGyWlxTU9fSIyAF,2,307866,2005,https://i.scdn.co/image/ab67616d0000b273860c9225a1c2b9ad9fb45da7,False,11,['corrosion']
+Two Little Fishes_ Five Loaves Of Bread,Sister Rosetta Tharpe,False,3sWnltLgPDPOVizL25G4Pu,8,153866,1956,https://i.scdn.co/image/ab67616d0000b273745b1da3d7f208d24d45ebeb,False,44,"['acoustic blues', 'gospel blues', 'traditional blues']"
+I Destructor (Lenny Dee Mix),Ultraviolence,False,2MT8HYc6s9ggpABI5KRdyw,0,367413,2009,https://i.scdn.co/image/ab67616d0000b273fab03278e24edd0f402f1924,False,8,[]
+Bedroom Acoustics,Muse,False,0HFlYQNr3Y2hOUnOZ1qLXH,21,156966,2001,https://i.scdn.co/image/ab67616d0000b273f49c66876ec18690e4652a87,False,77,"['alternative rock', 'modern rock', 'permanent wave', 'rock']"
+Deep Sea Creature,Mastodon,False,3kpdcl625qW3JW3bT9LpIy,17,280893,2006,https://i.scdn.co/image/ab67616d0000b2733a45ff3c448799bc8c7ce495,False,60,"['alternative metal', 'atlanta metal', 'metal', 'progressive groove metal', 'progressive sludge', 'sludge metal', 'stoner metal', 'stoner rock']"
+Story Of An Artist (Don't Be Scared),Daniel Johnston,False,1a5K6Fw5HKA0JCjXH1I7Oa,22,308371,1982,https://i.scdn.co/image/ab67616d0000b2731d90f5229c048044a66a9ec0,False,47,"['alternative rock', 'anti-folk', 'chamber pop', 'countrygaze', 'lo-fi', 'melancholia', 'noise pop', 'outsider']"
+Murder One,Bone Thugs-N-Harmony,False,4YnFi3HZr18N1NhcPrOj7l,21,255733,2000,https://i.scdn.co/image/ab67616d0000b273a8816025f91ebf4ce5d05b83,True,68,"['gangster rap', 'hip hop', 'ohio hip hop', 'rap']"
+Theresa,Portable,False,4CkQkBMwuXqZYfdBvarbXw,0,362671,2009,https://i.scdn.co/image/ab67616d0000b2739702ad2f9fed872828a7dd6a,False,19,[]
+If I...,Foxy Brown,False,3lZpFRnVx0eaO0IY3Y6tR9,23,222866,1996,https://i.scdn.co/image/ab67616d0000b273c9f76376745f9b86923d0a06,True,55,"['contemporary r&b', 'east coast hip hop', 'hip pop', 'new jack swing', 'r&b']"
+On My Feet Again,Utopia,False,4hDOtH6r7UHqOgCt7S01of,0,240546,2009,https://i.scdn.co/image/ab67616d0000b273ce2bf18392e451032a559f7e,False,3,[]
+No Quieras Marcharte,Los Chichos,False,4yigEE7zV6S0Yha6lu5A4r,5,191706,1984,https://i.scdn.co/image/ab67616d0000b273136a3112dd5723c440f15bf1,False,58,"['pop flamenco', 'rumba']"
+Ad Te Clamamus Exsvles Mortva Liberi,Enthroned,False,7qc6mqA2IoVGTIrSc6J6z3,1,89400,2010,https://i.scdn.co/image/ab67616d0000b273ad08fb6f7a37e481d26c18b8,False,25,"['belgian black metal', 'belgian metal', 'black metal', 'technical black metal']"
+Ju Ju,String Trio Of New York,False,2EKhW0inB2GCrSqM3BPOfp,0,406840,1998,https://i.scdn.co/image/ab67616d0000b273e71e9ac9f1ef289577a29867,False,1,['jazz violin']
+Jamboree,Naughty By Nature;Naughty By Nature featuring Zhane,False,3MPKTMJIxlORqcxw542HHK,45,213906,1999,https://i.scdn.co/image/ab67616d0000b2732930912f7694de971c4dcbd3,True,62,"['east coast hip hop', 'hip hop', 'new jersey rap']"
+Cajun Blood,Jo-El Sonnier,False,00laeSAeh8TID09Ln0kL7A,3,232986,2022,https://i.scdn.co/image/ab67616d0000b2736e65fe482ab92718e5ad053f,False,25,"['cajun', 'swamp pop', 'zydeco']"
+Danny Boy,Hank Locklin,False,3xXpLksuYFu1P22eJtYYi0,5,146840,2003,https://i.scdn.co/image/ab67616d0000b27351626ff4836e45a4dafa5cda,False,40,['nashville sound']
+Old Broom,Wailing Souls,False,4lUJR17ZmoyYjM8MyvV9E3,16,199293,1900,https://i.scdn.co/image/ab67616d0000b273cfc84e6e0f99a0f6b4b18fb1,False,48,"['reggae', 'roots reggae']"
+Good Looking Girl Blues,Furry Lewis,False,4rFsLUXdKxvxvzRS6BZmVt,1,173081,2024,https://i.scdn.co/image/ab67616d0000b27303224bcfdc5ebf11c3c3a5c4,False,26,"['country blues', 'memphis blues', 'traditional blues']"
+Poikamies (2009),Murskahumppa,False,1zX4LdSx9hhijoxBaJb0Xr,0,145933,2009,https://i.scdn.co/image/ab67616d0000b273c5bb2bad0700d27c4e885537,False,0,[]
+Que Cosas_ Que Cosas,Gloria Lasso,False,2g6dB8IosbI6Cvcz9MBxHI,0,160706,2008,https://i.scdn.co/image/ab67616d0000b273663e2cd26e76a37110c0a053,False,33,['cancion melodica']
+Drive By Music,Outerspace,False,6nROEHFbNqJh92Ez2DSazh,3,200906,2006,https://i.scdn.co/image/ab67616d0000b27320d11c2f7a9c6fccd1be7bc9,True,37,['philly rap']
+On The Brink,Dinosaur Jr,False,0vWnCh2YOpALC3kZvllVxa,18,194400,1994,https://i.scdn.co/image/ab67616d0000b273612e30fdaa4c9d5f758dac6c,False,52,"['alternative rock', 'lo-fi', 'noise pop', 'noise rock', 'permanent wave', 'power pop', 'shoegaze', 'slacker rock']"
+Damit Du Dich in mich verliebst,Lara,False,7GRtgUiHrDbvZ6MLf4sQgE,0,193000,2009,https://i.scdn.co/image/ab67616d0000b273fe63c208bfc0183d34ea6af2,False,12,[]
+Consuelate Como Yo,Los Van Van,False,2Fpijaat7YR2iuQDIQT2ks,17,263600,2003,https://i.scdn.co/image/ab67616d0000b2734cd9ff53913a993cea341c0f,False,46,"['cuban funk', 'cuban rumba', 'salsa', 'salsa cubana', 'timba']"
+Ruby D.,Les Sexareenos,False,0DEkifk6wpeLSVNrC1m7Wq,10,98960,2001,https://i.scdn.co/image/ab67616d0000b273cc6696e0518fd55e8b5e2a93,False,13,"['canadian garage rock', 'garage pop', 'garage punk blues', 'punk blues', 'trash rock']"
+Enero en la playa (Edit),Facto Delafe y las flores azules,False,5vOaM72TmROHGgcWpa1OCI,26,158466,2005,https://i.scdn.co/image/ab67616d0000b27349c1036c63dc98d394c6ffbd,False,31,['spanish indie pop']
+Motindo Na Yo Te,Franco,False,4XgRqSDQ8bpdytkevqM50k,0,188466,1987,https://i.scdn.co/image/ab67616d0000b2737c20f4b3334e657b3c0e39e2,False,14,[]
+HISTORY,Michael Jackson,False,1EdzLQKCE066beJkDfaagd,42,397533,1995,https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7,False,85,"['r&b', 'soul']"
+For Your Eyes Only,Pinchers,False,14yCPrCRXsPq6ESzlfnjke,27,195808,1987,https://i.scdn.co/image/ab67616d0000b2739900489c7b00b3fa490bc65e,False,34,"['lovers rock', 'old school dancehall']"
+Welcome 2 Detroit,Trick Trick / Eminem,False,79t5idiRhbDB1oLaVcTVsD,58,285453,2005,https://i.scdn.co/image/ab67616d0000b273634c29b323abe8d85a160154,True,53,['detroit hip hop']
+Anillo de compromiso,Antonio Bribiesca,False,4NB5H6kR1uAHAqRVV596mu,13,225146,2018,https://i.scdn.co/image/ab67616d0000b273c402091ed39b983befc35097,False,37,['guitarra mexicana']
+Isn't That Just Like God (Low Key Performance Track Without Background Vocals),Babbie Mason,False,4I8YlIJ39tGkMdsfiHmx3E,0,237480,2009,https://i.scdn.co/image/ab67616d0000b273719ca38e07570e0663de5c28,False,35,['classic praise']
+Outro Duction,Marcus Miller,False,7c4H9CRleK2qOPftAi7dfx,5,49746,2005,https://i.scdn.co/image/ab67616d0000b273444506edeabae4b7f0dce00a,False,50,"['electric bass', 'instrumental funk', 'jazz funk', 'jazz fusion']"
+San Xuan,Hevia,False,3BwLNc43qVuqsMwb3fSUIb,1,240280,2016,https://i.scdn.co/image/ab67616d0000b273342f8788ae1ffb0cd6732710,False,35,"['gaita', 'musica folk asturiana']"
+XI GUAN LIANG GE REN,Jerry Yan,False,79GSaJzLBsoDheez24sFbX,13,252173,2010,https://i.scdn.co/image/ab67616d0000b273f74dc3363fc889264d21f385,False,29,['taiwan idol pop']
+Crimson And Clover,Tommy James & The Shondells,False,74ohdXevc7VsXl96ofi3Kn,59,208666,2021,https://i.scdn.co/image/ab67616d0000b273649b753eec1510732d577735,False,56,"['bubblegum pop', 'classic garage rock', 'classic rock', 'country rock', 'folk rock', 'mellow gold', 'merseybeat', 'psychedelic rock', 'rock-and-roll']"
+Mele Wich Ayee (Shaan Remix),Bally Sagoo,False,1oMlSWNUMptnh4aqr2LewG,0,373386,2007,https://i.scdn.co/image/ab67616d0000b27386c798481c6ea2bc8911837e,False,41,"['bhangra', 'classic bhangra']"
+Le Zoo De Vincennes,Benabar,False,5mRkxtmvuJDTzo1snwmZX4,8,235320,2003,https://i.scdn.co/image/ab67616d0000b2733f2461b473d0f67146a46abb,False,45,"['chanson', 'french pop', 'french rock']"
+Faithful and True (Collectors Version),Z.Z. Hill,False,2MnbPcyJbQgzaQOi5RUgzm,0,333866,2018,https://i.scdn.co/image/ab67616d0000b2730896ca1bed6e4b6e1a9ab9e5,False,34,"['classic soul', 'soul', 'soul blues', 'southern soul blues']"
+Oh Oh Oh Baby,Checkers,False,2YEIzPFr3k5ltqiGOuXNWx,0,147028,2018,https://i.scdn.co/image/ab67616d0000b27386ff299dad990e5981d851dc,False,3,[]
+Barrage,Charles Williams,False,5EPWmxZdMsZNCIWkE73IqA,0,91106,2009,https://i.scdn.co/image/ab67616d0000b2737ec0450f3576183364244aa0,False,20,[]
+Adios...Borron Y Cuenta Nueva,Los Iracundos,False,7fIYzNU3rW4MsugX8ExICE,18,258986,1986,https://i.scdn.co/image/ab67616d0000b273c7715a50ad6dd11bb3067015,False,57,['pop romantico']
+A Hard Road,John And The Bluesbreakers Mayall,False,4qnrMSAPXVVFBq96W9G3ec,39,282986,2006,https://i.scdn.co/image/ab67616d0000b2735b3f06ef5ec331cb8595e895,False,49,"['blues', 'blues rock', 'british blues', 'british invasion', 'electric blues', 'traditional blues']"
+Christina Christina Blues,Champion Jack Dupree,False,4NBHWCz7bmGwRXNqN9ychq,0,200800,1991,https://i.scdn.co/image/ab67616d0000b273ec609ddde54f46b2a7a87735,False,39,"['acoustic blues', 'barrelhouse piano', 'blues', 'louisiana blues', 'memphis blues', 'new orleans blues', 'piano blues', 'traditional blues']"
+Til The Victory's Won,Vanessa Bell Armstrong,False,2NUqIvguvI5rYzwC6WsLU6,2,231493,2007,https://i.scdn.co/image/ab67616d0000b273f888daa668e5b2133a62d6a3,False,30,['gospel']
+Tell Me Why,Dave Hollister,False,7F2mTYEguu9bzvgwppoJnB,11,305720,2006,https://i.scdn.co/image/ab67616d0000b273de9d9f24ab4c58c98c456c7f,False,42,"['contemporary r&b', 'new jack swing', 'r&b']"

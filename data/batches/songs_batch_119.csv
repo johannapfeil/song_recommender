@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+11th Street,Open Hand,False,247lDVmPsFbF8UlMoJQdrM,5,278626,2003,https://i.scdn.co/image/ab67616d0000b2733fffb5ec4c047a4ee5b578d4,False,20,['spacegrunge']
+Too Far From The Tree,Angela Lashley,False,52PcJkyiSbGj6B7ndN49bh,0,196208,2000,https://i.scdn.co/image/ab67616d0000b273c3c70600c07c9080b940a763,False,0,[]
+It Takes A Village (To Raise A Nut) (Live),Tim Wilson,False,3P1tL8pnoThhwQIISDzdYX,5,154426,1999,https://i.scdn.co/image/ab67616d0000b273b6dc6ee93876eabc610538e2,False,27,[]
+The Climb/Paranoia,The Pharcyde,False,2vIMKzGh3C0FlPSrSGUxtj,3,247160,2004,https://i.scdn.co/image/ab67616d0000b2735133618711fe91c90ac52dca,True,60,"['alternative hip hop', 'hardcore hip hop', 'hip hop', 'jazz rap', 'west coast rap']"
+Collide,Howie Day,False,5aDpULK8MbJmHl42kR5KNI,49,249120,2003,https://i.scdn.co/image/ab67616d0000b273fc9edd185a51a1780c1df552,False,53,"['acoustic pop', 'neo mellow', 'pop rock']"
+Need,Tyrone Wells,False,4p5mHO1nMMfPqf8xpT9YQx,1,238293,2005,https://i.scdn.co/image/ab67616d0000b27346442409f1f87fe2b5f5c1cb,False,49,"['acoustic pop', 'neo mellow']"
+Dance Of Romance,Knack,False,5cyZvgxqsdUTnigzxJ8T1X,2,215560,2001,https://i.scdn.co/image/ab67616d0000b273eaf60577f5256500dca4a3c0,False,56,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new wave', 'new wave pop', 'power pop', 'soft rock']"
+Everyday,Phil Collins,False,1TuC2upbvZ6Ae0VE4kj8dT,49,343893,1993,https://i.scdn.co/image/ab67616d0000b2730d2d73c2dd22b3adb812a150,False,79,"['rock drums', 'soft rock']"
+Stop!,Joe Bonamassa,False,3WFfqRoJhJeHIZzKdW5xXZ,42,408466,2009,https://i.scdn.co/image/ab67616d0000b273cd31bf9e126ead779569d2d9,False,58,"['blues', 'blues rock', 'electric blues', 'modern blues', 'modern blues rock']"
+Nostalgia,Emilio Tuero,False,4xfhNwRfr7SCXsqRx71atg,11,194240,2002,https://i.scdn.co/image/ab67616d0000b2733e3ea84b2902f410a6a17527,False,34,['bolero mexicano']
+Over The River,Bitty McLean,False,2QEWIs5XlPeQQUcxOcdr9s,4,216226,1995,https://i.scdn.co/image/ab67616d0000b273bf5bc008277bc3848742a78c,False,44,"['lovers rock', 'uk reggae']"
+Dale Darrell Waltrip Richard Petty Rusty Awesome Bill Irvin Gordon Earnhardt Smith...Johnson_ Jr. (Live),Tim Wilson,False,2wgJhO0h47a8RPyf3BBijv,14,123653,1999,https://i.scdn.co/image/ab67616d0000b273b6dc6ee93876eabc610538e2,False,27,[]
+Looking For A Kiss,Sex Pistols,False,78betORY7oDHil3lokkfHu,21,190786,2021,https://i.scdn.co/image/ab67616d0000b27388b84c34e8e001384387412f,False,57,"['alternative rock', 'punk', 'rock']"
+Somewhere In Between,The Jackson Southernaires,False,1CtnkjVSLhzTunOd4OSjGB,5,338133,1988,https://i.scdn.co/image/ab67616d0000b273d470e5565d34e8f1b580b977,False,28,['praise']
+Baal's Hymn,David Bowie,False,7BKPcNoTocF5EOmxj4A3yQ,13,243333,1982,https://i.scdn.co/image/ab67616d0000b273be0d8350d44571181fa79cf5,False,79,"['art rock', 'classic rock', 'glam rock', 'permanent wave', 'rock']"
+God In My Bed,K's Choice,False,02bf3p2m1ENTmfdypAw3jb,17,183773,1998,https://i.scdn.co/image/ab67616d0000b273b4bffb542ffd650bfea71228,False,44,"['alternative pop', 'belgian rock', 'lilith']"
+Novakane,Black Sheep,False,7COve8kEww2PKRIfxkAIxr,5,248372,2006,https://i.scdn.co/image/ab67616d0000b2739e3df31073e253e83eacef88,True,45,"['east coast hip hop', 'queens hip hop']"
+It Could Never Be You,Bonita,False,3523UCpLbgT7iLZdTsYARq,0,289240,2005,https://i.scdn.co/image/ab67616d0000b2732ce166ef3b366bf10e506ee9,False,12,[]
+Holli Holi Nach Kuriye,Malkit Singh,False,2nom9tC1FqnyNWpq9Gzxnl,3,430933,2007,https://i.scdn.co/image/ab67616d0000b2731956c5219f18623ed64c87bf,False,45,"['bhangra', 'classic bhangra']"
+2 + 2 = 5,Radiohead,False,4xkcGfpM9RwB4IiQ7yx2dB,59,199360,2003,https://i.scdn.co/image/ab67616d0000b2730da53e8f58e59f28a79c10c7,False,85,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']"
+Fear The Sea,The Gathering,False,0eOTr5c2CyGT6eNng77Pst,26,349693,1995,https://i.scdn.co/image/ab67616d0000b273bf83720ca7a5539a8b0be737,False,43,"['atmospheric doom', 'dutch metal', 'gothic metal', 'gothic symphonic metal', 'symphonic metal']"
+Beni Aglatma,Mustafa Sandal,False,6tdowsFMM7kK5KEews9fb8,40,204733,1994,https://i.scdn.co/image/ab67616d0000b27361d1073600203b59c5243860,False,66,['turkish pop']
+Life,Ill Harmonics,False,6v3qzX8ZvlennWO9Ua8e5l,0,72000,2007,https://i.scdn.co/image/ab67616d0000b273d87babc3709b9d9b14e78340,False,5,[]
+Another Lover,The Last Vegas,False,6B0lSJgM9gTx8PtynKaqca,3,238333,2009,https://i.scdn.co/image/ab67616d0000b2738aaca542551c7177910d9e8f,False,26,['sleaze rock']
+The Last Man On Earth,Schoolyard Heroes,False,7tuYdQ9Xy3wmSm7O60wYXL,11,201946,2007,https://i.scdn.co/image/ab67616d0000b2736837f25784861d79b9ffbb6a,False,27,['horror punk']
+Focus,DJ Isaac,False,5Jaw6kj7MTcljafqnUH9BC,1,427826,2004,https://i.scdn.co/image/ab67616d0000b273172acf20f2a2a6b8a8143017,False,52,"['australian dance', 'classic hardstyle', 'euphoric hardstyle', 'gabber', 'happy hardcore']"
+Village Dance,Vana,False,7Ba5GbtjcxbRe8s1nRZuHn,0,227080,2007,https://i.scdn.co/image/ab67616d0000b273f90b5b74776caeac59326ba8,False,6,[]
+Midnight Jump,Sunnyland Slim,False,5XtTQlVuF8Ys0r31nsVuJy,0,186038,2005,https://i.scdn.co/image/ab67616d0000b273126363a3b84cec538f5e687f,False,12,['boogie-woogie']
+Meeran Sad Laeen Je Toon,Faiz Ali Faiz,False,0XYGWbCwoyWM9Pss1Y3CRd,0,872552,1994,https://i.scdn.co/image/ab67616d0000b27360e70743ee97fd8e96a7954f,False,17,"['qawwali', 'sufi']"
+Noche De Paz,SUMO,False,4tFk3yhzGO4HDHohU7cynT,40,127226,1987,https://i.scdn.co/image/ab67616d0000b2733b5ad8b3f780523376b2f9b4,False,58,"['argentine reggae', 'argentine rock', 'post-punk argentina', 'rock nacional', 'ska argentino']"
+For My People,EPMD,False,6rBYFRTAcDUALC8JoFIJlk,9,188253,1990,https://i.scdn.co/image/ab67616d0000b2735f983d126b377e1dafcf5a2e,False,50,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop']"
+Que Suene Mi Campana,Sonora Carruseles,False,2yUdn9NDA1jEhar8XsSInI,15,264093,2015,https://i.scdn.co/image/ab67616d0000b27333237b7ee1ac94208586e175,False,47,"['mambo', 'salsa', 'salsa colombiana']"
+Marching,The Zebras,False,3ANCPQqsEKu5zVkb2whmB2,0,131693,2007,https://i.scdn.co/image/ab67616d0000b2733436e4d2fb3708fbe176ad26,False,1,[]
+Ring The Alarm,Naughty By Nature,False,6ymR3ewrt8NusWBTzoha6S,14,237360,1999,https://i.scdn.co/image/ab67616d0000b2732930912f7694de971c4dcbd3,True,62,"['east coast hip hop', 'hip hop', 'new jersey rap']"
+You Don't Belong,Bad Religion,False,4nz2V8RSR62xkjBUVoX7Y7,24,169640,2002,https://i.scdn.co/image/ab67616d0000b27335f1e8c8f603222e0e5505f9,False,63,"['punk', 'skate punk', 'socal pop punk']"
+4 In The Morning,Gwen Stefani,False,2fczBEyVwwdRtspsT9kfvg,45,291106,2006,https://i.scdn.co/image/ab67616d0000b273ed29b3ed6596d0bb0df132e1,False,79,"['dance pop', 'pop']"
+Leaving The Docks,Zbigniew Preisner,False,1b5qdcETwEAKc78vsiDZG6,32,89133,1993,https://i.scdn.co/image/ab67616d0000b27301a4a438e802801ad0483c3a,False,51,['polish contemporary classical']
+1001 Robots,Marco Beltrami,False,0y1i95XyS5D3ugt8zqsjXU,4,256333,2004,https://i.scdn.co/image/ab67616d0000b273cb4cbb534d7c217c35e7121f,False,47,"['orchestral soundtrack', 'soundtrack']"
+Floating,Moist,False,07gGQeuC0ZzS5UOVkJoZ2t,0,306211,2008,https://i.scdn.co/image/ab67616d0000b273babb6db722324dedfd8a1139,False,20,['swedish synth']
+Just Don't Give A Fuck,Eminem,False,2MEvYNn2tRvFDAucAtAKVq,57,242573,1999,https://i.scdn.co/image/ab67616d0000b2739bef45ee387f274ea3198c55,True,93,"['detroit hip hop', 'hip hop', 'rap']"
+The Urban Gospel,Shade Sheist / N.U.N.E. / King Arthur,False,4sLyb1XfmU7STFOTjoVyFM,7,258733,2002,https://i.scdn.co/image/ab67616d0000b2735d0ef88e7f4e3c66b6accf8c,True,39,"['g funk', 'west coast rap']"
+Rumour (Abstract Hip Hop Mix),bel canto,False,1ggmKWpjXRCAUtRQ0YZECw,1,78493,1996,https://i.scdn.co/image/ab67616d0000b273bbf3c3f668174f4143533609,False,31,"['ethereal wave', 'neoclassical darkwave']"
+Rich Girl,Daryl Hall & John Oates,False,0qRR9d89hIS0MHRkQ0ejxX,76,142786,1976,https://i.scdn.co/image/ab67616d0000b2733ebc5b9d8942069d3b920550,False,78,"['album rock', 'classic rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']"
+See What Tomorrow Brings,Arc Angels,False,6JtgDkbcXdq5Tpcpak62ea,8,394200,2009,https://i.scdn.co/image/ab67616d0000b27336069cefc7c77dd9e943ecb6,False,28,"['southern rock', 'texas blues']"
+He Don't Care (He's Stoned),Dan Hicks,False,39tiUx9uWimWWqIwQWoyj3,0,341460,2021,https://i.scdn.co/image/ab67616d0000b273a2636b0f81cfa09ed6939c6a,False,31,[]
+Ela Edo Kardia Mou,Irini Merkouri,False,0SGt4JoYKTyLOxIaouLyL8,0,228346,2005,https://i.scdn.co/image/ab67616d0000b273aef297d03b24d1f8c322b281,False,30,"['greek pop', 'laiko']"
+18 De Noviembre,Maracaibo 15,False,1zlc4xSO57XTrIohoteOPm,56,172693,1997,https://i.scdn.co/image/ab67616d0000b273dd6626222d91bb4a56b9aef4,False,60,"['classic venezuelan pop', 'gaita zuliana']"
+Laakista humppa,Elakelaiset,False,4LfdPZ62JEPgspSVdYegh8,1,72133,2014,https://i.scdn.co/image/ab67616d0000b27328d66362a8bb3dc0d6c18765,False,40,['humppa']
+The Second One,Remy Shand,False,2DPe8bnsEAYI6Bu9v3Mmyh,25,249053,2002,https://i.scdn.co/image/ab67616d0000b273e4f4ace91122f0a320b0fb54,False,36,['canadian pop']
+Take It For Granted,Atomic Rooster,False,0HcHeJCUxddHnukF2jJNaf,0,247866,2011,https://i.scdn.co/image/ab67616d0000b273e8ceef65c6c256fdd42afb4f,False,31,"['british blues', 'progressive rock', 'proto-metal']"

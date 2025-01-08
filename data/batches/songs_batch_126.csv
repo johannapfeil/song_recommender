@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Breaking In,Alexandre Desplat,False,1fdyoa8WJFxNjI6Uld1JPO,22,172733,2016,https://i.scdn.co/image/ab67616d0000b2731b2afb0d5da58d51dc5ca78a,False,56,"['channel pop', 'viral pop']"
+Nothing's The Same (2002 Digital Remaster),Gary Moore,False,4JUg5TewzYIaK7PLyTX8Id,32,306666,1992,https://i.scdn.co/image/ab67616d0000b273dcea8583b8b747a70e9f4b46,False,60,"['blues rock', 'british blues', 'electric blues']"
+Side Steppin',Paul Brown,False,2ISgpBA5eYB1wQYWlqqcjU,17,214733,2005,https://i.scdn.co/image/ab67616d0000b273cccd35505ec90918cb344d1e,False,11,[]
+Facedown,Matt Redman,False,3KRXMLdvj3KrE1H4tNO3MO,16,342173,2004,https://i.scdn.co/image/ab67616d0000b2733d3be42b3cfdad1cb0ad3f33,False,61,"['ccm', 'christian alternative rock', 'christian music']"
+Que Si_ Que No,Jody Bernal,False,4anJz7a0kY7fYFhe6iLELo,45,191506,2000,https://i.scdn.co/image/ab67616d0000b273f4897cc9938a496819a7aa27,False,39,['dutch pop']
+I Don't Wanna be A Star,Corona,False,5fQHRvc3XBkPSibD1iTIeJ,38,244880,1995,https://i.scdn.co/image/ab67616d0000b273e3756f6bfaecd379c914634c,False,64,"['diva house', 'eurodance', 'europop', 'hip house']"
+I Believe In You (More Than A Story Album Version),Go Fish,False,0is9ONSKeud0wUvpGVSQmG,11,344866,2001,https://i.scdn.co/image/ab67616d0000b273ccf2fb6d1a0aa16092113c95,False,42,['vbs']
+She Will Be Loved,Maroon 5,False,4llK75pXNWZz6KAho2Gp16,79,259453,2002,https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e,False,87,['pop']
+I'm A Tomorrow,Ec8or,False,6UuRH6MbMyIhpsQaDB90uC,1,123600,2000,https://i.scdn.co/image/ab67616d0000b273e2d2a1124520e1c9d7cf346b,False,13,"['breakcore', 'digital hardcore']"
+Valkyria,YGGDRASIL,False,1q6PPISuPAw9e5LsJDaDM9,1,242973,2011,https://i.scdn.co/image/ab67616d0000b2739db54640d610d2608513f5c8,False,6,"['folk metal', 'nordic folk metal', 'viking metal']"
+Senegal Son,Renee Rosnes,False,5Jyvt1eERBwhdUsRBZWpsr,0,363733,2002,https://i.scdn.co/image/ab67616d0000b2739a4b05361d56f9c1b9fc7bed,False,29,['canadian modern jazz']
+Where You Belong,The Summer Obsession,False,5OrUmqP0zk67Nvim1ZXUf1,4,282213,2006,https://i.scdn.co/image/ab67616d0000b27346f6efafc418f6dea7647ba9,False,11,['neon pop punk']
+Lost Love,Barry Goldberg,False,0IM02eVAzUTyjnQzbG6szE,0,265333,2016,https://i.scdn.co/image/ab67616d0000b2735e82e6db31d8882242374eb6,False,7,[]
+Imaginary Love,Mae West,False,4fWbcyr5iUxaJyWnETkzVi,0,174392,2022,https://i.scdn.co/image/ab67616d0000b273c466fec1ae3df380422ab2bb,False,17,['vintage hollywood']
+Espoirs Perdus (Valse),Jo Privat,False,6kdYqLIkUu3XfteIDwl1lg,0,164333,1998,https://i.scdn.co/image/ab67616d0000b273a5dbe6c36bf13b2adb9a96cf,False,22,"['bal-musette', 'jazz accordion']"
+The Song of the Riddles,Willie Clancy,False,0FfPX2XHWrJExMu2uZOrSA,1,226680,1967,https://i.scdn.co/image/ab67616d0000b273a434c352dde79a15dac4f2df,False,17,"['irish folk', 'uilleann pipes']"
+American Lovebite,Dons,False,2yIIDrQ5fCygvB7Wxwp1EQ,1,200467,2006,https://i.scdn.co/image/ab67616d0000b273797689b21b049e1b53279a68,False,42,['latvian pop']
+Release,LORE,False,4mfD5smMjhFJPPgk2slz2p,19,178626,1973,https://i.scdn.co/image/ab67616d0000b27313b06de2ebe90916265a105b,False,62,"['arkansas country', 'classic country pop', 'country', 'country rock']"
+Les Deux Guitares,Jean Ferret,False,7qt1klIhvNsovnH26FSVHP,0,173986,2014,https://i.scdn.co/image/ab67616d0000b273dc34b25fe7f86f7f0812c3c0,False,22,"['bal-musette', 'jazz accordion']"
+An M'agapas,Konstantinos Galanos,False,6dVwMwbrNO2KK3fMO09PYh,2,226520,2007,https://i.scdn.co/image/ab67616d0000b273a1a2e1e0d02b78813c35bff3,False,29,"['greek pop', 'laiko']"
+Just Like Darts,The Real Kids,False,0lnMozU7rtuzkYiE7C1kbW,9,279373,1977,https://i.scdn.co/image/ab67616d0000b273c354b277659ddcf98dacf977,False,20,"['boston rock', 'protopunk', 'rhythm rock']"
+Kun rakastaa,Frederik,False,7zNl8H2S4Qdj6Aux80Iw7u,2,179880,1980,https://i.scdn.co/image/ab67616d0000b273fb0f32682d38b0daf7d3948b,False,41,"['classic finnish pop', 'classic iskelma', 'iskelma']"
+Remote Control,Dark Distant Spaces,False,0PGYSosG0zEDgslD3Jbf2S,0,273973,1994,https://i.scdn.co/image/ab67616d0000b273ce0ce2198b7ce9d8c5362c58,False,1,['neo-synthpop']
+Hardcore From The Underland,DJ Isaac,False,4BjRnuxgtWCZdTpjPUHYf6,2,683266,2010,https://i.scdn.co/image/ab67616d0000b273a320ef70a6e1ce731ae72375,False,52,"['australian dance', 'classic hardstyle', 'euphoric hardstyle', 'gabber', 'happy hardcore']"
+Menu Lagan Lagi,Sukhwinder Singh;Jaspinder Narula,False,1w0xpYerbzPyNEGrpoOaVl,26,352626,1999,https://i.scdn.co/image/ab67616d0000b2737994644ee7ecd0a587cd6602,False,71,"['afghan pop', 'chutney', 'classic bollywood', 'filmi', 'modern bollywood']"
+Back Then,BoDeans,False,578saIxGlAHHMHPj2fmshI,0,216253,2010,https://i.scdn.co/image/ab67616d0000b273c2753074d9bfb00805446039,False,39,['jangle pop']
+Call Me,Mint Condition,False,0qlUWdgfBzRZ20X24Qe165,6,271093,1999,https://i.scdn.co/image/ab67616d0000b2733991ea479b607a7ba0e1e9e1,False,55,"['contemporary r&b', 'minneapolis sound', 'new jack swing', 'r&b']"
+Scrap,Tin Hat Trio,False,73SPzxeTTDuJXIaZBygW8s,6,44533,2000,https://i.scdn.co/image/ab67616d0000b273f40b4a3ad3a5e264b8e56f3e,False,29,"['indie jazz', 'modern chamber music']"
+I Won't Lie,The Twinkle Brothers,False,3MkeeDgnPjsuGWBzwUm4c3,0,204149,2024,https://i.scdn.co/image/ab67616d0000b273b24326b879823e107c2bd050,False,21,[]
+The Four Big Ones (Essential Authors And Works),Black Debbath,False,1iT2P4xpR59vuaklLOgdFT,1,267986,2001,https://i.scdn.co/image/ab67616d0000b2739087cbdccf9f35973bc69a46,False,26,"['norwegian doom metal', 'norwegian metal', 'norwegian rock']"
+La polka des grenouilles,Serge Desaunay,False,7zZDYjgIA9Wo33vDdJzG7i,0,128000,2004,https://i.scdn.co/image/ab67616d0000b2734744ab3ee0402000e3ce98a5,False,0,[]
+Put On Your Rubbers,Fast Eddie,False,4Gq0aKYAqjObXeLa1qrK5d,0,97253,2005,https://i.scdn.co/image/ab67616d0000b273c5777c35c6efdac89f95c203,False,0,[]
+You Were The One (Wide Wide World Album Version),Erin O'Donnell,False,0CewocBNhEWczPMx1pFYhX,0,247640,2003,https://i.scdn.co/image/ab67616d0000b273a2b6e94ba76bd3d71132c327,False,26,[]
+So(u)l Invictus,Nightfall,False,7LfcDDMLAAJDdlDcMjAoP5,0,190821,2004,https://i.scdn.co/image/ab67616d0000b2731237713c9534b8c14a122157,False,15,['greek metal']
+Marbles,Spunk,False,4JoALVS1WdauY3M5eCOJnO,0,139706,2005,https://i.scdn.co/image/ab67616d0000b273345474c6f8f56b2927c93b00,False,2,['norwegian experimental']
+Cielito lindo,Mariachi Silvestre Vargas,False,2Vmyzs3dNEdeSUpF5LWoW9,20,186801,2010,https://i.scdn.co/image/ab67616d0000b273ffa8c274f7a624afe0cd55e2,False,32,"['mariachi', 'ranchera']"
+For All We Know,Ann Hampton Callaway,False,3p1fhAfaP0ka7bsDqwCWfh,5,306200,2002,https://i.scdn.co/image/ab67616d0000b2738068e2c61d02489b61b057c3,False,44,['contemporary vocal jazz']
+Turn Your Eyes Upon Jesus,Kathy Troccoli,False,6ompxTUBaYJ3MXSHkVRG5a,13,194026,2014,https://i.scdn.co/image/ab67616d0000b27379e2c1d4c594f1fa576003d6,False,42,"['christian music', 'classic praise']"
+Knowing You'll Be There,Gaither Vocal Band,False,6gJlR3CiP6K7cZ3LthKZUA,16,277386,2004,https://i.scdn.co/image/ab67616d0000b273e15a84e58f863a4a5eaaca95,False,53,['southern gospel']
+Rock Steady,Bad Company,False,2WIznWX1q8Z5y2Xc69nQfB,42,226013,1974,https://i.scdn.co/image/ab67616d0000b2739adafd7f9d57380d1d0373af,False,59,"['album rock', 'classic rock', 'country rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'southern rock']"
+The Moon Was Yellow,Russ Morgan,False,4LDFyiZYLtAlvyNlY54vMs,0,182626,2007,https://i.scdn.co/image/ab67616d0000b273dfef8b07f55d49c07c3d280f,False,35,"['british dance band', ""man's orchestra""]"
+Boda de Oro,Orquesta America,False,6Jkcam9dOvnRWiuQOLrWVE,0,353706,2020,https://i.scdn.co/image/ab67616d0000b273017b09482e3409fa41d2dc3c,False,20,"['cha-cha-cha', 'charanga', 'mambo', 'musica tradicional cubana', 'son cubano clasico']"
+Darling_ I Want To Destroy You,AFI,False,7KQiDF93RlTz9OBNixGlau,20,223306,2009,https://i.scdn.co/image/ab67616d0000b273352ec6f72eb0fe1fa8d2a491,False,62,"['alternative metal', 'nu metal', 'pop punk', 'post-grunge', 'punk', 'screamo']"
+De rien,Les Ogres De Barback,False,3AJKw5oQbbpQlHzgkLo6oh,5,190573,1999,https://i.scdn.co/image/ab67616d0000b27373e6e1515eea94a0549a4861,False,43,"['french folk pop', 'french reggae', 'french rock']"
+On Probation,Youves,False,04LEQO1cACh0lj0KHqgRB8,0,236960,2008,https://i.scdn.co/image/ab67616d0000b27326de675deb777013fbe48490,False,0,[]
+Unworthy of His Love,Oak Ridge Boys,False,2nTQ6CbXLpZ0y5VxwAZzYB,0,109053,2022,https://i.scdn.co/image/ab67616d0000b273ea1fb20faca56d55da6e26c4,False,55,"['classic country pop', 'country', 'country road', 'country rock']"
+Armageddon's Raid,Belphegor,False,6g35kcse0U4ptqxE1O3lsZ,18,308773,2008,https://i.scdn.co/image/ab67616d0000b27373add4ee364e6ce5a1149d97,False,42,"['austrian black metal', 'austrian metal', 'black metal', 'brutal death metal', 'death metal', 'symphonic black metal']"
+Let It Be Me,Dionne Warwick,False,2v8eWqQiyyiG6NM9gkmeW1,23,168826,1970,https://i.scdn.co/image/ab67616d0000b273bb15599bb872d6dea4a821c4,False,63,"['adult standards', 'brill building pop', 'disco', 'quiet storm', 'soft rock', 'soul', 'vocal jazz']"
+As Nice As I Can Be,Eagles Of Death Metal,False,6kyDFn7X6fNI2f3maCB0Ay,8,225533,2009,https://i.scdn.co/image/ab67616d0000b273741b87d35b0440acbdb15048,False,55,"['alternative rock', 'garage rock', 'garage rock revival', 'modern blues rock', 'palm desert scene']"
+The People You Care For,John Ottman,False,56KMAQeIBZ6waWhiel6FVm,10,205920,2006,https://i.scdn.co/image/ab67616d0000b273184001200475881afef7b19d,False,43,['soundtrack']

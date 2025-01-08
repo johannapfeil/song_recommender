@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Dance_ Gypsy_ Dance,Arthur Tracy,False,6AeO3rY3bKyY4GjgZ7yfzv,0,163360,2011,https://i.scdn.co/image/ab67616d0000b273d60fcf0b63d76420d13339a4,False,3,[]
+Love Me,Angelo Badalamenti,False,6WSB31O8sxrhly3HNfOEzF,35,304066,1990,https://i.scdn.co/image/ab67616d0000b2730fe62e9afb4ae8f52a241d33,False,49,"['dark jazz', 'soundtrack']"
+Subterranean Homesick Alien,Radiohead,False,2CVV8PtUYYsux8XOzWkCP0,62,267693,1997,https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856,False,85,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']"
+Lullaby,Seamus Egan,False,4pBEcRK6UTn4g4UxaC87Xo,2,205293,2006,https://i.scdn.co/image/ab67616d0000b2733f853744a6e0682e0b487794,False,27,"['celtic', 'irish banjo', 'irish folk', 'uilleann pipes']"
+Alguna Vez,La Portuaria,False,13Sh5MAlGQrKyOMBY3hog8,13,147960,1993,https://i.scdn.co/image/ab67616d0000b273502fc044902abef5a1506338,False,47,"['argentine rock', 'ska argentino']"
+It's Not Me,3 Doors Down,False,2URM9JCtPUL7qCLhpuipzZ,30,194266,2005,https://i.scdn.co/image/ab67616d0000b273b296ff101658ac17f75e343b,False,73,"['alternative metal', 'nu metal', 'post-grunge', 'rock']"
+The Majesty Of Rock,Spinal Tap,False,34VrvyaAKYgl7bBWCN4Lq8,20,235440,1992,https://i.scdn.co/image/ab67616d0000b273d1c2ad96ff1f9b528ab3763b,False,37,"['comic', 'comic metal', 'parody']"
+Fausse monnaie,Gus Viseur,False,4iv5WSXXeCOq06nQ5i8nMI,15,180280,2015,https://i.scdn.co/image/ab67616d0000b273f7fa9c4a194727401b9d8afa,False,32,"['bal-musette', 'jazz accordion']"
+Strange Thing,Buzzcocks,False,5eWyfJipdqtHPpZ6s2TMTv,17,250400,1979,https://i.scdn.co/image/ab67616d0000b273ee89a285a9b6ec19328aa668,False,50,"['alternative rock', 'britpop', 'madchester', 'new wave', 'post-punk', 'punk', 'uk post-punk']"
+I Live to Be Hated,GG Allin,False,5jG05EcqjNsf6sQlMmBgEi,2,185546,2006,https://i.scdn.co/image/ab67616d0000b273d18e34e48143c96e99bdf2af,True,39,"['hardcore punk', 'punk']"
+Ma Rainey's Black Bottom,Ma Rainey,False,7z75xKyMlbgDaUKANU6ykM,23,134026,2020,https://i.scdn.co/image/ab67616d0000b273d59d138e332cf156a531acda,False,13,[]
+Journey To Love,Stanley Clarke,False,5rt1JXfJFIJOlzf0HpuPDv,15,294520,1975,https://i.scdn.co/image/ab67616d0000b2737c52e7b39c4dc4d1592dce33,False,46,"['electric bass', 'jazz funk', 'jazz fusion']"
+I Want It,Zombie Girl,False,1Aw4wEcRorA2Y7wyBgxEmX,19,260546,2006,https://i.scdn.co/image/ab67616d0000b273843b4b4e7fe0e3c35a26605f,False,28,"['aggrotech', 'industrial metal', 'steampunk']"
+Blaue Matrosen (live),Der Moderne Man,False,5pQka9AGg3S0ovoVkM6JQ4,0,159560,2012,https://i.scdn.co/image/ab67616d0000b273021385a0372f180d2fe9a5ac,False,11,['neue deutsche welle']
+Chariots Of Fire,Dino,False,2FT8sUtqni4l0O3lFdcWCb,1,245400,1988,https://i.scdn.co/image/ab67616d0000b2732a31bfac71bc2eb7703b60f2,False,28,['instrumental worship']
+Revelations,Jesse Malin and The St. Marks Social,False,2KECnCnszXyNDn4F2s9kKX,10,164506,2019,https://i.scdn.co/image/ab67616d0000b2732b18abae6e06cbec5a214c88,False,39,['alternative country']
+Rotting Fumes,Hemdale,False,2iwslpEC92mXl5IPwwIq9h,4,107573,2002,https://i.scdn.co/image/ab67616d0000b2736c65aec43d20eab09b86cbd1,False,13,"['deathgrind', 'goregrind', 'grindcore']"
+Mais La Vie,Maurane / Lara Fabian,False,4Gr55hpiXRXyR6SIE4JKmJ,19,198880,2003,https://i.scdn.co/image/ab67616d0000b273987b2408106ec5ab2ea0fbfa,False,40,"['chanson', 'french pop']"
+Doggin' Around,Rita Chiarelli,False,6ICiKmzqqre3fSKfmkAcr3,0,237786,2011,https://i.scdn.co/image/ab67616d0000b273470aa269fc58538a0b698b6c,False,11,['canadian blues']
+Dem a Talk,Kiprich,False,6pwEgPIiLhaubmZhjOR1w1,0,158437,2013,https://i.scdn.co/image/ab67616d0000b27341a06148bd112a55b793fc20,False,36,"['dancehall', 'jamaican dancehall']"
+Walk Away,Christina Aguilera,False,7sBxoj9SBNKxVIcLiFxnwQ,42,347400,2002,https://i.scdn.co/image/ab67616d0000b2737cd872c7701c4737b2f81d87,False,80,"['dance pop', 'pop']"
+Everything's Gone,David Tao,False,5ZZwQy1wofQhj7LJDNLflT,61,242560,1997,https://i.scdn.co/image/ab67616d0000b2737c20fb440980c4f2f24346c5,False,64,"['chinese r&b', 'mandopop', 'taiwan pop', 'taiwan singer-songwriter']"
+Forever Consumed Oblivion,Goatwhore,False,7wacuF6zZdef9i7YDoVs1F,10,225720,2006,https://i.scdn.co/image/ab67616d0000b2734cb96642ea01f9fa494a3fa8,False,33,"['brutal death metal', 'death metal', 'deathgrind', 'groove metal', 'louisiana metal', 'sludge metal']"
+Rockin' Every Night (Live),Gary Moore,False,3payrrez17AdF9LOCM2s1L,6,198733,1983,https://i.scdn.co/image/ab67616d0000b27396eeb09560a144a5c6ec71b9,False,60,"['blues rock', 'british blues', 'electric blues']"
+La sangre de tu tristeza (con Dani Martin_ directo Enjoy 07),Jaime Urrutia,False,5MF4eGH5DKYnq8LgPab3RZ,13,233519,2007,https://i.scdn.co/image/ab67616d0000b273573294b7e497059130a8102a,False,38,"['spanish new wave', 'spanish pop']"
+Irresistible! (Maurel & Fauvrelle LESS Mix),Superchumbo,False,1mumeomFvvHEXyctVA7W1j,0,673226,2002,https://i.scdn.co/image/ab67616d0000b273a7db48724c81adce39712501,False,27,"['tribal house', 'vocal house']"
+Honey I Sugar Pie,Tanto Metro & Devonte,False,6Dl91ZjqFtKAlQHgHP1kTF,22,208253,2009,https://i.scdn.co/image/ab67616d0000b273d664ecc621e173a0e702d317,False,46,"['dancehall', 'jamaican dancehall']"
+El Arte De Amar,Gabinete Caligari,False,0FyQbLXWrJMObFUF0kROlP,2,303933,1984,https://i.scdn.co/image/ab67616d0000b27303e25546d8e218d474e65cbb,False,47,"['spanish new wave', 'spanish pop']"
+Acension Final Chord Rising,Terry Riley,False,1Y0UxXqGBwZXxymLFCNNrY,1,146613,2002,https://i.scdn.co/image/ab67616d0000b273438238a59c62302c2980fe0a,False,36,"['21st century classical', 'american contemporary classical', 'avant-garde', 'compositional ambient', 'contemporary classical', 'experimental', 'fourth world', 'minimalism', 'tzadik']"
+Pinini Reggae,SUMO,False,07EmSBY7syIism45UtBPZa,38,215280,1989,https://i.scdn.co/image/ab67616d0000b273118d2ec09fdffd5fc677ac24,False,58,"['argentine reggae', 'argentine rock', 'post-punk argentina', 'rock nacional', 'ska argentino']"
+Rio Grande Waltz,Hank Locklin,False,2WUwZ53tYCAS8nI0wbu6um,0,164880,2019,https://i.scdn.co/image/ab67616d0000b273aad1762efb859d227303127c,False,40,['nashville sound']
+Stand By Your Man,Tammy Wynette,False,6xatfNMI8NkY5XxRHAeiS4,56,159760,1964,https://i.scdn.co/image/ab67616d0000b27336693e859838bda4321616db,False,55,"['country', 'country dawn', 'nashville sound']"
+Phylyps Trak II/II,Basic Channel,False,49ub4zo7T15jMBZujDjTh3,14,771586,2008,https://i.scdn.co/image/ab67616d0000b273d5df1d38d3fd9be8ebe13eac,False,30,"['ambient dub', 'dub techno', 'german techno', 'intelligent dance music', 'microhouse', 'minimal techno', 'techno']"
+Sacrifice for the Slaughtergod,Skeletonwitch,False,5i77pceaf42t8flEZAu5ua,18,173466,2007,https://i.scdn.co/image/ab67616d0000b273fe472e92de230d13ca071d2f,False,33,"['black thrash', 'melodic thrash']"
+Fool For Your Loving,Whitesnake,False,1OwcckpLpQLDrAkBKYLEAX,46,259066,1980,https://i.scdn.co/image/ab67616d0000b273194100543a02221c8be38fd5,False,65,"['album rock', 'british blues', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']"
+Jimi Baby,Slightly Stoopid,False,04uGsEzXnvFxNtZzGzyuqn,28,369275,2011,https://i.scdn.co/image/ab67616d0000b2732a5e8db09964560029ceaebb,False,63,"['reggae fusion', 'reggae rock']"
+Don't Go Knockin' On My Door,Britney Spears,False,3HTkB9Nk04MJHkG0X6cL2R,41,223533,2000,https://i.scdn.co/image/ab67616d0000b273c50b7d96737041f4bfd844d6,False,84,"['dance pop', 'pop']"
+Full Of Voices,Maximilian Hecker,False,2zlKcK8GWD9p8bTbVNUg6M,1,146520,2005,https://i.scdn.co/image/ab67616d0000b2731c4b79329d81cb037afe20da,False,28,['melancholia']
+I Worship You,True Believers,False,5tDproI9AV1tBgep4f2qsf,0,281893,2008,https://i.scdn.co/image/ab67616d0000b273e1abc063eca83271549d5123,False,10,['contemporary gospel']
+Si No Te Hubieras Ido,Charlie Cruz,False,7kF3jIaZ8qVGOELgEa11HJ,7,288840,2000,https://i.scdn.co/image/ab67616d0000b2734be7773fbd121bfb6d2e3d86,False,31,['salsa']
+Lunes Por La Madrugada,Los Abuelos De La Nada,False,6VPIaZNNJFOY9U17geQz1o,64,194226,1994,https://i.scdn.co/image/ab67616d0000b27396b085332e815f36beec6a1e,False,65,"['argentine rock', 'post-punk argentina', 'ska argentino']"
+Pass Through My Will,John Michael Talbot,False,4xRitqEi45HcLEE7vZbA6Q,11,311106,1989,https://i.scdn.co/image/ab67616d0000b2734b2b2326b9a2d32bf0dfab4f,False,45,"['jesus movement', 'rosary']"
+Answer In The Question,MxPx,False,7jh5dClPoNe2rdPatg7Noz,16,129906,2000,https://i.scdn.co/image/ab67616d0000b273ab7bf9071e70798a6c07f73e,False,50,"['christian punk', 'pop punk', 'punk', 'ska', 'ska punk', 'skate punk']"
+Chocolate,Snow Patrol,False,3Kh58CfPsfIl8XkCEKWbNf,52,181773,2004,https://i.scdn.co/image/ab67616d0000b2733da246ae81087859a89fe42a,False,71,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']"
+Liquid Frequencies (liquid Soul Mix),liquid soul & freq,False,5fXBh0rML0G028JRxA6uT4,2,402866,2009,https://i.scdn.co/image/ab67616d0000b273fbd2a3387e82434463bdc601,False,8,['progressive psytrance']
+Banana Man,C.J. Chenier,False,2zFgLxzeajGNCnhResMKaG,0,268026,1992,https://i.scdn.co/image/ab67616d0000b273cbe2e2110f45105f65a97001,False,21,['zydeco']
+Be Good To Me,Sonny Terry & Brownie McGhee,False,3FkgbkQUi1fjK4ZEfOfXtJ,0,168546,2003,https://i.scdn.co/image/ab67616d0000b2733f8542df4a65b8d03bd23ed8,False,27,"['acoustic blues', 'blues', 'traditional blues']"
+Ye That Tempteth_ Ye That Bequeth,Enslavement Of Beauty,False,0PxCJXPy0cCs94meqJSrXf,2,240378,2002,https://i.scdn.co/image/ab67616d0000b273a893b0b4026c2e4d25f74681,False,13,"['gothic black metal', 'norwegian black metal', 'symphonic black metal']"
+You Are God (Broken Album Version),Darwin Hobbs,False,4aQ6YpmRV2fl8CgeAWBRuI,22,352800,2003,https://i.scdn.co/image/ab67616d0000b273c7ea516d59de21615f842e30,False,37,['gospel']
+Bounce Back,DJ Spinn,False,2mI20kUdIyOaAhtgeonE4g,29,158213,2007,https://i.scdn.co/image/ab67616d0000b2730f03cd998c23f602f16e9df1,True,30,"['footwork', 'ghettotech']"

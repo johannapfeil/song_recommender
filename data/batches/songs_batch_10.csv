@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Collides With Beauty,ATB,False,0WC05B34BCl3ue6NV0IdU7,23,349000,2004,https://i.scdn.co/image/ab67616d0000b273b9b66171f4f9a73d328c057c,False,66,"['german dance', 'german techno', 'german trance', 'trance']"
+A Little Of You,Eurythmics,False,7r4PRRjsAOW4vDrjUARP61,23,234693,1986,https://i.scdn.co/image/ab67616d0000b27339efc86eb5981f6de0bf96f5,False,72,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']"
+2 Fists Full Of Nothing,Bruisers,False,6KIKCY62VcnEhq2R9kIRnw,3,289026,1993,https://i.scdn.co/image/ab67616d0000b273bb6ed68aa9ae2a95c7906bab,False,32,"['american oi', 'boston punk', 'oi']"
+In My Heart,Paul Avgerinos,False,3iN9esht6YwaTKhCh2T2Wo,0,338960,2001,https://i.scdn.co/image/ab67616d0000b2731cbec7d33a07f40614c9c951,False,31,[]
+Amaze,Jimmy Riley,False,6uODYbYX4kJNj6Y4Gz8PFG,0,218893,2015,https://i.scdn.co/image/ab67616d0000b273da549073a81662f843403961,False,21,"['lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+I'll Pray For You,The Perrys,False,7rCTkdNjQlfBQnq7kX3JSg,0,248333,2008,https://i.scdn.co/image/ab67616d0000b2736fabf52e3597741a944e13d0,False,31,"['family gospel', 'southern gospel']"
+My Own Way,Evolution,False,4F1WdmmQHfW5Qw5GR4rMgb,0,209706,2009,https://i.scdn.co/image/ab67616d0000b2730ca98e436700373541682b9c,False,6,[]
+Pick Me Up On Your Way Down - Original,Charlie Walker,False,0s2phRqEEygpIJnjikwugn,1,143676,2023,https://i.scdn.co/image/ab67616d0000b273570d1457fd7593832d2a0150,False,33,[]
+Beloki,Peloton,False,1bNrPQJ4DNCRfG2w866PZv,0,238480,2007,https://i.scdn.co/image/ab67616d0000b273bad90f68de541ad7b23af4bf,False,0,[]
+Ich bleib so wie ich bin,Eko Fresh feat. Ado,False,0oy3Yuuy25mftpP7s66p50,5,215933,2007,https://i.scdn.co/image/ab67616d0000b273a9121638c5cfc857af7ac4ef,False,52,"['cologne hip hop', 'german hip hop', 'turkish hip hop']"
+Shenandoah,The Statler Brothers,False,6jOLEN7Rs0w3YjhQa9XOai,19,199200,1996,https://i.scdn.co/image/ab67616d0000b27361e0470153b00aa41bcb5059,False,52,"['country', 'country rock']"
+Schauet Her!,Der Plan,False,6vw7gnO4ru1VVDsLNSEeuC,0,34333,2005,https://i.scdn.co/image/ab67616d0000b273c42bfe171ee3136d30aa39a2,False,17,"['dusseldorf electronic', 'neue deutsche welle', 'zolo']"
+Life is Love,NO-TONE ft.Inusa,False,0hhp3c6JR2b3KiNOVTJU0i,26,388571,2007,https://i.scdn.co/image/ab67616d0000b273afe9efe982cebca633447d6f,False,14,[]
+Smith & Wesson,Frenchy,False,0GL2SDqTz73vW99y7k7eJh,0,246266,2012,https://i.scdn.co/image/ab67616d0000b273903fe16cdbeece108761844e,False,12,[]
+Vietnamese Baby,The New York Dolls,False,4WKVnPKbvYJJdqleE2HTY9,25,218026,1973,https://i.scdn.co/image/ab67616d0000b273802255bd535533c0e2ba5ad2,False,43,"['early us punk', 'glam punk', 'glam rock', 'protopunk', 'punk']"
+Bring Out Your Dead,Cadacross,False,4FsggA0mcD35ylEj41QJbR,0,217933,2002,https://i.scdn.co/image/ab67616d0000b2738f95417a2c08b6ae40a28f31,False,6,"['finnish death metal', 'finnish melodeath', 'folk metal']"
+Angry Chair,Alice In Chains,False,5jCp5VtcpUlHtW8Dwlx13Y,53,287800,1992,https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7,False,76,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'rock']"
+Spawn (Again),Silverchair,False,2Bzx47OJqE54EmN6ppiMMZ,20,207573,1999,https://i.scdn.co/image/ab67616d0000b27302629081ad3b70375352dd19,False,60,"['alternative metal', 'alternative rock', 'australian alternative rock', 'australian psych', 'australian rock', 'grunge', 'nu metal', 'post-grunge']"
+Suck My Blood,Beherit,False,1fJ5RFYzHT06sK1UqRSlcy,18,266746,2009,https://i.scdn.co/image/ab67616d0000b27334ec3491d3b820ff7f87a329,False,31,"['black metal', 'finnish black metal', 'lapland metal', 'war metal']"
+Friends Of All Races,Rocky Whatule,False,314v4P82b0fFPz2XUQOkPg,0,283760,2009,https://i.scdn.co/image/ab67616d0000b273d574f094faf642f38701328c,True,0,[]
+Love Shines Through  (Dream Album Version),Michelle Tumes,False,3I7lI2zjPrkvx1IJA90JqQ,2,232173,2001,https://i.scdn.co/image/ab67616d0000b273b2e457e9021cb502980a8efa,False,23,[]
+White Jetta,Casiotone For The Painfully Alone,False,2qxCjgaMDkVmMF2OQuRE0S,9,197253,2009,https://i.scdn.co/image/ab67616d0000b2732cf078593a18cc84929f1df8,False,35,"['anti-folk', 'indietronica', 'lo-fi']"
+Jane 5,EPMD,False,2bHrc7cZ31oF1rOUekLlW5,12,161293,1997,https://i.scdn.co/image/ab67616d0000b2730b32162c6f11792784b93ca6,False,50,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop']"
+Canon In D Major (J. Pachelbel),Mariano Yanani,False,2YRV0byPUUD40nPm2sPMch,11,192373,2003,https://i.scdn.co/image/ab67616d0000b2734af0588a4477e3cc7410d805,False,19,[]
+Need To Shout,Architecture In Helsinki,False,2JMAeScTx5vCjunqMcsxeF,4,249746,2005,https://i.scdn.co/image/ab67616d0000b273ce4d166fc1c779622276f51e,False,39,"['alternative dance', 'australian indie', 'indietronica']"
+La Nuit,Patrick Eudeline,False,0lcFy13AagmfPLbq5WXcyN,0,188346,2006,https://i.scdn.co/image/ab67616d0000b2730faf1fb31c9884742fe845ac,False,1,[]
+You Know How I Do [Live From Bamboozle],Taking Back Sunday,False,1cvIG02ZDfLVXXjA2Gaviy,11,227573,2009,https://i.scdn.co/image/ab67616d0000b273faf49b0b5b404765858b2086,False,63,"['emo', 'neon pop punk', 'pop punk', 'post-hardcore', 'screamo']"
+Io Vivo,Piero Esteriore,False,2ZDmellULrdzXHaqIQc8DU,3,246613,2009,https://i.scdn.co/image/ab67616d0000b2738b8f00dc6b104f6837da1c21,False,17,[]
+Ay Nare Nare,Grup Knar,False,1fcb2aE2mFJwj6iAW8zakn,7,381701,1999,https://i.scdn.co/image/ab67616d0000b2734c59c062a7decb61b0bc0687,False,10,['duduk']
+Breath Of Fresh Air,Warrior King,False,7zvTud79iV8llJM1nyzS1P,8,225786,2005,https://i.scdn.co/image/ab67616d0000b273ea4f8869f33e7ee3e79bfa26,False,32,"['lovers rock', 'modern reggae', 'old school dancehall', 'reggae', 'riddim', 'roots reggae']"
+She Left Me A Mule ,Sonny Landreth,False,48uvX1SEGDmz6Om1xW819a,3,212640,2023,https://i.scdn.co/image/ab67616d0000b273fd7d0050dc9b072cfa3fd63f,False,38,"['blues', 'blues rock', 'modern blues', 'southern rock']"
+Destiny,Buju Banton,False,2ZW0A9cFELkFsCT5UkWjkG,44,238266,1900,https://i.scdn.co/image/ab67616d0000b2732e4191224942f905a489f55a,False,58,"['dancehall', 'reggae fusion']"
+Chu Hsin,B.A.D.,False,5avcHj589aWop97FLAQEqG,0,142666,2006,https://i.scdn.co/image/ab67616d0000b2730b20e2596f1976ed7014dd26,False,77,"['classical', 'classical era']"
+Love Is All Around,Wet Wet Wet,False,0PCGfA36HrVPmsBZJ57zOU,68,246240,1995,https://i.scdn.co/image/ab67616d0000b273cbea7e7a20a9df4b22dc5148,False,58,"['boy band', 'new romantic', 'new wave pop', 'soft rock', 'sophisti-pop']"
+Maracaia,Timbalada,False,4cDBakzov3PwSl69bP3s3h,14,243093,2006,https://i.scdn.co/image/ab67616d0000b273cc438bc7a2e224479b140407,False,54,"['axe', 'samba reggae']"
+There Are More Questions Than Answers,Johnny Nash,False,5nM8blXSt3gaZYdfL4UA32,22,167266,1972,https://i.scdn.co/image/ab67616d0000b273702689066bc17ee67203c2bc,False,61,[]
+Lebaran,Bimbo,False,1uzW5Zzo7ARUewuvT5WOaw,11,189646,2007,https://i.scdn.co/image/ab67616d0000b273301e4d650e89b285f5b03c0b,False,35,['classic indo pop']
+Wang Wang Blues,Hank Penny,False,09bLjzMogwlYiBmECw2bm8,0,128213,2000,https://i.scdn.co/image/ab67616d0000b2731af4deb8420fbf40e34a37a4,False,0,[]
+Siri,Samba Mapangala and Orchestra Virunga,False,62OHj4RwPKSLWDCnTjO5j5,3,306893,2001,https://i.scdn.co/image/ab67616d0000b273c875d1b56fd3c623f2d4972c,False,22,"['benga', 'soukous', 'zilizopendwa']"
+Suba,Jason Miles,False,0qg8R6xucY1Of26VuCa16u,0,256146,2005,https://i.scdn.co/image/ab67616d0000b2738c1435899c0f93a77dc2f969,False,13,[]
+Beauty And The Beast,Nightwish,False,6pqshzE8WX8E2UaPrn9PcJ,31,382666,1997,https://i.scdn.co/image/ab67616d0000b2732777c9d955f300c86b43059f,False,68,"['fantasy metal', 'finnish metal', 'finnish power metal', 'gothic metal', 'gothic symphonic metal', 'opera metal', 'power metal', 'symphonic metal']"
+The Lonesome Boatman,The Fureys,False,2aLNcakASO2rKKUEzh8w33,24,197213,2004,https://i.scdn.co/image/ab67616d0000b273432d53e08e490a11ddf89422,False,43,['irish folk']
+She Don't Move Me No More,BB King,False,3bjhA9k2A40TXFTqa5X8eg,2,187898,2011,https://i.scdn.co/image/ab67616d0000b273dffea59e85938e3499f0d951,False,64,"['blues', 'blues rock', 'classic rock', 'electric blues', 'jazz blues', 'soul', 'soul blues', 'traditional blues']"
+Police Story,Black Flag,False,52M96UxJzKkHFSHGNiu8Du,33,92626,1981,https://i.scdn.co/image/ab67616d0000b273ba9fff4147e9e1656a5c33e1,True,51,"['alternative rock', 'california hardcore', 'hardcore punk', 'punk']"
+Through the Looking Glass (jazz),Chris Standring,False,2HSk1TUOBPzBIZVUF1yg8O,19,266040,2002,https://i.scdn.co/image/ab67616d0000b273086edbb3e6f1542ea0b3c5fd,False,48,['smooth jazz']
+Alma Mater,Moonspell,False,6aY8pSRwrJ9IjPAzr0dd0S,41,337306,1995,https://i.scdn.co/image/ab67616d0000b273b01cdea274dd654d0aabb17b,False,44,"['gothic black metal', 'gothic metal', 'melodic death metal', 'metal', 'portuguese black metal', 'portuguese metal', 'portuguese rock', 'power metal']"
+Prospection,Henri Pousseur,False,3KrXxx7KVZi8VKvln45bWy,0,299013,2010,https://i.scdn.co/image/ab67616d0000b273b47bb49c0666ea618e525f12,False,2,"['acousmatic', 'belgian contemporary classical', 'belgian experimental', 'musique concrete', 'serialism']"
+Dontchaletmecatchya,The Wiyos,False,6kRhi6QDCJKDySDjIr2UiY,3,187413,2009,https://i.scdn.co/image/ab67616d0000b273076874e80d5940c79933dbd0,False,23,['modern old-time']
+Louie Louie,Eddie and the Subtitles,False,043jizcWBHhgFjGSMLWkEi,0,140186,2015,https://i.scdn.co/image/ab67616d0000b2739fc02fc05a1f88ae3b4dd84f,False,0,['deep punk rock']
+This Ain't A Love Song,Bon Jovi,False,0ZLBD6hHGN9LYOtNlu2n8e,59,306240,1995,https://i.scdn.co/image/ab67616d0000b2738cadefc62ac1c0b7c4ab882a,False,81,"['glam metal', 'rock']"

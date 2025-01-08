@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Let Me Out,Maximilian Hecker,False,5iRQuEpCQcWXjXInI74Wxj,1,295613,2001,https://i.scdn.co/image/ab67616d0000b273e92d0ca224bdd8ac25314833,False,28,['melancholia']
+Eagle Eye,Bottom Of The Hudson,False,3ofySQxrMgY0LNMHZESlD0,0,279893,2003,https://i.scdn.co/image/ab67616d0000b273c1d53eb9c503cdc871feee8c,False,1,[]
+Great Is Thy Faithfulness,Kathy Troccoli,False,1h0vEqHk879ei2hqiT1QPU,5,186693,2014,https://i.scdn.co/image/ab67616d0000b27379e2c1d4c594f1fa576003d6,False,42,"['christian music', 'classic praise']"
+Ricerca nell' isola,Piero Umiliani,False,3OpR9DQ82VkJoaElqkALa8,3,151145,2009,https://i.scdn.co/image/ab67616d0000b27325bb9adfd40267599bbb918d,False,58,['vintage italian soundtrack']
+Velvet,Fergie,False,0o8sgVmOBJyiQ1ll9TdrHy,20,293133,2006,https://i.scdn.co/image/ab67616d0000b27310591d448ff910d4275893a6,False,71,"['dance pop', 'pop']"
+Hello,LL Cool J / Amil,False,07UtGuIgar25tiQs2X6VzI,10,232093,2000,https://i.scdn.co/image/ab67616d0000b273e787bc92ca8da56360adb124,True,66,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']"
+Ja Soc Aqui,Gato Perez,False,6QzNgrQryTKOmvln1Qcdtg,11,244093,2013,https://i.scdn.co/image/ab67616d0000b273d57b5c29640556cf87ff53b4,False,27,"['rumba', 'rumba catalana']"
+Did Ya Say That,GZA/The Genius,False,57Z9q1NUn2oLhdquEa4Z5m,21,234666,2002,https://i.scdn.co/image/ab67616d0000b2732acd21b17708cb48ae65bee2,True,61,"['east coast hip hop', 'hardcore hip hop']"
+Nada De Ti,Eddie Palmieri,False,13TwnmbcTui1EbD7Cbcuqy,21,389626,1974,https://i.scdn.co/image/ab67616d0000b273788b62ac543cd131fd7ff42b,False,46,"['jazz piano', 'latin jazz', 'salsa']"
+Vodne stocne,Krystof,False,0dCxaV8yLysojItEJcdyWP,1,227613,2007,https://i.scdn.co/image/ab67616d0000b273ca133f765ad2896202c0bc78,False,50,"['czech pop', 'czech pop rock', 'czech rock']"
+Everything Good (Everything Good Version),Gaither Vocal Band,False,4ICFp7v0SFBlH8Qdtp0T5V,16,200333,2002,https://i.scdn.co/image/ab67616d0000b2731a5d37302f8d8c56dc44fa3a,False,53,['southern gospel']
+After One Quarter Of A Revolution,Every Time I Die,False,4K0RBcaoDlCzaaNEPhxkT4,22,124146,2009,https://i.scdn.co/image/ab67616d0000b273341cc43b06c948e8d2583f16,False,47,"['buffalo ny metal', 'chaotic hardcore', 'melodic metalcore', 'post-hardcore', 'screamo']"
+Streets On Fire,Vivian,False,3rN6yjpqmGnlMKQE9chiW9,0,191840,2007,https://i.scdn.co/image/ab67616d0000b273f1d662975a9361b48d6211ef,False,1,[]
+Sweetest Goodbye,Maroon 5,False,6b9NzxGrLgueouFOAr5Jw3,39,270746,2002,https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e,False,87,['pop']
+Puzzle of Hearts,Sergio Mendes,False,7K6ra5w2MDyNSj1F3uqv6e,4,322066,2004,https://i.scdn.co/image/ab67616d0000b273ab130b136eca8fcd0d551066,False,63,"['bossa nova', 'brazilian jazz', 'samba']"
+Watching You,Ayo,False,4KsQfLlfnGDD058Rr7xJFx,28,232226,2006,https://i.scdn.co/image/ab67616d0000b273babb6e0586bb1071c365d59d,False,51,['neo soul']
+Let's Roll (Take 1),J.B.Lenoir,False,74p8zcl9Vua4ZFLUuNB7yD,0,169333,2006,https://i.scdn.co/image/ab67616d0000b273624f982cc26c34dc79c53fc4,False,35,"['acoustic blues', 'blues', 'chicago blues', 'traditional blues']"
+What's He Doin' In My World,Eddy Arnold,False,547fAYZGVQk7xXVL28slU9,26,133160,1965,https://i.scdn.co/image/ab67616d0000b273ffad4c792df37d60ea856ff1,False,50,"['classic country pop', 'nashville sound', 'traditional country', 'yodeling']"
+For Anything,Vanessa Daou,False,2sgfuvHbexr7nrQZK3sDym,5,177866,1996,https://i.scdn.co/image/ab67616d0000b27356d7ea32afe9e3d865143d2f,False,35,['downtempo']
+Rock Me Baby,Freddie King,False,1v311J9CNIySx9vAeRJUk7,1,322906,2015,https://i.scdn.co/image/ab67616d0000b27396270b99f478fe3caa4af307,False,51,"['blues', 'blues rock', 'electric blues', 'texas blues', 'traditional blues']"
+Speaker Problems,Johnny Vicious,False,2vP92YXGse6suZzju0f9kl,0,461760,2009,https://i.scdn.co/image/ab67616d0000b27348c2e5b47cd3facc9749c36c,False,27,"['tribal house', 'vocal house']"
+Freak it all Night,DJ Guy,False,69UkriznjE8p6wdDV3IVQP,10,240000,2009,https://i.scdn.co/image/ab67616d0000b2737d85fc3c9c67a5bae0e8149c,False,4,['ghettotech']
+Seven Days Too Long,Dexy's Midnight Runners,False,7Dqg7zmWl7yRPdWXbRKYdN,28,163200,1980,https://i.scdn.co/image/ab67616d0000b273a45383a3879c7a06eb91fded,False,63,"['new romantic', 'new wave', 'new wave pop']"
+Zig-Zag Walk,Foghat,False,3JDj043nETvRcvqhtIA0Iu,2,207880,1983,https://i.scdn.co/image/ab67616d0000b273324708da7d50792d7809b889,False,53,"['album rock', 'blues rock', 'british blues', 'classic rock', 'country rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'soft rock']"
+She Blinded Me With Science,Thomas Dolby,False,4RkKf3UBRxF2kn2Vh0ww8l,53,221266,1983,https://i.scdn.co/image/ab67616d0000b2732f85ef389219f107dfaa6f9b,False,45,"['new romantic', 'new wave', 'new wave pop', 'steampunk', 'synthpop', 'zolo']"
+Hiekkaa (polvere),Tulipunaruusut,False,6fMo8JH86G5zBFc1Jo2cXf,0,224466,2002,https://i.scdn.co/image/ab67616d0000b273c1540d1ebf92684ba5c174e1,False,19,"['classic finnish pop', 'classic iskelma', 'humppa']"
+Lonesome Road,Junior Kimbrough,False,7J1XxG7tYcDfJ4xkLMKw8O,16,217626,1997,https://i.scdn.co/image/ab67616d0000b273912db7cc5e0c2e391ff7a3b3,False,38,"['acoustic blues', 'country blues', 'delta blues', 'traditional blues']"
+Il a suffit d'une chanson d'amour,Christian adam,False,0Bp6NvbygiEh7lWUfJzyc5,6,164160,2008,https://i.scdn.co/image/ab67616d0000b2737150bb2913bdd8fef04a6b73,False,30,[]
+Soleariyas,Juan Carmona,False,0W2ckQvAQnXwPiFunqCJlR,0,339880,2010,https://i.scdn.co/image/ab67616d0000b273ada06693a61052ae75d94fb5,False,18,"['flamenco', 'flamenco guitar']"
+Shades Of Love,Tom Barabas,False,6WY4lmfuN0SbcLvOI3ARvq,2,336666,1998,https://i.scdn.co/image/ab67616d0000b273d26a76a06de75429e27c673f,False,24,[]
+This is My Year,Mac Dre,False,5Gm5oZQ4KTYVY9oyIGrY7N,2,259959,2008,https://i.scdn.co/image/ab67616d0000b273f827f9e576bab6c453062681,False,52,"['cali rap', 'hyphy', 'oakland hip hop', 'west coast rap']"
+Que Vas A Hacer?,Daddy Yankee / May-Be,False,6AzcHi5hHkwH0SgXuxE09h,40,199533,2004,https://i.scdn.co/image/ab67616d0000b2736bdcdf82ecce36bff808a40c,False,88,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']"
+Slow Down,Carlton Livingston,False,5WQ0fgQPTEwq2YPwtLxBuj,0,203920,2009,https://i.scdn.co/image/ab67616d0000b2738474ae265cbcd3de6ac4cc2e,False,39,"['old school dancehall', 'reggae', 'roots reggae']"
+36 Grad (Paul van Dyk's Vandit Clubmix),2raumwohnung,False,2mSwXhxMad1UJHCVoMvSnl,8,450160,2007,https://i.scdn.co/image/ab67616d0000b2738f25853c0091da03e01d3c7d,False,45,['german pop']
+I'm So Bored With The U.S.A.,The Clash,False,6bbQuT0lK4ekunMnK446Bt,41,144600,1977,https://i.scdn.co/image/ab67616d0000b27346db502388d44edb43ebb261,False,72,"['alternative rock', 'permanent wave', 'punk', 'rock']"
+Born To Run,Suzi Quatro,False,7D0Pmll91bMwXo5lGzBJSp,27,240426,1999,https://i.scdn.co/image/ab67616d0000b273fba8f77a06ddc479c331868f,False,61,['glam rock']
+Electrasonic V,Los Fabulosos Cadillacs,False,2Oa926rODAiiJ47FyZuVOH,11,137053,1990,https://i.scdn.co/image/ab67616d0000b273f5aa9ad4c931b2e90e94f673,False,70,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol', 'ska', 'ska argentino']"
+Gamilia Patinada,Nikos Kalaintzis,False,1Mmuxj6GT9yXneBzhzv47k,1,141306,1995,https://i.scdn.co/image/ab67616d0000b27313c04c32e921b804173aab0e,False,11,"['greek folk', 'nisiotika']"
+Winter In Finland,Moss,False,1jwDOutruOTxmbhPHofT5R,6,206773,2007,https://i.scdn.co/image/ab67616d0000b273d7fe2039211b777724632f5a,False,27,"['drone', 'dutch indie', 'dutch indie rock']"
+Tras La Reja,Orquesta Sublime,False,7DqA8yHqCEqil42Sbv91fd,0,189266,2018,https://i.scdn.co/image/ab67616d0000b273ae899f0ba61eb0ca2286e7f3,False,14,"['cuban rumba', 'musica tradicional cubana']"
+Work Hard,Luciano,False,6Xkf1l8AyFJiC9pnWfa1OG,0,215546,2008,https://i.scdn.co/image/ab67616d0000b273e598df9ab047324952409e06,False,5,[]
+Azul Contente,Luciana Souza,False,3NpKkOCuunPEA0qEMFUoTv,3,259226,1998,https://i.scdn.co/image/ab67616d0000b273000c18e98151e5faa1f3666a,False,28,['brazilian jazz']
+Won't Be Long,Rakim feat. Tracey Horton,False,0aGns5ATe18du3DQnu7YX6,11,289973,2009,https://i.scdn.co/image/ab67616d0000b2736c43ca27d79d4f5c28d11ced,False,59,['east coast hip hop']
+Les Forains,Richard Galliano,False,2RQM8koLNY1r9HitmRixRk,9,226245,2020,https://i.scdn.co/image/ab67616d0000b273e445b2ab403efcff1c3d1f7f,False,40,"['accordion', 'bandoneon', 'classical accordion', 'french jazz', 'italian contemporary jazz', 'jazz accordion']"
+Sunset In Akkarai,Desert Dwellers,False,7f3i6a3vEYSVjB8zgdtoZX,8,445986,2010,https://i.scdn.co/image/ab67616d0000b273ac02dad3068a9e033ce76830,False,43,"['psychill', 'world fusion']"
+Don't Stop,Jars Of Clay,False,4MJRgBFVmEsjYwO3fl9usY,12,223947,2009,https://i.scdn.co/image/ab67616d0000b273ecbf7fe58c0534532cf32b47,False,48,"['ccm', 'christian alternative rock', 'christian music']"
+Take The Time,Bad Company,False,7vuiwmiBGhoU7PaflLN4KX,14,253026,1979,https://i.scdn.co/image/ab67616d0000b273dbcbc3e778344e4d948c5fc6,False,59,"['album rock', 'classic rock', 'country rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'southern rock']"
+Trouble,Bruce Robison,False,69CsP5RI34vPWyAv3LorSX,1,182106,1999,https://i.scdn.co/image/ab67616d0000b27329460efe12850d4ba52cc14a,False,35,"['austin americana', 'classic texas country']"
+I'm Walking,Donnie McClurkin,False,7bvfAcSSeSTonFYBnFqZRB,27,318813,2003,https://i.scdn.co/image/ab67616d0000b273b16cc485518862f442c19bc0,False,50,['gospel']
+In This Skin,Jessica Simpson,False,1THvrRVOCHgBZRLBUvVPqR,18,257813,2003,https://i.scdn.co/image/ab67616d0000b273adefab4c77e8a845234eeee4,False,53,"['dance pop', 'post-teen pop']"

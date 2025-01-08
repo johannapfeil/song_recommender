@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Shawty Get Loose,DJ Nasty,False,71jBA5U257QTve6VvCyiiH,0,193845,2008,https://i.scdn.co/image/ab67616d0000b273d80945d30a0b2c5bc2ac2f47,False,20,['ghettotech']
+Church_ I'm Fully Saved Today,Blind Willie Johnson,False,6AXg7E60oUA1kPbZu5FGUP,16,186360,1928,https://i.scdn.co/image/ab67616d0000b273ca26ce52fd1ac32db22ecacc,False,36,"['acoustic blues', 'blues', 'country blues', 'gospel blues', 'texas blues', 'traditional blues']"
+Pauvre Jean,Jacques Douai,False,2ly3rHf72UCAf18nVQSrl2,0,59950,1960,https://i.scdn.co/image/ab67616d0000b2731fe290e10d4a0e3b5ed57616,False,11,['vintage chanson']
+Fruko's  Boogaloo,Fruko Y Sus Tesos,False,4JApaWpUcDWCr8aVfiaaze,9,263333,2015,https://i.scdn.co/image/ab67616d0000b27396c533821c4f2ea74f4fe389,False,61,"['salsa', 'salsa colombiana']"
+"Return Of The ""G",OutKast,False,1wYp8ISMvX8qrflPrBU9Yo,43,289160,1998,https://i.scdn.co/image/ab67616d0000b273377a6d2051b23afea65ee41a,True,77,"['atl hip hop', 'dirty south rap', 'hip hop', 'old school atlanta hip hop', 'rap', 'southern hip hop']"
+Laundry & Dishes,Adrienne Pierce,False,7uBMChM0nptwd0oiBWoAKH,4,270080,2007,https://i.scdn.co/image/ab67616d0000b27366031b140679320f71b150f9,False,13,['deep acoustic pop']
+Estoy Contigo,Selena,False,3540QsaCUoHcGLPxQAwbzm,19,197786,1990,https://i.scdn.co/image/ab67616d0000b2730b5c6296a650295dca25ef1c,False,73,"['mexican pop', 'tejano']"
+The Things That I Used To Do,Guitar Slim,False,3NWDb3bbMBTArBblzG4jMX,36,180453,1991,https://i.scdn.co/image/ab67616d0000b27384c5a8fdb500987c7ba35fe9,False,28,"['acoustic blues', 'blues', 'louisiana blues', 'new orleans blues', 'traditional blues']"
+Face,Dave Rave_ Mark McCarron,False,5zLz74sX3R2DTNGHtRl1x1,0,90906,2007,https://i.scdn.co/image/ab67616d0000b273de4fadd4e1f69c681e40ff2a,False,0,[]
+Vaya (Live At The Beacon Theatre),Ray Barretto,False,4iuSVQpxMCwJgsAVWq6Nt4,2,413066,2006,https://i.scdn.co/image/ab67616d0000b2736d6d21581f0d9eb5e865ab61,False,51,"['boogaloo', 'latin jazz', 'salsa']"
+Los Conguitos,Mongo Santamaria,False,3lvjmrZBIIKPWduePX7Xa5,1,132293,2023,https://i.scdn.co/image/ab67616d0000b2734ab3f947be9cba7a83ea5ab0,False,45,"['afro-cuban percussion', 'boogaloo', 'cuban rumba', 'jazz cubano', 'latin jazz', 'musica tradicional cubana']"
+Samba De Duas Notas,Luiz Bonfa,False,1isc9ZFa1pHlkfhOcUwu0S,32,258533,1963,https://i.scdn.co/image/ab67616d0000b273efece5a77521bdc11757a423,False,67,"['bebop', 'bossa nova', 'cool jazz', 'jazz', 'jazz saxophone', 'latin jazz', 'samba-jazz', 'vocal jazz']"
+Lontananza,Fruko Y Sus Tesos,False,31tl5m1VNBiDjI0iS8Z99M,0,186853,2015,https://i.scdn.co/image/ab67616d0000b27336fbb06be3a10f25a9640a4a,False,61,"['salsa', 'salsa colombiana']"
+Is It A Myth?,K'Naan,False,0WgaYzSdOnPaoI9LJBmUdc,0,200293,2007,https://i.scdn.co/image/ab67616d0000b2730b530e0c05e9a77565133431,False,63,['reggae fusion']
+Lost,The Cure,False,5JXFK9ciENfP4h98TzTzNk,23,247506,2004,https://i.scdn.co/image/ab67616d0000b2738ea6259247a4f2c2f387db18,False,79,"['new wave', 'permanent wave', 'rock', 'uk post-punk']"
+Still Caah Nicer Dan Yard,Shaggy,False,4uJQhZf0FxzgBOT0xT8RJM,4,187408,2019,https://i.scdn.co/image/ab67616d0000b27357fd47bc31b743287eb0af28,False,45,[]
+Rhapsody In Blue,Arthur Fiedler;Earl Wild;Pasquale Cardillo,False,4mCo6vnzFKoF17Wk3z2S5a,2,975560,1991,https://i.scdn.co/image/ab67616d0000b273180b88b08df0fddf1a110275,False,50,"['american modern classical', 'classical', 'early modern classical', 'tin pan alley']"
+Everybody Loves You,Helmet,False,19YREwcPh7Oh279dEUsQfH,15,206880,2004,https://i.scdn.co/image/ab67616d0000b273475785f477e75e9b7d62152c,False,52,"['alternative metal', 'alternative rock', 'groove metal', 'grunge', 'industrial metal', 'industrial rock', 'nu metal', 'post-hardcore']"
+Castle Of My Dreams,Tex Williams,False,2ntSqB5HUKY1Xyq1LyGHiq,11,150480,1960,https://i.scdn.co/image/ab67616d0000b27332d29391915dc8f80945a4d5,False,36,"['cowboy western', 'western swing']"
+The Long Goodbye,Miranda Lee Richards,False,3e6BAvKx7HYF7WEhJHkaOC,2,243666,2001,https://i.scdn.co/image/ab67616d0000b2735ee5299e25d8b1d3e781aeb2,False,18,[]
+Que Devient Ton Poing Quand Tu Tends Les Doigts,Miossec,False,1ypQtqQnPEpW4fVbF5qAyq,5,159560,2007,https://i.scdn.co/image/ab67616d0000b27309bc47a7b2525a0eaa234946,False,41,"['chanson', 'french rock', 'nouvelle chanson francaise']"
+Price Of The Fire,John Stewart,False,6VZ7f20D9GRJhgpzAwaoqU,1,292040,1987,https://i.scdn.co/image/ab67616d0000b273d81524c2ba907b07f17409b1,False,30,[]
+I Only Want To Love You,Nicky B,False,3yDJUYgFcX5l1Ey1ujzIpy,1,184346,2007,https://i.scdn.co/image/ab67616d0000b2734362b9d2d1029aa91b6d1b84,False,29,[]
+Stop It,The Frequency,False,19WizJRaYWDO0qGi2snE4J,0,195213,2004,https://i.scdn.co/image/ab67616d0000b273ad59e99c8086469a8aa02455,False,10,[]
+Life Is Wild,The Clash,False,2ZyrJIbyUNuDkfCe1OTtpS,13,159133,1985,https://i.scdn.co/image/ab67616d0000b2731db6279305f3a6319f31f107,False,72,"['alternative rock', 'permanent wave', 'punk', 'rock']"
+O Mein Papa,Eddie Calvert,False,3ZfgpguQ2cqSRBZx7TdzPS,25,166826,1996,https://i.scdn.co/image/ab67616d0000b27342a555a7fda168a27bacdc36,False,34,"['easy listening', 'jazz trumpet']"
+Ain't Goin' To Beg You For That Stuff,The Hokum Boys,False,65huGsRAuA4WTaT37FEqef,0,209737,1994,https://i.scdn.co/image/ab67616d0000b2734366660bb140f58c4b20de51,False,7,"['jug band', 'pre-war blues']"
+Aqui Estoy,Mr. Grillo,False,2b9AO1xpXIjKeroevjfkCv,1,211250,2020,https://i.scdn.co/image/ab67616d0000b273d1952bc5c4781a2b76814f6e,False,36,['perreo']
+Pork Chop Sandwich,Hinge,False,64HMpbdIpIWQz8TbtMqYlb,8,247524,1999,https://i.scdn.co/image/ab67616d0000b27336bf4d62c8b890cf1727d580,False,6,"['alternative metalcore', 'rap metalcore']"
+One of Us,Bottom Of The Hudson,False,7MYJJm0E70V7xJsl6vMXqd,0,193346,2005,https://i.scdn.co/image/ab67616d0000b2735538733bed8d993c09988d77,False,1,[]
+Break The Ice,Britney Spears,False,52K4Nl7eVNqUpUeJeWJlwT,60,196053,2007,https://i.scdn.co/image/ab67616d0000b273ca10fae7d292c52f7e8b11ca,False,84,"['dance pop', 'pop']"
+Half Way Up The Stairs,Delroy Wilson,False,2JUzoMx4P65cGhK6GPMmEs,1,192040,2005,https://i.scdn.co/image/ab67616d0000b2735a7938092536cf43836c4cdc,False,40,"['lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+I'm On The Run,JennyAnyKind,False,4lUGicQDU46e9kRx7uoJVb,0,326747,2003,https://i.scdn.co/image/ab67616d0000b27389fd94d96276f5d11aea9baa,False,2,[]
+I Am,Devanic,False,3mbijIfF2ajv0pzuStDitY,0,336066,2008,https://i.scdn.co/image/ab67616d0000b27344782050ce544b5e21e1aac6,False,0,[]
+If I Can't Have You,Jackie Wilson,False,05a7jd2tDT3OEX6vEJuzpz,14,107466,1958,https://i.scdn.co/image/ab67616d0000b2738cc2718c11345833920086b2,False,57,"['chicago soul', 'classic soul', 'quiet storm', 'rock-and-roll', 'soul']"
+Medley: Father_ I Adore You/More Precious Than Silver,Cadet,False,2MUONiTNCj97ZBEszLHeal,0,267026,2001,https://i.scdn.co/image/ab67616d0000b273d03c6930acea7be2bbbbfa5d,False,3,[]
+Si Tu Me Dices Ven,Isabel Pantoja,False,4dHEG12zlB25nEpNVH0Hqw,19,220946,2006,https://i.scdn.co/image/ab67616d0000b273989030ddf8d2caa376c1e1fc,False,57,"['cancion melodica', 'copla', 'latin pop', 'pop romantico']"
+Xi Yang Wu Xian Hao,Eason Chan,False,4J1sHmqnc1lEwdiJEgqPOS,43,244253,2005,https://i.scdn.co/image/ab67616d0000b273e2158fb7cc1a380e17cf945f,False,71,"['c-pop', 'cantopop', 'mandopop']"
+Widescreen,Pinch,False,7ozcrMglgWO631VnJhTHWi,3,288397,2007,https://i.scdn.co/image/ab67616d0000b2737c9be79108dfe8bc1a536263,False,25,"['bristol electronic', 'classic dubstep', 'future garage', 'uk bass']"
+Dyna,Kanda Bongo Man,False,2CEgGE6aESpnmtfiZwYlbV,72,202613,2010,https://i.scdn.co/image/ab67616d0000b27366c3eb32692a0ae487079cf1,False,72,"['dance pop', 'pop', 'pop rap']"
+La Bamba,The Tokens,False,3zcu8bs8ALJnMXPGxYpO1n,30,153933,1994,https://i.scdn.co/image/ab67616d0000b27379d527d14aea026582db9af0,False,50,"['doo-wop', 'sunshine pop']"
+Largo,Angel Romero / The Academy of St. Martin in the Fields / Iona Brown,False,3n6U5tRvowSmxL9OPEGHfL,3,141720,2025,https://i.scdn.co/image/ab67616d0000b273010b9d8a9eeae6ce9d6f51ba,False,73,"['baroque', 'classical', 'early music', 'italian baroque']"
+Pichleh Janam Dee,XLNC,False,4K4uV4DFanGXnsxlewtPnQ,7,386520,1998,https://i.scdn.co/image/ab67616d0000b273848473aecfd6e7651be680ff,False,22,['bhangra']
+Watermelon Man,Johnny Kidd And The Pirates,False,6sgwnPOWaUKxPNGMQvHPbc,14,150693,1996,https://i.scdn.co/image/ab67616d0000b273ba677e8eb4ac290fd5b474dd,False,36,"['british invasion', 'rock-and-roll']"
+Controlando El Area,Daddy Yankee / Bounty Killer,False,0U5aQtx8yThFYRzy7VWXHA,11,212106,2008,https://i.scdn.co/image/ab67616d0000b2734a406251694eabef2e98ed70,False,88,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']"
+Boll Weevil,Blind Willie McTell,False,3TGcqUKpI8YH0cfgZGFCYH,1,118126,2000,https://i.scdn.co/image/ab67616d0000b273e4b71a038e4a52805446aa49,False,32,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'piedmont blues', 'traditional blues']"
+Gwithian,Luke Vibert,False,0UBLEd9ZGmHMWOeQOYnmxA,3,418786,2005,https://i.scdn.co/image/ab67616d0000b2737e60f1560d67e873663cd47a,False,35,"['acid house', 'drill and bass', 'intelligent dance music', 'trip hop']"
+Techno Cumbia,Selena,False,2tS0iNc2QTb3ADhlAydiDa,54,227440,1994,https://i.scdn.co/image/ab67616d0000b2730990f85ec999f7b2f71458c0,False,73,"['mexican pop', 'tejano']"
+Manila,Martin Denny,False,5bOQHpM0vS58rPII6B9BMx,17,146986,1959,https://i.scdn.co/image/ab67616d0000b273864c199d3b51cc0cfbbc5447,False,39,"['easy listening', 'exotica', 'lounge']"
+Decide,Chelsea,False,1WANCADiaxgKE80z87U2tc,7,181866,1979,https://i.scdn.co/image/ab67616d0000b2735d1d9a838d620249a9af185c,False,23,"['deep punk rock', 'mod revival', 'oi']"

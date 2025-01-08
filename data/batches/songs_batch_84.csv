@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+O Raaje,Sukhwinder Singh,False,1xzroPTWXjtEMIyZXkp4Bj,42,342815,2023,https://i.scdn.co/image/ab67616d0000b273591ddec9be8687d2f5f654f8,False,72,"['filmi', 'modern bollywood']"
+Celebration [Felguk Love Remix],Madonna,False,1veDitnKvgc5W8zhdRx4Lm,8,398146,2009,https://i.scdn.co/image/ab67616d0000b273eb6f49c6eea56c41f385ed5f,False,81,"['dance pop', 'pop']"
+Fade Away,Cama,False,6PaGNhPYoMQLIEnelsWvjX,0,226853,2009,https://i.scdn.co/image/ab67616d0000b2733d0cb9895dca06c8c3d78b4f,False,0,[]
+Xoanina,Susana Seivane,False,7gCdUfplRZJEsdTBy2qjrU,3,180706,2001,https://i.scdn.co/image/ab67616d0000b273f9f4db732d4a2272ac9c86ff,False,17,"['gaita', 'galician folk', 'spanish folk']"
+Fefita,Orquesta Aragon,False,12cH6nBi5pU7GOTXTTXINX,0,254400,1958,https://i.scdn.co/image/ab67616d0000b27372c3ef6b14a42ee9316ac61b,False,44,"['bolero cubano', 'cha-cha-cha', 'charanga', 'danzon', 'latin jazz', 'mambo', 'musica tradicional cubana', 'salsa', 'son cubano clasico']"
+She Can't Burn Me Now,The Del McCoury Band,False,08vNfyH5HEhh6Big8arvQ8,2,235652,2007,https://i.scdn.co/image/ab67616d0000b27373e064fb36219dafffc22e15,False,41,"['bluegrass', 'jam band', 'progressive bluegrass']"
+Soki Olingi Ngai,Wendo Kolosoy,False,3VmlaV2NQDUeHQ62MPyfhs,4,306200,1999,https://i.scdn.co/image/ab67616d0000b273435c81ba39a410b2a07530dd,False,21,['soukous']
+Colin Tries Standing,Zbigniew Preisner,False,4rMWOleiqB9RHO8vD8xYfW,18,53400,1993,https://i.scdn.co/image/ab67616d0000b27301a4a438e802801ad0483c3a,False,51,['polish contemporary classical']
+Memory In The Snow,Michael Gettel,False,1jCJ4Vt2H0Vf5YV8cfcb47,7,221866,1992,https://i.scdn.co/image/ab67616d0000b27398d5090fc882ceb30229f963,False,33,"['new age', 'new age piano']"
+Gone,Kanye West / Consequence / Cam'Ron,False,5RjbFGeWVsCpw8EcE8OrvZ,55,333293,2005,https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2,True,93,"['chicago rap', 'hip hop', 'rap']"
+Nomads Alive,Marco Beltrami,False,00pbyIwIjziaQMXBOQQun8,0,201573,2004,https://i.scdn.co/image/ab67616d0000b273276eaf80db44dceb12193795,False,47,"['orchestral soundtrack', 'soundtrack']"
+O Brother,Monty Are I,False,1DISs24GWPk3riGFSjISy1,4,279200,2006,https://i.scdn.co/image/ab67616d0000b273d6609a840f055a465dddff11,False,20,['rhode island indie']
+Jimmie's Travellin' Blues,Jimmie Davis,False,3X282BTrxSmbZUh0ShGAjz,0,178440,2024,https://i.scdn.co/image/ab67616d0000b2735b5caa503eaf750271d274eb,False,24,"['country gospel', 'traditional country', 'western swing']"
+Likua,Cabas,False,4PiPGtxRgJc7qLSWIzJXJf,3,256079,2005,https://i.scdn.co/image/ab67616d0000b273d3235a159697b655dd9411b0,False,54,"['colombian pop', 'latin pop', 'reggaeton colombiano']"
+The Dropsonde,Caspian,False,1YhDTxJGMIQbr7E49KkQwi,7,125066,2007,https://i.scdn.co/image/ab67616d0000b273dac53e6372e7722748ebd110,False,37,"['american post-rock', 'boston rock', 'instrumental post-rock', 'post-rock']"
+Asha,Asha Puthli,False,1Nds91TqWbDaVgPJPMr4fM,25,378306,2022,https://i.scdn.co/image/ab67616d0000b273d5d3421fa3d280bee4ea97ac,False,57,"['alternative r&b', 'indie soul']"
+Cent Mille Guitares,Line Renaud,False,6bNEw96ACPUeYbWnj9piZA,0,159773,2018,https://i.scdn.co/image/ab67616d0000b273c98ac548baa11e89f68da344,False,32,"['vintage chanson', 'ye ye']"
+What You Waiting For?,Gwen Stefani,False,0ny5zITdmyNwyTPVzRGscU,63,221226,2004,https://i.scdn.co/image/ab67616d0000b273f049fc9322f0c93646cdcc77,False,79,"['dance pop', 'pop']"
+Autumn,The Cat's Miaow,False,50U3Q3IpcssgKNafxMDeIc,3,50740,2024,https://i.scdn.co/image/ab67616d0000b2738e5a933c53d73c3d176031c2,False,35,['tape club']
+Forever Tonite,Thirst,False,5begmraOIrPhDegea4641u,0,284766,2004,https://i.scdn.co/image/ab67616d0000b2736ad119713f7bab37eb8a8e7a,False,0,[]
+Amor Maldito,Bambino_ Ivan Tirado,False,07qNJhABRD9KR5A5fhGD71,0,374935,1980,https://i.scdn.co/image/ab67616d0000b2737c84ab9cac6fd4395137b0db,False,17,[]
+Baby U Acting Greezy (Ringtone_ Sonnerie),Blingtones,False,0eWr8WeHxUfmWOji8dH6Ni,0,29126,2009,https://i.scdn.co/image/ab67616d0000b27310c3c78dc29e0fe6518e0a95,False,0,['ringtone']
+Don't Stop Dan,Checkers,False,7hFQVgbDbdNk9Df5wccFId,0,173013,2010,https://i.scdn.co/image/ab67616d0000b273c87021fc2c979cebe69a93ae,False,3,[]
+Finale: When Love Is Found/It Feels Like Christmas,Tiny Tim/Cast/Ghost Of Christmas Present/Scrooge,False,5RaM0JLFpup1TK0hcFVj7w,38,241493,2005,https://i.scdn.co/image/ab67616d0000b27322344edc74789f8aec99cf66,False,45,['christmas product']
+Quiero,Juana Molina,False,2i2fJZ80dAii4jEVsIwBcx,19,159781,2021,https://i.scdn.co/image/ab67616d0000b27377994f11c951ef57fe36b727,False,41,"['argentine indie', 'electronica argentina', 'experimental pop', 'folktronica']"
+Den Thelo Tipota,Natassa Theodoridou,False,3hPnAdKlb9gyTHmZXscHfV,18,233386,2009,https://i.scdn.co/image/ab67616d0000b27354205ed64d545ec5191107fd,False,52,"['entehno', 'greek pop', 'laiko']"
+Servin' Tha Fiends,Bone Thugs-N-Harmony,False,6ZEeCgzOmvLb6SWFipXy2N,19,232200,2000,https://i.scdn.co/image/ab67616d0000b273a8816025f91ebf4ce5d05b83,True,68,"['gangster rap', 'hip hop', 'ohio hip hop', 'rap']"
+Thank You,Jimmy Page / Robert Plant,False,0guj4Z5M9L4CXX9ji8VFLr,36,348066,1994,https://i.scdn.co/image/ab67616d0000b27399782a327dbfe1b2842c6288,False,43,"['album rock', 'art rock', 'blues rock', 'british blues', 'classic rock', 'electric blues', 'hard rock', 'progressive rock']"
+My Baby Don't Wear No Shoes,Roy Carrier,False,5jA7ecdY7lOdj49beivqmb,0,275813,2020,https://i.scdn.co/image/ab67616d0000b273157c73a4a5d45c8cfdcfe8f2,False,12,['zydeco']
+You Put a Spell on Me,Dave Graney & Clare Moore,False,2kIc10DrmuTDdmPJJH5QKR,0,248120,2006,https://i.scdn.co/image/ab67616d0000b273abf76a9fc1c082634c119388,False,7,['australian alternative rock']
+Los Pintores,La Charanga Rubalcaba,False,7qJHMYI7ef6hZQwTO2sJFn,4,218000,2004,https://i.scdn.co/image/ab67616d0000b273181b9b119d81ff6addbb0962,False,9,"['charanga', 'musica tradicional cubana']"
+Doesn't Matter Where You Are (Intocable),Aleks Syntek,False,0V1RrhwA0fhZyBIMdtOLYu,2,220478,2007,https://i.scdn.co/image/ab67616d0000b2730fa19bf3842f0c221f322b12,False,66,"['latin arena pop', 'latin pop', 'mexican pop']"
+Locked Away,The Gathering,False,1cVjKQvJBExcZJgWsH7i3X,15,203933,1999,https://i.scdn.co/image/ab67616d0000b273d3e69822476fbd64e2e10c42,False,43,"['atmospheric doom', 'dutch metal', 'gothic metal', 'gothic symphonic metal', 'symphonic metal']"
+Let's Stop Talkin' About It,Janie Fricke,False,5KFVmKGrMsb8TBs9S74akh,8,197000,1980,https://i.scdn.co/image/ab67616d0000b2733fe2721d76473af493a8c765,False,41,['classic country pop']
+Child Of My Kingdom,Arthur Brown,False,0ZAMifPYHTDsJi7Zvmdgll,6,422093,1968,https://i.scdn.co/image/ab67616d0000b2731ee16372b177d23bf6c1f684,False,27,['psychedelic rock']
+B Somebody,Nacho Chapado feat. Stephen Massa,False,2r9U8yOIEx8iWGlj13p9gO,0,384835,2013,https://i.scdn.co/image/ab67616d0000b273099a6d456dc5b30c55dc299f,False,22,['circuit']
+Ai Ni Bian Cheng Hen Ni,Kary Ng,False,6IUm4qXgSvChZVjjgoFbVr,32,208004,2006,https://i.scdn.co/image/ab67616d0000b273db80edee6730259efd1e8afb,False,49,['cantopop']
+I Wish I Had A Girl,Henry Lee Summer,False,6WoN3Qbw1FfayeJy09rFzR,34,264426,1988,https://i.scdn.co/image/ab67616d0000b27306c5c8152f5c15287d590bf6,False,25,['heartland rock']
+Sake In The Jar,Derek Bell,False,7q1Dg1rHSZZ5hjGF4I1N87,8,268333,1999,https://i.scdn.co/image/ab67616d0000b27380859947572b14fbfed657cd,False,36,[]
+Each Time (I Love You More),Jackie Wilson,False,4y1nxSWEdm3AG1KkjsFxcs,8,141826,1959,https://i.scdn.co/image/ab67616d0000b2738dc547bd19cc9f357f26a086,False,57,"['chicago soul', 'classic soul', 'quiet storm', 'rock-and-roll', 'soul']"
+Le Sacre du Printemps (The Rite of Spring)/Part One: The Adoration of the Earth - Introduction,Igor Stravinsky;Columbia Symphony Orchestra,False,0UjBoGSQkBNzzXVKbymSRa,0,178320,1962,https://i.scdn.co/image/ab67616d0000b2732ec0782e3faed8cb636ffbdf,False,52,['orchestra']
+Broken Record,Donna The Buffalo,False,2o3T3ytoIgAgSLh0I2SRY1,8,197146,2008,https://i.scdn.co/image/ab67616d0000b2735c8f43d118acbecaf79e5573,False,34,"['jam band', 'ny roots', 'progressive bluegrass']"
+On The Fast Track,Gerald Veasley,False,0DIS7kSR1YqpdKS3QYnWVk,2,235306,2001,https://i.scdn.co/image/ab67616d0000b273d22a2fb70a9b6dc84a947f18,False,15,['electric bass']
+The Darker Side,Lizzy Borden,False,6wlFXwrbOd3DIETwroDaNX,3,381186,2008,https://i.scdn.co/image/ab67616d0000b273a0ac8312fe626b77622956cf,False,29,"['glam metal', 'speed metal', 'us power metal']"
+Un jour aux courses: Who's That Man,The Marx Brothers,False,7wDRBupp8mGEnIBpx3ipZd,0,433333,1993,https://i.scdn.co/image/ab67616d0000b273463bcf52199bcc4e7fbb3165,False,13,[]
+Zodiac,Laurie Berkner,False,3PbO8w2SuwkG25SHjhvSld,8,61000,2015,https://i.scdn.co/image/ab67616d0000b27379ad7eb85f41e7a167e7eaba,False,59,"[""children's music"", 'kindie rock']"
+Why Do We Do?,Eric Champion,False,5MpQ4Fdc0KypCyXKDtzKzw,0,310733,1992,https://i.scdn.co/image/ab67616d0000b273ac01c5a35361a92780f9ab24,False,9,['deep christian rock']
+Memphis Til' Monday,Bob Cheevers,False,2EvPA5szwRdluSujW9U0Mv,0,240226,2006,https://i.scdn.co/image/ab67616d0000b27348b0567254947d99fe054edc,False,1,[]
+My Baby Likes To Shuffle,Sonny Terry,False,2e8zJ1dachmnEHODaGVLca,0,156360,2020,https://i.scdn.co/image/ab67616d0000b2736774ec131bcb66a090a55344,False,34,"['acoustic blues', 'blues', 'country blues', 'harmonica blues', 'piedmont blues', 'traditional blues']"
+Mr. De's Theme,Mr. De',False,4H7snEqVbTOdnv9PHMTfQ1,20,199871,2021,https://i.scdn.co/image/ab67616d0000b27351784d19ff7414319bf86592,False,16,['bmore']

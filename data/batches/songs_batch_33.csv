@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Sweet Disposition,The Temper Trap,False,1jUkHIMc7UaJQuzWe5Iop2,72,234360,2009,https://i.scdn.co/image/ab67616d0000b273752b549c65bf5333612f554a,False,70,"['indietronica', 'modern rock', 'shimmer pop']"
+Pon De Floor,Major Lazer / Vybz Kartel / Afrojack,False,4qN6CAXr5IIwGLmlPP2D2Y,40,213920,2009,https://i.scdn.co/image/ab67616d0000b273eba0ec0fea14c528667a0fd6,False,77,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']"
+Rollercoasting,Helen Love,False,0v11pWYPMCBVhiK2UdwgQK,0,171000,1994,https://i.scdn.co/image/ab67616d0000b2731b953e565d59cf0396e00ca2,False,19,"['welsh indie', 'welsh rock']"
+Celos,Obie Bermudez,False,4NBV9M6dRNVxtYVgffD71t,10,261026,2007,https://i.scdn.co/image/ab67616d0000b27308df9b529908358fd7642da8,False,56,"['latin pop', 'puerto rican pop']"
+Stormy Weather,Quincy Jones,False,0C2eNMoVnCFmMAhFfZg2A3,33,228826,2024,https://i.scdn.co/image/ab67616d0000b2734bf0cc9913e03e083ca335ce,False,88,"['adult standards', 'easy listening', 'lounge']"
+Les choses,Edgar Bori,False,6OFlxFSPLmXhUm4zpqrfgP,1,311826,2000,https://i.scdn.co/image/ab67616d0000b2736ebed4213ff36bcb94141d43,False,15,['auteur-compositeur-interprete quebecois']
+Maria ( From The Sound Of Music),London Theatre Orchestra,False,1E2PoSqR7nPJovpinSchUE,0,160706,1997,https://i.scdn.co/image/ab67616d0000b273e04ef26890291465e8ee176d,False,4,[]
+Zero M2,Benga,False,3NAUJaNgHG2MiM1JFrWQyx,13,233146,2008,https://i.scdn.co/image/ab67616d0000b2735933878c0d6741e71f358331,False,35,"['classic dubstep', 'uk bass']"
+Vanhapoika-Severi,Esa Pakarinen,False,0DmA9lDd0dyvgG11gB25RT,0,152573,2008,https://i.scdn.co/image/ab67616d0000b27312c531dffcff09b4dd184c0e,False,36,"['classic finnish pop', 'classic iskelma']"
+Dream Baby Dream,Black Tambourine,False,67TZFKNl1LVcFxmjH5Pj2J,28,236720,2009,https://i.scdn.co/image/ab67616d0000b2738a114f23c20697950e0ecc5a,False,32,"['c86', 'shoegaze', 'tape club', 'twee pop']"
+Simple Twist Of Fate,Bob Dylan,False,3wAX3qn53iQUFE84hpfeen,54,256800,1975,https://i.scdn.co/image/ab67616d0000b27372ca15b8637acbc7d15ff5ba,False,78,"['classic rock', 'country rock', 'folk', 'folk rock', 'rock', 'roots rock', 'singer-songwriter']"
+Catch Me,Nikki Fletcher / Tim Hughes / Various Artists,False,3XRjHLPcYGAqFYgI2mCEvc,1,220480,2009,https://i.scdn.co/image/ab67616d0000b27390c75c038c966e6032e86280,False,31,"['german worship', 'uk worship', 'world worship']"
+Hillbillies From Outerspace,The Vaughan Brothers,False,36Vu50SqfPituVQp9uH4aM,29,225160,1990,https://i.scdn.co/image/ab67616d0000b2731b50cc6a7cc81185d0a0a45d,False,38,"['blues', 'blues rock', 'country rock', 'electric blues', 'modern blues', 'southern rock', 'texas blues']"
+Wings Of Love,Zagar feat. Underground Divas,False,2fkpUKkp2hwiahLri9Tlr6,25,255282,2021,https://i.scdn.co/image/ab67616d0000b273e1a5ba1befbb69ba9818f24a,False,25,"['hungarian folk', 'hungarian rock', 'magyar alternative']"
+Betrayal Is A Symptom,Thrice,False,4H0OUHvoZ8X81wzwscMQqK,26,169733,2002,https://i.scdn.co/image/ab67616d0000b273d2e411b5467a01ef272e92ea,False,57,"['post-hardcore', 'screamo']"
+When We Dance,Mariano Yanani,False,2CuDb5LipH6Lb2cbJh048U,0,239187,2005,https://i.scdn.co/image/ab67616d0000b273e89f2ae48ed3320d3a4a678c,False,19,[]
+My Mind's Eye,Small Faces,False,1L4s8ba8g6GDzPZpu7OHAD,20,121026,1967,https://i.scdn.co/image/ab67616d0000b273621c0f89e728692450f36a2c,False,46,"['british blues', 'british invasion', 'protopunk']"
+Fallin in Love Again,Ann Hampton Callaway,False,4t5WiywthpxuAZdMlGwF8p,0,223066,1997,https://i.scdn.co/image/ab67616d0000b273772cba5e01f0f1a51a2e0beb,False,44,['contemporary vocal jazz']
+Manies Manigances,Maurane,False,3sfvPbXUGpoZIT4LgTIB8s,1,172066,1996,https://i.scdn.co/image/ab67616d0000b27326423b9e4e44c1bd6028c570,False,40,"['chanson', 'french pop']"
+13 jours en France,Francis Lai,False,7rh9O641WacZb4wvukJD4j,25,246426,1968,https://i.scdn.co/image/ab67616d0000b273fae6f1e5c293ec1e6151a957,False,60,"['classic soundtrack', 'french soundtrack', 'vintage french electronic']"
+Romantic Rights (Jesper Dahlback Remix),Death From Above 1979,False,7b9lhG8mMqPE1xa3TGayyl,3,344840,2005,https://i.scdn.co/image/ab67616d0000b2732f1e7313bf04dc2dc4baf449,False,48,"['canadian rock', 'dance-punk', 'garage rock', 'indietronica', 'modern alternative rock', 'modern rock']"
+Resolutions from The Long Day Closes,Carl Davis,False,5iREuLytC00Yqyub5JTww3,1,127400,1999,https://i.scdn.co/image/ab67616d0000b2737d90885990145c8eb7b4bedd,False,40,"['late romantic era', 'operetta', 'victorian britain']"
+Scandalon,Michael Card,False,0q2XlZERRzTJnfAeDfd1BZ,15,237360,1985,https://i.scdn.co/image/ab67616d0000b273069ff5889d8cc6f51f558931,False,44,[]
+Care,Sizzla,False,0WdBYprzZbdQseOTROiwhX,1,254360,2013,https://i.scdn.co/image/ab67616d0000b2737bcffbe09dd0358e9708a177,False,57,"['dancehall', 'reggae', 'reggae fusion']"
+Outro,Tunsi,False,4DB4Ym8pyn94P8RHyTJy8r,0,71266,2003,https://i.scdn.co/image/ab67616d0000b2735f1e33b5a531b2759bbb3413,False,13,[]
+Around The World,Roger Williams,False,6Lq5PEtFeFnS9lpXYCamey,18,185506,1989,https://i.scdn.co/image/ab67616d0000b273dc5fc71e82666a1dc039e127,False,44,['easy listening']
+Rowena,Loudon Wainwright III,False,10Aj6YRJkUVfAEI00nIPPR,0,152520,2009,https://i.scdn.co/image/ab67616d0000b273d0b874429ada5758240ee4d5,False,45,"['folk', 'singer-songwriter']"
+So Many Reasons,20/20,False,6CwPlL6ziEY1fYRGpxnjiJ,0,207160,1998,https://i.scdn.co/image/ab67616d0000b2731e777c1e632347b0ff9d2d8c,False,17,"['power pop', 'underground power pop']"
+Locust Reign (Live in California),Converge,False,5XZ6QmRPeyh8ncom13f6Qv,3,100000,2003,https://i.scdn.co/image/ab67616d0000b2731021fe6cd4ee926ef9ad9593,True,44,"['boston hardcore', 'chaotic hardcore', 'mathcore', 'metalcore', 'post-hardcore', 'post-rock', 'sludge metal']"
+Caja De Cerillas,Johannes Linstead,False,7EwfRCHui06oWArgfszNIz,4,298106,2000,https://i.scdn.co/image/ab67616d0000b2738bdf3b47b40411da3f89ddce,False,41,['rumba']
+Spann's Boogie,Otis Spann,False,37spgdiMxCpickUiFPX7gX,2,133129,1964,https://i.scdn.co/image/ab67616d0000b273254ffd525317a361273f7905,False,35,"['blues', 'boogie-woogie', 'chicago blues', 'jazz blues', 'piano blues', 'traditional blues']"
+Anyway_ Anyhow_ Anywhere,The Who,False,7u8Z9Y3VFMAELQT1nEchtL,29,163979,1965,https://i.scdn.co/image/ab67616d0000b27334658b1827b64a1d4d5a5ca9,False,68,"['album rock', 'british invasion', 'classic rock', 'hard rock', 'rock']"
+Uniform (Scripka Mix),Inspiral Carpets,False,1uaGBGexayYIk5ZR7gASEx,0,232840,2023,https://i.scdn.co/image/ab67616d0000b27380b0096ebda79ab18a49b53c,False,43,"['britpop', 'madchester']"
+Sin Ti,Yuridia,False,1plaat81HURTTI0qHVfw7Z,32,212973,2007,https://i.scdn.co/image/ab67616d0000b273dce6ae77591136372fe70e74,False,76,"['latin arena pop', 'latin pop', 'mexican pop']"
+Intensity In Ten Cities,Embrace the End,False,7jNvVC4yfKfDoThrDpOpad,4,248800,2008,https://i.scdn.co/image/ab67616d0000b273c461fc0df6f577e26e68955d,False,10,['brutal deathcore']
+The Arms That Won't Let Go (The Pillow Song)/Great Is Thy Faithfulness,Al Denson,False,185mL79TV8xGfTbrlpeMFq,0,297613,2002,https://i.scdn.co/image/ab67616d0000b273d655172f2c34da504437fb62,False,15,['deep christian rock']
+Fly High Michelle,Enuff Z 'Nuff,False,6wUR8lnkxuQUeHa0rJOolR,32,230826,2006,https://i.scdn.co/image/ab67616d0000b273e6c7c68ae14224397681ca6c,False,32,"['glam metal', 'underground power pop']"
+Verano traidor,Vilma Palma e Vampiros,False,54b9f1JmWzssvXIvBogR2u,54,411947,2003,https://i.scdn.co/image/ab67616d0000b27315a196d8d338180249f6b2b0,False,66,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol']"
+En La Soledad,Tito Rodriguez,False,3lzRy7MtZk8yp3pNDjEcMT,2,225960,2014,https://i.scdn.co/image/ab67616d0000b273f19664d791e9825e4c6ed474,False,43,"['charanga', 'latin jazz', 'mambo', 'salsa', 'salsa puertorriquena']"
+One Woman Man,Dave Hollister,False,6hdsNoZWIjPSjxcOnsjIxj,46,272053,2006,https://i.scdn.co/image/ab67616d0000b273de9d9f24ab4c58c98c456c7f,True,42,"['contemporary r&b', 'new jack swing', 'r&b']"
+Fish,Sportsguitar,False,3Ju15O6xwECy2q0JvYgP4q,0,231013,1998,https://i.scdn.co/image/ab67616d0000b273354bb489f845c82c4024037d,False,3,['swiss rock']
+Stranger,True Believers,False,4gDP4HZwDfWlX578o7BzmD,1,203133,2007,https://i.scdn.co/image/ab67616d0000b273a9248d01935ca29380e52ded,False,3,[]
+Meet Me In The Bathroom,The Strokes,False,08l9WKDuRyGeStQ9ojTlFh,50,176160,2003,https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f,True,78,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']"
+Wait Til You See My Smile,Alicia Keys,False,6JAzU3Vy6uxrnh2zAd0byh,35,240213,2009,https://i.scdn.co/image/ab67616d0000b273fe6a98e875958c7d7080584e,False,81,"['neo soul', 'pop', 'r&b']"
+Children Of The Revolution,Killers,False,0NVU6G7rQemKqidCZePwum,15,218773,2013,https://i.scdn.co/image/ab67616d0000b2736763400ae34d26249b7b28d5,False,15,[]
+I Can't Break Away,Sam Baker,False,2ZzPOdapjlP5sOQdJtHmee,0,147711,1968,https://i.scdn.co/image/ab67616d0000b273fca8606b040b8e426ec635f3,False,8,[]
+Adnans,Orbital,False,6fAT5ynJJEUkzqkZLvPIFU,21,521573,1996,https://i.scdn.co/image/ab67616d0000b2738582db75b4e80ca0077697bc,False,49,"['big beat', 'breakbeat', 'electronica', 'intelligent dance music', 'rave']"
+Southbound Blues,John Hammond,False,238VFh2RVdKzE5SRuW79UG,0,196837,2023,https://i.scdn.co/image/ab67616d0000b273ed9fe3866b508819ea038058,False,12,"['boogie-woogie', 'jump blues']"
+Band Intro/ Pila Song Intro,Max Stalling,False,75q6JVXhCG9UpfJyQdqatk,1,37773,2007,https://i.scdn.co/image/ab67616d0000b273942b41a0ff2956181f24d795,False,29,['classic texas country']
+Incide,Dark Fortress,False,2RhjcWQlUPQUAtyU8IUhlu,2,320533,2006,https://i.scdn.co/image/ab67616d0000b2733ff9b25dbc08996a976b675b,False,26,"['black metal', 'german black metal', 'melodic black metal']"

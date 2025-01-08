@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+In This Windy Old Weather,The Clancy Brothers;Tommy Makem,False,26u2YNaSlf6woOyIfcuYKq,2,186533,1967,https://i.scdn.co/image/ab67616d0000b273d42ec1db0f59045343c12f40,False,45,"['irish folk', 'irish pub song']"
+The Obsession,The James Taylor Quartet,False,3oUaWRnQFsoGmjIQH9KEh5,4,285866,2000,https://i.scdn.co/image/ab67616d0000b273747f16520caebd2bf26532f2,False,34,"['acid jazz', 'brit funk', 'medway sound']"
+A Good Life,Joe Grushecky,False,2GHvsHZmuT8Kfjn77ALpbc,2,231573,2009,https://i.scdn.co/image/ab67616d0000b273224de17e2effbaa5baf167fe,False,7,"['heartland rock', 'pittsburgh rock']"
+Cop It,MIMS,False,5vmZaPaRHzpvaAclGZbsgB,16,181226,2007,https://i.scdn.co/image/ab67616d0000b273ef4e6a5820969469d9878b35,True,47,['pop rap']
+You Move Me,Rick Astley,False,2H8A6GdlmOcG3iahhOmZNZ,29,222533,1987,https://i.scdn.co/image/ab67616d0000b27315ebbedaacef61af244262a8,False,68,"['new romantic', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']"
+Can I Get A Witness,RUN-DMC,False,1NlnWXVZFhA1C6ddaW0dnG,13,216666,1993,https://i.scdn.co/image/ab67616d0000b273ebc26120d1812653b920e3b3,False,68,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']"
+For The Singer Of R.E.M.,fIREHOSE,False,1PWS6Q5mDzPOoUqMxjp40U,17,200226,1987,https://i.scdn.co/image/ab67616d0000b273bd992c8bb42c952580a58022,False,30,"['gbvfi', 'post-hardcore']"
+Tumble Down,Burning Spear,False,7JzsgEusiMF3UkGvmhjYKo,10,494654,2002,https://i.scdn.co/image/ab67616d0000b27328a71bcf3dbb5f05eaca3706,False,52,"['dub', 'reggae', 'roots reggae']"
+Ballad In Urgency,The Black Crowes,False,4J8kzGHh4BlsoxawLEl6TL,23,339200,1994,https://i.scdn.co/image/ab67616d0000b273fd80dcd6e6fa06d0603d64f3,False,61,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'jam band', 'rock', 'southern rock']"
+On Fait Ce Qu'on Peut,Uman,False,0s5YKG3akd0EvL5BuPQpeC,3,212973,2007,https://i.scdn.co/image/ab67616d0000b273dc0ce448a78a0db02783d204,False,28,"['dancehall guyanaise', 'french reggae']"
+Electro nicpig,Electronic pig,False,7IIQhNYGKJB3Kojgp5IbL5,0,218679,2005,https://i.scdn.co/image/ab67616d0000b273740b39a7ab937faaae6f55be,False,0,['industrial hardcore']
+Mermaid,Grayson Capps,False,2wsQVsg6T03Rk4WIhFvHQv,4,245106,2007,https://i.scdn.co/image/ab67616d0000b2732d93f2e78588ed008bc9413d,False,27,['new orleans americana']
+Come Out Into The Open,Neil Innes,False,517jQNhuyrxfH4uvwXWG1l,1,222826,1995,https://i.scdn.co/image/ab67616d0000b2736b380d74ed6bdc3c56252bc3,False,13,[]
+Take The Veil Cerpin Taxt,The Mars Volta,False,76hTx8SeM6aGvDBSwcKAxX,35,521666,2003,https://i.scdn.co/image/ab67616d0000b273f32a4535c09f7cae822bd695,False,51,"['el paso indie', 'garage rock']"
+Irresistible,Jessica Simpson featuring Lil Bow Wow,False,20NKCc2ag4FT1DLk0C2oT5,36,194026,2001,https://i.scdn.co/image/ab67616d0000b273339504a4fb243cf3c2477027,False,53,"['dance pop', 'post-teen pop']"
+I Gave You Everything,Irma Thomas,False,0XaxnxSusPxZiClQ6koEgg,3,143200,1990,https://i.scdn.co/image/ab67616d0000b273c5c8dcacc1fdd8c2bf00eed8,False,51,"['classic soul', 'louisiana blues', 'new orleans blues', 'new orleans soul', 'southern soul']"
+Burma Diginin Eger Er,Grup Knar,False,4n0I3jKHxbY6BHHW6u3exF,1,106632,1999,https://i.scdn.co/image/ab67616d0000b2734c59c062a7decb61b0bc0687,False,10,['duduk']
+Zi You Zi Zai,Stephy Tang,False,1uSBpsXvP13rqytL23h6ZU,5,203035,2006,https://i.scdn.co/image/ab67616d0000b273205b8edca2b557d4fd75d216,False,47,['cantopop']
+1. Allegro,Eduardo Fernandez / Norbert Blume / English Chamber Orchestra / George Malcolm,False,5JMfDTX2fVTr2j4n2VYKPc,11,227866,1987,https://i.scdn.co/image/ab67616d0000b273449e9558a67bec1b28e80fda,False,73,"['baroque', 'classical', 'early music', 'italian baroque']"
+Il Y A Des Anges,Line Renaud,False,3mr8bKzKn3skuuVHs1vj9C,1,140733,1994,https://i.scdn.co/image/ab67616d0000b2737aeade68ff65403b06e73d7b,False,32,"['vintage chanson', 'ye ye']"
+Don't Upset The Rhythm (Go Baby Go),Noisettes,False,6Pfp47eUtnj2D1LMMtmDne,42,228786,2009,https://i.scdn.co/image/ab67616d0000b2735d678fdf0b3ca742bb2d58d7,False,49,['british soul']
+Stop! [Demo],Jane's Addiction,False,1UrdaiA8c6a1fMdfgqOfBu,3,240013,2009,https://i.scdn.co/image/ab67616d0000b273720c982c9553bdcef64a1c59,False,55,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'grunge', 'nu metal', 'permanent wave', 'rock']"
+I Put A Spell On You,Maysa,False,4okKPWdIaebYnXIqGr3OhJ,3,312093,2010,https://i.scdn.co/image/ab67616d0000b273893581b3e1efc693c9074d65,False,39,['smooth soul']
+L4-L5,Amilcar,False,3BvEjz8PuBp8c9NOu8vPaE,0,277708,2021,https://i.scdn.co/image/ab67616d0000b2732648617ca280eb34bbfcc8d7,False,4,[]
+Si Tu Veux Le Savoir,Marc Lavoine,False,7bPuacxdMkKBWnyTfBRQMx,13,208226,1985,https://i.scdn.co/image/ab67616d0000b273060b57fc4508ac71bf0fc55c,False,55,"['chanson', 'french pop']"
+Alright_ Alright_ Alright,Mungo Jerry,False,0nc2E5PBnwVyE8T0bWIJBx,36,167040,1970,https://i.scdn.co/image/ab67616d0000b2739c71f323289b18028b82b822,False,57,"['british blues', 'classic uk pop']"
+Estar Junto A Ti (Angel),Yuridia,False,0z1qh2uwDN61azOT5nvf6S,26,265933,2006,https://i.scdn.co/image/ab67616d0000b2733f9ae64d396d0dbaf9627468,False,76,"['latin arena pop', 'latin pop', 'mexican pop']"
+Speak Softly,Claw Hammer,False,4fV3ww97Hbwa573kkAbaW7,0,293866,1993,https://i.scdn.co/image/ab67616d0000b273aaeed8a6e8d44b0d8e1116ff,False,2,[]
+Bad,Tomash Gee,False,3fN36bwAZW7bQY5Voqd8Im,0,374308,2006,https://i.scdn.co/image/ab67616d0000b2733b7ac0c8539a489a16eef442,False,2,"['deep hardtechno', 'schranz']"
+Le Pull Over,Gloria Lasso,False,1fm2AA5aKwIA0To9bMilQD,0,162560,2008,https://i.scdn.co/image/ab67616d0000b2731f3f3393c42d74e9f811e43f,False,33,['cancion melodica']
+No Buts - No Maybes,Professor Longhair,False,6ZnmD6VObfyhXoWGLpyCYh,0,133253,2012,https://i.scdn.co/image/ab67616d0000b2738484bb8bfc6ff565def45b7e,False,39,"['blues', 'boogie-woogie', 'louisiana blues', 'memphis blues', 'new orleans blues', 'new orleans soul', 'piano blues', 'traditional blues']"
+Wake Me Up,Richi M.,False,3cTQbJUqD6SzWQuZbVxA7I,23,237200,1998,https://i.scdn.co/image/ab67616d0000b273c94dbd73d94639c01babd2d4,False,32,[]
+Crow Killer,Unearth,False,5E5kEOMqy6arT1Ns7tU6WN,21,197386,2008,https://i.scdn.co/image/ab67616d0000b27389319a3ea95fc4c1adacd58e,False,46,"['boston metal', 'deathcore', 'melodic metalcore', 'metalcore']"
+Cattle Call,Slim Whitman,False,4RHY3ihc9L2Lv040mrXweR,18,152280,2009,https://i.scdn.co/image/ab67616d0000b2739613353e3602e79e06508fe7,False,37,"['cowboy western', 'yodeling']"
+Three Wheel Cadillac,Foghat,False,53iscEXqG7SiqymNyAdJRV,0,235760,2017,https://i.scdn.co/image/ab67616d0000b273c823ad229333d5d270a92dd1,False,53,"['album rock', 'blues rock', 'british blues', 'classic rock', 'country rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'soft rock']"
+A Simple Desultory Philippic (Or How I Was Robert McNamara'd Into Submission),Simon & Garfunkel,False,4cTtrlihM7JwePn6zY9nVR,17,137866,1965,https://i.scdn.co/image/ab67616d0000b273e651ab27a297e4ff33c69491,False,70,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter', 'soft rock']"
+Voices Of Other Times,Brian Auger's Oblivion Express,False,5pZ6sugH6Ekg4yaneJ9yEk,5,450813,2022,https://i.scdn.co/image/ab67616d0000b273a6601a25f141080e8ec16fdf,False,19,['jazz rock']
+Come On (Pt. III),Stevie Ray Vaughan And Double Trouble,False,38zQiwO1f8l7wEuCJAp1TC,27,273653,1984,https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4,False,63,"['album rock', 'blues', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'instrumental rock', 'rock', 'texas blues']"
+Dance,Tim Hughes,False,4vRdAST6SNT2DHaBcrINxT,8,268293,2009,https://i.scdn.co/image/ab67616d0000b27376ce46a5ea26cdac824ebc48,False,43,"['christian music', 'uk worship', 'world worship']"
+The Mission,Stephen Marley / Damian Marley,False,5RP3UqlV70vcFvyuZvlZsA,28,273906,2008,https://i.scdn.co/image/ab67616d0000b273c251a3cd3b8e764e2b904d36,False,62,"['reggae', 'roots reggae']"
+Old Shep,Red Foley,False,1EcZIKPxycGolcf0nvEvqf,25,196293,1991,https://i.scdn.co/image/ab67616d0000b273e620e5a233c1fb08e5da43fd,False,36,"['classic country pop', 'western swing']"
+Me Recuso,Gal Costa,False,6NmBeJppNNP8tV0IIo7nU8,19,252066,1977,https://i.scdn.co/image/ab67616d0000b273a5e485e18fcfb94b91967ad8,False,65,"['bossa nova', 'mpb', 'tropicalia']"
+Vals '89,Manolis Famellos & I Podilates,False,6daeSsstIhV2JocLBvGskx,0,163560,1996,https://i.scdn.co/image/ab67616d0000b27304220f82cbb5e1b695ce6325,False,5,[]
+Lametavolante,Facto Delafe y las flores azules,False,3wZ2jZFg6KFJUAtoeVFV7p,6,127800,2005,https://i.scdn.co/image/ab67616d0000b27349c1036c63dc98d394c6ffbd,False,31,['spanish indie pop']
+Ammohostos,George Dalaras,False,20BQFWyRGQz4dUk5NLEl6r,4,164768,1992,https://i.scdn.co/image/ab67616d0000b27318a4103d2d59a3e1c6eac60e,False,48,"['entehno', 'greek guitar', 'laiko', 'rebetiko']"
+Un Petit Cabanon Pas Plus Grand Qu'Un Mouchoir De Poche,Darcelys,False,73bwdHAmuhfg0vUoUIUwzF,0,151600,2005,https://i.scdn.co/image/ab67616d0000b273b5037344642131725829d057,False,7,['vintage chanson']
+Deep Blue Sea (Daniel Rossen home recording),Grizzly Bear,False,5cqR5rFcJwP2NVw1RX8Lfu,15,351506,2007,https://i.scdn.co/image/ab67616d0000b273a028088e92c9e328d53dc8ce,False,56,"['art pop', 'baroque pop', 'brooklyn indie', 'indie rock', 'neo-synthpop', 'new weird america']"
+Ghost of the Ocean (Live),Uriah Heep,False,1OLzSr9pDnV0NaKfUD6NZg,0,216280,2010,https://i.scdn.co/image/ab67616d0000b273e57fd65ed530e992ac2a5a26,False,51,"['album rock', 'blues rock', 'classic rock', 'hard rock', 'progressive rock', 'symphonic rock']"
+In the Wordless Chamber,Emperor,False,5p6YFG4gdwixnO86OmLk99,19,312520,2001,https://i.scdn.co/image/ab67616d0000b273e0cde0914cbec247b573fdee,False,43,"['black metal', 'metal', 'norwegian black metal', 'norwegian metal', 'symphonic black metal', 'symphonic metal', 'technical black metal']"
+Maria Morena,Andr\xc3\xa9 Verchuren,False,6JttEcqK8SIMLoYVpF0Bbb,0,180066,2003,https://i.scdn.co/image/ab67616d0000b273420f6042e346fde1c3232f02,False,0,[]

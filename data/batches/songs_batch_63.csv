@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Believe,Saga,False,2BImG5CkFgk3Kh0bLR53G6,40,187899,2020,https://i.scdn.co/image/ab67616d0000b273ce8060de53c335064153f7bb,False,27,[]
+Cremona (Instrumental),Vrse Murphy,False,1IPB6VVJLSwPm6e1d0rJ9X,0,240586,2001,https://i.scdn.co/image/ab67616d0000b273ce59fdea3185e99d9f5bcb7f,False,0,[]
+La Vie Par Procuration,Jean-Jacques Goldman,False,433cfaFqkZ6dfF1zRCitjt,47,253600,1985,https://i.scdn.co/image/ab67616d0000b273faabb26835b3326341ded4a7,False,64,"['chanson', 'french pop']"
+Loaded Gun,C.C. Adcock,False,37HrIjiziY7MeT3T9O5vU8,22,169320,2004,https://i.scdn.co/image/ab67616d0000b273b9546eee6a2bb077aee4976b,False,23,"['swamp rock', 'zydeco']"
+Beautiful,Paul Glazby,False,5NnDI7AIGCXL1ofJOFwykJ,2,240000,2024,https://i.scdn.co/image/ab67616d0000b273e12d668e7bc6ae6fa5ad8101,False,19,['hard house']
+Wing,Patti Smith,False,6jqw8ayDwgGEpM2tjWF2p8,22,293253,1996,https://i.scdn.co/image/ab67616d0000b273f7a76f17d1195b0cc3a6d64c,False,59,"['art punk', 'permanent wave', 'protopunk', 'singer-songwriter']"
+Nothing But The Best,White Heart,False,0iuxoe14otys1DnItdfchP,5,222053,1991,https://i.scdn.co/image/ab67616d0000b273361d0911e84f4e7469b8b8f3,False,30,"['christian metal', 'deep christian rock']"
+Come On-a My House,Barbara Lusch,False,14oxcpGYu0cq7eyG0AhPJD,1,214320,2004,https://i.scdn.co/image/ab67616d0000b2735d780ac1e7ff1b66ed1559e1,False,2,[]
+Now I Got A Woman,John Mayall,False,65G9H3VNFY38xnImUGpEdv,2,264680,2007,https://i.scdn.co/image/ab67616d0000b2732f14296e825c1b55e69dcd1e,False,49,"['blues', 'blues rock', 'british blues', 'british invasion', 'electric blues', 'traditional blues']"
+Outro,Attack Attack,False,6To0HanrbqEoAvMCbY6odv,21,83973,2008,https://i.scdn.co/image/ab67616d0000b2735236fd81ac508183b620fede,False,50,"['melodic metalcore', 'metalcore', 'screamo', 'trancecore']"
+Nothing's The Same,Gary Moore,False,4JUg5TewzYIaK7PLyTX8Id,32,306666,1992,https://i.scdn.co/image/ab67616d0000b273dcea8583b8b747a70e9f4b46,False,60,"['blues rock', 'british blues', 'electric blues']"
+Stolen Pills,Spiral Stairs,False,6fuDRyku7gEgQcPSYESYu4,0,147043,2009,https://i.scdn.co/image/ab67616d0000b273862ca79e0c195fc23adbae4e,False,4,['lo-fi']
+En fet man,Ronny Eriksson,False,7jntarcV5koiCi666q1lA5,1,209240,2007,https://i.scdn.co/image/ab67616d0000b273367fcb12cf2950827d73a5d6,False,11,[]
+Bush,David Banner,False,6Rbz5AfRn414mVnpWm4uW7,7,180546,2003,https://i.scdn.co/image/ab67616d0000b273a7c80c7b5e369082524d192a,True,53,"['conscious hip hop', 'crunk', 'dirty south rap', 'mississippi hip hop', 'southern hip hop']"
+For The First Time,June Hutton,False,4cmrO7Jny5GphqiTLoDO3y,0,156466,2020,https://i.scdn.co/image/ab67616d0000b2730d9a569c7e0fd4e5f2ef8de6,False,0,[]
+The Devil,The Rapture,False,4OzAupDTm6D0EHFTox0bgd,9,272560,2006,https://i.scdn.co/image/ab67616d0000b27329d12772598754e2102e7614,False,47,"['alternative dance', 'dance-punk', 'electrofox', 'electronica', 'indie rock', 'neo-synthpop', 'new rave']"
+Shining,Ice,False,3hpmQevrFTVq44ueiMCVXD,1,421653,2009,https://i.scdn.co/image/ab67616d0000b2733ecdb92a75f50af22d8662c5,False,4,[]
+Pee Wee's Boogie,Pee Wee Crayton,False,6oOiEfcluc9cwiNIkMMlOr,0,168493,2020,https://i.scdn.co/image/ab67616d0000b2737ae7f0368d786bfbbca33e5d,False,31,"['blues', 'texas blues', 'traditional blues']"
+Friend Or Foe,Adam Ant,False,2TVutF2Xy9R6PLVQ5jEEUs,27,203053,1982,https://i.scdn.co/image/ab67616d0000b2735f8173d96f7bb0067d523072,False,42,"['new romantic', 'new wave', 'new wave pop', 'permanent wave']"
+Can't Happen Here,Rainbow,False,6c6PblxgdrYEULpt65p8tO,33,297266,1981,https://i.scdn.co/image/ab67616d0000b273cf5e7b3e0afd166871ce2d8c,False,61,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']"
+Gimme Legs,The Chap,False,2tDs2wcObXVPDj7ETLqXh2,0,213880,2010,https://i.scdn.co/image/ab67616d0000b273f85acc0c5aad4f9d72e18433,False,11,"['british experimental', 'experimental pop']"
+Now U Got It,J Bostron & Beretta,False,61uwd6e9y2yHiK8fJ0ay7Y,0,320948,2010,https://i.scdn.co/image/ab67616d0000b273a6346fb03332aa026bdc03bd,False,0,[]
+Led By the Master's Hand,The Del McCoury Band,False,1vJNNCQt5CDayZZFv47PFv,1,177400,2006,https://i.scdn.co/image/ab67616d0000b273e1142fbcfbfcbb2bf9b8bf82,False,41,"['bluegrass', 'jam band', 'progressive bluegrass']"
+Moonlight In Vermont,Walter Jackson; Arranged & conducted by Riley Hampton,False,3KfvTWpZv3h1mEFyVyf3k1,1,210906,1996,https://i.scdn.co/image/ab67616d0000b273ef6530c3e488e21183b93338,False,0,[]
+I've never been so Lonely,Mark Ashley,False,2cK9CYmQsYgvaaDVTFhhha,11,224957,2012,https://i.scdn.co/image/ab67616d0000b273e3ad07748a944b1bd20f0cf6,False,31,['new italo disco']
+Feelin You,DJ Spinn,False,7j6NLGVKlzRwpeZ2CUaZna,14,313160,2008,https://i.scdn.co/image/ab67616d0000b273f54e262fa627d6b14b735e05,False,30,"['footwork', 'ghettotech']"
+This Time I Know,Theodis Ealey,False,2GLbUTiEEkrvsvMDh8zuM1,0,227453,2005,https://i.scdn.co/image/ab67616d0000b2738d402a8359a51ed846d59d0f,False,31,"['southern soul', 'southern soul blues']"
+He Jiu Bi Hun,Hacken Lee,False,3SDzq2Et4UfJkDkJyI6X97,41,191640,2007,https://i.scdn.co/image/ab67616d0000b27311b7b4ed1011bd36402ed3d2,False,53,"['c-pop', 'cantopop', 'classic cantopop']"
+Follow Your Dreams (The Plan Album Version),Raze,False,0dfncGnaBY81dfwXkyJmbr,7,196586,2000,https://i.scdn.co/image/ab67616d0000b2739b8937bc6f85bc9aa4eafcd3,False,10,[]
+O Hiroteros Ehthros Mou,Peggy Zina,False,5Ii9jIWpCJPcL0mLIE6AKj,4,200388,2009,https://i.scdn.co/image/ab67616d0000b273b21316964cb2b8df19f9abba,False,46,"['greek pop', 'laiko']"
+Don't Leave,Everyday Sunday,False,1EGDnBDjENMyOnr7sGccVK,4,269733,2002,https://i.scdn.co/image/ab67616d0000b273e132b94a859b7c4e31039407,False,25,"['christian alternative rock', 'christian punk', 'christian rock']"
+Midnight In Memphis,J.J. Cale,False,2OXDdCck0bMDIUCpaIMBJS,34,263960,1997,https://i.scdn.co/image/ab67616d0000b27371b408ec24bb903b363aedd6,False,64,"['blues', 'blues rock', 'folk rock', 'roots rock', 'singer-songwriter']"
+Travel Song (Reprise),Dora The Explorer,False,7Jmhb8Fdv5D6bicS8PNiwu,14,68986,2008,https://i.scdn.co/image/ab67616d0000b273cc4078baf7b9317aa0838081,False,46,"['cartoon', ""children's music""]"
+Destroy Babylon,Bad Brains,False,4KNxYUdIDJXS7pOZTH34Sk,22,79266,1983,https://i.scdn.co/image/ab67616d0000b273b4bbc117f93eb572bebf9585,False,49,"['black punk', 'dc hardcore', 'hardcore punk', 'nyhc', 'punk']"
+God Will Make A Way,Janet Paschal,False,1KyTDaHSFQKejwZSQQZrmP,0,316133,2005,https://i.scdn.co/image/ab67616d0000b2737c0a9fcc42e9542bd336f212,False,47,['southern gospel']
+Spark,Souls Of Mischief,False,6Aj7cAArulCiWzAvzAuZNC,6,221213,2002,https://i.scdn.co/image/ab67616d0000b273989190c0dd45783f0aee6474,False,56,"['alternative hip hop', 'hardcore hip hop', 'hip hop', 'jazz rap']"
+Fernando,Andre Popp,False,4BM8yJ0PzBi2ZewpMTOxtx,67,252960,1976,https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0,False,83,"['europop', 'swedish pop']"
+Biloxi,Kenny Price,False,28dhKR4yB4rx4iPnrKXyos,2,133500,1971,https://i.scdn.co/image/ab67616d0000b273e56b70f0fdd1e28b1485ebdb,False,6,['classic country pop']
+Alimony,Shaggy,False,0ZRzOLG4BbN6RK3X1YmSrp,2,232306,1994,https://i.scdn.co/image/ab67616d0000b273966a497053c313ec484ed30e,False,74,"['dance pop', 'pop rap', 'reggae fusion']"
+Killing,The Rapture,False,5K6KLtwD581xLHc8zTzy3G,21,217000,2003,https://i.scdn.co/image/ab67616d0000b273be46822d5de9737b15bf6c6e,False,47,"['alternative dance', 'dance-punk', 'electrofox', 'electronica', 'indie rock', 'neo-synthpop', 'new rave']"
+Sarah Yellin',3 Doors Down,False,3TEAWiw3w0IAsoj4p3tJ7x,31,197906,2002,https://i.scdn.co/image/ab67616d0000b27383c39b0d32eb4a2064e1e228,False,73,"['alternative metal', 'nu metal', 'post-grunge', 'rock']"
+Rastafari Prophecy,Horace Andy,False,6sftlHrOOSg33vG1UH8kUV,0,230000,2006,https://i.scdn.co/image/ab67616d0000b273b3e71e79e10cc7614d213221,False,61,"['dub', 'reggae', 'roots reggae']"
+Baby You Got What It Takes - Original,Delroy Wilson,False,4L4tC25rCkqtpHMNEZcgoW,0,191500,2006,https://i.scdn.co/image/ab67616d0000b27370eba84867fa1ff092e19d5a,False,40,"['lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Smooth Operator,Sade,False,1Hv1VTm8zeOeybub15mA2R,79,258693,1994,https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79,False,78,"['british soul', 'sophisti-pop']"
+Red Orange Yellow,Photo Atlas,False,4ZdJqHfV1w3TKngOnNIGwH,28,189720,2007,https://i.scdn.co/image/ab67616d0000b273a24368c8d788da2b3359cb5f,False,20,[]
+Drummer's Circle,Megadrums,False,08lthg32KndnQTZItDDdan,0,237200,2008,https://i.scdn.co/image/ab67616d0000b27377c8d5f7ed78629696463cf8,False,3,[]
+What Would You Do,Walter Jackson,False,6CYlgYmNdm1rsUCkNdWFlG,11,157453,1965,https://i.scdn.co/image/ab67616d0000b273ccf45f901c01fbdc6d104900,False,20,"['chicago soul', 'classic soul']"
+Intro,Bizzy Bone Presents,False,6S0XYZk3gY7ZAWyE3U4mBw,0,26280,2011,https://i.scdn.co/image/ab67616d0000b273961eee3bcd315c60fc694dd7,True,42,"['chicano rap', 'gangster rap', 'ohio hip hop', 'southern hip hop']"
+Kong,Justin,False,5hQwJOWx41wiWH305GT7pf,46,244018,2006,https://i.scdn.co/image/ab67616d0000b273d2cea76eea82f1ef61abbf55,False,49,['cantopop']
+When You're Hot_ You're Hot,Jerry Reed,False,5ldIPwQS9zj3UpUdPQ7CB4,39,136560,1971,https://i.scdn.co/image/ab67616d0000b2739fcdd2ceb84d779282b8e69b,False,56,"['classic country pop', 'country', 'country rock']"

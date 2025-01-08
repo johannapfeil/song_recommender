@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+I Know A Man,Rev. Timothy Wright,False,0BLpSYz4Q2zXAYzVECIgBH,6,244733,1989,https://i.scdn.co/image/ab67616d0000b273045a2ab5fe2cf54d1b469a0f,False,33,['gospel']
+Please Come Home For Christmas,Lou Ann Barton,False,0CYKppoIJb3K0nNprufB2S,14,241266,2001,https://i.scdn.co/image/ab67616d0000b273c399a6edc550abff7ee9a085,False,29,['texas blues']
+Hot Cross Bun,Mikey Dread,False,72YUCU8o4nNufrEQ0sYCu7,0,193133,1983,https://i.scdn.co/image/ab67616d0000b2736a03f0ac06069af0faba61d6,False,37,"['dub', 'old school dancehall', 'reggae', 'roots reggae']"
+I Don't Give A F**K,D.O.W.N.,False,5vwUBMEIETigdNbnEx4Fid,0,103000,2018,https://i.scdn.co/image/ab67616d0000b273b2aafc6a6bdb1dae2a850b9e,False,60,"['classical', 'early modern classical', 'neoclassicism', 'russian modern classical']"
+Hot Tamale Baby,Buckwheat Zydeco,False,6weNMs1Lms9cUz3xqan0mu,15,247933,1987,https://i.scdn.co/image/ab67616d0000b273b5dd57e2a108632fc8eb971c,False,29,['zydeco']
+I.A.I,Royal S,False,5A8yKw3DmsIxN3jJHXWbns,0,351000,2025,https://i.scdn.co/image/ab67616d0000b27362fce5fef4deb40fd421921b,False,77,"['classical', 'classical era']"
+Now everybody's gone,Salieri,False,5e55zzcfwrUNo42ITv1KG5,0,238896,2005,https://i.scdn.co/image/ab67616d0000b273ad7cedae069b6f676d14a3c2,False,1,[]
+Mi Amante Amigo,Rocio Jurado,False,2yS5CsorCAdmiPCLmE0PvB,35,238066,1984,https://i.scdn.co/image/ab67616d0000b2736302c594da4822c393738856,False,52,"['cancion melodica', 'copla', 'pop romantico']"
+Wake Up! Wake Up! (Wake Up! Wake Up! Album Version),Everyday Sunday,False,5Wc74mamP9a6poVwMU8w4C,23,185000,2007,https://i.scdn.co/image/ab67616d0000b273e58f01f02c268d44762250d2,False,25,"['christian alternative rock', 'christian punk', 'christian rock']"
+Everything I Desire,The Brooklyn Tabernacle Choir,False,0nSjRMGU9TS64Q1dOO4POD,4,226666,1995,https://i.scdn.co/image/ab67616d0000b2730c500e369bc42b28c949e077,False,47,['classic praise']
+The Mission,30 Seconds To Mars,False,1kJprj4EaWuNvbChnW75e2,37,244973,2002,https://i.scdn.co/image/ab67616d0000b27366eed0cb14c4a0523ff283bc,False,70,"['modern rock', 'post-grunge']"
+First Boyfriend,Helen Love,False,2hQjtTIs6Wya6tEFSZYHZk,0,159106,2007,https://i.scdn.co/image/ab67616d0000b27332447de5d7df467db4add926,False,19,"['welsh indie', 'welsh rock']"
+The Tie That Binds,Moon Mullican,False,7Ih4S2TYW58gtfA9exlQmN,0,182693,2005,https://i.scdn.co/image/ab67616d0000b273f056e7faa2646c611951d7d5,False,17,"['country boogie', 'western swing']"
+Raza Cristalera,Los Morros Del Norte,False,3JrUgYhxUUufZ9Z4MJb3be,22,130773,2000,https://i.scdn.co/image/ab67616d0000b2738745cc8b5ed5f6de38dfa98a,False,56,"['corridos alternativos', 'norteno', 'tololoche']"
+Everything's Gonna Be Alright (Live Version),King Curtis with Jack Dupree,False,309UyHRH4tgtX9yl6octrY,3,329200,2005,https://i.scdn.co/image/ab67616d0000b273d43315478ca67e1255fd4681,False,6,[]
+Just A Phase,Incubus,False,6hoP7up3HF7z4A9SrIBRZE,44,329266,2001,https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926,False,72,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'modern rock', 'nu metal', 'post-grunge', 'rock']"
+Only A Look,The Nelons,False,6eKcjDXwLVGrA6883nxXsS,0,237466,1995,https://i.scdn.co/image/ab67616d0000b273d1c3af10e4087ff65eb8020a,False,32,"['family gospel', 'southern gospel']"
+Do It,DJ Nasty,False,3fn6MyfBNVLuPZYb7DN6lU,3,172852,2022,https://i.scdn.co/image/ab67616d0000b2738134216234f7e26ffc9704eb,True,44,"['north carolina hip hop', 'pop r&b', 'trap']"
+Fuckin' Wita Psycho,X-Raided,False,6qHoezuoK8k4z8qJIpL8ly,1,359666,2003,https://i.scdn.co/image/ab67616d0000b273f27558f32965261f837f59cf,True,42,"['g funk', 'hyphy', 'sacramento hip hop']"
+Love & Devotion,Sizzla,False,4cllEGAVuzBJQ8YzaBapoR,3,197480,2009,https://i.scdn.co/image/ab67616d0000b2739a3368250070851c677ce8ff,False,57,"['dancehall', 'reggae', 'reggae fusion']"
+Just A Little Bit Of You,Michael Jackson,False,12ce8QZpW9GdN5rf0H8JlX,24,190800,1975,https://i.scdn.co/image/ab67616d0000b273a2719b5be40893c0c6c8d947,False,85,"['r&b', 'soul']"
+I'm Gonna Cry Til' My Tears Run Dry,Irma Thomas,False,6lauIEdzob9eTBahMxxekr,12,183484,2024,https://i.scdn.co/image/ab67616d0000b273cd4a23f9145c21ff3e6e44b5,False,51,"['classic soul', 'louisiana blues', 'new orleans blues', 'new orleans soul', 'southern soul']"
+You're Looking Good,Dee Clark,False,0mHeCqDhYLvvP3lH8qWIWC,3,124946,1993,https://i.scdn.co/image/ab67616d0000b273e7275d3e2300cd4524596e2c,False,29,"['chicago soul', 'doo-wop', 'rhythm and blues']"
+UBIK The Breakz (feat. Martin Bettinghaus) - Radio Mix,Timo Maas,False,1wn0vHQRow4uZsTbAkS8jO,16,198933,2002,https://i.scdn.co/image/ab67616d0000b2732d988e0d5b92facb4a1097db,False,43,"['big beat', 'breakbeat', 'classic progressive house', 'nu skool breaks', 'tribal house']"
+Cooling Out,Cocoa Tea,False,4gx4BLBjJdZ7wKFa0eWQkb,0,241266,1992,https://i.scdn.co/image/ab67616d0000b273ba0609bb5423385daa32d06c,False,49,"['dancehall', 'lovers rock', 'old school dancehall', 'reggae', 'roots reggae']"
+Lioraras,Los Ninos De Sara,False,0MHh36xmmWjlLgF8Ns2T5L,3,227440,2006,https://i.scdn.co/image/ab67616d0000b273319199173cc17b0b6e198a87,False,42,['rumba']
+Little Drummer Boy,The Almost,False,7EEv7LhFwveesSUmLgDqL2,30,188313,2011,https://i.scdn.co/image/ab67616d0000b2738b07fdb527e1c02dd646a0af,False,41,"['christian alternative rock', 'neon pop punk', 'screamo']"
+Brother Brick Says,Claw Hammer,False,4DZjX1KJ83JX3Sifjwi5Zl,0,232906,2012,https://i.scdn.co/image/ab67616d0000b2736cf4c905c194a1d0a7f81b64,False,2,[]
+Silencio De Aguas Profundas,Alas,False,38hOXyNWiX7R5fIStl9Inx,0,628173,2005,https://i.scdn.co/image/ab67616d0000b273d96d07db02f6a11feb5f1326,False,7,"['rock nacional', 'synth prog']"
+Sting Me,The Black Crowes,False,134cGRMQbwEn7XQcSBFvkm,40,280133,1992,https://i.scdn.co/image/ab67616d0000b2738d02d37cd208d1cb2e0d29a4,False,61,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'jam band', 'rock', 'southern rock']"
+I See War,IYOV,False,0KQswwgrOVSmNBox79htlA,0,257959,2009,https://i.scdn.co/image/ab67616d0000b27341958d98d7b493636d1e5c33,False,0,[]
+The Sun Shine Down My Way,Doug MacLeod,False,672c9vNjmDGMLUz36NHOOg,4,337426,2004,https://i.scdn.co/image/ab67616d0000b2734934db78549aa48ee8ab1d67,False,26,"['acoustic blues', 'blues']"
+Hear Me Talking To You,Ma Rainey,False,1KTNAVJOVB8R5U9r2R9mZR,15,269280,2020,https://i.scdn.co/image/ab67616d0000b273d59d138e332cf156a531acda,False,39,"['contemporary post-bop', 'jazz', 'jazz saxophone', 'new orleans jazz']"
+Neighbor_ Neighbor,Jimmy Hughes,False,1aRzNmWBfrliYrqeqEliEo,21,179853,2020,https://i.scdn.co/image/ab67616d0000b27359520145a1630be15bb7e215,False,31,['southern soul']
+Mary Had A Little Lamb,Stevie Ray Vaughan And Double Trouble,False,0nFZ2HQRnIxiwraCm2X6Uq,57,166960,1983,https://i.scdn.co/image/ab67616d0000b273f7143c00741b94bb62025340,False,63,"['album rock', 'blues', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'instrumental rock', 'rock', 'texas blues']"
+Den Mporo Na Figo,Angela Dimitriou,False,7BdbejZVEhY7exfSH11F9z,1,83253,2006,https://i.scdn.co/image/ab67616d0000b273b2812dd56f25cb05c517db05,False,39,"['greek pop', 'laiko']"
+Skylark,Ann Hampton Callaway,False,7puqa8vfybRleThYfW0wFK,1,348506,1999,https://i.scdn.co/image/ab67616d0000b27353ffb628ae6e625dfa735c2d,False,44,['contemporary vocal jazz']
+The wrong woman,Billy Price_ Fred Chapellier,False,4mpVmS64gsWy4hLBgVYXGE,0,281013,2009,https://i.scdn.co/image/ab67616d0000b2731a55547e777ae4999074ccb5,False,16,[]
+Man  On The Side,Bill Perry,False,04iMLknZVgT9vb2WEHQ5mi,0,217880,2004,https://i.scdn.co/image/ab67616d0000b273b823fa26d51c0575707dc075,False,15,['power blues-rock']
+MVP,Corey / Shaquille O'Neal,False,6SB1SGHq2e2GmqgZ1qdWux,6,259933,2002,https://i.scdn.co/image/ab67616d0000b2738b20af35451d7bf6e7b3b361,False,28,[]
+This Ain't Pleasure,L7,False,7rkcxJBUJ7uQVXy64waN6n,23,163133,1992,https://i.scdn.co/image/ab67616d0000b273946c2a344a47393f80170cdc,False,49,"['alternative rock', 'grunge', 'punk', 'riot grrrl']"
+Vuelve Junto A Mi,Los Chichos,False,5HNVAzu5hzIOCaAUvcbfou,7,242826,1979,https://i.scdn.co/image/ab67616d0000b27350df347746b7a79a3d157193,False,58,"['pop flamenco', 'rumba']"
+The Sun Shines From You,Teenage Fanclub,False,1ysr7r6Tbw6CIsOFGYcxuI,7,204786,2000,https://i.scdn.co/image/ab67616d0000b273d39381b7220d718a4c6a5890,False,43,"['alternative rock', 'modern power pop', 'power pop', 'scottish indie', 'scottish rock', 'shoegaze']"
+Poaki,Nicholas,False,5gdRVJqnYKPAzjMs4etwTj,1,153443,2010,https://i.scdn.co/image/ab67616d0000b273b2605e3c964c518106fa4d6c,False,3,[]
+Midnight Wind,Jimmy Wakely,False,2XTNauMesVvrVUC0AmdlV6,4,173440,1996,https://i.scdn.co/image/ab67616d0000b273329074fbb92194752018fe69,False,32,"['arkansas country', 'classic oklahoma country', 'cowboy western', 'western swing']"
+Kick Jump - Part Jump,Cobra Killer,False,2LaEJTc9BumjTKqV0v5kiD,1,112200,1998,https://i.scdn.co/image/ab67616d0000b273e8179f1d40d793bf3adfd971,False,10,['digital hardcore']
+Toot Toot Dixie Bound,Birmingham Jubilee Singers,False,1CRKUL5ROOG50uVEeEPbmA,0,183954,1995,https://i.scdn.co/image/ab67616d0000b273186e69a78b9dc7ab606edb02,False,0,"['gospel singers', 'vintage gospel']"
+Smile,Marvin Sapp,False,3JlfI3HmMlDTHH27sBfKGA,6,264093,2000,https://i.scdn.co/image/ab67616d0000b27345f24975bbbdf0833ff308e3,False,54,['gospel']
+There Is a Way,Jeff & Sheri Easter,False,1aTvz0X0OBDZ0V3wARseAQ,0,164711,2021,https://i.scdn.co/image/ab67616d0000b273a52fc2671c040b0e88d8b7cc,False,7,[]
+I'm Poured Out Like Water,Tel Basta,False,1BtlCyeFoBA9sl9u1oXLFh,0,220373,1996,https://i.scdn.co/image/ab67616d0000b273b36d33debb7a1ed202621f0d,False,0,[]

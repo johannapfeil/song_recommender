@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Cranford: Deborah's Vigil,Carl Davis,False,4jM8GE61fOs3LXKYdHSM3Q,0,167293,2010,https://i.scdn.co/image/ab67616d0000b273f9399bce3f1af30fe67f7f9f,False,44,[]
+All Is One,Atman,False,3Poq8yFX65MNfVs49ANf2k,9,437026,1998,https://i.scdn.co/image/ab67616d0000b273a14ab8cbc95dc8f06cbae2a2,False,16,[]
+Washes Over Me,Wamdue Project,False,6d8ek7nJZFgO3ZxZIZ59XO,2,375443,2021,https://i.scdn.co/image/ab67616d0000b273038456bbd595cc2172e71a8d,False,15,['soulful house']
+Junior Crehan's Favourite - Corney Is Coming,Planxty,False,66jbTaMvghsT6Zo9IGBEpr,16,161146,1973,https://i.scdn.co/image/ab67616d0000b273f0625179adb1626332232240,False,38,"['british folk', 'celtic', 'irish folk', 'uilleann pipes']"
+Jag Vet En Dejlig Rosa,Thomas Battenstein,False,3o39i1lHVXAjFzVYQjECSy,0,176560,2019,https://i.scdn.co/image/ab67616d0000b273dff7fa42228adc8fe11d5277,False,74,"['gregorian chant', 'puirt-a-beul']"
+Hannikaisen baari,Hector,False,7xjNukWEpU2ujQ9tAJR0EL,21,282666,1976,https://i.scdn.co/image/ab67616d0000b273c8e4ee9b449a9cf10a7aa110,False,42,"['classic finnish rock', 'classic iskelma', 'suomi rock']"
+Luo Cuo Che,Sammi Cheng,False,2eQ9O9fl3o51jTmSt58QiG,2,192480,2009,https://i.scdn.co/image/ab67616d0000b27351f1eff6ebbef533f480fae5,False,54,"['c-pop', 'cantopop']"
+It Could All Get Blown Away,The Jeff Healey Band,False,0eNMDvsXmxcIpTHYOb8aBs,16,283106,1992,https://i.scdn.co/image/ab67616d0000b273ee88d1bfac52a578182a16bc,False,46,"['blues', 'blues rock', 'canadian blues', 'country rock', 'electric blues', 'modern blues']"
+Bob Your Head,RUN-DMC,False,2TxvBtEMZHCO4usgdAmALh,7,226560,1990,https://i.scdn.co/image/ab67616d0000b273dafc665e5199dadbf07d2109,True,68,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']"
+Make it up,Anthony Cruz,False,6bZLzLMSj2Vv1rGVicWVm1,0,264680,2008,https://i.scdn.co/image/ab67616d0000b273d4a428f3e9105454003f6b95,False,17,['salsa']
+Le Roi A Fait Battre Tambour,Jacques Douai,False,5C6roaENlCQzs6hEuvNvbg,0,143480,2008,https://i.scdn.co/image/ab67616d0000b273506f662a4315687aeaf46500,False,11,['vintage chanson']
+Dope Nose,Weezer,False,741oLronOsunwlx4MSZ6YY,44,137400,2002,https://i.scdn.co/image/ab67616d0000b273583d37d9a9b85c975d62b7df,False,76,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']"
+Never Alone,Walter Hawkins,False,00gq6xHdRc1IGcRkfzevQ6,4,301626,2008,https://i.scdn.co/image/ab67616d0000b2733cb3d779e010b4634e55203a,False,35,['gospel']
+Love Lifted Me,Eddy Raven,False,4Z5aeAjbXqljDhQHcKmKTt,10,143906,2007,https://i.scdn.co/image/ab67616d0000b2736640e197a93080727d12114e,False,42,['classic country pop']
+Working On The Highway,Bruce Springsteen,False,1n16ZEz2uuWO1Dx01dVWua,45,192266,1984,https://i.scdn.co/image/ab67616d0000b273a7865e686c36a4adda6c9978,False,81,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']"
+Xin Bu Liao Qing,Fiona Sit,False,14RSBomMz3Pf3H1u8c4h6l,9,232493,2008,https://i.scdn.co/image/ab67616d0000b27399bc3c8f36df9a89c668f218,False,46,['cantopop']
+The Pig,Showbread,False,7so5fghPruFAMcD0UBMGCP,6,297653,2008,https://i.scdn.co/image/ab67616d0000b2737cf95c3eeec10a132c663b88,False,21,"['christian hardcore', 'christian punk']"
+I'll Be Glad,Elvin Bishop,False,7Cr1apSjz2BYImBHKo0vqJ,1,335706,2005,https://i.scdn.co/image/ab67616d0000b2739e36220402f0af01e6850172,False,52,"['country rock', 'southern rock']"
+Gaya's Dream,The Gathering,False,76a0pVbKyF4Y3WDEDQTqfE,8,368817,2024,https://i.scdn.co/image/ab67616d0000b273d0703e55b6adb00b859262d3,False,43,"['atmospheric doom', 'dutch metal', 'gothic metal', 'gothic symphonic metal', 'symphonic metal']"
+Anyone Who Had A Heart,Cal Tjader,False,1N4p1c698MCICc4rSZcvFR,3,194271,1968,https://i.scdn.co/image/ab67616d0000b273a8a61c65058161daa82f84f5,False,44,"['cool jazz', 'jazz vibraphone', 'latin jazz']"
+Nothing Matters Anymore,Showbread,False,2FwLSjB34hU1s5LfEVZmur,4,252400,2009,https://i.scdn.co/image/ab67616d0000b2739a5693e1990ff66f33a6b461,False,21,"['christian hardcore', 'christian punk']"
+Fortunate Fool,Jack Johnson,False,1HfMeYbip8KTFUHKjC3a6A,49,229507,2011,https://i.scdn.co/image/ab67616d0000b2732bd026ab797a3de9605d9cb3,False,77,['neo mellow']
+Tu Vuo_ Fa_ L_ Americano,Rita Chiarelli,False,3IZYvT7KjoGL7EQFKJv9pR,2,278333,2011,https://i.scdn.co/image/ab67616d0000b273c8505f5ee1fa10aef7196b3e,False,11,['canadian blues']
+High Horse,Workhorse,False,2kvJR2zbrwlBSXgreYcI5V,5,251413,2007,https://i.scdn.co/image/ab67616d0000b273a797cb760ec87c8f245f439b,False,2,[]
+Intro/Whatcha Gonna Do about It,Humble Pie,False,0ipHagSFmm9qy1uUcnMktb,0,285426,2020,https://i.scdn.co/image/ab67616d0000b273c0679b7ad44fd43edaa93162,True,0,[]
+September Song,The Chico Hamilton Quintet With Fred Katz_ Paul Horn_ John Pisano_ Carson Smith,False,5opEZBkyl8YXLpgI6UnWFs,0,230186,1957,https://i.scdn.co/image/ab67616d0000b27356c5bdb3bd42455c336f1657,False,23,['cool jazz']
+Bodyfly (Dynamix original version),Dynamix,False,07kpOTdZlLyURllShmLav3,0,451040,2006,https://i.scdn.co/image/ab67616d0000b27376dcc2e053d53f6a149ec1e7,False,12,[]
+Brampton To Roadhead,Gathering,False,0W14svHUY1T8Kfq3HqdvGP,0,245600,2009,https://i.scdn.co/image/ab67616d0000b273b9e124a65426cce6d6846217,False,0,[]
+Stop That Thing,Sleepy John Estes,False,7wP3XvopCW3Wk0gUfn7Chm,0,112533,2020,https://i.scdn.co/image/ab67616d0000b2733e8d4bd88f4c67de9ab99ea2,False,18,"['country blues', 'memphis blues', 'traditional blues']"
+Drumroll (We're All Thirsty),P.O.S,False,6mtD4MOiLESQcOVCJAM9hA,17,157080,2009,https://i.scdn.co/image/ab67616d0000b2735dc5b96547f03a75dda5b50c,True,38,"['abstract hip hop', 'minnesota hip hop']"
+Tu Quieres Volver,Gipsy Kings,False,6ZgIoAuzxOcb7mfpFoGV58,45,192466,1987,https://i.scdn.co/image/ab67616d0000b2736e7cb1429534f0d21133b714,False,68,"['flamenco', 'rumba', 'world']"
+Cable,Languis,False,4qFy6PMWdioAKlLffbRAsl,0,199000,2007,https://i.scdn.co/image/ab67616d0000b273bebc52219a04a7e7d9055a91,False,3,[]
+Romanza,Hard Romantic,False,4pC8VbpJJXHgVCIm3POIQX,1,269560,2010,https://i.scdn.co/image/ab67616d0000b2739742840319a6ab20024ebcb9,False,4,[]
+Walking To Jerusalem,Tracy Byrd,False,05u3Si3CO5FBZhEdA76Xsd,25,206666,1995,https://i.scdn.co/image/ab67616d0000b273d2890eda248287e3a6b0c896,False,58,"['contemporary country', 'country', 'country road']"
+Calm Down Dad,Helen Love,False,259NZlIf0ZgOjFDNOM77m3,0,145333,2009,https://i.scdn.co/image/ab67616d0000b273f6220bb44a2b400e0ad8adfe,False,19,"['welsh indie', 'welsh rock']"
+Dragonfly,Connemara Stone Company,False,2idIszoAMsLZmTDrQYQTZW,0,192093,2021,https://i.scdn.co/image/ab67616d0000b273d1f900cdcdef0d45cb606050,False,6,['celtic rock']
+Intro,DJ Clue / P. Diddy,False,0ZydISelFKscZqu7mS7CYT,9,63133,1998,https://i.scdn.co/image/ab67616d0000b273c3eb89dbb59d32ab80d397dc,False,41,"['dirty south rap', 'east coast hip hop']"
+Bigbigkiss,Helen Love,False,7nKk7ASfvLfMHuCe7CNiK0,7,213400,2000,https://i.scdn.co/image/ab67616d0000b2735d7f0419212048d0b26f2438,False,19,"['welsh indie', 'welsh rock']"
+To Go Home,Daniel Johnston,False,3pnrYEmWx3LxbnlEZNOIao,8,270691,1982,https://i.scdn.co/image/ab67616d0000b2730b270b28015414dc9c3a94fe,False,47,"['alternative rock', 'anti-folk', 'chamber pop', 'countrygaze', 'lo-fi', 'melancholia', 'noise pop', 'outsider']"
+Duh Duh Da,Lidell Townsell,False,062QbXsjvuuTa7ibdYUD1S,0,214760,2004,https://i.scdn.co/image/ab67616d0000b273432c6ddec7a21e5b6adfb8bc,False,19,"['chicago house', 'classic house']"
+She Don't Belong To You,Sue Foley,False,16IDWHuo7tqmOuBxq3HdSj,0,224933,1998,https://i.scdn.co/image/ab67616d0000b2739530cc5638ff4c206dbeaafb,False,33,"['acoustic blues', 'canadian blues', 'modern blues']"
+Q1.1 Edit,Basic Channel,False,734mHJ9llh1ad4avW5cpr0,12,62866,1995,https://i.scdn.co/image/ab67616d0000b27345437e9a56394fd55957208a,False,30,"['ambient dub', 'dub techno', 'german techno', 'intelligent dance music', 'microhouse', 'minimal techno', 'techno']"
+Blowin' In the Wind,Ben Sidran,False,4O5tAuu0dQAg8P7m7i3qSJ,0,319226,2010,https://i.scdn.co/image/ab67616d0000b2731a2817b5a18200b58736abb5,False,1,[]
+Let It All Go,Krayzie Bone,False,2h9tDiGQoeDSifaG8qmaMn,8,175746,2010,https://i.scdn.co/image/ab67616d0000b273c29116563fb8851740212110,True,58,"['dirty south rap', 'gangster rap', 'ohio hip hop']"
+Hummingbird,Jimmy Page,False,6CyIGF5XEei8oNkLdcyo15,18,322626,1988,https://i.scdn.co/image/ab67616d0000b273fea6ca88a679381c47875b6c,False,43,"['album rock', 'art rock', 'blues rock', 'british blues', 'classic rock', 'electric blues', 'hard rock', 'progressive rock']"
+Tabernacle Song,Fake Problems,False,38YLAIouc6EDhWYFbsF2yt,15,193466,2009,https://i.scdn.co/image/ab67616d0000b273d5abce6bac8f9acd42574ed1,False,26,"['folk punk', 'orgcore']"
+"(You\'re) Timeless To Me (""Hairspray"")",John Travolta / Christopher Walken,False,3DjABtwYURALZGUzrC6Scg,38,287186,2007,https://i.scdn.co/image/ab67616d0000b2738bee1e4f85723131407227d2,False,30,[]
+I'm Gonna Take My Time,Anthony Watson,False,7qmC0VCxQjTeZjgk8r65yv,1,259838,2004,https://i.scdn.co/image/ab67616d0000b2738d52eee4c29b66c3ce7e4ca6,False,17,[]
+Dig Up Her Bones,The Misfits,False,16MPZDpM5JTtIBs3pOMSWx,55,180240,1997,https://i.scdn.co/image/ab67616d0000b273f160642bd859ed1ae98e9b80,False,66,"['horror punk', 'new jersey hardcore', 'new jersey punk', 'punk']"
+Cien Anos,Selena,False,2PAo9vxNI34cHnYqYBDPFa,36,191133,1990,https://i.scdn.co/image/ab67616d0000b2730b5c6296a650295dca25ef1c,False,73,"['mexican pop', 'tejano']"

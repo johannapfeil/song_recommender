@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+You're Not Alone,Olive,False,4AJWkU9WQeFytNaJExtyRj,50,271026,1996,https://i.scdn.co/image/ab67616d0000b273493bba4712e788088bad1ad6,False,45,['trip hop']
+Chuckanut Drive,Power Pill Fist,False,1n715WvzWgsv65eJjEVVLf,0,291426,2008,https://i.scdn.co/image/ab67616d0000b27353fe6f090ead3ae362d94f35,False,5,['experimental indie rock']
+Don't Do That,Pinchers,False,0BvXqZFNhpuUfWD4RmLPtn,0,229026,1993,https://i.scdn.co/image/ab67616d0000b2735580ecd2f02b7cb0fd514a73,False,34,"['lovers rock', 'old school dancehall']"
+The Legend of Yellow Boobie,Year of Desolation,False,3bYqPITCCeMVcv67XzgHPS,0,339746,2012,https://i.scdn.co/image/ab67616d0000b273472c615b7b4e144dd5d2d825,False,2,['melodic thrash']
+Have Thine Own Way,Michael Bloomfield,False,2pn0cFiMfzj8SH2IL0AKD2,0,137733,2004,https://i.scdn.co/image/ab67616d0000b273ee66629d93b8b08577159d6d,False,38,"['blues', 'blues rock', 'chicago blues', 'electric blues', 'traditional blues']"
+Frankie And Johnny,Gene Autry,False,2shRWoPXjcep6fXzZSUbNI,0,164211,1985,https://i.scdn.co/image/ab67616d0000b2737eca67df9a5c84e6ac2b01f2,False,74,"['classic oklahoma country', 'cowboy western', 'traditional country', 'yodeling']"
+"Take The ""A"" Train",Les Brown,False,7Fhf91igjryqNDSflLLcEY,0,211146,2022,https://i.scdn.co/image/ab67616d0000b273e9a19fb5b73e3bd26bcb617a,False,30,"['big band', 'swing']"
+Protect You,Tim Hornsby,False,495mvFZgL4F2aGZEII9vyW,1,559600,2004,https://i.scdn.co/image/ab67616d0000b273763ca12f486d967db99b3b07,False,0,['deep uplifting trance']
+Woman Shy,Jerry Reed,False,2BOrlW8cHoL7iuWFJJ9XQG,10,135893,1967,https://i.scdn.co/image/ab67616d0000b273a58ec573490eea6acb27e18e,False,56,"['classic country pop', 'country', 'country rock']"
+Know Thyself,Atom,False,49eYnjvDlXg0o1fvkmVUQC,0,196937,2016,https://i.scdn.co/image/ab67616d0000b273956cdc3d2109ff1ac5d009a5,False,7,[]
+Rockin' At Midnight,Roy Brown,False,6BIiT1b81TwHDXHkeHXrg9,20,166426,2019,https://i.scdn.co/image/ab67616d0000b273ab0b76079d91ba4a3879e4f7,False,42,['jump blues']
+Fairytale Land,Dora The Explorer,False,7pEXRliRn0FRDLwc7Kwyid,11,63840,2004,https://i.scdn.co/image/ab67616d0000b2730ec2d1486f84ee0f63fdbaa8,False,46,"['cartoon', ""children's music""]"
+The Last Song,The Fool'S Nose,False,4QyEZLMMnqdS3zsLFfSwRE,0,260560,2009,https://i.scdn.co/image/ab67616d0000b273c03b69755953279434b609a6,False,0,[]
+Jolie Blon's Gone,Harry Choates,False,7j5qKP6YYgVPT0PSug7clO,0,177800,1995,https://i.scdn.co/image/ab67616d0000b2737f28ed31475955d9f300f191,False,9,"['cajun', 'country boogie']"
+Que Viva El Amor,Flor Silvestre,False,3jTaarxIA0mJOXVD7wVBHX,0,122020,2000,https://i.scdn.co/image/ab67616d0000b2738202ffe458b8f04c198a9388,False,47,"['mariachi', 'ranchera']"
+Crawlspace,Beastie Boys,False,6GEjtEykHTC80eWWLjluPF,21,173600,2004,https://i.scdn.co/image/ab67616d0000b2739e5fec19fefec8a949d92061,True,70,"['alternative rock', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'rap', 'rap rock', 'rock']"
+Performance (Remastered),Happy Mondays,False,3ImHVBUqS3cKr40S06h4I5,20,243253,2007,https://i.scdn.co/image/ab67616d0000b27340e5df6a7c6bb67435816a95,False,49,"['britpop', 'dance rock', 'madchester']"
+Aho,Meiway,False,4dLZsOZAkmwXYjYz3Atu2B,0,289426,2009,https://i.scdn.co/image/ab67616d0000b27316d94baae3e1b8a312f3bf48,False,38,"['azontobeats', 'coupe-decale', 'makossa']"
+Tocame,Gisselle,False,0ibqBhUIHUAyoEYytSxyrD,1,243626,1998,https://i.scdn.co/image/ab67616d0000b2730bd96887c11a423641e6ba6b,False,56,['merengue']
+Juno,Zuma,False,7zhmgE2wbwRzAa94z6Mlp2,0,326706,2014,https://i.scdn.co/image/ab67616d0000b273d2a2fdf713fc514c20747222,False,4,[]
+Problems,The Real Kids,False,6yC71AdJYfDKcGfHkc10WV,0,135000,1999,https://i.scdn.co/image/ab67616d0000b273cfac68d6c4802d8f30a0d818,False,20,"['boston rock', 'protopunk', 'rhythm rock']"
+I've Got The World On A String,Charlie Byrd Trio,False,3AxKdEOrMEvAYaKUZHycTN,0,232986,1994,https://i.scdn.co/image/ab67616d0000b2735059500cc20c04c6a61cb66e,False,6,['jazz guitar trio']
+He Never Changes,4Him,False,7dZkTnmu8KdOCd5FGd79b0,8,269066,1991,https://i.scdn.co/image/ab67616d0000b2737b624187c9c8c642d586f58e,False,36,"['ccm', 'christian alternative rock', 'christian music']"
+Frieda,David Benoit,False,3wW7bcHoO8QnskvIX6BKRI,14,274133,2000,https://i.scdn.co/image/ab67616d0000b2734e6871f79e9cc3acaf3f430c,False,50,['smooth jazz']
+Don't You Think It's Time To Go,The Del McCoury Band,False,4ewW18lc9nZ9u3AKJhE7Qt,2,136000,1999,https://i.scdn.co/image/ab67616d0000b2732f879b78ce0b7f16d1d87421,False,41,"['bluegrass', 'jam band', 'progressive bluegrass']"
+Pick Me Up On Your Way Down,Martina McBride,False,3Su7PreUAOWTYVwYIngtqT,17,160626,2005,https://i.scdn.co/image/ab67616d0000b273abe8ffa50d26f4dc2fd5f61b,False,63,"['contemporary country', 'country', 'country dawn', 'country road']"
+I'll Be Better,Cyndi Wang,False,3uyNzfF9JednQX0CIbWjZ7,11,261440,2009,https://i.scdn.co/image/ab67616d0000b2739f2033e677e41d19be87ac1b,False,58,['mandopop']
+How Can I,Jah Cure,False,6dYl53io4sWlO6u7CKVSye,23,241653,2003,https://i.scdn.co/image/ab67616d0000b273b1aecd3a87c0e76a682cfef1,False,55,['reggae fusion']
+Why Can't You Be Mine,Jackie Wilson,False,2EgrpBXrcU6OC8dZIxs9CA,9,124653,1958,https://i.scdn.co/image/ab67616d0000b2738cc2718c11345833920086b2,False,57,"['chicago soul', 'classic soul', 'quiet storm', 'rock-and-roll', 'soul']"
+Believe,Danny Wright,False,7dBmYPa6HDH5qkJiwbah5V,37,277108,2018,https://i.scdn.co/image/ab67616d0000b273f90d22f69d09b1629c7ad004,False,44,"['new age', 'new age piano']"
+Butts n Stuff,Josh Mullins,False,094oz144NkYf208SNuhkJH,0,193760,2010,https://i.scdn.co/image/ab67616d0000b2731a6642021ccfe5bbc36fe380,True,0,[]
+Can You Hear Me,Enrique Iglesias,False,5LeGRlEBxdkIaU2hlCCIA2,40,222626,2007,https://i.scdn.co/image/ab67616d0000b273ad1c8cfd1116a23034e6ceb4,False,79,"['dance pop', 'latin pop', 'mexican pop']"
+Street Vibe,Jason Miles,False,5ibbdRchJJTqzF5EaUvxkp,2,485986,2015,https://i.scdn.co/image/ab67616d0000b273949f148991b09577219a23d5,False,19,['jazz trumpet']
+Sailing To The Edge Of The Earth,The Abominable Iron Sloth,False,0Vau4FktJaisSLqvTEIcGU,0,130466,2006,https://i.scdn.co/image/ab67616d0000b2733ba5f20ed606f57f510799be,False,9,['sludgecore']
+Easy To Lose Hope,Eleanor McEvoy,False,7tgOpQGH8OgdrHjpjoDamH,0,353040,1999,https://i.scdn.co/image/ab67616d0000b273e1d27a1f4e3b337b79b719fd,False,36,"['irish folk', 'irish singer-songwriter']"
+Jarabe De Pico,Pablo Montero,False,5Fpp3n12wYX8KBNC2OauBN,1,202333,1999,https://i.scdn.co/image/ab67616d0000b27351ece897ce4258c730c19e78,False,45,"['latin pop', 'mariachi', 'ranchera']"
+Saturday Love,Alexander O'Neal,False,2CMBjJ59FVIVDTeJvlkJCz,50,390600,1985,https://i.scdn.co/image/ab67616d0000b273c9743a7039fce3fc6022dd95,False,44,"['contemporary r&b', 'funk', 'minneapolis sound', 'new jack swing', 'post-disco', 'quiet storm', 'urban contemporary']"
+True,Jim Reeves,False,0Zo1FUNXZBdxpQeGNNeT4Y,7,151600,1963,https://i.scdn.co/image/ab67616d0000b27361b93e3f521146ee7bcadaab,False,61,['nashville sound']
+Where I Stood [Live],Missy Higgins,False,08JjRs0ZkES71NulAbrHXu,10,255360,2007,https://i.scdn.co/image/ab67616d0000b273a6451117e1e9a940437d6716,False,55,"['australian indie', 'australian pop']"
+Juke It Down,DJ Rashad,False,1kFKxzBpWYr14NQeyWO7qI,0,182373,2006,https://i.scdn.co/image/ab67616d0000b273f32fac7f7b4b01d65a277ce3,True,34,['footwork']
+Simon,Jericho,False,0xhDVc8ZtvlJYXUZ3nJAGG,0,223933,2004,https://i.scdn.co/image/ab67616d0000b27375f189447c44b7e56ba0266b,False,7,[]
+Love N' Gold,C.C. Adcock,False,3OlyGUqkB1zVmjq4CK9qMu,7,273026,2004,https://i.scdn.co/image/ab67616d0000b273b9546eee6a2bb077aee4976b,False,23,"['swamp rock', 'zydeco']"
+Grial II,TYR,False,2GXvk3m7Nsw3PRckQ0cIRj,0,293525,2001,https://i.scdn.co/image/ab67616d0000b273acb5465baeb58123285b2daf,False,1,['viking metal']
+Over And Over,Heavenly,False,788204SI1bqA9aqQWMkWDy,12,206173,1991,https://i.scdn.co/image/ab67616d0000b273f6db28bffe61653353fc0cd5,False,47,"['c86', 'tape club', 'twee pop']"
+Get A Hold,A Tribe Called Quest,False,1LuvccUiy1j9y8hpPBzQNh,51,215266,1996,https://i.scdn.co/image/ab67616d0000b273e3b93c08d98f92dc3ab0146a,False,68,"['conscious hip hop', 'east coast hip hop', 'golden age hip hop', 'hip hop', 'jazz rap', 'queens hip hop']"
+From Ivory Towers Above The Control Grid,Kalibas,False,2hqYPmBcwuhM957mnsEM4W,0,164400,1998,https://i.scdn.co/image/ab67616d0000b273d6bcc268ed01b77112fdd8aa,False,0,['western ny metal']
+Lullaby For The Summer,Jimi Hendrix,False,05Oj9OLLMJPm5pPN15plJJ,14,228906,2010,https://i.scdn.co/image/ab67616d0000b27398ca421e7e364a6fd177b6ff,False,70,"['acid rock', 'album rock', 'alternative rock', 'classic rock', 'hard rock', 'proto-metal', 'psychedelic rock', 'rock']"
+Cool People Make Me Tired,Williamson,False,683jQSNXEVtshVvnhY6Rrk,0,223760,2005,https://i.scdn.co/image/ab67616d0000b2732beff2b1d9c466d6d12cb024,False,5,[]
+Flame On,Big Daddy Kane,False,2wpz3LaQ0tsn5Fbfe4blhq,2,191200,2001,https://i.scdn.co/image/ab67616d0000b27305c28ae114a7525cb885e837,True,51,"['east coast hip hop', 'golden age hip hop', 'hardcore hip hop', 'old school hip hop']"
+Joaquin Torres Jr.,Los Originales De San Juan,False,7htakMknK0cpVPpLALKN6L,11,250426,2002,https://i.scdn.co/image/ab67616d0000b273be5757d9975a2530056cf989,False,64,"['banda', 'musica mexicana', 'norteno']"

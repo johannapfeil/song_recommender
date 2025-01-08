@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+What Do I Know,Unkle Bob,False,0a0mwZ8w5VuofottIEH2zi,4,252133,2006,https://i.scdn.co/image/ab67616d0000b2738b8230dc3d392b8e13c58cbd,False,31,['deep acoustic pop']
+What Is Light? Where Is Laughter? (Acoustic Version),Twin Atlantic,False,0uGXjHru9k3Euvc8lTuwh3,0,242360,2009,https://i.scdn.co/image/ab67616d0000b2739a153a32ac2e26f1250895ee,False,43,"['british alternative rock', 'modern alternative rock', 'scottish rock']"
+Quiet Time,Regina Belle,False,0JMqKxcGZo1nsKrBVWmUIh,21,307333,1993,https://i.scdn.co/image/ab67616d0000b273a743b88f89ee58a228549c97,False,48,"['contemporary r&b', 'quiet storm', 'urban contemporary']"
+Wave,Patti Smith Group,False,0pSF7WgfHsAVeXW6fP4J9r,20,280800,1979,https://i.scdn.co/image/ab67616d0000b273297dd2e5a0e6f916364eddc8,False,59,"['art punk', 'permanent wave', 'protopunk', 'singer-songwriter']"
+Mamma's Kitchen,Cece Winans,False,17toD0xlCUdWdn4B47uvr5,21,185026,2005,https://i.scdn.co/image/ab67616d0000b273fab760bc4709180c6a79f37f,False,66,['gospel']
+Don't Wait For Me,Fred Locks,False,0Y57jdxOgInKSHvx7Cqb5n,0,243440,1998,https://i.scdn.co/image/ab67616d0000b273cc66e01bdbf118738282eff6,False,26,"['lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+It Hurts Me To My Heart,Bobby Marchan,False,7ymCznZVNIoF941AZ0rqMe,0,163800,2022,https://i.scdn.co/image/ab67616d0000b27330989e44ab18b5afba93efc1,False,14,"['new orleans soul', 'rhythm and blues']"
+Ripped Pants,Spongebob Squarepants,False,7qPlIgFSsb48lbRXmmi9NB,40,76813,2005,https://i.scdn.co/image/ab67616d0000b273671d70d370a74b4b3cd2873e,False,56,"['cartoon', ""children's music""]"
+Introitus: Requiem: Agnus Dei,Kuijken Kwartet,False,3VEzR9LfcCiRsCtJiAWItZ,0,184866,2007,https://i.scdn.co/image/ab67616d0000b273062568bf1d648850adcd03b1,False,77,"['classical', 'classical era']"
+Your Prophetic Throne Of Ivory,Disembowelment,False,7nKYINLBZEibCoZEFt8y81,17,460613,1993,https://i.scdn.co/image/ab67616d0000b273291c3c62bdd6703f7c295206,False,17,"['australian death metal', 'australian metal', 'death doom', 'doom metal', 'voidgrind']"
+Guys Do It All The Time,Mindy McCready,False,0uZRJmWi1TH3wrAN7hAbyF,49,191800,1996,https://i.scdn.co/image/ab67616d0000b27355cfd0a24a891f8d62dc7d71,False,40,"['country', 'country dawn', 'country road']"
+We Are One,Kelly Sweet,False,5Ay8dt7sbClcVPaXfvP2uc,21,216213,2007,https://i.scdn.co/image/ab67616d0000b2739ae6891668c3589bfa8eff2d,False,30,[]
+Who Cares,Delroy Wilson,False,5F6ukc8oQpPi7n7rqWcC2V,10,183554,2024,https://i.scdn.co/image/ab67616d0000b273fcc4bcbd1192f86a21efe420,False,40,"['lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+The Spinward Marches,The Lord Weird Slough Feg,False,3Taw66JCZ3ukARH5AKIV4i,5,82533,2003,https://i.scdn.co/image/ab67616d0000b273653b9c62cba6be9a094e662d,False,17,"['nwothm', 'us power metal']"
+Decidete,Marisela,False,4JdtkSrEzYRYXi6LY0ui0x,19,232160,1998,https://i.scdn.co/image/ab67616d0000b273a3dad2d019c0d11a84f1819b,False,72,"['latin pop', 'ranchera']"
+Yell Out,Pennywise,False,2wIsv7gKyhG6yT773zDSsV,20,154440,2005,https://i.scdn.co/image/ab67616d0000b27324aa081db43260b84101bb50,True,56,"['punk', 'skate punk', 'socal pop punk']"
+All The Answers,Jesus Jones,False,16rfCDqirNz8lQyytORmPi,9,228466,1989,https://i.scdn.co/image/ab67616d0000b2738ab8a777e8d678fbf36bfe0f,False,42,"['britpop', 'dance rock', 'grebo']"
+Slow Love,Mr. Sancho,False,3udkXHuo2yTkr4aAEs2mbV,21,216813,2006,https://i.scdn.co/image/ab67616d0000b273de5faf9df45f64667faa2f0a,False,39,['chicano rap']
+Gotta Tell Somebody,Don Francisco,False,4XDcbI1L6tCMjiv2X39Ixn,13,395160,2000,https://i.scdn.co/image/ab67616d0000b273ad5e3d2cefddf80c78a276be,False,31,['jesus movement']
+Grandbag's Funeral,Happy Mondays,False,44rAEoYx2Or6fIKLQo8V7g,23,201253,1990,https://i.scdn.co/image/ab67616d0000b27330b27b5fddf69d3b03926915,True,49,"['britpop', 'dance rock', 'madchester']"
+Chase,Leona Naess,False,26afXe3TmqK6IbrnBqgfCF,2,199093,2000,https://i.scdn.co/image/ab67616d0000b273244c0239676513903939fcac,False,34,"['ectofolk', 'lilith']"
+Yo Yo Get Funky,Fast Eddie,False,5j1y2im0leY3lJlcxLFx1B,31,210000,2024,https://i.scdn.co/image/ab67616d0000b273ddf0da18ed8a5ce57bd4830c,False,40,"['acid house', 'chicago house', 'chicago rap', 'classic house', 'hip house']"
+Antes Que Seja Tarde,Nelson Ned,False,35AbQnmbZpIFgCkWrjrmDw,3,150133,2003,https://i.scdn.co/image/ab67616d0000b273cc1411adce8616f2fd9c1c1a,False,55,"['bolero', 'mexican rock-and-roll', 'pop romantico', 'ranchera']"
+Clifton's Two Step,Clifton Chenier,False,1u2OhBMje9wdurQ0BIEdVU,1,218080,2005,https://i.scdn.co/image/ab67616d0000b273702f8ef967d8a2f72bfa9371,False,27,"['accordion', 'zydeco']"
+From Da Back,DJ Godfather,False,4hXL5aCGhZn30n2jRZi8ak,2,60917,2000,https://i.scdn.co/image/ab67616d0000b273186a2c1cfe4db808c6ccca79,False,40,['ghettotech']
+Yo Quiero Saber,Toby Love Feat. Girlz Talk,False,191QGjGg9nEJyPysYm76eQ,8,230880,2006,https://i.scdn.co/image/ab67616d0000b2732090d71d7da50783b030753d,False,53,"['bachata', 'reggaeton']"
+Chicken Fed,Ghetto Mafia,False,7eVKwTefPTM2DBBlBDA2rO,0,303840,2004,https://i.scdn.co/image/ab67616d0000b273a53e5cf0aac8df45ce3239e2,False,22,"['atl hip hop', 'old school atlanta hip hop']"
+The Coldest Days Of My Life,The Chi-Lites,False,134M5UpPklk4DfK8epwg1l,20,509746,2006,https://i.scdn.co/image/ab67616d0000b27354e863427f6d665cf3713d6e,False,48,"['chicago soul', 'classic soul', 'disco', 'funk', 'quiet storm', 'soul', 'southern soul']"
+Purple Haze,Johnny Pearson,False,6XcFaZ7wYI8BZagARTgeSL,7,158933,1970,https://i.scdn.co/image/ab67616d0000b273fac85e785a0b78be98e3ff17,False,35,['library music']
+When Heaven Falls,Swans Of Avon,False,7lysa5YIR3xHVVHzO6EXqG,4,200146,2010,https://i.scdn.co/image/ab67616d0000b273236e063458a210e9dfd4ccb3,False,2,['corrosion']
+Centrali termiche,Piero Umiliani,False,2tc4pIrE16ZyfPvag6KXCB,4,144562,2000,https://i.scdn.co/image/ab67616d0000b27310c4b6f0200d9b2309e87900,False,58,['vintage italian soundtrack']
+Launder_ Lather_ Swab & Shower,Steve Green,False,71OzWMcvEWuX03Eil09cXY,2,126316,2004,https://i.scdn.co/image/ab67616d0000b273a586168b3a0cbc3192780f77,False,48,['classic praise']
+More than War,YZ,False,6XTgQ9AGTknsOi5MmmA0k7,0,248000,2009,https://i.scdn.co/image/ab67616d0000b273994c42da9506680ea98160ee,False,26,['new jersey rap']
+Can't Break a Dead Girl's Heart,Zombina & The Skeletones,False,0NFWMpFpLdVsJtqhCd16jE,14,154598,2002,https://i.scdn.co/image/ab67616d0000b273428c85476ee1a458e0db6f92,False,27,"['gothabilly', 'horror punk']"
+Change,Carroll Thompson,False,6GIK5XhKKcz8Wmx5jWPYsn,4,188050,1982,https://i.scdn.co/image/ab67616d0000b273c55d22af3634e46c7d96c936,False,26,"['lovers rock', 'uk reggae']"
+Medley,Mick Moloney,False,4QocOub6qP1GYhbkdMVGhF,4,205067,1973,https://i.scdn.co/image/ab67616d0000b27335205450a02ce7ba34dfcb57,False,26,"['celtic', 'irish banjo', 'irish folk']"
+Did You See Jackie Robinson Hit That Ball?,Buddy Johnson,False,1JFyl9zjVXLAIxVAjPFdzo,9,142026,2003,https://i.scdn.co/image/ab67616d0000b273fb6eff0a6ab12870144e1783,False,22,['jump blues']
+Mei Zi,Leon Lai,False,2uKSQogbioNcJT3YXr8lXC,0,265493,2005,https://i.scdn.co/image/ab67616d0000b27340c3c1c4b254d708124eebbb,False,51,"['c-pop', 'cantopop', 'classic cantopop']"
+Here Comes The Hotstepper,Ini Kamoze,False,3QRM0qZB7oMYavveH0iEqx,66,250466,1994,https://i.scdn.co/image/ab67616d0000b2736ffa23f19d8c125204e6220c,False,61,"['reggae', 'reggae fusion', 'roots reggae']"
+Du Er Venta I Himlen,Mons Leidvin Takle,False,5lZNFfOBqDjSxHSjy0Yfmt,0,159582,2005,https://i.scdn.co/image/ab67616d0000b273dd336c873de6aa82b93782eb,False,18,['norwegian gospel']
+Twilight,Vangelis,False,6o3wjXTROS51upZkU9Fk07,22,297666,1990,https://i.scdn.co/image/ab67616d0000b2734de9b0b9cc7895d48dae5555,False,62,"['cyberpunk', 'synthesizer']"
+Hell On Earth (Front Lines),Mobb Deep,False,1RjU7UhRICmdFPKxCucLgq,61,274093,1996,https://i.scdn.co/image/ab67616d0000b273aaade0aecd37f7c8311e11c7,True,68,"['east coast hip hop', 'hardcore hip hop', 'hip hop', 'queens hip hop']"
+22 (Vingt Deux) (Feat. Ours),Lily Allen Featuring Ours,False,5wecZPxZ8bXccbo2jWhU3C,9,186493,2009,https://i.scdn.co/image/ab67616d0000b2737f62b5b87e2aa9734631d052,False,70,"['dance pop', 'electropop', 'neo mellow']"
+The Rock,Atomic Rooster,False,1A5niC75Sd7kX01k0SwZla,10,270466,1971,https://i.scdn.co/image/ab67616d0000b27310d50a6752279d6d24c17cbc,False,31,"['british blues', 'progressive rock', 'proto-metal']"
+Out In The Woods,Leon Russell,False,1JUiLgTzZBJj5JXXvgnYn1,37,217773,1972,https://i.scdn.co/image/ab67616d0000b27351247ab79904061f1294b599,False,48,"['blues rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'outlaw country', 'piano rock', 'roots rock', 'singer-songwriter', 'southern rock', 'swamp rock']"
+Empty,Information Society,False,6BoIM6IY6grY3U08658OQW,12,512773,1997,https://i.scdn.co/image/ab67616d0000b2739b574598d44026e852dbb8b6,False,51,"['freestyle', 'new romantic', 'synthpop']"
+Hungry People,Otis Taylor,False,0MnmuriiGcstgrLQSixznt,5,301880,2001,https://i.scdn.co/image/ab67616d0000b2735dad42ee49620d8f8cabab46,False,40,"['acoustic blues', 'country blues']"
+Since I've Been Loving You,Fiona,False,7Fk2uuGasUNgvNN1nqHBzi,4,297426,2009,https://i.scdn.co/image/ab67616d0000b273ff306e95039cddd90d7de8b2,False,25,[]
+Reaching For The Best,The Exciters,False,5VHDCAlZ2QGC9mpCAciquR,16,213866,2012,https://i.scdn.co/image/ab67616d0000b2735559de7315258f2c9fd2276d,False,37,"['classic girl group', 'northern soul']"
+Whitfield,Atomship,False,1LMLAoQxgOyEeegpxmQpve,19,295226,2004,https://i.scdn.co/image/ab67616d0000b273c4adf58ae3bf4bb7494c4a5e,False,31,['hard alternative']

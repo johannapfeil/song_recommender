@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Elsa,Monique Morelli,False,2lUfEFUoJcMd1ETGDYNBQa,0,192053,2013,https://i.scdn.co/image/ab67616d0000b273047e60f3acb08dd15463dd47,False,5,['vintage chanson']
+Army,Tunsi,False,1v6f1GuEaGDdud5V4oUcBL,0,12666,2003,https://i.scdn.co/image/ab67616d0000b2735f1e33b5a531b2759bbb3413,False,13,[]
+Magiki Vradia,Irini Merkouri,False,45vtzZm52l7Gvq3sOpdHrI,0,230226,2003,https://i.scdn.co/image/ab67616d0000b273d704e8c5e6e9080008c75484,False,30,"['greek pop', 'laiko']"
+Little Sunflower,Alexander Zonjic,False,1KZtUZjCnHIwi9qE1tSefo,26,259266,2009,https://i.scdn.co/image/ab67616d0000b273eb026b48c415c11eba2febda,False,21,"['deep smooth jazz', 'jazz flute', 'smooth jazz']"
+Walk On The Wild Side,Jesse Malin,False,0EnpPn8TFHCFtgBzB5HFfl,3,241253,2008,https://i.scdn.co/image/ab67616d0000b2735d3dffd79c632fe2e1152c64,False,39,['alternative country']
+Danny,Billie Jo Spears,False,5utoLB8yhhFcQkFawkEDqP,5,128248,2021,https://i.scdn.co/image/ab67616d0000b273df8cb4f08350c2731f836d6f,False,43,['classic country pop']
+The Court,Zbigniew Preisner,False,5K56k5kfAYGTLITMiPBKCw,13,66600,2003,https://i.scdn.co/image/ab67616d0000b273521b843af12ecda7560869a1,False,51,['polish contemporary classical']
+Speechless,Mish Mash,False,4dNPk1uKTwLw5LR7ol9b8F,0,517506,2006,https://i.scdn.co/image/ab67616d0000b27350097cb8931519ab06a6759f,False,6,[]
+Lost,Roger Sanchez,False,4i4lTWA4IZ2kTdmHZWAgcV,34,351906,2006,https://i.scdn.co/image/ab67616d0000b273d4d70bee28fc45d66bfae0b8,False,55,"['disco house', 'diva house', 'tribal house']"
+Nieve,Los Chichos,False,7CNmMHrjYMmGENnTqf3rog,13,199098,2014,https://i.scdn.co/image/ab67616d0000b273ff005a8579e60bc69f793dc9,False,58,"['pop flamenco', 'rumba']"
+Listen,FFH,False,3CQkgLwhzJizZdUlWczUWi,0,218226,2005,https://i.scdn.co/image/ab67616d0000b27314d5d7e460c4507b260a943f,False,34,"['christian alternative rock', 'christian music']"
+When I Think About Love,Guy Forsyth,False,0AaQfqYUvF14Hb1a2yTqtU,0,261906,2010,https://i.scdn.co/image/ab67616d0000b2730c4af31b6cb29bfbd6996941,False,14,['austin americana']
+Momentum,Elvira,False,1q1XIJebCzjjpCpMkovjOh,0,291840,2006,https://i.scdn.co/image/ab67616d0000b27394e223b237ccea308249f812,False,0,[]
+Sincerely_,Hard Romantic,False,70afKPyCiz63diIW5UAZN8,0,151333,2010,https://i.scdn.co/image/ab67616d0000b2739742840319a6ab20024ebcb9,False,4,[]
+So Far So Bad So What?,Melt Banana,False,5Y2VRQfK1OO8a7Y6YoXS1B,0,27893,1994,https://i.scdn.co/image/ab67616d0000b273058dea9e5b87a96bc903d0a5,False,35,"['experimental rock', 'japanoise', 'math rock', 'noise rock', 'noisecore']"
+Up on the House Top,The Jordanaires & Orion,False,5YkU2I17NuSaJuZHNi7b1G,1,88426,2009,https://i.scdn.co/image/f8721b89a8565c4560d3597db6a568744de8d9e5,False,7,[]
+Hydraulic Pimp,Non Stop DJs,False,3NAuTX4IMZTF38SBTUheNr,0,222415,2007,https://i.scdn.co/image/ab67616d0000b27395b72f019e907ab5df0c9942,False,3,['ghettotech']
+Je Suis Une Cigarette,M,False,3syDhN5pCuM9AfE3WdSgLF,17,216773,1998,https://i.scdn.co/image/ab67616d0000b273860f0000040efb2148f17723,False,60,"['chanson', 'french pop', 'french rock', 'nouvelle chanson francaise']"
+Shining,Swans Of Avon,False,08x1yQbhijirGo9vcKeVfT,0,231320,2010,https://i.scdn.co/image/ab67616d0000b273aa4e122da053b56bfc18fe3e,False,2,['corrosion']
+Life's Railway To Heaven,PATSY CLINE & WILLIE NELSON,False,5iIrUerqDGfb8AOecuA6Tb,21,171480,1973,https://i.scdn.co/image/ab67616d0000b27373c476a88ace675397dfb6ad,False,62,"['country', 'nashville sound']"
+Hello Space Boy,Behemoth,False,2EkGjk6tgt5kndBbqRLHPg,10,209000,2000,https://i.scdn.co/image/ab67616d0000b2730bea7729c70e6de89e63038c,True,52,"['black metal', 'death metal', 'groove metal', 'metal', 'pagan black metal', 'polish black metal', 'polish death metal', 'polish metal']"
+I Wish I Was A Punk Rocker (With Flowers In My Hair),Sandi Thom,False,4mnTMsp8Cgf9TNiQMhH11L,54,151640,2006,https://i.scdn.co/image/ab67616d0000b2737a731217c9463e1056cd727c,False,42,"['candy pop', 'scottish singer-songwriter']"
+Booty Bounce,Mister Ries featuring Six Foe,False,3g2WzDmaLOccIO6Y17podH,10,194072,2006,https://i.scdn.co/image/ab67616d0000b2739901796aeedc785913120ff1,False,4,['ghettotech']
+Earth Born,Kitaro,False,3zEbVf4UgyY0ApnwV6H51V,21,369004,2016,https://i.scdn.co/image/ab67616d0000b273081a428f891ee6fd488e83f3,False,48,"['healing', 'new age', 'synthesizer']"
+Dance of the Blue Devils,Les Brown,False,2P9Mwz6hOaxiwJj00JoQUO,0,184866,2019,https://i.scdn.co/image/ab67616d0000b27363d8a5d73b70fe75de89e427,False,30,"['big band', 'swing']"
+Come On Back Home,Cece Winans,False,0L5jYrvezGeupeCT14y29V,19,248666,1998,https://i.scdn.co/image/ab67616d0000b27382be64fe699110480cfe6787,False,66,['gospel']
+Sannyasin,John Mayer,False,73CXHKvEVeEcgOLvrP6P9Q,0,189000,2019,https://i.scdn.co/image/ab67616d0000b27342ad19b7dd22890c26079469,False,22,[]
+E. Warren,DJ Omega,False,2UJkUH8iaDRnm3oW1i9b2D,0,261346,2006,https://i.scdn.co/image/ab67616d0000b2737fc2daa2449ea763aa65d04f,True,13,['ghettotech']
+Talk Of The Town,Firehouse,False,7E5t2BQEia8ZUcaguuDd3l,29,278146,1992,https://i.scdn.co/image/ab67616d0000b27302214832aac021cfc6dbcde1,False,58,"['glam metal', 'hard rock']"
+Denk,Samy Deluxe,False,1CQqCrTaHrY3ZpoxWrbvq0,12,237373,2004,https://i.scdn.co/image/ab67616d0000b2739f2a2d3ef32049e7b9e5d747,False,53,"['german alternative rap', 'german pop', 'hamburg hip hop', 'oldschool deutschrap']"
+Attic Room,Casiotone For The Painfully Alone,False,2gziatbtQixCGixkjx4esQ,7,188946,2003,https://i.scdn.co/image/ab67616d0000b2735c16f33e9be6e032a04e5d2f,False,35,"['anti-folk', 'indietronica', 'lo-fi']"
+Sometimes,Les Rythmes Digitales feat. Nik Kershaw,False,6CrDfmvHCyTJOoV8kEfnXS,22,297040,2005,https://i.scdn.co/image/ab67616d0000b27363f70bdd1cc4257c79fa4e46,False,28,['big beat']
+124 Stomp,Azukx,False,5Iksw71wfBcd9qnfPGsXqm,0,438906,1995,https://i.scdn.co/image/ab67616d0000b2731d783ceabcc4a789e698e2ec,False,1,[]
+The Story Of An Artist,Daniel Johnston,False,1a5K6Fw5HKA0JCjXH1I7Oa,22,308371,1982,https://i.scdn.co/image/ab67616d0000b2731d90f5229c048044a66a9ec0,False,47,"['alternative rock', 'anti-folk', 'chamber pop', 'countrygaze', 'lo-fi', 'melancholia', 'noise pop', 'outsider']"
+So Say I,Mr Brown,False,66oFqEkmOdVxnPQUKSBrLb,0,147107,1998,https://i.scdn.co/image/ab67616d0000b273946b0fc1eb38c6f80136c1fb,False,6,[]
+One Thing,YZ,False,2QtzImaRsICS1BExyAK9go,0,267706,2002,https://i.scdn.co/image/ab67616d0000b2731e10e03c9145ba338ed86b9f,True,26,['new jersey rap']
+Big Trouble Upstairs,Pitch Black,False,6eebZfRRzKKVLgZLdQ6zCb,1,447547,2004,https://i.scdn.co/image/ab67616d0000b273fb0d4fa4afd04dace0b8a020,False,30,"['nz electronic', 'nz reggae', 'psychill']"
+Te Vas Angel Mio,Michael Salgado,False,71u6B9AAjVty5IkTW9xsyz,22,212626,2006,https://i.scdn.co/image/ab67616d0000b2738b0b1b3c3bf954a1ff41f02c,False,44,"['norteno', 'tejano']"
+A Movie Of A Placid Lake On A Moonless Night in September,Will Ackerman,False,53xfjiTn3glhhA8mEh2h9e,3,194200,1992,https://i.scdn.co/image/ab67616d0000b2739d1b1795250053eebbe3ee4c,False,47,"['fingerstyle', 'new age']"
+Molten,Digital Mystikz,False,2slj0H5ogdshy28BZvYl1O,15,299497,2006,https://i.scdn.co/image/ab67616d0000b2734437c1431f978561328fe9d7,False,12,['classic dubstep']
+Love You to Pieces,Lizzy Borden,False,7apVsRcngF6baEzh7yOzXA,12,268933,1985,https://i.scdn.co/image/ab67616d0000b27354ac1f1c4e1516c683e5d2f1,False,29,"['glam metal', 'speed metal', 'us power metal']"
+Take That!,Richard Smith,False,74PuRFkPjBEkUDZhatG4cJ,0,263266,1999,https://i.scdn.co/image/ab67616d0000b273df77b7e2a7ab95f444af0ea7,False,17,[]
+Zeno Beach,Radio Birdman,False,78GeIGG3ofUsTstZuat07W,6,155680,2007,https://i.scdn.co/image/ab67616d0000b273d29b3ec40d2bc7e7a1fc3082,False,32,"['australian alternative rock', 'protopunk']"
+Phrase,Papa Wemba,False,0bs2TwmeY6DvWtRCL2tefg,23,298070,1989,https://i.scdn.co/image/ab67616d0000b273a22f691c9476abddfaa88e01,False,44,"['afropop', 'rumba congolaise', 'soukous', 'zilizopendwa']"
+From A Jack To A King,Ned Miller,False,34tzSG70boQTq1UYX9ouew,40,133342,2021,https://i.scdn.co/image/ab67616d0000b2734bb2b88e2ba16acd27f988bf,False,36,['nashville sound']
+Meteores mouvement de Chroniques de la lumier,Francis Dhomont,False,0qWc0k9JvtnpbtEyP0DatM,0,391453,1989,https://i.scdn.co/image/ab67616d0000b273588f468d18530e352cd3a3e1,False,2,"['acousmatic', 'avant-garde', 'electroacoustic composition', 'laboratorio', 'musique concrete']"
+The Road Goes On Forever,The Highwaymen,False,5QvUIQYaDBvssqnxrw1X49,49,281400,1995,https://i.scdn.co/image/ab67616d0000b27394c04a83972d0493a6f6f5fe,False,62,"['country', 'country rock', 'outlaw country']"
+Don't Waste My Time,John Mayall,False,5kytQwmrbViv4f1twPs8BI,14,294760,1969,https://i.scdn.co/image/ab67616d0000b27317e9aec506f498c4af61a7ea,False,44,"['blues', 'blues rock', 'british blues', 'electric blues', 'harmonica blues', 'traditional blues']"
+Medicine,Bobaflex,False,6ZHfn34a4UH8jCgOb18gNM,12,150973,2005,https://i.scdn.co/image/ab67616d0000b2736d46028e7c064c090b95e60f,False,41,['west virginia indie']
+Telegrama,Zeca Baleiro,False,7xpDGoUGbtaquk5xMvzwTh,59,266080,2002,https://i.scdn.co/image/ab67616d0000b2732c581523063d6771c99f660f,False,59,"['brazilian rock', 'mpb', 'musica maranhense']"

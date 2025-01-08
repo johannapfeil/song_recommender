@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Looking Back,John Mayall & The Bluesbreakers,False,6Dp555qjl6G6JtgTn6xatB,16,156266,2006,https://i.scdn.co/image/ab67616d0000b2735b3f06ef5ec331cb8595e895,False,49,"['blues', 'blues rock', 'british blues', 'british invasion', 'electric blues', 'traditional blues']"
+Banana Split Republic,False Prophets,False,30RrIRUPSkxJLnFezX8vKQ,2,244640,1997,https://i.scdn.co/image/ab67616d0000b2736fd688a60808a97101f0944d,False,5,['nyhc']
+Eden,Mystic Rhythms Band,False,2Z7nZDq5iWnvIngjPcujYv,0,369733,2006,https://i.scdn.co/image/ab67616d0000b2737665b36e103f33dd9dd617f8,False,8,['world chill']
+When I Was Drinking,Hem,False,4RsQgBnpLYe3n7UHxE9Kfi,28,224600,2001,https://i.scdn.co/image/ab67616d0000b2738106fb07e7ce7cc32c03f91f,False,38,"['ectofolk', 'lilith']"
+Think,The Rolling Stones,False,3075GFD8j1WFyF1pUGbAuh,32,189453,1966,https://i.scdn.co/image/ab67616d0000b273bad7062c3fd2f2d037989694,False,80,"['album rock', 'british invasion', 'classic rock', 'rock']"
+Every Time I Look At You,Kiss,False,2wwTREXy3Uq8FWksOWYf03,17,279066,1992,https://i.scdn.co/image/ab67616d0000b273d70b66e62eeef929f1c1782b,False,74,"['glam rock', 'hard rock', 'rock']"
+Rave On (Live 1982),Marshall Crenshaw,False,7KOag7iVnxuF4RcU5ePIFK,3,95866,2005,https://i.scdn.co/image/ab67616d0000b2736151bee5e134ca0dd1471ad6,False,35,"['jangle pop', 'power pop', 'underground power pop']"
+Don't Let Her Pull You Down,New Found Glory,False,5ab6WsStT9zSlNZ9CSArje,28,208266,2009,https://i.scdn.co/image/ab67616d0000b273d0d3b57ae86784fb556844d7,False,60,"['easycore', 'neon pop punk', 'pop punk']"
+Zindegi,Chantal Chamandy,False,7aCOySJVFed2cvo16ECN3j,0,256160,2008,https://i.scdn.co/image/ab67616d0000b2733b2d7e892fce6c8670932d55,False,0,[]
+"Then He Said_ ""Sing",Ivan Parker,False,4wGUg0zeyL0wFZEyCSEDkl,13,208426,2008,https://i.scdn.co/image/ab67616d0000b273b7ae96c6f5cae76b9c4ee1fa,False,31,['southern gospel']
+Overture (Genesis & Job),Don Francisco,False,1IRcc7bSySQt6UF1qKK9L6,2,311160,1994,https://i.scdn.co/image/ab67616d0000b273337cc882669266e947e044c1,False,31,['jesus movement']
+Leaders Of Men,Joy Division,False,3FckgkjljxOUBt9LYUZo5Z,36,155051,2010,https://i.scdn.co/image/ab67616d0000b273a1d7fb161ce10fbd09b08183,False,65,"['alternative rock', 'indie rock', 'madchester', 'new wave', 'post-punk', 'punk', 'rock', 'uk post-punk']"
+Le Precipice,Daara J,False,7lLRNcicMtA5JRjOO8Ec4J,6,258293,2003,https://i.scdn.co/image/ab67616d0000b273d6b465239049bc51f3d7e92d,False,19,['hip hop galsen']
+Ten Thousand Angels,Mindy McCready,False,1mhPVHjzfJLGird0TFZxmb,42,207226,1996,https://i.scdn.co/image/ab67616d0000b27355cfd0a24a891f8d62dc7d71,False,40,"['country', 'country dawn', 'country road']"
+Monkey Faced Woman,Otis Spann,False,246PIv9oOYq8eq5eNqfVH9,0,298560,2008,https://i.scdn.co/image/ab67616d0000b2734985b9629ae0eef6e485b05d,False,35,"['blues', 'boogie-woogie', 'chicago blues', 'jazz blues', 'piano blues', 'traditional blues']"
+Standing In The Darkness,Alias,False,21hcjyBp5WfpX9t1jkT7No,8,274093,1990,https://i.scdn.co/image/ab67616d0000b273aa342118c75cf890db12b3c7,False,38,[]
+Baby_ I'm Your Man,Kevin Max,False,43n3LlrYB1eveNSaTQuWft,1,219079,2008,https://i.scdn.co/image/ab67616d0000b27334add532ca0e0e9b82aef5b7,False,31,[]
+Class Clown/Good Old Days (Reprise),Owsley,False,6en4n9rlonpsLPoGf6B2O6,4,348040,1999,https://i.scdn.co/image/ab67616d0000b273a487b45f676ed3cfe057f457,False,13,"['modern power pop', 'power pop', 'underground power pop']"
+Gammer Gerten's Needle,Deep Blue Something,False,6fPOMDQjhpriegRiBpTNK7,14,196893,1995,https://i.scdn.co/image/ab67616d0000b273038f8fad2f75b637f1c9aef5,False,55,['pop rock']
+La Panadera,Pedro Laza Y Sus Pelayeros,False,6jhZD2sMTKaN2ijs9xXTya,0,156353,1982,https://i.scdn.co/image/ab67616d0000b2734c0b8edef120813bae539d6c,False,33,"['cumbia', 'porro']"
+Leave My Kitten Alone,Little Willie John,False,0Sdn1VxpGIEhKaYZg5Ra6Z,19,153160,2011,https://i.scdn.co/image/ab67616d0000b273be2eb2ee3d02063ecddc0cc7,False,37,"['rhythm and blues', 'southern soul']"
+Strange Way To Save The World,4Him,False,2NoWUw6jdijW8v1nPHoNwG,20,270280,2001,https://i.scdn.co/image/ab67616d0000b2731ca4d72100bf327ddd838f4f,False,36,"['ccm', 'christian alternative rock', 'christian music']"
+Caught - Special Way,Freedom,False,256drk58rBa7Q1wibBKbzX,0,245493,2007,https://i.scdn.co/image/ab67616d0000b27388d160f645dafbb02b436f2a,False,15,[]
+Second Chance,The Sterns,False,7JdD5VVg2KvdhIiszly5rC,1,162826,2006,https://i.scdn.co/image/ab67616d0000b273b97756f0cfaffd00ba9a546a,False,8,['boston rock']
+All About Our Love,Sade,False,0TZOdKFWNYfnwewAP8R4D8,53,160626,2000,https://i.scdn.co/image/ab67616d0000b27320fc6951e4d293707de2434c,False,78,"['british soul', 'sophisti-pop']"
+This Is Not A Love Song,Public Image Ltd,False,2L1n4QtvMOoi3QCA3rDnhO,31,269306,2013,https://i.scdn.co/image/ab67616d0000b273a6fecd8d536772272c9487db,False,45,"['alternative rock', 'new romantic', 'new wave', 'post-punk', 'punk', 'uk post-punk']"
+Pack Your Bags (Remix by Ralphi Rosario),Leana,False,7bL1pJlyu4gY7LJDXmJ9Hm,0,228160,2008,https://i.scdn.co/image/ab67616d0000b27398d07fde2f4fddc4f2ccf195,False,5,['deep vocal house']
+De Tha Kano Piso,Konstantinos Galanos,False,1vvGGGJ3Ns7xn6JVBMNDOI,1,219720,2007,https://i.scdn.co/image/ab67616d0000b273a1a2e1e0d02b78813c35bff3,False,29,"['greek pop', 'laiko']"
+I Know A Place,Joe Bonamassa,False,6S9vQZxPtZtGpiuZNAMpBH,13,258880,2010,https://i.scdn.co/image/ab67616d0000b2735ddd0cd16d26456c4160b789,False,58,"['blues', 'blues rock', 'electric blues', 'modern blues', 'modern blues rock']"
+The Bells Of Rhymney,Roger McGuinn,False,3jInjGjoWGVcrdcsTajHtp,0,264693,2004,https://i.scdn.co/image/ab67616d0000b27386f64c8a7cafb52833c837b4,False,40,"['country rock', 'folk', 'folk rock', 'roots rock', 'singer-songwriter']"
+I Got My Discharge Papers,Big Joe Turner,False,3ah5ZgCU1AcdBdurFsNBGu,0,162351,2011,https://i.scdn.co/image/ab67616d0000b273940b0304c5e4dd3484b7a936,False,38,"['blues', 'jump blues', 'rhythm and blues', 'traditional blues']"
+You are the summer,Gloria,False,5udLiR3L3TFnpcRjfkfTD6,1,218120,1999,https://i.scdn.co/image/ab67616d0000b2735a96158becea6c89141226d9,False,18,[]
+Je Marche Seul (Version Longue),Jean-Jacques Goldman,False,0kOsykW9tH0omIeVS6IgqK,14,357200,1991,https://i.scdn.co/image/ab67616d0000b273f705a2d17417c307200ea5e8,False,64,"['chanson', 'french pop']"
+Hootchie Cootchie Man,Rocky Hill,False,5Ge6J7CXex4ZBC47GVHnhW,0,339466,2003,https://i.scdn.co/image/ab67616d0000b2738eeacae30d2e7f7efe92c995,False,2,['texas blues']
+Mind On,Ashes to Ashes,False,0tGYsJ8Y59vYSDNxNZu1f0,0,191880,2006,https://i.scdn.co/image/ab67616d0000b273b4eb844d9ea8050714f89bc6,False,0,[]
+The Letter That Johnny Walker Read,Asleep At The Wheel,False,53DYX4ai8GYPq1yPA1o4EP,41,230893,2004,https://i.scdn.co/image/ab67616d0000b2734a1301800f12fcf2d9282340,False,42,['classic texas country']
+Long Way 2 Go [Friscia & Lamboy Club],Cassie,False,1RH3m2SMQ5ygVVk95SLCnM,3,490866,2008,https://i.scdn.co/image/ab67616d0000b2736c70cac73642d2ac9a74c532,False,67,"['dance pop', 'hip pop', 'pop rap', 'r&b', 'urban contemporary']"
+Just My Imagination,Cornell Campbell,False,6lfHvRgVk9nQ022icD9hyI,1,159946,1980,https://i.scdn.co/image/ab67616d0000b2733bb9db650ba484ff695cfdd0,False,39,"['dub', 'lovers rock', 'reggae', 'rocksteady', 'roots reggae']"
+Lovin' You,Minnie Riperton,False,3ebYtLVuV4HzEZUDcpZB9p,59,223143,1974,https://i.scdn.co/image/ab67616d0000b2731d3aab58dd4e235e7059b6a1,False,55,"['classic soul', 'disco', 'funk', 'motown', 'quiet storm', 'soul']"
+Young Riders,Hot Boys,False,5oZMLp0Rj3jzfJoQnFc1yS,8,224053,2003,https://i.scdn.co/image/ab67616d0000b2730d2b2efb73fbbdfaeb5e2fdd,True,40,"['dirty south rap', 'new orleans rap']"
+I'm That Type Of Ni**a,The Pharcyde,False,2aai3wl5kmvUeWFMiooq0Y,18,315840,2017,https://i.scdn.co/image/ab67616d0000b273341fe7e993cac118b6411cdf,True,60,"['alternative hip hop', 'hardcore hip hop', 'hip hop', 'jazz rap', 'west coast rap']"
+A Dustland Fairytale,The Killers,False,6HDxUR4nMVM69Vz9q1oHIk,52,225160,2008,https://i.scdn.co/image/ab67616d0000b273a43cd43ef4f3b2d5413b17f9,False,80,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']"
+Intro,Tha Liks,False,7BeTDtAnkpirHcEZbBTM5p,3,41360,2001,https://i.scdn.co/image/ab67616d0000b27324930a812a67e94c049da458,True,24,[]
+Somebody Sweet,John D. Loudermilk,False,35IiZlJVdrSJZPOFW6EXI4,0,115493,2020,https://i.scdn.co/image/ab67616d0000b273a9610eeb1ec3fafe53a260c4,False,25,['rock-and-roll']
+Die Romantic [Live],Aiden,False,2zACv9D3WPFMbiaec7dA4a,2,241040,2010,https://i.scdn.co/image/ab67616d0000b273b9c0afd08764f4077bdc3507,True,37,"['horror punk', 'screamo']"
+Why can't we live together,Sin Plomo,False,5kh3goOEQeEFitBNwHS0HZ,0,144390,2019,https://i.scdn.co/image/ab67616d0000b27373fc70f8c87468c6307fd2ed,False,10,[]
+Daybreak,Winterlight,False,10tAHpl8YCZ3OPofXToaVU,9,328800,2009,https://i.scdn.co/image/ab67616d0000b27311a1e9a67bfa4c6b767d5bce,False,13,['ambient idm']
+Crayon Sharpener,themselves,False,1wymQrLE5dbyBlSSTzUesS,4,271440,2019,https://i.scdn.co/image/ab67616d0000b2738c2164908b9b4351cdeec19b,True,18,['abstract hip hop']
+Does It Float,Dinosaur Jr.,False,7K9F3ob3ssnoPVZ28Xw3wA,16,198533,1985,https://i.scdn.co/image/ab67616d0000b2730c7cf8fc23d2427bc32d3bf6,False,52,"['alternative rock', 'lo-fi', 'noise pop', 'noise rock', 'permanent wave', 'power pop', 'shoegaze', 'slacker rock']"
+Give U My Heart,Toni Braxton Featuring Babyface,False,6pMliTILbMMQJVFvru12DX,36,301626,1992,https://i.scdn.co/image/ab67616d0000b273dcf6379f165d342206ed4f24,False,62,"['contemporary r&b', 'r&b', 'urban contemporary']"

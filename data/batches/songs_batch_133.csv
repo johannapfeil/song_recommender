@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+( Gone With the Wind) Bonnies Fatal Pony Ride,Max Steiner,False,7ftsMg9dxtIoKVRQGSmgab,0,152578,2022,https://i.scdn.co/image/ab67616d0000b273c1f18ac6ddf536da6a3b3920,False,0,[]
+Number One Girl,Glen Washington,False,4oTLkRt8IMcnNIMMJAAvOQ,21,237200,2000,https://i.scdn.co/image/ab67616d0000b27393218a6a5f16e838c48f641d,False,39,"['lovers rock', 'old school dancehall', 'reggae', 'roots reggae']"
+Filosofia Pura,Gal Costa / Maria Beth\xc3\xa2nia,False,5fyqdwk0jJT89VLMPpPuDs,22,231733,1983,https://i.scdn.co/image/ab67616d0000b273f22b1ae166a8d94abfef11b4,False,65,"['bossa nova', 'mpb', 'tropicalia']"
+My Ship Is Comin' In,Walter Jackson,False,0vfjFgkM5ovI2SLwzZnzU1,7,189666,1996,https://i.scdn.co/image/ab67616d0000b273ef6530c3e488e21183b93338,False,20,"['chicago soul', 'classic soul']"
+Fractured Quantum,Ace Frehley,False,2Pue21Kvx5Fy0wLK6zqqRL,10,377680,2017,https://i.scdn.co/image/ab67616d0000b2734543e01ee567c967e7bd6f63,False,45,"['glam metal', 'hard rock']"
+De Do Do Do_ De Da Da Da,The Police,False,0yJvWbn8xQKiDZ84VN5lQG,61,247293,1980,https://i.scdn.co/image/ab67616d0000b273fb1bc65edf4717e75fbc70ab,False,80,"['album rock', 'classic rock', 'permanent wave', 'rock']"
+Free Love,Long Beach Dub Allstars,False,54EnV0WX27W2H9IryrzQpn,18,200533,2001,https://i.scdn.co/image/ab67616d0000b2737773583cb9309d99fdfec053,False,39,['reggae rock']
+Pastel,Richard Smith,False,6xU0P8epyfdEJAjNHrfNC3,0,277133,1999,https://i.scdn.co/image/ab67616d0000b273df77b7e2a7ab95f444af0ea7,False,17,[]
+Qu Ni De Hun Li,Candy Lo,False,0JttdWCgtBibruBjSjVqel,12,173106,1992,https://i.scdn.co/image/ab67616d0000b2735a9aca8f3fbf224be74ed450,False,71,"['baroque', 'classical', 'early music', 'english baroque', 'german baroque']"
+Smoke In The Air (A Cappella),C.L. Smooth,False,1Ib4HsTpFhbh1R1GhQ6aLb,0,185186,2006,https://i.scdn.co/image/ab67616d0000b2734f300be0cbe94ad1006dc368,False,38,['east coast hip hop']
+Red Sails In The Sunset,Arthur Tracy,False,3jDlCNpxqwXPQefO2avK7F,0,178635,2016,https://i.scdn.co/image/ab67616d0000b273bed81f4eb4e25d9b642670bd,False,3,[]
+IRM,Charlotte Gainsbourg,False,5cTcupHSgywUQFU7RzWfAJ,22,154964,2009,https://i.scdn.co/image/ab67616d0000b2739452b7dd6298a632b7aaa35e,False,49,['art pop']
+Kapitel 4,Oliver Kalkofe,False,782XzrsAjNB6zduwzZQ1Nh,6,187216,2022,https://i.scdn.co/image/ab67616d0000b273af00443a692278253cfde5b5,False,60,['hoerspiel']
+20.000 Seconds,K's Choice,False,5gJNUI129J3AYLlE5kA7n4,21,144133,1998,https://i.scdn.co/image/ab67616d0000b273b4bffb542ffd650bfea71228,False,44,"['alternative pop', 'belgian rock', 'lilith']"
+Look Thru My Eyes,DMX,False,3URLdhLYPUDbxOIMq74YAP,45,230426,1998,https://i.scdn.co/image/ab67616d0000b27311658b970e0518be491871df,True,72,"['detroit hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']"
+(The Best Part Of) Breakin' Up,The Ronettes,False,6HfubSk3SSjTwZq47HLh1z,31,184346,1964,https://i.scdn.co/image/ab67616d0000b273b298efc29df3b69ec3f0d675,False,79,"['brill building pop', 'classic girl group', 'motown', 'rock-and-roll']"
+Sugar Coated Sour,The Dillinger Escape Plan,False,2UcpjCU2cpRx7DurSQb7U1,28,144013,1999,https://i.scdn.co/image/ab67616d0000b2734dceb298c234a3e42fc72377,True,45,"['american metalcore', 'mathcore', 'new jersey hardcore', 'new jersey punk', 'post-hardcore']"
+Il Y A Une Question (Live),Cali,False,2wx0TPBm4I1uxZQpsxA3o2,5,328160,2006,https://i.scdn.co/image/ab67616d0000b273f2cf007542f545fba19ad63f,False,41,"['chanson', 'french pop', 'french rock', 'nouvelle chanson francaise']"
+Ferrous Carbonate Mass,Kali,False,2fgi8BZgkKc0abGX7XFUu7,0,212586,2014,https://i.scdn.co/image/ab67616d0000b273a874ec54fd35325fd6c3cc02,False,15,[]
+Spider's Nest Blues,Memphis Jug Band,False,6fHE0czNtob9Rt7lOADq73,1,185400,2006,https://i.scdn.co/image/ab67616d0000b27355efc5e63eb6e0528dac1fea,False,18,"['acoustic blues', 'appalachian folk', 'jug band', 'memphis blues', 'traditional blues', 'traditional folk']"
+Hoes & Discos,Non Stop DJs,False,2j3I4qFVwVvknNaVXH2fTe,0,238321,2007,https://i.scdn.co/image/ab67616d0000b27395b72f019e907ab5df0c9942,False,3,['ghettotech']
+Harmony,Jesse Malin,False,3m8aidYU8oSlqtaPXXr0S3,1,168013,2008,https://i.scdn.co/image/ab67616d0000b2735d3dffd79c632fe2e1152c64,False,39,['alternative country']
+Funky Medley,Jeff Scott Soto,False,1wqBAIRSaGqnlgn7bo0n9y,2,771880,2009,https://i.scdn.co/image/ab67616d0000b273f9ac9c02549f067c94b1a6d1,False,34,"['glam metal', 'hard rock', 'melodic hard rock', 'neo classical metal']"
+It's Surprising What the Lord Can Do,The Del McCoury Band,False,6ljSm8dymoeSI5j5hkhwpc,1,174335,2006,https://i.scdn.co/image/ab67616d0000b273e1142fbcfbfcbb2bf9b8bf82,False,41,"['bluegrass', 'jam band', 'progressive bluegrass']"
+Hotel,Cassidy featuring R. Kelly,False,4hHXhCRSnOKd6nMGaivmD0,54,247040,2004,https://i.scdn.co/image/ab67616d0000b27317721e49495e9a13d3d6f40f,False,48,"['battle rap', 'hardcore hip hop', 'hip pop', 'philly rap', 'southern hip hop', 'trap']"
+Mein Herz kann man nicht kaufen,Gall_ France,False,1AIWtha0mObki0Yagyq3cC,8,162800,1998,https://i.scdn.co/image/ab67616d0000b273fb10c3e1b33afb2ff565c0b9,False,60,"['chanson', 'ye ye']"
+Angel In Hell,Doug MacLeod,False,3ewQldgV0dCRwFBtVjsP5K,0,359533,2015,https://i.scdn.co/image/ab67616d0000b273c044bd25c468d65756c6a6ae,False,26,"['acoustic blues', 'blues']"
+If This Is The End,Jeff Scott Soto,False,5WqwKCAelGBwipxwUABAUE,9,281640,2004,https://i.scdn.co/image/ab67616d0000b27376f96aa45f06cd548fee8310,False,34,"['glam metal', 'hard rock', 'melodic hard rock', 'neo classical metal']"
+Beginning Of The End,Cockney Rejects,False,7EelWbSoixbBkHXjynW4db,7,204186,1993,https://i.scdn.co/image/ab67616d0000b27346b8fcf91cc0298e6340ab41,False,34,"['oi', 'punk']"
+Latin Flute,Deodato,False,0OAg2SWTNUfrN0qTm4VqaQ,24,287360,1973,https://i.scdn.co/image/ab67616d0000b273fed066f8a948c46f7eaac477,False,43,"['bossa nova jazz', 'brazilian jazz', 'jazz funk']"
+Nite Life (Sound Factory Version),Kim English,False,6qrJRepDEd9G6Pt0McuazQ,10,387266,1999,https://i.scdn.co/image/ab67616d0000b27354c104edd1ec549d652a3041,False,38,"['diva house', 'garage house', 'vocal house']"
+These Old Eyes Have Seen It All,George Jones,False,7EPjcrekxCPdiVYqasZVXF,13,230733,1986,https://i.scdn.co/image/ab67616d0000b27360a9b4deae22e011e5094e1e,False,63,"['classic country pop', 'country', 'country rock', 'honky tonk']"
+"The Killing Of Dumbledore (""Harry Potter & The Half-Blood Prince"")",Nicholas Hooper,False,0d1rmYnylP0R2h03RedMSM,38,214933,2009,https://i.scdn.co/image/ab67616d0000b273be91395199c3a1295f960a65,False,60,"['british soundtrack', 'soundtrack']"
+My Old Man Boogie,The Reverend Peyton's Big Damn Band,False,6YiP92ctEwPV1mPvOc19cf,13,179466,2006,https://i.scdn.co/image/ab67616d0000b273e20dd743aca38675bca0d2c4,False,37,"['deathgrass', 'indiana indie', 'modern blues rock', 'roots rock']"
+Music For The Head,Porcupine Tree,False,62INls2dVry2cSi8IOfjYo,17,160346,1991,https://i.scdn.co/image/ab67616d0000b273e0294ac39cf7e5166c315299,False,56,"['progressive metal', 'progressive rock']"
+None Missing,Birdapres,False,1NMoj9xl5ljSEYnwkpPU13,0,254063,2010,https://i.scdn.co/image/ab67616d0000b2734e76d7d6080990355d891e48,True,10,[]
+Trybal,Stargarden,False,2EcU0mTT6jBal67geEqeiB,0,423706,2004,https://i.scdn.co/image/ab67616d0000b273b2f9707ff73b1c2b919d36aa,False,3,[]
+Night Time Blues,Ma Rainey,False,58mA1Tupock4gQYUaJZfLk,0,178547,1997,https://i.scdn.co/image/ab67616d0000b27331bf1b08202278f109ebd7ae,False,28,"['blues', 'harlem renaissance', 'traditional blues']"
+Time / Confusion,Arthur Brown,False,7651Ry0VaOM2O17MYKB7Vz,8,311560,1968,https://i.scdn.co/image/ab67616d0000b2731ee16372b177d23bf6c1f684,False,27,['psychedelic rock']
+Fuck You,Mister Ries,False,1KCLoJGfAz9ExaK0CoELaq,0,181078,2007,https://i.scdn.co/image/ab67616d0000b27397fb53f7dfc8f18461de10af,True,4,['ghettotech']
+A Soldiers Intro,(hed) p.e.,False,4fWhVbLsuL1jIkZ4c3jPbk,0,12986,2009,https://i.scdn.co/image/ab67616d0000b273a3bb197dbc4a9cae3ceda44c,True,49,"['alternative metal', 'industrial metal', 'nu metal', 'rap metal', 'rap rock']"
+Sadness,Mavado,False,0CJ62lAmhpzdHF00T2Aq9S,10,255173,2007,https://i.scdn.co/image/ab67616d0000b2731ee1be04f4bb4885e3984dc7,False,57,"['dancehall', 'jamaican dancehall', 'reggae fusion']"
+Corazon Clandestino,Fito Paez,False,1ghrWhqxc3eKTGyg7Dy3Xk,8,176400,1997,https://i.scdn.co/image/ab67616d0000b2730847d576a46b2d250220be77,False,69,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol']"
+Tristeza (Brazilian Blues),Luiz Bonfa / Oscar Castro Neves / Lalo Schifrin,False,58AGJq9Cc3qgTajD17aUgW,7,184800,1963,https://i.scdn.co/image/ab67616d0000b27362788f33ac20c29ae802cefa,False,57,"['bossa nova', 'brazilian jazz', 'jazz guitar', 'samba-jazz', 'violao']"
+Molly Darling,Eddy Arnold,False,569Z4hCKyx7Idk1BdV26gk,4,179386,2013,https://i.scdn.co/image/ab67616d0000b2735d41ca1d45832f48b3a03509,False,50,"['classic country pop', 'nashville sound', 'traditional country', 'yodeling']"
+Sweet Remedy,Jennifer Brown,False,5s1x8lblm3rzXgzka6zbhH,0,259226,1997,https://i.scdn.co/image/ab67616d0000b2738f174b242ba2940f7ca71c43,False,25,[]
+I'm Mad,EPMD,False,4ZMcU9RJ3oeIQWpza5KK9D,19,222093,1990,https://i.scdn.co/image/ab67616d0000b2735f983d126b377e1dafcf5a2e,False,50,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop']"
+I Love The Life I'm Living,Slim Harpo,False,4ZsjG5Y79RKISYVPkfDIis,6,152044,2021,https://i.scdn.co/image/ab67616d0000b273bd8ba288f5e0b1d3645f38cc,False,45,"['acoustic blues', 'blues', 'harmonica blues', 'louisiana blues', 'swamp blues', 'swamp rock', 'traditional blues']"
+Fruity Woman,Doc Pomus,False,3tJLCJUANWDSxSr8B9IJFT,0,157701,2020,https://i.scdn.co/image/ab67616d0000b2730c5f301679f3353b8b292a68,False,8,['brill building pop']
+Stone a Pig,Bongzilla,False,7GfeYS1oNl3leZTZRG8R66,27,587066,2002,https://i.scdn.co/image/ab67616d0000b2735bda5347e1f198285ecc69ac,True,34,"['doom metal', 'drone metal', 'sludge metal', 'stoner metal', 'stoner rock']"

@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+All In,Joe McBride,False,0kjVdiqjIJnVVidr6NZrx9,3,262906,2005,https://i.scdn.co/image/ab67616d0000b273bc7c21bcdb5fe75884f5bbd5,False,41,['smooth jazz']
+Te Necesito,David Summers,False,3BAiWcR2Q0aiMAbMGG0lIn,13,255400,1998,https://i.scdn.co/image/ab67616d0000b27382f01c23f4d2d7fd66901b91,False,49,[]
+Monopoly On Sorrow,Suicidal Tendencies,False,2Lb7mXegBW3WJEOict7Q47,32,311000,1992,https://i.scdn.co/image/ab67616d0000b2739cd5a44ba1982f4739b4f1c9,False,56,"['alternative metal', 'california hardcore', 'crossover thrash', 'funk metal', 'hard rock', 'hardcore punk', 'metal', 'nu metal', 'old school thrash', 'punk', 'thrash metal']"
+Communication,Mario Piu,False,1K4N7wHZ7aoe7nPX5bJPSm,27,212226,2012,https://i.scdn.co/image/ab67616d0000b273b10a759fac50c80e743378c0,False,33,"['italian trance', 'italo dance']"
+Gia,Despina Vandi,False,10c9m2WrPxPVBZkYkYw5Dv,35,253066,2002,https://i.scdn.co/image/ab67616d0000b273b244d8d7744dd10c929db2ae,False,55,"['greek pop', 'laiko']"
+Mr. Marshall,Johnny Osbourne,False,4OZMkr1LqMbQvx6wBCadGl,14,226560,1980,https://i.scdn.co/image/ab67616d0000b273508df309edc3363bd0ce3498,False,44,"['dub', 'lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Feel Like Blowing My Horn,Robert Lockwood_ Jr.,False,1WtrnL5ozTrAskOV4h3ASv,1,274640,1997,https://i.scdn.co/image/ab67616d0000b273dce0d44d6d606d1d4464907a,False,19,"['blues', 'chicago blues', 'country blues', 'delta blues', 'traditional blues']"
+We Who Finish Last,Shai Hulud,False,5xxfXojVvnScX8aTzVU7L5,8,188333,2008,https://i.scdn.co/image/ab67616d0000b273af43453ad4b9e5bca1069094,False,29,"['chaotic hardcore', 'christian hardcore', 'florida hardcore', 'melodic hardcore']"
+Jones From Indiana,Daughters,False,4HINVJxmu2djfm4mvU6pE6,3,64986,2003,https://i.scdn.co/image/ab67616d0000b2730443ecf26eee9e1f5d129586,False,38,"['experimental rock', 'noise rock', 'post-hardcore', 'rhode island indie']"
+Simon,Lifehouse,False,4mpkJgWj8xDbTCX3ku5OMZ,29,360973,2000,https://i.scdn.co/image/ab67616d0000b27331539dc49b964e11ccc239a7,False,66,"['neo mellow', 'pop rock', 'post-grunge']"
+LFO [Original by LFO],Luke Vibert,False,7muSyWYlAvUp5l4ekph3zr,3,347880,2009,https://i.scdn.co/image/ab67616d0000b273ae876c2e51f1f4650d23f1f0,False,35,"['acid house', 'drill and bass', 'intelligent dance music', 'trip hop']"
+Innsmouth Jewelry,Misty Roses,False,7xdM94hLqRZT4i2xt1uMPH,0,290746,2006,https://i.scdn.co/image/ab67616d0000b273c70b0a29a45389d1b723a488,False,0,[]
+Where Have All The Clowns Gone,Michael Stanley Band,False,6r3HUr0aKdzzXAtzjlXUYB,1,257440,1975,https://i.scdn.co/image/ab67616d0000b273a7cd5175d3c2fddba5b64d49,False,30,['heartland rock']
+Your Heart Can Sing,Bruce BecVar,False,7ogwFUBpOK1BBSuaYiw12g,1,257933,1999,https://i.scdn.co/image/ab67616d0000b27387ec3c6611b21e6063d389a8,False,25,['new age']
+so long_ astoria,The Ataris,False,7N2lr3CCJGLxBUkF4PSkch,40,202973,2003,https://i.scdn.co/image/ab67616d0000b2730182816d9fe797a551832bf2,False,51,"['emo', 'pop punk', 'pop rock', 'skate punk']"
+Famous Girl,Chris Brown,False,5pozpoN044bG8qio3GPUUz,32,219226,2009,https://i.scdn.co/image/ab67616d0000b273de8ad199b5db2a66928f4ac4,False,89,"['r&b', 'rap']"
+Retarded Army,Rocky Whatule,False,0euClPHfxlE3l2QYStkHw5,0,197666,2009,https://i.scdn.co/image/ab67616d0000b273d574f094faf642f38701328c,True,0,[]
+Careless Whisper,Kenny G Featuring Brian McKnight,False,1LIiAPqpZziIko5msJ8gYr,33,257600,2004,https://i.scdn.co/image/ab67616d0000b273d6a36849e99f6eb11fab1a26,False,69,"['smooth jazz', 'smooth saxophone']"
+Suicide,Redman,False,6vN2RHO3zhxc8RYsK7KIJD,0,154592,2017,https://i.scdn.co/image/ab67616d0000b2739e6d0a6cd0bc7b778ca202f1,True,0,[]
+To Your Door,Maria Forde,False,7KHIBdaYkyEHW0k18LZKej,0,179000,1996,https://i.scdn.co/image/ab67616d0000b273617dafb04b3df3e2aaf75814,False,1,[]
+Here's to the Lonely,Dr. Elmo,False,5HxMcJHgCl5fvHnjKAVjsr,9,223266,1992,https://i.scdn.co/image/ab67616d0000b273be21279ea3b7450344704f57,False,43,[]
+You Gotta Be Movin',Corona,False,1tVQ3K6yPCXIMgBPIKP1Jx,16,343360,1994,https://i.scdn.co/image/ab67616d0000b273f94b2a29ccc364e8faedce10,False,64,"['diva house', 'eurodance', 'europop', 'hip house']"
+Give The People,EPMD,False,3SgmKrDiRBSkuyuwM2dOPd,11,215440,1990,https://i.scdn.co/image/ab67616d0000b2735f983d126b377e1dafcf5a2e,False,50,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop']"
+Planxty Morgan Magan/ The Morning Dew,The Irish Rovers,False,6X9AnLeJ0hsLcTl2j6fwr8,4,204146,2005,https://i.scdn.co/image/ab67616d0000b2731ff041ead594c5f02cbacfe2,False,56,"['canadian celtic', 'irish folk', 'irish pub song', 'shanty']"
+Mamma pettenami,Chorus Line,False,35PLAMr636iISMP4jtRTjh,0,150986,2009,https://i.scdn.co/image/ab67616d0000b273b7067bb7026785d083c2641d,False,0,[]
+Tall Cool One,The Sonics,False,74KdPqqcW4z8LpS0vgXhgu,1,143640,2007,https://i.scdn.co/image/ab67616d0000b27302197e11e9b9486c7a407619,False,45,"['classic garage rock', 'garage rock', 'protopunk']"
+Call On Me,Bad Company,False,2tUydk5Nqat2ZTjarC7eM3,20,367373,1975,https://i.scdn.co/image/ab67616d0000b2739baa3a2390773faeca065aa8,False,59,"['album rock', 'classic rock', 'country rock', 'glam metal', 'hard rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'southern rock']"
+Black & White,Vanessa Daou,False,5l5NKwE1Fazx39hBgU4hOf,1,255173,2008,https://i.scdn.co/image/ab67616d0000b2730df02c8aa445538e34b73353,False,35,['downtempo']
+The Real Trick,Slackbaba,False,6miUY8FoUUmTZnoJ7L0hc9,0,330466,2010,https://i.scdn.co/image/ab67616d0000b27310ee53d4d7a605be002d9828,False,10,"['ambient psychill', 'psybass', 'psychill']"
+Surrender To Me,Lara Fabian,False,6exVWorXc8lFp06wZgagKM,38,222600,1997,https://i.scdn.co/image/ab67616d0000b273406722e76a8d4802530bbfa3,False,69,"['new wave pop', 'soft rock']"
+Yesterday,Brasilian Tropical Orchestra,False,5Vh0y8ADVLVlUfmCnsbXkM,1,160306,2019,https://i.scdn.co/image/ab67616d0000b2737c30924461e7e7c00eda50a9,False,12,[]
+Katherine,Steve Riley & The Mamou Playboys,False,4lYdX8Lb4eP988hRPsy8SC,1,189373,2008,https://i.scdn.co/image/ab67616d0000b27342e3ff4c7eb77ccb532c847a,False,22,"['cajun', 'swamp pop', 'zydeco']"
+Walpurgisnacht,K.I.Z.,False,36fc7ffgOJZmEAavDEmbwu,50,301173,2007,https://i.scdn.co/image/ab67616d0000b2731ba289382f4b4e527a7995e2,False,66,['german hip hop']
+The Snows,Pentangle,False,0vlCYWRdnApfHCYwMBhSCY,14,226666,1972,https://i.scdn.co/image/ab67616d0000b27355a63168effd7d78991cb920,False,35,"['british folk', 'folk rock', 'psychedelic folk']"
+3,DJ X-Change,False,7mQdcEAaE4gJlXO4DU8dlp,1,48440,2022,https://i.scdn.co/image/ab67616d0000b273e72f8115ca14b0ce0cec21af,False,56,"['baroque', 'classical', 'early music', 'english baroque']"
+Grits Ain't Groceries,Rita Chiarelli,False,41wBZA2Y10a7L3fKoOcwCA,0,208413,2011,https://i.scdn.co/image/ab67616d0000b273470aa269fc58538a0b698b6c,False,11,['canadian blues']
+Climate Control,Uphill Battle,False,72ANKUg9V55iTZinDu0mNN,0,323373,2002,https://i.scdn.co/image/ab67616d0000b27327ae824b1da320f2ba160259,False,2,['american grindcore']
+Love Letter,Gerald Veasley,False,0Rmboo4w4svukROrKLLeCT,0,251293,1999,https://i.scdn.co/image/ab67616d0000b27355c879c5ecda9e5e95b3284c,False,15,['electric bass']
+Seven Drunken Nights,Ronnie Drew,False,0HtYjI3oKVolGjAfUf3Qit,24,192200,2013,https://i.scdn.co/image/ab67616d0000b273bf0380fdf64ae46fd7b2e629,False,56,"['celtic', 'irish folk']"
+Contagious,Y&T,False,6nTC9DQjFfp2rNBLXzQ6QK,34,209786,2010,https://i.scdn.co/image/ab67616d0000b273fb299d91f3079f1f8196563f,False,58,"['modern rock', 'neon pop punk', 'pop emo', 'pop punk']"
+Straight Coats,Kokane,False,4c0scuIihRIgRxpXWzemAU,0,208074,2012,https://i.scdn.co/image/ab67616d0000b273154defcdd1def71ae024d810,False,46,"['g funk', 'west coast rap']"
+Talk,Bert Kaempfert And His Orchestra,False,4yqbkeRORTcleqTKFpYh4w,13,155760,1961,https://i.scdn.co/image/ab67616d0000b273b7374e5988a0c2f708ebdb54,False,52,"['ballroom', 'easy listening']"
+Ai Bu Hui Yi Zhi Deng Ni,Ken Chu,False,2qAuIf5EdP2YBL0jBQORPx,17,224773,2001,https://i.scdn.co/image/ab67616d0000b273b4d2d987314808ac34a90996,False,17,[]
+Kandiyohi,The Honeydogs,False,2BNIJ29KyUFkdl4kmJNlFQ,2,221066,1996,https://i.scdn.co/image/ab67616d0000b273664a7d30830f54384b92a453,False,13,['minneapolis indie']
+Der Kleine Idiot,Marco Rima,False,2mqVlEo8S8Vblex9EBMPyC,5,362986,2005,https://i.scdn.co/image/ab67616d0000b27323255e14a44ad5265f33c832,False,22,['chinderlieder']
+Why,Bescenta,False,5GmidC5lD9nWjLPRXjsWto,0,231906,2005,https://i.scdn.co/image/ab67616d0000b27396c6315797dcbca9de4d5287,False,6,[]
+19th Nervous Breakdown,Jason & The Scorchers,False,3Czri5lQotbwZY78FH6fFz,16,228853,2002,https://i.scdn.co/image/ab67616d0000b273491d8a952637a19ea173baee,False,26,"['alternative country', 'cowpunk', 'roots rock']"
+Sexy Ladies,Justin Timberlake,False,5Gq7IN29DbgUO8Ris1TZKl,42,238600,2006,https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091,False,83,"['dance pop', 'pop']"
+Packed Up And Took My Mind,Little Milton,False,70k8N1btZFTRakMLfHffu7,17,278533,1993,https://i.scdn.co/image/ab67616d0000b2738e34b9fddf89eccd682d4c22,False,33,"['electric blues', 'memphis soul', 'soul blues', 'southern soul']"
+Metamorphosis,Sonny Simmons,False,3ian00br1Xd0CMkL7jh8ei,4,697986,2010,https://i.scdn.co/image/ab67616d0000b27375aa3a36c72ed3be2c7d417d,False,7,['jazz saxophone']

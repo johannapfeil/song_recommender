@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Ai Shi...,Sammi Cheng,False,2awyrdFFyCNYjIBoSvSpha,30,219000,2023,https://i.scdn.co/image/ab67616d0000b273e620bd3af31f750f44b3125a,False,54,"['c-pop', 'cantopop']"
+Crimson Wave,Amorphis,False,5IRM7VOQo8OxPI5q8I9q5B,6,285466,2001,https://i.scdn.co/image/ab67616d0000b2731ed4d36998d887ec8cd85d98,False,49,"['finnish death metal', 'finnish melodeath', 'finnish metal', 'folk metal', 'gothic metal', 'melodic death metal', 'metal', 'power metal', 'progressive doom', 'symphonic metal', 'viking metal']"
+Io Che Non Vivo Senza Te,Patrick Samson,False,0PAQXL0iJg5ulxwfTNkftr,0,102133,1997,https://i.scdn.co/image/ab67616d0000b273946dc550722ea7a21d575eba,False,8,['vintage french psychedelic']
+Facemelt,FSTZ,False,5Wtf6kd8Wmps1rT6wWJmfQ,0,281142,2009,https://i.scdn.co/image/ab67616d0000b273ebf1a285e78d05317555c57f,False,0,[]
+I'm Happy She Said,M83,False,2NwhHLkMAnv60QKW3G47Vf,7,1071826,2001,https://i.scdn.co/image/ab67616d0000b2737e5d195d343b84e145a5b9bb,False,73,"['french shoegaze', 'french synthpop', 'indietronica', 'metropopolis', 'neo-synthpop']"
+If I Ain't Got You,Alicia Keys,False,3XVBdLihbNbxUwZosxcGuJ,80,228706,2003,https://i.scdn.co/image/ab67616d0000b27356ff19308ebeb48e2ba6094b,False,81,"['neo soul', 'pop', 'r&b']"
+Spaniolandia,Dj Kun,False,06FbQz0p22Mj3reb2qhXil,0,329999,2003,https://i.scdn.co/image/ab67616d0000b273ec4dbeb793d21edf28a1504c,False,19,[]
+Dai Wo Li Kai,Ken Chu,False,51Ev8BGBhm5jZr6KLNwTom,6,103360,2000,https://i.scdn.co/image/ab67616d0000b273ac6557ad5d69c6d5d092dfbe,False,74,"['classical', 'classical era', 'early romantic era', 'german romanticism']"
+Delirio,Rene Touzet,False,2DBFwvftG2DdPPwX88V9Ka,1,198933,1994,https://i.scdn.co/image/ab67616d0000b273a78653dd6b6905116b9d64ff,False,20,['cha-cha-cha']
+Novakane Groove,Black Sheep,False,7COve8kEww2PKRIfxkAIxr,5,248372,2006,https://i.scdn.co/image/ab67616d0000b2739e3df31073e253e83eacef88,True,45,"['east coast hip hop', 'queens hip hop']"
+Here_ Swing_ Sing,Kooii,False,3Wt9wmkeAi9KZrm1THDfPV,4,391012,2005,https://i.scdn.co/image/ab67616d0000b2738890479774bfd3f3a4076049,False,33,['australian reggae fusion']
+Cuando Calienta El Sol,Pablo Montero,False,2Rkrz3oV8TGHCOCRNdF52V,6,190293,2003,https://i.scdn.co/image/ab67616d0000b273d80d45062d06c33bf36ea286,False,45,"['latin pop', 'mariachi', 'ranchera']"
+Alovi,Stefon Harris,False,47BPDDaepj2p01kjlh5Crn,1,326626,1999,https://i.scdn.co/image/ab67616d0000b273d5bd0a95dd01b97d4a779139,False,26,['jazz vibraphone']
+Whatever Lies Will Help You Rest,The Ataris,False,1dHDKvydVDGbBGk8ElaKo3,12,212933,2007,https://i.scdn.co/image/ab67616d0000b2731fc970247b6cfe5c6fdfe9ae,False,51,"['emo', 'pop punk', 'pop rock', 'skate punk']"
+Joy In The Journey (The Final Word Album Version),Michael Card,False,5NietF37dfeMyf3CBd5A05,20,182666,1987,https://i.scdn.co/image/ab67616d0000b273a628f7617d9736c225ce0966,False,44,[]
+Indiscreet,Roger Williams,False,5MYvORJJN9XLTZ18ROfWG0,0,174746,1959,https://i.scdn.co/image/ab67616d0000b273dce48d46a8ba0270855ae2dc,False,44,['easy listening']
+Healing of All Nations,Yami Bolo,False,4jzvKWUrAgjeVLZqCYJkFe,1,214906,2011,https://i.scdn.co/image/ab67616d0000b273c16c67543611c79990b187e7,False,37,"['deep ragga', 'lovers rock', 'modern reggae', 'reggae', 'roots reggae']"
+Guarare,Ray Barretto,False,56xsP0TSnlihp3s2jlbSgU,41,338520,1975,https://i.scdn.co/image/ab67616d0000b2736d81ab62c74b61a1a7746fc0,False,51,"['boogaloo', 'latin jazz', 'salsa']"
+Head Butt Da Deck,Silkie Ft. Harry Craze,False,2DkiSS1quIpmxiAYLruXZN,5,367080,2009,https://i.scdn.co/image/ab67616d0000b273dd5b5698b9afed3bb4c2f738,False,21,"['classic dubstep', 'purple sound']"
+Estate,Eldar,False,6xuGXwHCqR3hCFPwjYw9Ac,4,379200,2009,https://i.scdn.co/image/ab67616d0000b273a6cfd94ed8c9695a42e5317e,False,26,"['contemporary post-bop', 'modern jazz piano']"
+Downstream,Broadcast,False,0jYMiB8nBYk2MsuIQCigvP,0,179306,1987,https://i.scdn.co/image/ab67616d0000b273c4ea906265b9b25c08061b47,False,14,[]
+Mile High and Risin',Roger Clyne & The Peacemakers,False,6b0zsru68Uiw2NaNqXGleg,3,170813,2005,https://i.scdn.co/image/ab67616d0000b2733cb4256cd5a6945cff5ff5a2,False,29,['heartland rock']
+Watt's Cradle Song,The American Boychoir,False,6NMHuZAq8fQOQwf1A6dAyh,0,328973,2002,https://i.scdn.co/image/ab67616d0000b273b3ac20dec4af400eb3a0e843,False,0,[]
+Terry's Theme from Limelight,Frank Chacksfield,False,0W8jxXH72LM6YMuio2FVUH,2,138787,1953,https://i.scdn.co/image/ab67616d0000b273e36b30c50950f7d465fde2f8,False,38,['classic soundtrack']
+A Stepmother's Curse,Anne Dudley,False,018czpMU4U6nK7rmKm8PJP,2,184346,2000,https://i.scdn.co/image/ab67616d0000b27341759e3b9d369767f92c873b,False,45,"['british soundtrack', 'soundtrack']"
+Bridge To Canada,Noisettes,False,5ynBzgDLJbgksI7UUvdrej,8,205093,2007,https://i.scdn.co/image/ab67616d0000b273178c9223c4b1ce00cd113cde,False,49,['british soul']
+Deep Into The Day,Zuma,False,0iDZUBJWfr5ATrlSG6CLGy,0,232026,2003,https://i.scdn.co/image/ab67616d0000b2737f16195320dcf5fc3f558945,False,4,[]
+love shelter,Sundial Aeon,False,33h9KUY1a4PFDC19kp7yXB,9,461240,2018,https://i.scdn.co/image/ab67616d0000b2737b62caa5cc1300e09e957d31,False,33,"['ambient psychill', 'progressive breaks', 'psychill']"
+La Excepcion,Gustavo Cerati,False,3yjXwM2zsKJKjsdxIe93pp,49,251600,2006,https://i.scdn.co/image/ab67616d0000b273d543f7c7de880da5370922c0,False,73,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol']"
+Mr. Brightside (Jacques Lu Cont's Thin White Duke Mix),The Killers,False,2jrJEy61zyESXv9sW8bAx6,41,530080,2003,https://i.scdn.co/image/ab67616d0000b273b5afbb03b8119a4f7360a20f,False,80,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']"
+Precious Lord_ Take My Hand,Jo-El Sonnier,False,1brEYIDs0UzKUJ59509D6X,1,214506,2003,https://i.scdn.co/image/ab67616d0000b27335e0943769202399e926a734,False,25,"['cajun', 'swamp pop', 'zydeco']"
+Guaguanco Raro,Richie Ray & Bobby Cruz,False,2p4JCDisy82i1dhZW4v0Pr,25,381240,1970,https://i.scdn.co/image/ab67616d0000b273c3b3e557bef21a90205c81f8,False,53,"['boogaloo', 'salsa international']"
+The Tennessee Waltz,The Fontane Sisters,False,4GYuJhzJio6JEsnERQvftN,2,144520,1955,https://i.scdn.co/image/ab67616d0000b2737f7f3be84052a277279e1207,False,75,"['deep adult standards', 'vocal harmony group']"
+Breathe Me In,Candlebox,False,1lK5iIMKifrxERzS3iimJH,51,223760,2003,https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4,False,84,"['dance pop', 'pop']"
+Group Sex,Circle Jerks,False,5qdxiY62tojWkSTE4Ai9db,21,63600,1980,https://i.scdn.co/image/ab67616d0000b273ac8f9b86440ba36a32e54a7d,False,45,"['hardcore punk', 'punk']"
+Ordinary Lives,Peter Hunnigale,False,5KNNbwBauuFtbl4ve72eU1,4,230080,2006,https://i.scdn.co/image/ab67616d0000b2738a749f8ad3448ec34da636c8,False,32,"['lovers rock', 'uk reggae']"
+Sugar Daddy,Tyrone Davis,False,6ghoagMa5AIU9UNURs9G0x,25,247760,2000,https://i.scdn.co/image/ab67616d0000b2730df4079cee953892714bed3f,False,42,"['chicago soul', 'southern soul']"
+State of Emergency,Nick Jonas & The Administration,False,4r3om7jXNWICOyA7WW7SSO,21,214733,2010,https://i.scdn.co/image/ab67616d0000b27319b92680bcbd2422844c4f20,False,30,['post-teen pop']
+Jezebel,Barbara Fairchild,False,3oLaCPfZ8WlcO5sCa7vdKL,0,218106,1995,https://i.scdn.co/image/ab67616d0000b273c90c9e7ebe02747b35962602,False,20,"['arkansas country', 'classic country pop', 'country gospel']"
+Contours,Jeff Johnson,False,5bxWZn52MznprzEeSewZTT,0,433973,2001,https://i.scdn.co/image/ab67616d0000b27320884c19de48b60dca27c88e,False,7,[]
+Said You'd Be,The Panic Channel,False,6RBRFzICapadUImmXNQdiy,1,154466,2006,https://i.scdn.co/image/ab67616d0000b273161e2175e9325cbee8dd1570,False,15,[]
+Is It Love,Gang Of Four,False,20qKKnW5t3grGDiLqk0fGh,23,278466,1983,https://i.scdn.co/image/ab67616d0000b273577459ff55a9a86287017919,False,50,"['alternative rock', 'art punk', 'dance rock', 'funk rock', 'post-punk', 'punk', 'uk post-punk']"
+Aberdeen Blues,Bukka White,False,7E25omG6JvGlMnfkJdzLwP,23,155973,1970,https://i.scdn.co/image/ab67616d0000b273c64cc04c0e185dc5f88156a2,False,32,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'traditional blues']"
+God Rest Ye Merry Gentlemen,Hot Club Of Detroit,False,1T4tGotlaK5VjBSDYmpFDV,9,371040,2006,https://i.scdn.co/image/ab67616d0000b273bbf48f6eccd11a90bc1d8330,False,10,['gypsy jazz']
+Schwarzarbeit,Geier Sturzflug,False,2iwWAI1rSCFMBz53THmtYW,4,214146,2010,https://i.scdn.co/image/ab67616d0000b2731fe2f1efe7c9a28b8add7f95,False,49,"['austropop', 'classic schlager', 'german rock', 'neue deutsche welle', 'ostrock']"
+Forgiveness (Love Life Album Version),Charlie Peacock,False,0rqK6R2oYs6IsEps6Q8gXv,2,295160,1991,https://i.scdn.co/image/ab67616d0000b273aa2d416187454f35a51dde56,False,35,['deep christian rock']
+Que Arribi L'Estiu,Dijous Paella,False,469IABpa5UmEIcS4v2xwpD,7,253988,2006,https://i.scdn.co/image/ab67616d0000b273e50715bd94fa37075691b6ed,False,14,"['rock catala', 'rumba catalana']"
+Let It Rain,Roberto Roena,False,7BIFrwRg0lpX5GpXrMCAsC,3,179333,1970,https://i.scdn.co/image/ab67616d0000b273f7c5573183bf0bc5e570144a,False,55,['salsa']
+The Burden of Hope,Jars Of Clay,False,1rLULgAL7txHYUc5QhfMRb,2,117693,2008,https://i.scdn.co/image/ab67616d0000b2738f02ed087dda9e26b98f6526,False,48,"['ccm', 'christian alternative rock', 'christian music']"
+Smile Jamaica,Bob Marley & The Wailers,False,5ynoU0jdMWUVoTdr7Dx4Hk,42,303760,1978,https://i.scdn.co/image/ab67616d0000b273387799441ba867649dfbb702,False,82,"['reggae', 'roots reggae']"

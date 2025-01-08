@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+On and on,Franco,False,4XcX4XvEUtkN9TlLW87qOr,26,148666,2024,https://i.scdn.co/image/ab67616d0000b273cc4da0db4fe762023fc5d937,False,70,"['classical', 'impressionism', 'post-romantic era']"
+informa,Elephant Man,False,6PztWJTrIIk2ocMIS11VMV,0,234403,2010,https://i.scdn.co/image/ab67616d0000b273014bb3ee164b46f97b7dc763,True,1,[]
+S.O.S.,A-Studio,False,2Rq5afDinfmJGQ3X6L6EqM,2,407553,2024,https://i.scdn.co/image/ab67616d0000b273e874d9858d5042387d69a782,False,80,"['baroque', 'classical', 'early music', 'german baroque']"
+Still,Foo Fighters,False,2wvfMTbZDPzpZhOt7z6tVo,34,313093,2005,https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72,False,78,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']"
+Everyday I Have The Blues,Lightnin' Hopkins,False,2WRJP4PdyTwIrVE3DZus8A,0,74026,2002,https://i.scdn.co/image/ab67616d0000b273d3533dd0ec331c7591e2f482,False,46,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'texas blues', 'traditional blues']"
+Peroxide Blond,Hank Penny,False,5gLu9De739jIrxGLCK048l,0,130733,2000,https://i.scdn.co/image/ab67616d0000b2731af4deb8420fbf40e34a37a4,False,0,[]
+Machopolka,Polkaholix,False,4jt5fY8d2NmlPplNuak39r,0,190520,2023,https://i.scdn.co/image/ab67616d0000b273391e6aea3590173a6f7e1f63,False,12,['polka']
+The Lie,Bad Religion,False,4huQlewb4Z3UH0wcww8HdC,25,138746,2002,https://i.scdn.co/image/ab67616d0000b27335f1e8c8f603222e0e5505f9,False,63,"['punk', 'skate punk', 'socal pop punk']"
+The Deceived,Trivium,False,0BXHGOs401kof3HxHp6JfE,38,311800,2005,https://i.scdn.co/image/ab67616d0000b273224e4e09f27f73f57d08312f,False,62,"['alternative metal', 'groove metal', 'melodic metalcore', 'melodic thrash', 'metal', 'metalcore', 'nu metal', 'post-grunge']"
+No Good Without You,The Birds,False,7fyXiR2d1PlCDM4kdbY2V6,11,160066,2000,https://i.scdn.co/image/ab67616d0000b27317560112a21d7079aed98a58,False,15,['freakbeat']
+Fantasia In C Major BWV 570,Lionel Rogg,False,6Ps7Bvn7RuMluowhHpS9YN,0,171786,1976,https://i.scdn.co/image/ab67616d0000b27330df20d7bd8c585890b89f02,False,80,"['baroque', 'classical', 'early music', 'german baroque']"
+Rise & Shine,The Cardigans,False,262XQVqPsv8sZqs7LfPCge,36,211014,1994,https://i.scdn.co/image/ab67616d0000b27397799c773192f15030215aad,False,71,"['lilith', 'new wave pop', 'permanent wave', 'pop rock', 'swedish pop']"
+You Appearing,M83,False,5lLyDsLiemfY2w3N7NCKlW,31,219293,2008,https://i.scdn.co/image/ab67616d0000b273fb1ed9d614dc2fa4d5ead013,False,73,"['french shoegaze', 'french synthpop', 'indietronica', 'metropopolis', 'neo-synthpop']"
+As Long As I Know,East To West,False,4sZkXzBckwpnZiOuaJ8gdS,0,253600,1993,https://i.scdn.co/image/ab67616d0000b273c2bf39775837d1e90f5bc2dc,False,4,[]
+Ride To Atlantis,Marvin Hamlisch,False,36dL0UyQ299hWJwQfUMXIk,3,307586,2010,https://i.scdn.co/image/ab67616d0000b273ad6490d52b479087434af3de,False,38,"['broadway', 'classic soundtrack']"
+Sitting In The Park (Medley),Glen Washington,False,5EVG2EoFzOp4m31duVDPr7,17,226226,2000,https://i.scdn.co/image/ab67616d0000b27393218a6a5f16e838c48f641d,False,39,"['lovers rock', 'old school dancehall', 'reggae', 'roots reggae']"
+Sliabh Geal gCua,Karan Casey,False,65svmQ3SjiQBvTpziy8HaH,0,189893,2000,https://i.scdn.co/image/ab67616d0000b2739e89b0475b3b4c6818779bdb,False,29,"['celtic', 'irish folk']"
+She's So Young,Pursuit Of Happiness,False,6bKLaQjdWeI9Gxl8xvLusb,27,216533,1988,https://i.scdn.co/image/ab67616d0000b2732a73d93d18dceb1d567e5124,False,28,['canadian rock']
+End Of The Age,Becoming The Archetype,False,7BnRNLfYm8kpg0cegcqN9h,19,390373,2008,https://i.scdn.co/image/ab67616d0000b2735f87c94a19d034cb1da89b06,False,32,"['christian death metal', 'christian hardcore', 'christian metal', 'christian rock', 'progressive death metal']"
+Talk To Me,Storyville,False,3Vr5B9Fnv96QBExTYTUvkt,9,343600,1998,https://i.scdn.co/image/ab67616d0000b273899d9612d97b124e2624b0a5,False,22,[]
+Lluvia De Acido,Vilma Palma,False,49zgzRHhydB595Y1uJHkXE,18,202706,1991,https://i.scdn.co/image/ab67616d0000b2730457ded975a6693ce8fc4392,False,66,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol']"
+Time Flies,Jeckyll & Hyde,False,0oVmHqazvdwBey7rSoBW8v,25,213475,2017,https://i.scdn.co/image/ab67616d0000b273858602f45cb441c3ddd4a084,False,39,"['belgian dance', 'euphoric hardstyle', 'jumpstyle']"
+Take My Breath Away,Jessica Simpson,False,7AHZb0GnILBBitj0MxObO5,39,195346,2003,https://i.scdn.co/image/ab67616d0000b273adefab4c77e8a845234eeee4,False,53,"['dance pop', 'post-teen pop']"
+Expire,Antimatter,False,0sEjJhr8NBnNcCyL0KCFgP,6,479493,2003,https://i.scdn.co/image/ab67616d0000b2733e99e0f848b773e54db7f639,False,38,"['dark rock', 'modern progressive rock']"
+Not Forgotten,ISRAEL & NEW BREED,False,5KPwZz5lCLL0XQTlxnB2JB,30,358360,2005,https://i.scdn.co/image/ab67616d0000b273f75ae4ece6ae169155dc2a45,False,54,['gospel']
+L'Homme De Paille,Jacques Dutronc,False,6cOYVXfXYXJsyBZudnr0Yw,0,139840,2009,https://i.scdn.co/image/ab67616d0000b273fc01cfe5836183800031f805,False,51,"['chanson', 'ye ye']"
+How Great Thou Art,Ronnie Milsap,False,4libklmbfQSYD2OPqgik8c,15,282586,2016,https://i.scdn.co/image/ab67616d0000b273baa2919ecb29b1f9187a7fa9,False,58,"['classic country pop', 'country', 'country road', 'country rock', 'nashville sound']"
+Ayer,La 5A Estacion,False,3R0FcTSEt1p89F8XPGgb6D,9,135853,2002,https://i.scdn.co/image/ab67616d0000b27329995dfdab00737a7b504dac,False,69,"['latin arena pop', 'latin pop', 'spanish pop rock']"
+Mes Belles Amourettes,Jacques Douai,False,2YRet41aPwijIKaH0PBxIP,0,114282,1960,https://i.scdn.co/image/ab67616d0000b2731fe290e10d4a0e3b5ed57616,False,11,['vintage chanson']
+Crazy,Aynsley Lister,False,4NYmMzvrEefWx2E1HYtTbP,7,227120,2009,https://i.scdn.co/image/ab67616d0000b2736612b0e2180c568664f9be31,False,39,"['british blues', 'modern blues', 'modern blues rock']"
+Don't Sit Under The Apple Tree,Barry Manilow Featuring The Glenn Miller Orchestra with Debra Byrd,False,3Gu5vNiGMZ1nUfwVecifcv,4,172066,1994,https://i.scdn.co/image/ab67616d0000b273c1847d37f4700a8b6cd33474,False,65,"['adult standards', 'mellow gold', 'soft rock', 'yacht rock']"
+Dubbaq,Legion Of Green Men,False,1GBOy2bwvoleSYBN355yVT,0,396773,2007,https://i.scdn.co/image/ab67616d0000b27363cd307a0f22a3870c73666c,False,3,[]
+Stay With Me,Faces,False,7fLTytvnvxy653VWxflTRf,57,279360,1971,https://i.scdn.co/image/ab67616d0000b273287cf46590a781b8a03e174e,False,56,"['blues rock', 'classic rock', 'country rock', 'folk rock', 'glam rock', 'protopunk', 'psychedelic rock', 'roots rock', 'singer-songwriter']"
+No Hace Falta Que Lo Digas,Alejandro Lerner,False,26BIdAjkIlrvXnxAFvllmF,41,265173,1994,https://i.scdn.co/image/ab67616d0000b273ccf60b2784491e62da6aff6a,False,55,[]
+Out Of My Mind,Glen Ricks,False,6pOwMKLj85X6UI2d6AjrMt,0,242213,1992,https://i.scdn.co/image/ab67616d0000b273a51e368b89f07d351a8a9f26,False,15,"['deep ragga', 'lovers rock']"
+Bass To Bass,DJ Slugo,False,69fd8UFjvBg9kBIm0r3s4t,0,242973,2008,https://i.scdn.co/image/ab67616d0000b273f79d66b9a27ee357c338a133,False,29,"['footwork', 'ghettotech']"
+Les Scieurs De Long,Jacques Douai,False,5CWbne4VNiH0VOQb4tW7mG,0,191680,2008,https://i.scdn.co/image/ab67616d0000b273875d082ee572da3e19a44fc3,False,11,['vintage chanson']
+All Or Nothing,SKOLD vs. KMFDM,False,1Fa2lQSpCbnxEcKfZSUscD,11,303600,2009,https://i.scdn.co/image/ab67616d0000b273d53902cea95f8e06e25c6396,False,38,"['industrial metal', 'industrial rock']"
+And Still I Wither,Enslavement Of Beauty,False,6jyXc4YEJsNillKEN8DEt7,2,313939,1999,https://i.scdn.co/image/ab67616d0000b273d68b3267af2d1a78c02e6cf4,False,13,"['gothic black metal', 'norwegian black metal', 'symphonic black metal']"
+I Won't Spend Another Night Alone,The Ataris,False,4Ni3C5tFwXyowFzBhaSt2j,26,227800,2003,https://i.scdn.co/image/ab67616d0000b2730182816d9fe797a551832bf2,False,51,"['emo', 'pop punk', 'pop rock', 'skate punk']"
+Guardians Of The Forest,Wolfchant,False,00kwWxbWz8X9nYS7yiQnUC,5,209146,2024,https://i.scdn.co/image/ab67616d0000b2734f218f450cfc3229859effad,False,27,"['folk metal', 'german metal', 'german pagan metal', 'viking metal']"
+Chemistry,Michael Stanley Band,False,687bOFijDWSYhEtWAlIYw5,3,173426,1981,https://i.scdn.co/image/ab67616d0000b2735d9e4eeddce3e36bf9050411,False,30,['heartland rock']
+Karma Violins,Pale Forest,False,2IBaEcTUWYXJhcgTlwbKJI,0,184633,1998,https://i.scdn.co/image/ab67616d0000b27334bd16580fd703a4cd79f2fb,False,5,[]
+Dead Wrong,Cancer Bats,False,3UzrkpyC8QQ605oJ2tSxT0,12,160770,2020,https://i.scdn.co/image/ab67616d0000b27336a376273ba51a8a769efa2f,False,37,"['canadian hardcore', 'canadian metal', 'canadian metalcore', 'canadian punk']"
+My Buddy,Alvino Rey And His Orchestra,False,0aEQbmui0XCDYWxW77B1vA,0,192746,2011,https://i.scdn.co/image/ab67616d0000b273f486268d422ebd5bfaca1137,False,12,"['jazz guitar', 'space age pop']"
+Lluvias De Cristal,Nestor Torres,False,6cih869Wtowefp1rT5Tq9f,1,279000,2004,https://i.scdn.co/image/ab67616d0000b2738834172c26770ea3edd0a261,False,25,"['jazz flute', 'jazz puertorriqueno']"
+Song,Mystic Revelation of Rastafari,False,1JLJKP7QRMEbBxWQmI2xcv,2,119354,2016,https://i.scdn.co/image/ab67616d0000b2732473a385c8a73035526195ed,False,19,['nyahbinghi']
+13 De Mayo,Isabel Pantoja,False,3gSp211jOUqQlGSMEYLV5X,8,329333,2006,https://i.scdn.co/image/ab67616d0000b273e17963d43cae9bbd9eea2e14,False,57,"['cancion melodica', 'copla', 'latin pop', 'pop romantico']"
+A Poor Man's Roses,Patsy Cline,False,2FTUUr2lKiO5rgEd6t7Kny,35,157906,1961,https://i.scdn.co/image/ab67616d0000b2736fda96b0954b958ee44c8efc,False,62,"['country', 'nashville sound']"
+Here I Am King,Primordial,False,0hmHakIB3PWJlZ6uq8JdW0,3,264960,2009,https://i.scdn.co/image/ab67616d0000b2733bf242adcaae25c5de34d550,False,33,"['black metal', 'celtic metal', 'doom metal', 'folk black metal', 'folk metal', 'irish black metal', 'irish metal', 'pagan black metal', 'symphonic black metal']"

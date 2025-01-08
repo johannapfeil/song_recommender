@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Tracy,Goldfish,False,5vxJcPqSA4uzQrFP90hTvR,0,166653,2008,https://i.scdn.co/image/ab67616d0000b2738df494c21251120aa911b04a,False,51,"['cape town indie', 'downtempo', 'south african pop', 'south african pop dance']"
+Savin' Me,Nickelback,False,2BoWXJfClbDQkZCZsE0Ru7,68,219293,2005,https://i.scdn.co/image/ab67616d0000b273bad7e941f557e06019b87fd4,False,80,"['alternative metal', 'canadian rock', 'post-grunge']"
+I Get My Paper,Cassidy featuring Swizz Beatz,False,36ynUVwNi0QqAORNw7Ikju,2,280720,2007,https://i.scdn.co/image/ab67616d0000b273af316b73869d12c56f471dc7,True,48,"['battle rap', 'hardcore hip hop', 'hip pop', 'philly rap', 'southern hip hop', 'trap']"
+Turn It Around,Tony Matterhorn,False,2bwFofEJxpyTRJCkQGMR8J,0,207734,2009,https://i.scdn.co/image/ab67616d0000b273183ec652f42f1d123df575bb,False,43,"['dancehall', 'jamaican dancehall']"
+I'm A Chicken Head (Skit),Cam'Ron,False,1zPHYS8xSRM0RqhX0nFwtl,18,86000,2004,https://i.scdn.co/image/ab67616d0000b27341378d36f9f76bc8e6950f89,True,60,"['battle rap', 'east coast hip hop', 'harlem hip hop', 'southern hip hop']"
+How Y' All Doin',Kyle Eastwood,False,2sfaFbidhlTkQwla8M1uDz,25,207200,2006,https://i.scdn.co/image/ab67616d0000b2735c8630d4f47ec5237a4b705f,False,32,['jazz double bass']
+Rules of Attraction (Chris Cox),Tina Ann,False,1byhjInexCtM1GZQdk0gXc,0,251720,2004,https://i.scdn.co/image/ab67616d0000b273a9591c9762d0427a2a0f8cfd,False,6,['deep vocal house']
+Knucklebuster,Chet Atkins,False,1PrlL9UVSuoyJxoDVwAfQF,2,319466,1988,https://i.scdn.co/image/ab67616d0000b273ae4321366fb9b942b06fb8a3,False,52,['nashville sound']
+Go On,JK,False,2LxGmA3gWL6nIHNcn4bTh3,31,237218,2021,https://i.scdn.co/image/ab67616d0000b2735dd921d5018bd9a0e47356a3,False,37,"['deep eurodance', 'hip house']"
+Crackbabies,Urge Overkill,False,5bHZJ06lUJIPaBqUmtMILP,12,242133,1993,https://i.scdn.co/image/ab67616d0000b2730d497cb40b54b08f7262c435,False,50,['alternative rock']
+Fear of Girls (Live in Croatia_ 1993),U.K. Subs,False,7hWviZ59O84QmUSHtXs3Bp,0,116240,1993,https://i.scdn.co/image/ab67616d0000b2737d0b0f563aa2029120bbc9d3,False,35,"['hardcore punk', 'oi', 'punk', 'uk82']"
+Once,Harry Connick_ Jr.,False,4RdBt6qu3f8gA3PeUXotim,23,236933,2004,https://i.scdn.co/image/ab67616d0000b27342a8563b35cc40b05938cc97,False,63,"['adult standards', 'contemporary vocal jazz', 'lounge', 'vocal jazz']"
+Roll Old Jeremiah,The Black Crowes,False,6TtFF0g6QGf8QlPgtOBYug,11,266453,2009,https://i.scdn.co/image/ab67616d0000b2737969117b2296394202c90680,False,61,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'jam band', 'rock', 'southern rock']"
+Love_ Peace and Harmony,Bow Wow Wow,False,05LcDLiFdTlz9le4lb539a,5,170840,2008,https://i.scdn.co/image/ab67616d0000b273f8e0f686637960af9519e8a6,False,41,"['new romantic', 'new wave', 'new wave pop']"
+Suti-suti,M.A. Numminen,False,3oNvyeUFGJIdbGgwyHcYHM,0,118306,1995,https://i.scdn.co/image/ab67616d0000b273df487f7dd777ad2faf549d45,False,28,"['classic finnish rock', 'musiikkia lapsille']"
+Woman,Free,False,3PWaUaBS0zBMz5KeAiDfKn,35,231066,1969,https://i.scdn.co/image/ab67616d0000b273640df56fe46cd51896a00810,False,56,"['album rock', 'blues rock', 'british blues', 'classic rock', 'hard rock']"
+Hop_ Skip & Jump,Opals,False,0gX2FJgchjkOyRVmnZVZSO,0,152586,2007,https://i.scdn.co/image/ab67616d0000b273b7daa4ebbfe9201bba09b14c,False,0,[]
+Bring It On,Goose,False,4rmLhx0doO3AVAZZAFlqDR,21,241613,2006,https://i.scdn.co/image/ab67616d0000b273310fce3fc5fc0f5096b062e6,False,38,"['belgian rock', 'dance-punk']"
+Problems,Mil featuring Petey Pablo,False,2GGhJzqZG04f99FnOoIdyL,45,177345,2024,https://i.scdn.co/image/ab67616d0000b2739b19d5fc4c3386addcb2aea4,False,73,"['sda a cappella', 'worship']"
+Gum,Emit,False,6OgUXyNwKbEwBMFy0hZ93Q,9,283240,2009,https://i.scdn.co/image/ab67616d0000b273f50e7870ba2f1df39dce7386,False,40,['beatlesque']
+Con un poquitito de suerte,Leo Dan,False,2zkGJbS1DNgXZRpp1BxkIr,14,177026,2013,https://i.scdn.co/image/ab67616d0000b27374196ca4fc9c94eb84e7c894,False,77,"['bolero', 'cancion melodica', 'latin pop', 'ranchera']"
+Shirley,Lil' Band O' Gold,False,2HI3NQ6kyTGrfIyY5D3OZA,1,150626,2000,https://i.scdn.co/image/ab67616d0000b2737782d6f76ca5e5a6bb94c29e,False,3,[]
+Little Bird,Annie Lennox,False,1KX8GhTteEUlkbfzaRzbsx,46,292425,1992,https://i.scdn.co/image/ab67616d0000b273abd613e1f4e193ccc603210f,False,73,"['new romantic', 'new wave', 'new wave pop', 'singer-songwriter', 'soft rock', 'synthpop']"
+Karola,Remmy Ongala,False,5WRDFcAV54M5riHZ1JGXat,13,348506,1989,https://i.scdn.co/image/ab67616d0000b273557a007b3453fe1e4713981d,False,23,['zilizopendwa']
+House Of Pain,Van Halen,False,6fYlvN1IlHi3cSY3tyZH1T,40,199840,1984,https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed,False,73,"['album rock', 'classic rock', 'hard rock', 'rock']"
+The Child Deirdre,Mychael Danna & Jeff Danna,False,6VyoYlykRJQA9luSMdkP7L,13,244266,1996,https://i.scdn.co/image/ab67616d0000b273cbd4e3a746800312de86a39d,False,52,"['canadian soundtrack', 'soundtrack']"
+Sense,Beherit,False,12U5ZlKt99QX6pXkLAMiLb,3,625586,2007,https://i.scdn.co/image/ab67616d0000b2730cc9e328a8662d0e74b45f57,False,31,"['black metal', 'finnish black metal', 'lapland metal', 'war metal']"
+Slut [Live at Lafayette's Music Room_ Memphis_ TN_ January 1973],Big Star,False,64fJxARpv9sQcH9yT0wtEb,0,214106,2009,https://i.scdn.co/image/ab67616d0000b2734c48e4c24a0f5c10ade07ed3,False,46,"['alternative rock', 'baroque pop', 'beatlesque', 'jangle pop', 'melancholia', 'power pop']"
+Locaccmaccam,Marc Perrone,False,7nnnX7nbpMPC74SNogXPHy,3,143506,2006,https://i.scdn.co/image/ab67616d0000b2739b6cea29b770409c0df906ea,False,29,"['accordion', 'french folk']"
+Harmony Of The Forest,Kitaro,False,7nHdjhd8N2xn7Q1nVmgz8e,3,382506,2012,https://i.scdn.co/image/ab67616d0000b273459c4c56ad4b5a0e3a838a5f,False,48,"['healing', 'new age', 'synthesizer']"
+I'm On Your Tail,Paul Carrack,False,5IlHldL59MZ1r3IifXG5HM,3,375666,1989,https://i.scdn.co/image/ab67616d0000b27315fe71c4c7b2209f7d062a0d,False,57,[]
+Still,Jennifer Lopez,False,0fFWM6YKE7sFNymOhcxR77,31,220560,2002,https://i.scdn.co/image/ab67616d0000b273a1bf4c1efc808162ac95090f,False,77,"['dance pop', 'pop', 'urban contemporary']"
+You'll Never Find,The Impressions,False,5d4dbfSTOQO2NbVPN1rTQO,1,281640,1976,https://i.scdn.co/image/ab67616d0000b27348860460d8b74f9a7c801986,False,49,"['chicago soul', 'classic soul', 'funk', 'quiet storm', 'soul']"
+Ask The Angels,The Distillers,False,1zfhRdKNlNUCAyT6coEVxp,22,190960,2000,https://i.scdn.co/image/ab67616d0000b273c0b2aa5a2d54ce64fe5573e7,False,52,"['punk', 'skate punk']"
+Byal ravnec,Lot Lorien,False,6f8eHteWsYky7yPneO9lLo,1,368173,2010,https://i.scdn.co/image/ab67616d0000b27345c473ff447108a1fb0d0a93,False,1,[]
+2 Late 4 Goodbyes,Jeff Scott Soto,False,2NiT46bPI3YeEAuPT2JaDN,2,301947,2002,https://i.scdn.co/image/ab67616d0000b273d4d528d2ddfae8e802daba73,False,34,"['glam metal', 'hard rock', 'melodic hard rock', 'neo classical metal']"
+Too Many Choices,Bad Azz,False,4ACYyhT09q2OnIk0DCCrt7,4,285880,2001,https://i.scdn.co/image/ab67616d0000b2734dda2240435e535920f23b11,True,31,"['g funk', 'west coast rap']"
+Stick Out,Melt Banana,False,1htSw0yy2hRb42x4NSFfcV,10,42333,1994,https://i.scdn.co/image/ab67616d0000b2734fb42c573c91d56fe004ee03,False,35,"['experimental rock', 'japanoise', 'math rock', 'noise rock', 'noisecore']"
+Guantanamera,Wyclef Jean,False,6g5ov3aSDUvvDkQKIcmZQI,52,270493,1997,https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7,False,74,['rap kreyol']
+Polly's Dress,Hem,False,0oyLDzEIB8htWdwa8S4zEw,14,72266,2001,https://i.scdn.co/image/ab67616d0000b2738106fb07e7ce7cc32c03f91f,False,38,"['ectofolk', 'lilith']"
+We Bite,The Misfits,False,6GTWDfxTopHiI16sE0F6gn,30,75106,1984,https://i.scdn.co/image/ab67616d0000b273f52e94692944d40e7faf3c81,False,66,"['horror punk', 'new jersey hardcore', 'new jersey punk', 'punk']"
+Ballad Of The Boll Weevil (Remastered Version) (Take 10),Mance Lipscomb,False,1zD5Vk9Ay0V8OOI4YKuoAf,1,151800,2003,https://i.scdn.co/image/ab67616d0000b273fd8d66262e872ec760c5468b,False,24,"['country blues', 'texas blues', 'traditional blues']"
+What'Cha Gonna Do About It,Small Faces,False,7j28MOpTJKGFms9xGhxOVf,27,117266,1966,https://i.scdn.co/image/ab67616d0000b2731481b4667fde4c905fcf0345,False,46,"['british blues', 'british invasion', 'protopunk']"
+Objection (Tango),Shakira,False,36YNa8joLwu9yor2TkZbIY,51,222533,2001,https://i.scdn.co/image/ab67616d0000b2731f400a1f4d821b00824cf58f,False,88,"['colombian pop', 'dance pop', 'latin pop', 'pop']"
+Spelling Beatnuts with Lil' Donny,Beatnuts with Lil' Donny,False,0TH0PXnxv5Puxi2ivOYcyq,7,78466,1999,https://i.scdn.co/image/ab67616d0000b2730f1e1e41a7a78ddf61ee8972,True,50,"['east coast hip hop', 'queens hip hop']"
+Doomed To Walk The Earth,Swallow The Sun,False,1XmJjuHWDhjJF71LP4UGs2,11,510053,2006,https://i.scdn.co/image/ab67616d0000b273bf9fb7e3829dad54379799f7,False,45,"['doom metal', 'finnish death metal', 'finnish doom metal', 'finnish melodeath', 'finnish metal', 'melodic death metal']"
+Tha Day,K's Choice,False,4FfYUUGjSB9g44D4EFGwsJ,1,182666,2003,https://i.scdn.co/image/ab67616d0000b2732619ac177a8f097b8459e873,False,44,"['alternative pop', 'belgian rock', 'lilith']"
+These Days,Hushabye Baby,False,1d5NGzSRH6mMQj70M7Uhak,7,210853,2009,https://i.scdn.co/image/ab67616d0000b273eb9e2434a32cad4cdb3dda77,False,32,['lullaby']
+Polyester,Maximilian Hecker,False,2jZOJxG5HEvuOy2fsSWYKZ,16,228813,2001,https://i.scdn.co/image/ab67616d0000b273e92d0ca224bdd8ac25314833,False,28,['melancholia']
+The Dark Road,White Willow,False,26pmId8Bnr8JXwm4HrUmAI,0,257292,2006,https://i.scdn.co/image/ab67616d0000b2738566ed302996b742cf3f90f5,False,7,"['modern progressive rock', 'norwegian prog']"

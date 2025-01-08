@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+The Same Man (For Matthew),Rachel Loy,False,7j934vZDdnItZjeNfoJNkx,0,198293,2003,https://i.scdn.co/image/ab67616d0000b273b80f567dc800094fb8983600,False,2,['austin singer-songwriter']
+Power Shower,Caspa,False,4kguhUiG1vEOXamhi0sIIh,3,272500,2009,https://i.scdn.co/image/ab67616d0000b273631a8626b39c872ce5d98b77,False,36,"['brostep', 'classic dubstep', 'filthstep', 'glitch hop']"
+Endless Winter,Earth,False,3VWuXiMpjchX4IiXqy7SbB,0,525467,2007,https://i.scdn.co/image/ab67616d0000b2734ed753bebcd95ef545c31c4f,True,2,[]
+Ladies And Thugs,DJ Quik,False,1x7QQzpqqyOvjSF6z4Jisz,8,227578,2005,https://i.scdn.co/image/ab67616d0000b273adda8369a94cf4dd86270632,True,2,[]
+Fucked,Less Than Jake,False,0rzf3yl9W7TH74vjelGGOk,1,80653,2008,https://i.scdn.co/image/ab67616d0000b27382971fc66068ed1c06f966a3,False,54,"['modern ska punk', 'pop punk', 'punk', 'ska', 'ska punk', 'skate punk']"
+Zephyrus,Bloc Party,False,5m1GPgfdalhGpq1fbxF01V,19,275013,2009,https://i.scdn.co/image/ab67616d0000b273c956e5196dfa9a35f2504130,False,63,"['alternative dance', 'alternative rock', 'dance-punk', 'indie rock', 'indietronica', 'modern rock', 'neo-synthpop', 'new rave']"
+Let Me Be the One,Hank Locklin,False,7lUy7761BUWZWFvjjAp5DQ,1,150333,2009,https://i.scdn.co/image/ab67616d0000b273c776eb899345a9f8e0ea1c0b,False,40,['nashville sound']
+Primal Forces,Megadrums,False,5JvcsjJZavwPnxKSvxIGgO,0,342840,2008,https://i.scdn.co/image/ab67616d0000b273a3369d0ef586d698842468ae,False,3,[]
+Me Duele,Joe Lopez,False,1jWKFn8uKcT7ZYPbnOevxy,12,199306,2003,https://i.scdn.co/image/ab67616d0000b273e9ab8cf3d8a33b4d85441f35,False,27,['tejano']
+Accept Me,Harvey Averne,False,7mqnptFKfMUQDHkgPBFYrI,5,166463,2024,https://i.scdn.co/image/ab67616d0000b273329db8f679b2178429b23529,False,8,['boogaloo']
+Nothing To Hold Me,Jesus Jones,False,2nRN3JGw8ol8M4V02qqMQ5,12,201106,1991,https://i.scdn.co/image/ab67616d0000b273bb31ee7f9507621c548f1ec2,False,42,"['britpop', 'dance rock', 'grebo']"
+Rick's Cafe,Christie Hennessy,False,374mCH3yqQPFvjScVvhmkk,5,246146,2007,https://i.scdn.co/image/ab67616d0000b273803b9cf58092e8ebf2f5b39d,False,33,"['irish country', 'irish folk']"
+Palavras,Nana Caymmi,False,6TlZLeZOYXD3vQBfbdY7ou,4,233560,1979,https://i.scdn.co/image/ab67616d0000b273e71d4560f9ff228ad24f0713,False,48,"['bossa nova', 'mpb', 'samba', 'velha guarda']"
+Coma,Aesop Rock,False,1uheW5kZ50r8wsR9xfM7e1,21,236600,2001,https://i.scdn.co/image/ab67616d0000b2734566a46c13a1a8f34c6fd30e,True,57,"['abstract hip hop', 'alternative hip hop', 'conscious hip hop']"
+For All We Know,Glen Ricks,False,29a6HhrS308hPvaUslYaLV,0,215733,1992,https://i.scdn.co/image/ab67616d0000b27301fc3187fe32d1e40517ef86,False,15,"['deep ragga', 'lovers rock']"
+Still a Fool,Groundhogs,False,4lYuosKr9Iux8wgkRkJGSN,25,251800,2010,https://i.scdn.co/image/ab67616d0000b2738c33fbea7449c6a6e381b03e,False,30,"['british blues', 'proto-metal']"
+I'll Be Around,Frank Ifield,False,4e7n8k6LGBJljpsIZLbCwB,0,152160,1997,https://i.scdn.co/image/ab67616d0000b273c9edcef8f6655a80cd8e38e8,False,34,"['classic australian country', 'merseybeat', 'rock-and-roll', 'yodeling']"
+Glow,King Swamp,False,3LACel39o2liVGmY8jkIXW,1,342266,1989,https://i.scdn.co/image/ab67616d0000b2735a04191e7d55e85d1554a03a,False,3,[]
+Tercer Mundo,Fito Paez,False,1ghh6SYvZNlgcGFxDIupw7,30,284253,1990,https://i.scdn.co/image/ab67616d0000b273bf412adfcfeef7ce6e5be114,False,69,"['argentine rock', 'latin alternative', 'latin rock', 'rock en espanol']"
+The Wedding,Brian Dullaghan,False,7s2QjV5fNFkk5VBF9Xdglj,1,148333,2016,https://i.scdn.co/image/ab67616d0000b273a5acb5da4e6ae3af5d9337ed,False,16,"['irish folk', 'irish pub song']"
+Keep Hope Alive,The Crystal Method,False,57UCrPfJEihUZd7YQVrT45,26,372800,1997,https://i.scdn.co/image/ab67616d0000b2733b59098e90e7c7163d23235a,False,50,"['big beat', 'breakbeat', 'electronica']"
+La Medalla,Los Chunguitos,False,2W37FZPFOds0cWX10hgWYJ,26,215266,2001,https://i.scdn.co/image/ab67616d0000b27342ace1c5f668c60e9169a0e2,False,54,"['carnaval cadiz', 'pop flamenco', 'rumba', 'spanish pop']"
+Viralo Al Reves,Johnny Pacheco,False,5DePbBjayeUKLjzXlVSPrU,19,333093,1973,https://i.scdn.co/image/ab67616d0000b273306d4fc87606fa10cb55b726,False,54,"['charanga', 'salsa']"
+Watched By An Angel,Bob Carlisle,False,40fWKdfFtZb6TOup8wHb6d,1,274560,2000,https://i.scdn.co/image/ab67616d0000b2733c2a37984f7eec6a43283e3e,False,35,[]
+Judge Harsh Blues (Tk. 1),Furry Lewis,False,1DyNOYbn7jouGl9Q4XT5f5,1,180532,2003,https://i.scdn.co/image/ab67616d0000b2732ea39b58c52a1e4efcd1b7b7,False,26,"['country blues', 'memphis blues', 'traditional blues']"
+I'm Glad,Jennifer Lopez,False,1hdjVrERYnp4FsjtJaXlB6,42,222040,2002,https://i.scdn.co/image/ab67616d0000b273a1bf4c1efc808162ac95090f,False,77,"['dance pop', 'pop', 'urban contemporary']"
+Chanson Populaire,Vincent Baguian,False,31VG6VDS0F0RTc6Onl1nuT,2,167693,2008,https://i.scdn.co/image/ab67616d0000b273223c4a3428ae7341a6ff2428,False,6,[]
+One Love,David Rose & His Orchestra,False,3asFxSLuW6R5EdzW9jEXvt,10,220400,1962,https://i.scdn.co/image/ab67616d0000b273feeb359baa28fb8f5d3bca22,False,62,"['adult standards', 'easy listening', 'lounge', 'vocal jazz']"
+Singing  Bowls_Saxophone & Voice,Jane Winther,False,7DQpYsUrjZE7mjbW5EECmz,8,329456,1998,https://i.scdn.co/image/ab67616d0000b2732ce53cb930a489dde2eb177d,False,47,"['kirtan', 'meditation', 'world devotional']"
+Famous One,Seventh Day Slumber,False,5HcpCpppm2kaxI1RAdL4HV,12,266240,2009,https://i.scdn.co/image/ab67616d0000b273a4dc2e03e08a5b22867f6940,False,42,"['ccm', 'christian alternative rock', 'christian music', 'christian rock']"
+Min Xechnas (Forse),Dakis,False,0bv5Jf6VgnG6bHhJp2kO1E,0,186893,1995,https://i.scdn.co/image/ab67616d0000b273ea4a659cffafe428dff2c45e,False,31,['classic greek pop']
+Best In LA,Marc Shaiman,False,7uWvH8LPMAcW7oJDPZYZ8o,6,81146,2007,https://i.scdn.co/image/ab67616d0000b273d42af098ccf52d521a9e65f1,False,38,"['classic soundtrack', 'deep soundtrack']"
+The Sound From There,Norman Howard,False,10Jg9umkKwaj6J4VtSOjDs,0,417493,2007,https://i.scdn.co/image/ab67616d0000b273899edffd7d4b26799972b941,False,0,[]
+La Bruja Chafa,Bobby Pulido,False,0RkP3dT6nRvd0kogsGklA3,5,182760,1999,https://i.scdn.co/image/ab67616d0000b273e89ce518ee6696ab0b0593f2,False,65,"['banda', 'grupera', 'musica mexicana', 'norteno', 'tejano']"
+Goin' To The River,Alice Cooper,False,2otYhZnZnUzdLFEQVblANN,2,130639,1970,https://i.scdn.co/image/ab67616d0000b27379c33c51ee4ffa5a66699ebe,False,64,"['album rock', 'classic rock', 'detroit rock', 'glam metal', 'glam rock', 'hard rock', 'metal', 'protopunk', 'rock']"
+Shout For Joy  (Celtic Psalms Album Version),Eden's Bridge,False,045Mi0OZyR0vToxMf6XDlQ,7,170693,1997,https://i.scdn.co/image/ab67616d0000b2733586b5fc3949d402c9f5e84f,False,31,[]
+Locked Away,The Gathering,False,1cVjKQvJBExcZJgWsH7i3X,15,203933,1999,https://i.scdn.co/image/ab67616d0000b273d3e69822476fbd64e2e10c42,False,43,"['atmospheric doom', 'dutch metal', 'gothic metal', 'gothic symphonic metal', 'symphonic metal']"
+Sing Me Softly of the Blues,Richard Galliano_ Jean-Charles Capon_ Gilles Perrin,False,0VuUL465VVcmNLVefRlj4N,0,349333,1983,https://i.scdn.co/image/ab67616d0000b273146697f29296d30a66d39f92,False,40,"['accordion', 'bandoneon', 'classical accordion', 'french jazz', 'italian contemporary jazz', 'jazz accordion']"
+Here We Go Again,H-Town,False,4flGJRdgpW4CI0s4uRQdMM,19,238942,2015,https://i.scdn.co/image/ab67616d0000b2736ef14b5313cdcb2cce9f9a63,False,51,"['boy band', 'contemporary r&b', 'new jack swing', 'r&b', 'urban contemporary']"
+Voyage to eternal Life,Astarte,False,27uPYkQY5eyMEABhkubwU9,12,568800,2017,https://i.scdn.co/image/ab67616d0000b2734b20950055aefb8706376230,False,15,"['greek metal', 'melodic black metal', 'slayer', 'symphonic black metal']"
+Come On (Sessions@AOL Version),Ben Jelen,False,3HAwAYxrBV5lvXqDkEtBT7,3,219613,2004,https://i.scdn.co/image/ab67616d0000b273cb4c329b2f0f73ee729b0816,False,15,['piano rock']
+Forget Me Knots (Bailey Remix),Roni Size,False,18rr7RGidhR4DVpWNsQb5I,1,397036,2016,https://i.scdn.co/image/ab67616d0000b273f9a3b8bee43cb7e678140070,False,41,"['big beat', 'breakbeat', 'drum and bass', 'jungle']"
+If I Couldn't Hold Back The Dawn,Carl Smith,False,5rhKyCd2iGVvHKrfVUu8Qc,0,156560,2005,https://i.scdn.co/image/ab67616d0000b27318e010e48ac99ba47dae51d5,False,31,"['classic country pop', 'honky tonk', 'western swing']"
+Again (Instrumental),Janet Jackson,False,4FftAaymty5YWRDk7IZSf6,8,233000,1993,https://i.scdn.co/image/ab67616d0000b273a6eb216ba38808d7432b6184,False,67,"['dance pop', 'r&b', 'urban contemporary']"
+Radioland,The Cate Brothers,False,5b4zFVoadhVUAq7cMpir7E,3,273866,1995,https://i.scdn.co/image/ab67616d0000b27376b0e068642666781b014b01,False,12,[]
+Anything For My Baby,Kiss,False,1LHlv6gHrWGw8P4TAYqxwS,7,155666,1975,https://i.scdn.co/image/ab67616d0000b273239d4cae94a17539fbbb05df,False,74,"['glam rock', 'hard rock', 'rock']"
+Tango,Charly Garcia,False,0vT22R3ZmZ4iH4HL0OxcXn,21,162973,2003,https://i.scdn.co/image/ab67616d0000b273bf9fccf9222ef25a1c42de85,False,69,"['argentine rock', 'latin alternative', 'latin rock', 'post-punk argentina', 'rock en espanol']"
+Lovely Day,Lit,False,0leoOvRDqNAspSMhO3S11Y,26,246800,1999,https://i.scdn.co/image/ab67616d0000b2737b40b2abdbcb8520874f29ed,False,61,"['alternative metal', 'nu metal', 'pop punk', 'pop rock', 'rap rock', 'socal pop punk']"
+Fields Of Athenry,The Shamrock Singers,False,0omZ5Gz70C4F5Q793HIHKp,0,275306,2008,https://i.scdn.co/image/ab67616d0000b27389af1f317ed66cb18512abf2,False,2,['irish pub song']
+Explode,The Cardigans,False,4c2ahpg0cv7VZ7SZG5DnYl,34,245069,1998,https://i.scdn.co/image/ab67616d0000b2735ef700b0fb079793f8b0d774,False,71,"['lilith', 'new wave pop', 'permanent wave', 'pop rock', 'swedish pop']"

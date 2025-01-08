@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Federico,Mongo Santamaria Orchestra,False,4lntgmYoAGEuPCK2cFmPz2,0,203480,2019,https://i.scdn.co/image/ab67616d0000b273c8307f9318155b2a7ca8e5fb,False,45,"['afro-cuban percussion', 'boogaloo', 'cuban rumba', 'jazz cubano', 'latin jazz', 'musica tradicional cubana']"
+Feel In The House,The Tamperer,False,793cX4xYAYetJfwsbWYyvY,5,332602,1998,https://i.scdn.co/image/ab67616d0000b2735d992d0f169fc3d43f709275,False,42,"['hip house', 'italo dance']"
+Nanea Kou Maka I Ka Le'ale'a,Ray Kane,False,6vuRDaUkseb8MkFzEbq8eC,10,262520,1994,https://i.scdn.co/image/ab67616d0000b273fb24f1b4862cd666f424f4dc,False,26,['slack-key guitar']
+"Rinaldo : Act 3 ""Or la tromba in suon festante"" [Rinaldo]",Marilyn Horne,False,1maL3jEzpqgZirufB6fVUz,0,231586,2009,https://i.scdn.co/image/ab67616d0000b273005a28e51a98490f318a1a78,False,71,"['baroque', 'classical', 'early music', 'english baroque', 'german baroque']"
+Filumena Fabulosa,Marga Gomez,False,7H0aH4GFHbbNwbV7klC0EQ,0,313200,1998,https://i.scdn.co/image/ab67616d0000b27314f4a04489af6a29a9540a61,True,0,['comedienne']
+Devil In The Wood Pile,Noah Lewis,False,05Ku9myAQPYLuHsbpZ6zkK,0,173653,2003,https://i.scdn.co/image/ab67616d0000b273a78ffb45376b356236a04e7f,False,1,"['country blues', 'harmonica blues', 'jug band', 'memphis blues']"
+Independent Girl (feat. Malki Singh),Apache Indian,False,3llR8ymzWp9CBee4PGcjzv,11,298773,1997,https://i.scdn.co/image/ab67616d0000b273f1cc071fe48b07cff66b2620,False,47,['uk dancehall']
+Mythodea - Music for the NASA Mission: 2001 Mars Odyssey/Movement 7,Vangelis,False,1EMCcU36fdAot9bpsUVjW5,7,297760,2001,https://i.scdn.co/image/ab67616d0000b273ec0e20cc6b3d3c7c609959b9,False,62,"['cyberpunk', 'synthesizer']"
+Those Were the Days,John Berry,False,5EeurRmHAMP0NyZavVy1S8,0,230413,2006,https://i.scdn.co/image/ab67616d0000b273b033c071feba5c17e63c8856,False,38,"['bluegrass gospel', 'country road', 'deep contemporary country']"
+Torero,Blingtones,False,7KOHMgN3hE2a1FO9P0Qxb9,0,30014,2010,https://i.scdn.co/image/ab67616d0000b273623066387740c29285a98b34,False,0,['ringtone']
+LEAVE!,V V Brown,False,3EmF1YbjrLXDnB5XrPYgWW,16,228360,2009,https://i.scdn.co/image/ab67616d0000b27351bf57ba26a003d279c6ae95,False,37,"['british soul', 'metropopolis']"
+Crazy Groove,Terje Lie,False,4a76ZiSAzc4QSTEtAxx4Ga,18,267933,2010,https://i.scdn.co/image/ab67616d0000b273ea04f094e3b3399ab6c24081,False,13,['deep smooth jazz']
+Liftoff,X-Raided,False,72z8vkK3uWn0JUANc0nswZ,0,281946,2010,https://i.scdn.co/image/ab67616d0000b273e98959fb47a4332d4ffc3d71,True,42,"['g funk', 'hyphy', 'sacramento hip hop']"
+As The Sleeper Awakes,Soilwork,False,69ZMgdRuh18Jw1adgNOzNj,17,258160,2007,https://i.scdn.co/image/ab67616d0000b273c035373443ec7cac958e918e,False,53,"['alternative metal', 'groove metal', 'melodic death metal', 'melodic groove metal', 'melodic metalcore', 'nu metal', 'swedish death metal', 'swedish melodeath', 'swedish metal']"
+The Fugitives,Blindman's Sun,False,2cwtHkvjAR9NyQ8vzhAKxz,1,639425,1999,https://i.scdn.co/image/ab67616d0000b27314a916190685ecc918a9f43f,False,3,[]
+Take Over,Parachute Band,False,5n2y6GFBRdrBQeSXsorfCC,3,272133,2008,https://i.scdn.co/image/ab67616d0000b273cea251f741d08f9128fa4b56,False,32,"['ambient worship', 'nz christian']"
+Ich vermiss dich (Radio Mix),Jenney,False,2Am32mmNQbUZjLVzat4bqs,0,230720,2001,https://i.scdn.co/image/ab67616d0000b273005f11424ac729a86a0012d1,False,0,[]
+Into Hiding,Amorphis,False,4UtVryszeh7c4pAV56yWPi,26,225400,1994,https://i.scdn.co/image/ab67616d0000b27328ae3e97d8f87da56891b9af,False,49,"['finnish death metal', 'finnish melodeath', 'finnish metal', 'folk metal', 'gothic metal', 'melodic death metal', 'metal', 'power metal', 'progressive doom', 'symphonic metal', 'viking metal']"
+Man Don't Cry,Jimmy Witherspoon,False,12F7GfPO5aOUeT7Ng0iSJI,0,126000,2001,https://i.scdn.co/image/ab67616d0000b2738e76e26a35dca8ae73b61c02,False,33,"['blues', 'jazz blues', 'jump blues']"
+Throw,Mr.De',False,1t9K6hLRC5xAG1i2wvioUD,19,251602,1995,https://i.scdn.co/image/ab67616d0000b273e93190d57629bb49656547b7,True,25,['ghettotech']
+Primary,The Cure,False,4fnx6Wman02ryvAOqKm6iI,45,219533,1981,https://i.scdn.co/image/ab67616d0000b27397f724c0b4708c28ec57a620,False,79,"['new wave', 'permanent wave', 'rock', 'uk post-punk']"
+El tuli-tuli,Gran Coquivacoa_ Neguito Borjas,False,2eVKemQNVDMMO2At2TsWWy,2,117626,1995,https://i.scdn.co/image/ab67616d0000b2737900de8c340512513e94bb6d,False,56,"['classic venezuelan pop', 'gaita zuliana']"
+I Stayed Long Enough,Tammy Wynette,False,6kXolEFcC9w3za9KYd19Wp,13,118000,1968,https://i.scdn.co/image/ab67616d0000b2738c66ab65968b335b7847a202,False,55,"['country', 'country dawn', 'nashville sound']"
+When You Wish Upon A Star,Cliff Edwards/Disney Studio Chorus,False,0QKKOP5M6kUW8rLd6SBbXn,50,195293,2006,https://i.scdn.co/image/ab67616d0000b273d007c9bba27ef5c5f65e8d31,False,48,['movie tunes']
+Pray For Me (One Step Closer Album Version),Scott Wesley Brown,False,4U5TfJbWcY4CSg1unG5JWO,5,235866,1995,https://i.scdn.co/image/ab67616d0000b2737d3db53d5bba30ceecc6830d,False,37,"['classic praise', 'jesus movement']"
+Viola Lee,Jim Kweskin_ The Jug Band,False,0BA2jboGScKbadM0LnSrq2,0,236906,2002,https://i.scdn.co/image/ab67616d0000b273ada3cdb03bc8b4a31365194b,False,16,['jug band']
+Argument,Luciana Souza,False,7nxrz1ELFA2ntp5H4PdTPv,0,198893,2000,https://i.scdn.co/image/ab67616d0000b273a8c702da551dcabcb54273e6,False,28,['brazilian jazz']
+Do Re Mi,Percy Faith,False,49WjcNhorXZBKx3dzFMiVe,1,150666,1959,https://i.scdn.co/image/ab67616d0000b27323d3d6a28a82bcc6a174a743,False,64,"['easy listening', ""man's orchestra""]"
+Travel Writer,California Oranges,False,1rYv2DNZ6nkn4zHxXz44M6,0,202626,2007,https://i.scdn.co/image/ab67616d0000b273b0cdbec622f07b60dbbb00cf,False,1,['sacramento indie']
+Standing Outside of Heaven,Jimmy Wakely,False,7drS94WAGkdduNl1jPJ2Eh,0,139258,2019,https://i.scdn.co/image/ab67616d0000b2737a6a3e01e6b73bdf6618cc9e,False,32,"['arkansas country', 'classic oklahoma country', 'cowboy western', 'western swing']"
+Where Youth And Laughter Go,Broadcast,False,2pfUlsRbnM2eH99bsiZqjH,18,120143,2024,https://i.scdn.co/image/ab67616d0000b2733daef94a8e07e64d879280a7,False,52,"['art pop', 'chamber pop', 'dream pop', 'experimental rock', 'hauntology', 'indietronica', 'nu gaze', 'slowcore']"
+Dhol Vajda,Tigerstyle,False,4Ind7OUb0M01GmhniNdXuA,22,351386,2001,https://i.scdn.co/image/ab67616d0000b273fa4486d04809d72600627268,False,44,['bhangra']
+Saddam,Gregory Isaacs,False,75rFll9nWV6bu5YTQh16Y7,0,235133,2000,https://i.scdn.co/image/ab67616d0000b273fa248d6fc9b7fa0432a56b86,False,59,"['lovers rock', 'reggae', 'roots reggae']"
+You Can't Deep Freeze a Red Hot Mama,Sophie Tucker,False,7fchRty1hL1DJ9kMYveflq,0,154115,2000,https://i.scdn.co/image/ab67616d0000b2738a567d26b50df3d2c36eb451,False,25,"['torch song', 'vaudeville']"
+You've Got A Chance,The Jackson Southernaires,False,4qXFqGVN0UDCh4UjDPKARq,0,318160,1986,https://i.scdn.co/image/ab67616d0000b273a5d5f6d8750dcc9a2fdf2c4e,False,28,['praise']
+Beats are my Weapons,impulsonic,False,3965Hpc4VFlpT5MDrONO3r,0,395993,2008,https://i.scdn.co/image/ab67616d0000b273b782cac34454451986c32a02,False,0,[]
+(I Wanna) Play A Little While,J.B.Lenoir,False,3nzWk8KnMTpAjKPbAlgKoZ,0,169946,2006,https://i.scdn.co/image/ab67616d0000b2733a24b044b098dcc4420ac7f7,False,35,"['acoustic blues', 'blues', 'chicago blues', 'traditional blues']"
+Break,SWAMI featuring Ishmael Morabe,False,3Li0AvaYZquMHKY1rSHg4B,2,1152797,2014,https://i.scdn.co/image/ab67616d0000b2732053798c08cdc7d764de5ee5,False,25,['hare krishna']
+pH4,Paul Glazby,False,6rLMPuKNHjzjOicuzkXRka,0,445557,2003,https://i.scdn.co/image/ab67616d0000b2736424953685c726a1877ccbe5,False,19,['hard house']
+Show Me - Splitloop Remix,Deekline & Wizard,False,5C8CCpU3muHp5h9EtxWep5,2,338436,2009,https://i.scdn.co/image/ab67616d0000b27342aa213d69ff1fc127d715be,False,48,"['breakbeat', 'ragga jungle']"
+The Radio Saved My Life Tonight,Bon Jovi,False,1O3Ppyj7xjQhxwAkGP6Dbb,22,307373,2004,https://i.scdn.co/image/ab67616d0000b273f322ab56c8c9178d77234545,False,81,"['glam metal', 'rock']"
+Let It Burn,Krayzie Bone,False,1RMoJiuogSTFveAcHFRnWq,2,174253,2007,https://i.scdn.co/image/ab67616d0000b27382cbdc8bfcda81d6b47113f4,True,58,"['dirty south rap', 'gangster rap', 'ohio hip hop']"
+Going Out West,Jesse Malin,False,60HK4FuIYlRtCTsxEkbQI9,0,143746,2016,https://i.scdn.co/image/ab67616d0000b273ab50b59f96444f49e6c22e2d,False,39,['alternative country']
+I've Been Missin' You,Kenny G,False,5FfmD2EYB7c1sjSLmU4AUl,10,255706,1983,https://i.scdn.co/image/ab67616d0000b273db3b91899e5362c0f553ff51,False,69,"['smooth jazz', 'smooth saxophone']"
+Sweet Child O' Mine (Alternate Mix),Green and Yellow,False,7ES3Lypi5dkwCNC40mockh,0,358786,2006,https://i.scdn.co/image/ab67616d0000b273d906259ca98adc37ba50e493,False,0,[]
+The Death Of Romance,Zeromancer,False,5zPhLQOrlzQFwWmg38Eqxs,13,247413,2010,https://i.scdn.co/image/ab67616d0000b273b19601df9351161ab8867eb8,False,35,['industrial metal']
+Reflections,David Arkenstone,False,7zhBK3L32bgpjTJj02jrky,14,382160,2010,https://i.scdn.co/image/ab67616d0000b2739ad2db29602b85f10dfe7d8a,False,53,['new age']
+Children's Song No. 3,Renee Rosnes,False,3WpLVK1K7quSs3fKAtcJvW,1,320866,1999,https://i.scdn.co/image/ab67616d0000b2732ec4525be416a830e9a8705c,False,29,['canadian modern jazz']
+Be & Flower,The Tall Grass,False,2nZLJgxCSx5lDcNsMzPdHO,0,273733,2006,https://i.scdn.co/image/ab67616d0000b2734c883a801a3cbf59df77894a,False,0,[]
+Imaginary Gangsters,Big Rich featuring J. Stalin_ Aristotle,False,4xgId98ATmPngzuZ3Bu7xJ,0,137813,2006,https://i.scdn.co/image/ab67616d0000b273d3ee11133d874fe6f78b8813,True,11,['hyphy']

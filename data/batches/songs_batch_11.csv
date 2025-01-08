@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Chase The Light,Dope Stars Inc.,False,6kb6MFnfdcN1KP6bUZ8Cio,4,233466,2006,https://i.scdn.co/image/ab67616d0000b273f69085243c3c495fa9fdd847,False,35,"['cyberpunk', 'industrial metal', 'italian metal', 'neue deutsche harte']"
+Good Texan,The Vaughan Brothers,False,34d6n6HMfyOiQjudsxbfeh,36,261920,1990,https://i.scdn.co/image/ab67616d0000b2731b50cc6a7cc81185d0a0a45d,False,38,"['blues', 'blues rock', 'country rock', 'electric blues', 'modern blues', 'southern rock', 'texas blues']"
+Neglected,Marygold,False,76fYItX0tB96LVqhY8Sgyz,0,225140,2003,https://i.scdn.co/image/ab67616d0000b273c142465fc9c339184263709b,False,0,[]
+Chumpman Blues,Scott Ainslie,False,1aiVoOvHl0wrIF2VC65KGU,0,175053,1997,https://i.scdn.co/image/ab67616d0000b27335fa0529dc6195339e57f19c,False,1,[]
+Russian Doll,Flink,False,6FtnAtNtKn1NTecDqXSPG4,0,273720,2007,https://i.scdn.co/image/ab67616d0000b2736b28e9e0a62309d508c8dc42,False,1,[]
+My M.B. Thang,Tyree,False,3ynR3KbnJ6PRopj8vmtrdI,0,400320,2007,https://i.scdn.co/image/ab67616d0000b27323d7dcd271717c81981ffc9d,False,14,[]
+Big Legged Woman,Robert Lockwood_ Jr.,False,31GdWJJJpmopc82WFIeuyq,4,278333,1997,https://i.scdn.co/image/ab67616d0000b273dce0d44d6d606d1d4464907a,False,19,"['blues', 'chicago blues', 'country blues', 'delta blues', 'traditional blues']"
+Bull Dog,The Shangri-Las,False,2EfZ5hOxNYU7UJbeKpRsNv,3,157853,2000,https://i.scdn.co/image/ab67616d0000b273eb98b5466988dca14286a2b3,False,46,"['brill building pop', 'classic girl group', 'rock-and-roll']"
+Como Nuestro Amor No Hay Dos,Cabas,False,3z0gWc0eBtrX4GQuoQD6ue,22,208413,2008,https://i.scdn.co/image/ab67616d0000b2738f9b9541a5d3744a99a7b74a,False,54,"['colombian pop', 'latin pop', 'reggaeton colombiano']"
+One Year_ Six Months,Yellowcard,False,7cADRJ05LekX8qqSkJkNRH,39,208733,2003,https://i.scdn.co/image/ab67616d0000b273d1fd8f264564d9eef7617a45,False,65,"['alternative metal', 'pop punk', 'post-grunge', 'socal pop punk']"
+Trows Kind,Elvenking,False,4fh642QUhDrz1Hwb0XNt8t,13,357520,2006,https://i.scdn.co/image/ab67616d0000b273e63165a1540a0c4845be1160,False,47,"['fantasy metal', 'folk metal', 'gothic symphonic metal', 'italian folk metal', 'italian metal', 'italian power metal', 'melodic metal', 'power metal', 'tolkien metal']"
+Song For Stephin Merritt,Kira,False,1IuPv9041o5K3GuuBBTP47,0,193186,2008,https://i.scdn.co/image/ab67616d0000b2739758a4155f2f1936b7236d63,False,21,['danish singer-songwriter']
+Change Clothes,Jay-Z,False,1xE7osYAtzz1PvLoVdOp5E,46,258426,2003,https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd,True,85,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']"
+Kathleen's Song / Ray Lynch,Ray Lynch,False,3meYJfC278syb2g79Qv5lD,24,250226,1984,https://i.scdn.co/image/ab67616d0000b2732a651056182a986532751049,False,33,['new age']
+Ascendant,Keep Of Kalessin,False,1LcKXgKuVC4o9JWeYE1HEf,11,271466,2008,https://i.scdn.co/image/ab67616d0000b273431a22dfd4d591327a288a1c,False,23,"['black metal', 'norwegian black metal', 'norwegian metal', 'symphonic black metal', 'technical black metal', 'viking metal']"
+Cai dentro,Gabriel Grossi,False,4hLLXXY0vADMWRdgNs1SoK,1,254706,2005,https://i.scdn.co/image/ab67616d0000b27379cd246b4201f37cd8d7934e,False,32,"['brazilian modern jazz', 'harmonica jazz']"
+My Funny Valentine,Jeanie Lambe & The Danny Moss Quartet,False,4bouHc5RJOuRDgVtlh1RX2,0,206000,2008,https://i.scdn.co/image/ab67616d0000b273ff762cc7cafda77d496b4b92,False,1,[]
+El Capiro,Mercedes Castro,False,0TR67zzElKTb9SDS3sdzm5,0,164954,2009,https://i.scdn.co/image/ab67616d0000b273dc1cc2e2dba98add45598ea5,False,44,['ranchera']
+Si Te Dicen Por Ahi,Charlie Cruz,False,2LpjLwBqhDx6VUImHQFbOQ,1,280453,2000,https://i.scdn.co/image/ab67616d0000b2734be7773fbd121bfb6d2e3d86,False,31,['salsa']
+Pickled Heads,Elliot Goldenthal,False,4iecjmh8mg4hj9sJmEtEmG,0,305528,2000,https://i.scdn.co/image/ab67616d0000b2735a9afd9d8842b41010b006d6,False,36,"['classic soundtrack', 'soundtrack']"
+If You Ask Me,Nick Colionne,False,22TCCyuszPKn5ZBOtYuHYR,30,215560,2006,https://i.scdn.co/image/ab67616d0000b2733c9489329b68c092268d1231,False,44,['smooth jazz']
+Werewolf_ Semen And Blood,Beherit,False,1KuDQFUR2gzQ2tCikJG7Ym,18,185066,2008,https://i.scdn.co/image/ab67616d0000b273289b4aa7ef7fe97dbf6ffc6f,False,31,"['black metal', 'finnish black metal', 'lapland metal', 'war metal']"
+Need More Blues,Sleepy John Estes,False,6SJ1q04lq18YdcyPWC1io4,1,197066,1993,https://i.scdn.co/image/ab67616d0000b2734587b34b42f171225e790fba,False,18,"['country blues', 'memphis blues', 'traditional blues']"
+Moritat (Mack The Knife),Bobby Darin,False,4ssSIbeAmPhm3w405Wb3Yz,1,209346,1974,https://i.scdn.co/image/ab67616d0000b273643461eab04b4e9c1c661275,False,63,"['adult standards', 'easy listening', 'lounge', 'rock-and-roll', 'rockabilly', 'vocal jazz']"
+"Beauty Queen (12"" Spoon Club Mix)",SNAP!,False,0hvA6Vpxt7hjjUyzYDsgFW,2,404350,2005,https://i.scdn.co/image/ab67616d0000b2736e5d7974ff43448cdb2dd949,False,65,"['diva house', 'eurodance', 'german techno', 'hip house']"
+Revelations,Marco Beltrami,False,7oQJZ29ssmGF8XxiAh3bKp,0,208880,2021,https://i.scdn.co/image/ab67616d0000b273273d3ad3fa8c2d8a23ea8cc4,False,47,"['orchestral soundtrack', 'soundtrack']"
+On The Road To Emmaus,The Steeles,False,7ePG7HUuoi0HrAUF677tAh,23,231413,1999,https://i.scdn.co/image/ab67616d0000b2734fae584e4f4e061c2d2623b6,False,18,['family gospel']
+Li Jia Chu Zou,Janice Vidal,False,1nOOfzRbAJfXAId7jXAdFU,49,248973,2006,https://i.scdn.co/image/ab67616d0000b273b7075876064ece17c7949bed,False,54,['cantopop']
+(Do)Minion,Eluveitie,False,71RsG4JALQhqijaAHuKEQ6,19,307693,2010,https://i.scdn.co/image/ab67616d0000b2735acd76c2e7ceedb04d51aff2,False,57,"['celtic metal', 'folk metal', 'gothic metal', 'gothic symphonic metal', 'hurdy-gurdy', 'power metal', 'swiss metal', 'symphonic metal']"
+Active,Dark Party,False,3crSn1jmjESzIJNcDrNh3q,6,261600,2009,https://i.scdn.co/image/ab67616d0000b27311d6ff7219f280c95c3d9c59,False,2,[]
+Cuando Quieres Tu,Sonora Santanera,False,2vY4rsNS0TJk0ctav4oDsy,6,168013,2012,https://i.scdn.co/image/ab67616d0000b2730cf2b0e8e3d0ee55f527309c,False,68,"['bolero', 'bolero mexicano', 'tropical']"
+Djessy,Kanda Bongo Man,False,1DXuSbfpI071KkF82Efgog,6,554885,1985,https://i.scdn.co/image/ab67616d0000b273a39d7e3b80b23450cd4ac802,False,37,"['afropop', 'soukous', 'zilizopendwa']"
+Times Like These,Albin Myers,False,6iM4w78X2Z8V8YJ3flBdW9,4,470703,2009,https://i.scdn.co/image/ab67616d0000b273fe62707fe25b15de1d2ae9db,False,44,"['electro house', 'progressive electro house']"
+Into Battle,Ensiferum,False,5XRUjUcadB3qBVgmp1cJ0e,34,352520,2008,https://i.scdn.co/image/ab67616d0000b273f6df9f51261fd69be472723e,False,49,"['finnish melodeath', 'finnish metal', 'folk metal', 'melodic death metal', 'metal', 'nordic folk metal', 'power metal', 'symphonic metal', 'viking metal']"
+Aquel Amor,Flor Silvestre,False,7IQFmh1WN3M3rBLCb0tZY9,20,208573,1997,https://i.scdn.co/image/ab67616d0000b273cb0f340fb46ecd467e406eac,False,47,"['mariachi', 'ranchera']"
+Interlude: Livin'...In Complete Darkness,Janet Jackson,False,4PUS2oaU89B8ZGDJ0sV2eN,15,67133,1989,https://i.scdn.co/image/ab67616d0000b27336e9e2e6de0b594414fb80c9,False,67,"['dance pop', 'r&b', 'urban contemporary']"
+I'm A Killer,Hot Live Guys,False,2V42e6QHDFT0AJrWDqH1Tr,0,138146,2006,https://i.scdn.co/image/ab67616d0000b27350614215a19747a0100d7e1a,False,0,[]
+Unicorn,David Lynch,False,7bBlim6TZ3on7cbUeT7Y2t,0,618200,2010,https://i.scdn.co/image/ab67616d0000b273af6bf648d7756ec900d3724b,False,12,[]
+Amdokwe,Vusi Mahlasela,False,21TiFrosb2HWdvjlA2CmVr,0,250480,2000,https://i.scdn.co/image/ab67616d0000b27304fc51b704c6a9e3e316b02b,False,28,['south african jazz']
+Nassau Town,John D. Loudermilk,False,3q2qkhYR5wRI52KRQoOhVb,1,123440,2006,https://i.scdn.co/image/ab67616d0000b2732444a6c478761b554baafa01,False,25,['rock-and-roll']
+Look Me In The Eye,Margaret Becker,False,6L9EvDNjGqhUOcwT89lGJ4,1,281266,1996,https://i.scdn.co/image/ab67616d0000b27309abff63f6a101a4b44cb000,False,28,['deep christian rock']
+The Buzzard's Back in Town (Live),Pumpkin Buzzard,False,60FLMJYro9fpoXcO7TkbYx,0,61706,2009,https://i.scdn.co/image/ab67616d0000b273e2416cbf45777a0e1ed75f7b,False,0,[]
+Harry Flowers,William Orbit,False,4y3DWBtfJw3YWjJFfqzYvf,20,271373,1993,https://i.scdn.co/image/ab67616d0000b2733a8573b325d2370ec0aaa914,False,47,"['classic progressive house', 'downtempo', 'intelligent dance music']"
+Broke Down,Radio Moscow,False,3GepdehmdxaevoTK1Vj0ee,38,255960,2009,https://i.scdn.co/image/ab67616d0000b2733ae820020865f6589d06aa01,False,43,['modern blues rock']
+Orgasme Tellurique,Stille Volk,False,1aWp3mskC4lZyaosFBASa3,0,276706,2003,https://i.scdn.co/image/ab67616d0000b273d5e8f3e9d78ae1b5c25ceb85,False,9,"['medieval folk', 'musica occitana']"
+Gonna Take a Miracle,The Elders,False,2OHH82jgOJFUdJGC031dvq,3,241640,2006,https://i.scdn.co/image/ab67616d0000b2739e88044d8dcd6d2d51fe6d71,False,29,['celtic rock']
+Too Late (Orange Factory Extended Mix),Tina Ann,False,6senU1lpgqAYXpn5O559ud,0,395573,2004,https://i.scdn.co/image/ab67616d0000b273a9591c9762d0427a2a0f8cfd,False,6,['deep vocal house']
+Hypnotise The Cat,Tam Tam Go!,False,1QHnL81pg2Yz0vSAmHp6Ls,0,216986,2008,https://i.scdn.co/image/ab67616d0000b2738ec40495884dc9a628cbd8f1,False,43,"['indie extremena', 'spanish new wave', 'spanish pop', 'spanish pop rock']"
+Dime,Conjunto Mar Azul,False,6lq199zyMej0FfsjFJgAIS,0,160185,2020,https://i.scdn.co/image/ab67616d0000b2736343c782e0d5382b49432feb,False,46,"['chilena', 'musica costena']"
+Eddie's Pad,Tom Collier,False,0qeaIxf8bfmiIwJswCZx46,0,411440,2004,https://i.scdn.co/image/ab67616d0000b27374c35747dd4719f325545ead,False,5,['jazz vibraphone']

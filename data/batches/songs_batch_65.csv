@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Bed Crumbs,Fudge Tunnel,False,1ndw8bzNJ6WYgeNCGumIbr,32,137893,1991,https://i.scdn.co/image/ab67616d0000b2734156c5a6188f98433eacb9ad,False,31,"['dub metal', 'sludge metal']"
+Error,Babylon Disco,False,4Jfg3AMCUHfIYQEQQ3D5Qs,0,208906,2007,https://i.scdn.co/image/ab67616d0000b273015cbc80a539269755a376c6,False,0,[]
+Closed Eyes,Bury Your Dead,False,5HBwL738ButeZ4CsUL7R59,9,290626,2009,https://i.scdn.co/image/ab67616d0000b273f0b7896a8970fa8187f4985e,False,35,"['deathcore', 'melodic metalcore', 'metalcore']"
+Poppin' Them Thangs,G-Unit,False,4E5IFAXCob6QqZaJMTw5YN,68,240800,2003,https://i.scdn.co/image/ab67616d0000b2735763a1ac1bce68a1af55b6e3,True,64,"['gangster rap', 'hardcore hip hop', 'hip hop', 'nyc rap', 'pop rap', 'queens hip hop', 'rap', 'southern hip hop']"
+Serve The Ego (Hani Num Dub),Jewel,False,34FD3n6cgxtbV8vJ3jbhBx,0,529920,2001,https://i.scdn.co/image/ab67616d0000b273f4f0a65283739d8145517231,False,60,"['alaska indie', 'ectofolk', 'lilith', 'permanent wave', 'pop rock', 'singer-songwriter']"
+American Journey/IV. Arts and Sports,John Williams,False,5dQ01k4mZoBhUDycenONHX,5,158373,2013,https://i.scdn.co/image/ab67616d0000b2736418571ea0681ec053aa3a7c,False,80,"['orchestral soundtrack', 'soundtrack']"
+Going Home,Izzy,False,17RfPIV7oJ3nU6OtXb94WA,9,278800,2000,https://i.scdn.co/image/ab67616d0000b273efb0e852cebec51a81244a72,False,27,['operatic pop']
+The President's Speech,James Horner,False,7nRHzPst40uHGPJlB4k9Ga,5,269800,1998,https://i.scdn.co/image/ab67616d0000b2737b6629d1f166e48044e98200,False,66,"['orchestral soundtrack', 'soundtrack']"
+A Legend In My Time,Don Gibson,False,3k84TGbIgleD5YtUZg23Hp,18,144533,1960,https://i.scdn.co/image/ab67616d0000b27387fa7f0e25635c0c5b74358c,False,42,['nashville sound']
+Bury Your Head,Saosin,False,663XpYXOdyF2zv4bTIXffh,41,214453,2006,https://i.scdn.co/image/ab67616d0000b2734706c6d8142fc9d21cee7415,False,57,"['neon pop punk', 'pop punk', 'post-hardcore', 'screamo']"
+Big Guys Throw Cones,Our Time Down Here,False,2hunuh5xzcEhOarpRv9pA5,1,75506,2009,https://i.scdn.co/image/ab67616d0000b27342d63c06888bde8ee8f7beb8,True,8,['southampton indie']
+Damien,DMX,False,33EvfEwe9JrbEt0PP1lIbt,53,222160,1998,https://i.scdn.co/image/ab67616d0000b27311658b970e0518be491871df,True,72,"['detroit hip hop', 'east coast hip hop', 'gangster rap', 'hardcore hip hop', 'hip hop', 'rap']"
+I've Won (Introduction - Speaking),The Nelons,False,2jzf2K5iltVL8exREG0FXT,0,92000,1995,https://i.scdn.co/image/ab67616d0000b273a692005c72502a2b007fccfb,False,32,"['family gospel', 'southern gospel']"
+Still In Love,Nick Cave & The Bad Seeds,False,6wwEjJ8ByuoRfXdF3sM2ad,21,284173,2003,https://i.scdn.co/image/ab67616d0000b27369654a3a5e8b797b9a617f6d,False,66,"['alternative rock', 'permanent wave', 'singer-songwriter']"
+Sencillamente,Bersuit Vergarabat,False,3tPGzLQOB9GnSisO0l4tGW,55,307306,2005,https://i.scdn.co/image/ab67616d0000b273b9ecd83020815e889d7a5ab4,False,66,"['argentine rock', 'latin alternative', 'latin rock', 'ska argentino']"
+Trong Com,Kitaro,False,0NFcreXS780NqU7SGRAOd3,6,43546,1993,https://i.scdn.co/image/ab67616d0000b273af5c2a1ddff50e03dc8e71dc,False,48,"['healing', 'new age', 'synthesizer']"
+Mudhump,C-Side & Petit Mal,False,5YQI69LBKUaixXyZA3jxJm,0,212453,2000,https://i.scdn.co/image/ab67616d0000b273c001e04da1fe1ab7ffa65e8d,False,0,[]
+Railroad Boogie,Pee Wee King,False,3VJUdYgr2ArYueFlvqt96p,0,161826,2015,https://i.scdn.co/image/ab67616d0000b2736edcc56ba9413a3de11bdebb,False,25,"['cowboy western', 'western swing']"
+Heart Half Empty,Ty Herndon;Stephanie Bentley,False,5Yxn2d7NUGTpXgI4Chmtuy,11,295400,2002,https://i.scdn.co/image/ab67616d0000b2739751e5785af022caff07eecd,False,40,"['country', 'country road']"
+The Flame,Chimaira,False,0TXlQDw8j2gG97EzSh6t9B,16,323134,2007,https://i.scdn.co/image/ab67616d0000b273283b1e641c97f15eb5d8a6d4,True,43,"['alternative metal', 'cleveland metal', 'groove metal', 'industrial metal', 'melodic metalcore', 'nu metal']"
+I Will Always Love You,Deborah Allen,False,5Q8PWhoPSKhIdEct8pkrND,0,193066,2022,https://i.scdn.co/image/ab67616d0000b2737395ce09e3a0d59f20630c84,False,34,"['classic country pop', 'country dawn']"
+Murderous Style,X-Static,False,0JnAzutqub4TN1zIBI7P4t,1,263013,2022,https://i.scdn.co/image/ab67616d0000b2736e41c9cba17bb7c1b4c56894,False,12,[]
+The Truth Forever,The Master Musicians of Jajouka featuring Bachir Attar,False,2twhWgVSmnKh9uUguedCwE,2,623666,2000,https://i.scdn.co/image/ab67616d0000b273c2792314b17c44698b3b6072,False,11,['moroccan traditional']
+Music Reach (1/2/3/4) (Remastered),The Prodigy,False,1OYNpXlKBbn1CvEqJmc95l,13,252533,2008,https://i.scdn.co/image/ab67616d0000b27335b414e27c9e18e4eb2d5126,False,67,"['big beat', 'breakbeat', 'dance rock', 'hardcore techno', 'rave']"
+My Greatest Desire,Faye Adams,False,2cv4pnTG1a661jE9MZCRBN,0,143920,2021,https://i.scdn.co/image/ab67616d0000b2738e27217350897d9ce27546d8,False,18,['rhythm and blues']
+The Tide Is High - Original,John Holt,False,1zwBmrqcxdhqy2QgCf8luw,1,170500,2006,https://i.scdn.co/image/ab67616d0000b273961e3bb7a3fcc7b73d95abcd,False,52,"['dub', 'lovers rock', 'reggae', 'rocksteady', 'roots reggae']"
+He Put The Hurt On Me,Tina Britt,False,00XLMX66CUPA2TUn4thehG,0,178160,1969,https://i.scdn.co/image/ab67616d0000b273a6758f1543a2d4c34feb4b7a,False,10,[]
+I'm Not Done,Fever Ray,False,1M79P35xE7gbK9G7YsiXFS,28,257665,2009,https://i.scdn.co/image/ab67616d0000b273e27b7fb8b8aeed9e76a6b67a,False,52,"['alternative dance', 'art pop', 'dark pop', 'electronica', 'neo-synthpop', 'swedish electropop', 'swedish synth', 'swedish synthpop']"
+Bo Diddley,The Animals_ Sonny Boy Williamson,False,6a8Fi4FCnFEdXzbUaaDpJ8,0,463493,1988,https://i.scdn.co/image/ab67616d0000b273dddf641ebdf61f2dd17dd574,False,67,"['album rock', 'british invasion', 'classic rock', 'hard rock', 'protopunk', 'psychedelic rock', 'rock']"
+Close Up,Charles Williams,False,4GSYwbTydtBEvrxSc9EkIx,0,64253,2009,https://i.scdn.co/image/ab67616d0000b273afb675872c09d710fcc9e7b0,False,20,[]
+The Truth,MN,False,6QdZnvuaFUzLdcAjiYevQP,0,262452,2023,https://i.scdn.co/image/ab67616d0000b27397536070f85c93453a7ba217,True,0,[]
+Ignis,Floor,False,3j6hzjPxxo03CVpkmwEMyx,0,146893,2010,https://i.scdn.co/image/ab67616d0000b27396671c52e703d2f3c8747d93,False,26,"['drone metal', 'miami metal', 'post-doom metal', 'post-metal', 'sludge metal']"
+La Sitiera,Orquesta Broadway,False,4P7iGBOMg9Q5vaW0tGoijX,5,228973,1975,https://i.scdn.co/image/ab67616d0000b2735ed039be9d401a31c5d397b0,False,44,"['charanga', 'latin jazz', 'musica tradicional cubana', 'salsa']"
+It Must Be,David Martin,False,7IbnEAsger0BkX2Kxjh97W,0,286440,2007,https://i.scdn.co/image/ab67616d0000b273909655a874a7e6a4693cb3b5,False,13,[]
+Shadow,Warren Barfield,False,6O7jjBh7jighpPiZfx70zw,6,207520,2006,https://i.scdn.co/image/ab67616d0000b2737eaaf5463cca90111e541ae6,False,28,[]
+Big Business,Dilated Peoples,False,6TIsvuHfZmapjP2R5f0k5s,8,149853,2004,https://i.scdn.co/image/ab67616d0000b2738186bf9413a587a7061b9755,True,50,"['alternative hip hop', 'hardcore hip hop', 'hip hop', 'west coast rap']"
+Ice Cream Man,Martin Sexton,False,4y48TMYKHbBA9mnzEn6zNE,5,358346,2002,https://i.scdn.co/image/ab67616d0000b27309055031760cb84f2fad2b1c,False,34,['alternative americana']
+Raising Children,The Race,False,3uemDlO4mBWt50gEEv9oVx,0,225880,2006,https://i.scdn.co/image/ab67616d0000b273c8cceea2aee429a7e86a470a,False,0,[]
+Hero In A Dream,Ensiferum,False,1ERKFXkhj7UekblpgUw2fF,27,220093,2008,https://i.scdn.co/image/ab67616d0000b2736450fc0165d21671972b2d8a,False,49,"['finnish melodeath', 'finnish metal', 'folk metal', 'melodic death metal', 'metal', 'nordic folk metal', 'power metal', 'symphonic metal', 'viking metal']"
+No seamos tontos,Yahir,False,4s6HBwzzhl5Oe8Z86azOis,2,216813,2006,https://i.scdn.co/image/ab67616d0000b273f84b9609d034e5059a9b3346,False,58,"['latin arena pop', 'latin pop', 'mexican pop']"
+De Bombacha Y Alpargatas,Chango Spasiuk,False,3hcz6xUEPDPhBh4sLcO9hD,5,131573,1996,https://i.scdn.co/image/ab67616d0000b273d0dd5b1029c87e500b4fb05c,False,42,['folklore argentino']
+Epilog,Neviss,False,1AGRHaBRjMsVmDlKdGID9X,0,53405,2003,https://i.scdn.co/image/ab67616d0000b273ed80e64a56ecb58779c23d1c,False,0,['swiss rock']
+Moon Going Down,Charley Patton,False,0Off5ZvJmxnsiAZSoOA5rl,1,193855,1990,https://i.scdn.co/image/ab67616d0000b273dbf18c1facb7b0f2215973f9,False,28,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'pre-war blues', 'traditional blues']"
+Everything You Touch Is a Song,The Winans,False,3qp1gaoVXBy6HOiyHPGVa0,24,323026,1993,https://i.scdn.co/image/ab67616d0000b2732a339d9d787033f5b743a34a,False,39,['gospel']
+My First Day At School,Brian Dullaghan,False,7Kk7Cw3vyQxZWdFThsC6vQ,0,116706,2007,https://i.scdn.co/image/ab67616d0000b273824fdb4d1806bc87fd39ddd8,False,16,"['irish folk', 'irish pub song']"
+Slimy Little Troll,Mack and Jamie,False,4l41deLoVWpk7F7bUbVRuc,0,66440,2002,https://i.scdn.co/image/ab67616d0000b273462ce046dc266bc9d7d9a608,False,0,[]
+First Blood,Jerry Goldsmith,False,46EVV01MuKJQvE2LTMuobC,35,204720,1982,https://i.scdn.co/image/ab67616d0000b273cb5cb8151ddd1a447cfb9a38,False,52,"['classic soundtrack', 'orchestral soundtrack', 'soundtrack']"
+A Brazilian in New York,Luiz Bonfa,False,4zk4Xi6arVXhlxsSoQaov2,21,305666,2005,https://i.scdn.co/image/ab67616d0000b273fc68119636179eb966102594,False,57,"['bossa nova', 'brazilian jazz', 'jazz guitar', 'samba-jazz', 'violao']"
+De Kommissar 1,Der Plan,False,6RHtzn1xiITm1uIZuZrPaH,0,27360,2005,https://i.scdn.co/image/ab67616d0000b273c42bfe171ee3136d30aa39a2,False,17,"['dusseldorf electronic', 'neue deutsche welle', 'zolo']"
+The Contracting Perception Of Consciousness,Rui Da Silva,False,2KhYdGZKZVJxqVABVKX3u5,0,448626,2006,https://i.scdn.co/image/ab67616d0000b273167588e98372cb158ee4fe21,False,53,"['classic house', 'portuguese electronic']"

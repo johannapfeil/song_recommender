@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Conversation,Jimmy Riley,False,5zqjHnJq3QVFcV39dqLpKR,4,227680,2015,https://i.scdn.co/image/ab67616d0000b273da549073a81662f843403961,False,21,"['lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Liberty,Heavenly,False,67VY2cMMsBtn9AWvGgEurh,22,329040,2007,https://i.scdn.co/image/ab67616d0000b2734bb4421e8c83270f460e870b,False,39,"['c86', 'french metal', 'melodic metal', 'neo classical metal', 'power metal', 'symphonic metal']"
+Hiraeth am Feirion,The Gentle Good,False,38cnfVkR6tAlQH8IVNbWOx,3,400493,2008,https://i.scdn.co/image/ab67616d0000b273cf13f3f7f8b0734a5daa6582,False,20,"['cardiff indie', 'welsh folk']"
+Die Art von Mann,1. Futurologischer Congress,False,3W4S5oJywA3rMWDeRIx4PB,3,196586,2006,https://i.scdn.co/image/ab67616d0000b2730a74e7e7f5ccdaa5d9cdc854,False,6,['neue deutsche welle']
+The Call,Backstreet Boys,False,1mxTCArq9EhSg4QPGqhjhT,59,204800,2000,https://i.scdn.co/image/ab67616d0000b273cf871e6326e334bfa92cff20,False,78,"['boy band', 'dance pop', 'pop']"
+Let The Chips Fall,Charley Pride,False,4mQPlCydo1Re4E8pYd6tXW,13,163533,2006,https://i.scdn.co/image/ab67616d0000b273a827ab6452c9aacca7086f49,False,56,"['classic country pop', 'country', 'country rock', 'nashville sound']"
+ICU,Saigon Kick,False,516q98E96nYBB3x2mtTaMZ,7,229400,1991,https://i.scdn.co/image/ab67616d0000b27375c4d50ae2396e52ccc1a5ee,False,39,['glam metal']
+Get Picked Up,Crazy Girl,False,27MeJEnoBvkvR30PS0JJKF,0,320146,2012,https://i.scdn.co/image/ab67616d0000b273426dc9f6abda274391f99eca,False,22,[]
+Tomame O Dejame,Nicho Hinojosa,False,0H3i0sciMNQJlY9glSY8UP,43,183160,2001,https://i.scdn.co/image/ab67616d0000b273d76f59c07ad8b344fb0aab40,False,52,"['latin pop', 'rock en espanol', 'trova']"
+La Barca,Nelson Ned,False,0HQ7QuVc04v62sKPu6gWU5,26,242800,2007,https://i.scdn.co/image/ab67616d0000b27377bfa01f45e11aa06e1b1ac4,False,55,"['bolero', 'mexican rock-and-roll', 'pop romantico', 'ranchera']"
+When You're Smiling - Sheik Of Araby,Louis Prima & Keely Smith,False,5D4yBkYPvTRQXNhOPtS6QR,40,240666,1957,https://i.scdn.co/image/ab67616d0000b273a06458b080f396941f2a2af9,False,62,"['adult standards', 'jump blues', 'lounge', 'swing']"
+The Wonders,Yami Bolo,False,0HdnsgQ2tliTclS84TxMcJ,1,228906,2000,https://i.scdn.co/image/ab67616d0000b2734cd3ecea52c33d661e3d6531,False,37,"['deep ragga', 'lovers rock', 'modern reggae', 'reggae', 'roots reggae']"
+Ambulance Man,Memphis Jug Band,False,60lRco0Q1zeOrxjBTJ64WR,0,164025,2005,https://i.scdn.co/image/ab67616d0000b27397f12c2ddddec386d331d8e0,False,18,"['acoustic blues', 'appalachian folk', 'jug band', 'memphis blues', 'traditional blues', 'traditional folk']"
+Laziness,Juan Farcik,False,1JfAC6aKJSf4K9k1SlUcrO,0,351556,2007,https://i.scdn.co/image/ab67616d0000b2735d3cbf6abd662a67bba589bf,False,0,[]
+Dama Dam Mast Kalander,Pardesi,False,1erVRi92WchcHgD2V55NsM,0,371960,2010,https://i.scdn.co/image/ab67616d0000b273cab1915538359a0423e23d6e,False,4,[]
+Printemps,Les Ogres De Barback,False,3AAlFP40KVQnmmaI4UuJKz,16,96026,2000,https://i.scdn.co/image/ab67616d0000b27391b8542983e9fe3277eabe22,False,43,"['french folk pop', 'french reggae', 'french rock']"
+The Lord Will Go Before You,Janet Paschal,False,7I5qvsi4lSxTWrM3wPobl0,1,207653,1997,https://i.scdn.co/image/ab67616d0000b27340f9d4be2878493733255557,False,27,['southern gospel']
+Oh Little Town Of Bethlehem,Sergio Franchi,False,43hhHxBNeggbPmhb7WlZ7V,6,165760,1965,https://i.scdn.co/image/ab67616d0000b273e2d25b6fac38e6fec9759671,False,30,[]
+Engel,Der Plan,False,5ax6d5DFdaIBjDcVJeuToM,1,268973,2020,https://i.scdn.co/image/ab67616d0000b2732300acd8ae377650dbc95cc3,False,4,[]
+Slips Of Paper,Dave Brockie Experience,False,2sPObb4YriYNPF79lHee9d,4,127173,2003,https://i.scdn.co/image/ab67616d0000b273ab7404652f4cd5ad1007de34,False,17,['comedy rock']
+Refuge,Matisyahu,False,2MuvlbbgLUrLTwxvaxQEyX,31,207866,2004,https://i.scdn.co/image/ab67616d0000b2738baf0ec9848bad4ca8be2de9,False,58,['reggae fusion']
+Backseat Driver,Debbie Davies,False,1ke7zrZENA9tiAJm6LrFam,1,244600,1998,https://i.scdn.co/image/ab67616d0000b273963be1c74644d5bdde0af350,False,29,"['electric blues', 'modern blues', 'power blues-rock']"
+Sex,Bow Wow Wow,False,4KRkDXN191HLRSE7Tv03cH,9,146093,1993,https://i.scdn.co/image/ab67616d0000b2732245bac4b654fe1f1e370903,False,41,"['new romantic', 'new wave', 'new wave pop']"
+Old Memory,Ashton Shepherd,False,3E0V79VFOfVguaP82twvKY,12,260480,2008,https://i.scdn.co/image/ab67616d0000b273a6b7ddfab362ed4b47a92e8c,False,26,"['country dawn', 'country road']"
+Death of Me,Smash Palace,False,5W2IWviGHXeoSkVpG5H3Xf,0,260853,2008,https://i.scdn.co/image/ab67616d0000b2735c1f4259f034ef989a3e22bf,False,3,"['modern power pop', 'underground power pop']"
+Freight Train,Elizabeth Cotten,False,5UlokrsKgBObpODBXwTW0B,40,166373,1989,https://i.scdn.co/image/ab67616d0000b2730611e65ba66e3946c18c61ba,False,40,"['american folk revival', 'piedmont blues', 'traditional blues', 'traditional folk']"
+Bobby's Girl (Previously Unreleased Demo - Stereo),Marcie Blane,False,79c35DhegQWoxKVB0fBG1Y,29,143266,2004,https://i.scdn.co/image/ab67616d0000b273c78891f190d857aafc17aecb,False,23,"['brill building pop', 'doo-wop']"
+The  First Of The Year,Rubyhorse,False,1RwfEDcHh0HOiLv5ZcR2B8,0,228226,2002,https://i.scdn.co/image/ab67616d0000b273edda92c8d2a4e4d6dea50858,False,13,[]
+Ooh La La,Tyrone Davis,False,2EgP5xoPuPQbKT8b8QpMfd,15,194800,1999,https://i.scdn.co/image/ab67616d0000b273ba6883531533f5b29f50a371,False,42,"['chicago soul', 'southern soul']"
+Airto's Jazz Dance,Flora Purim,False,3Or8JlYhAMKgnjxpAp4szf,0,246626,2001,https://i.scdn.co/image/ab67616d0000b2731eec597f4a2ae006da5a0222,False,28,['brazilian jazz']
+When Summer's Through,THE CHIFFONS,False,6EqyZnmm0d3xGfZD8TPENT,2,156800,2019,https://i.scdn.co/image/ab67616d0000b2733e44ed20d685e3f03a4a7487,False,48,"['brill building pop', 'classic girl group', 'doo-wop', 'rock-and-roll']"
+Vennette,Maria Bamford,False,4OFsiylKT6xw0bzLUEz52A,9,127173,2003,https://i.scdn.co/image/ab67616d0000b273ad2e2bb0371256541a5e1e05,False,34,"['comedienne', 'comedy']"
+Procession,Vangelis,False,1aV7qbJhZ6Yb0GhckUbMmS,19,573666,1990,https://i.scdn.co/image/ab67616d0000b2734de9b0b9cc7895d48dae5555,False,62,"['cyberpunk', 'synthesizer']"
+Multiplayer,Babylon Disco,False,0MMauGqdd9aMAKn80s56M6,0,181386,2007,https://i.scdn.co/image/ab67616d0000b273015cbc80a539269755a376c6,False,0,[]
+Gone,Frankie J,False,14Ph7QpHtiLCFdAA4yh6Ou,16,113846,2022,https://i.scdn.co/image/ab67616d0000b273f7c036c9d0931465c2f22803,False,22,[]
+Lost In The Funhouse Again,Michael Stanley Band,False,1dufeqcvE44V1IQUMnaaNF,0,220066,1975,https://i.scdn.co/image/ab67616d0000b273a7cd5175d3c2fddba5b64d49,False,30,['heartland rock']
+Cri'r Adar Main,The Gentle Good,False,0gwCAJKpR2Vsy3FApo2gjN,4,197200,2008,https://i.scdn.co/image/ab67616d0000b273cf13f3f7f8b0734a5daa6582,False,20,"['cardiff indie', 'welsh folk']"
+Just Like Lightnin',Joe Satriani,False,4DaX7yJUcQXeVejZefWddU,21,241906,2006,https://i.scdn.co/image/ab67616d0000b273e477610ef54781d751a9e319,False,54,"['instrumental rock', 'metal guitar', 'shred']"
+Mine Again,Mariah Carey,False,4IeWaMzLFtBP5Dtb6krPc1,36,241693,2005,https://i.scdn.co/image/ab67616d0000b273006adc0cc250c8f9c5494aec,False,88,"['dance pop', 'pop', 'urban contemporary']"
+No One Knows,George Nooks,False,4LiMstzAsjmDYkoDEd3Vxo,1,224866,2001,https://i.scdn.co/image/ab67616d0000b2737278d51eb799019fc245d42c,False,35,"['deep ragga', 'gospel reggae', 'lovers rock', 'old school dancehall', 'roots reggae']"
+Escape From The City,John Williams,False,4bN2ztT7JmVqAxBdcKCH7D,11,229693,2005,https://i.scdn.co/image/ab67616d0000b273f4a3a16ec3fea1d4264a8538,False,80,"['orchestral soundtrack', 'soundtrack']"
+Black Tiger,Y&T,False,70nyhKFruA4O3s0tcQIbZH,18,258026,1982,https://i.scdn.co/image/ab67616d0000b2737bfe1d8f66e10d9e66293f91,False,43,"['glam metal', 'hard rock']"
+Reach For The Ground,The Ghost Of Lemora,False,41hN5oQJeMPoVdzQoPbvyQ,0,208680,2008,https://i.scdn.co/image/ab67616d0000b27391ad84f2a36dbb23b03d17fb,False,2,['deathrock']
+Mule Get Up In The Alley,Cannon's Jug Stompers,False,3H1elFq35UWQm4Z1ibiGlV,0,169533,2001,https://i.scdn.co/image/ab67616d0000b2732181ea2c28da919d0f5e5f24,False,16,"['country blues', 'jug band', 'memphis blues', 'traditional blues', 'traditional folk']"
+Existing Alone,Rhian Sheehan,False,2Bq3LGW2pJUlwLNo2HBe5N,0,288693,2001,https://i.scdn.co/image/ab67616d0000b2737c9d7516df39ea040fabacc0,False,35,"['compositional ambient', 'nz electronic', 'oceania soundtrack']"
+Small Axe,Bob Marley,False,5YMfh8cOoM8LO05JLOOlGr,34,235306,2008,https://i.scdn.co/image/ab67616d0000b2732f142450493e88633619ade5,False,82,"['reggae', 'roots reggae']"
+I'll Show You Love,Usher,False,1uQtVXwktqrzxofWpGZYVU,15,283893,1994,https://i.scdn.co/image/ab67616d0000b273e40520dc70c64426d25e820a,False,83,"['atl hip hop', 'contemporary r&b', 'dance pop', 'pop', 'r&b', 'rap', 'south carolina hip hop', 'urban contemporary']"
+Telling Me Lies,Dolores Keane,False,782Msn8UM6fExFApQXcMSN,6,232040,1993,https://i.scdn.co/image/ab67616d0000b273fcaad9d491b692540cbbd140,False,39,"['celtic', 'irish folk']"
+Calling Dr Zarkov,Robin Frederick,False,7hPqwTx3Vo60HF8jKntYGP,0,271973,1992,https://i.scdn.co/image/ab67616d0000b2738a0c5c20dd82c7d53cc1fd20,False,0,[]
+Heard 'Em Say,Kanye West / Adam Levine,False,6yIjtVtnOBeC8SwdVHzAuF,63,203733,2005,https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2,True,93,"['chicago rap', 'hip hop', 'rap']"

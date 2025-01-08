@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Show You How,The Killers,False,0qXWJhU46zurMYQoAnBxdG,31,166240,2007,https://i.scdn.co/image/ab67616d0000b273c535aaba615ccebdf91f9192,False,80,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']"
+All My Loving,Los Fernandos,False,4k693gm4pSx4Aer1isBz9L,0,127709,2017,https://i.scdn.co/image/ab67616d0000b27373ea0b40d21d3d5115b77c78,False,9,[]
+Chelsea Girl (Live),Simple Minds,False,2cIGAIXKbm8AxKhOv1r3ol,5,242798,2012,https://i.scdn.co/image/ab67616d0000b273c3d1b1d7c5b59d78d999d977,False,69,"['album rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock']"
+Ying Guang Hu Die,Michelle & Vickie,False,0KTXex6yS6nmoRfHexc7Ze,3,279200,2006,https://i.scdn.co/image/ab67616d0000b273efb68c1166ab0ab924761493,False,25,"['mandopop', 'taiwan idol pop', 'taiwan pop']"
+On ne meurt qu'une fois,Pamelo Mounk'a,False,5MvKqldXj5559n4MWZDrvW,0,531000,1993,https://i.scdn.co/image/ab67616d0000b27302d2bd5edc1b1ccc4b504938,False,17,['soukous']
+The Loco-Motion,Little Eva,False,5xzdDMhFYiuUONB0Mha9VS,60,139120,1962,https://i.scdn.co/image/ab67616d0000b273d7236f14544b3db88ed3f22b,False,49,"['brill building pop', 'doo-wop', 'rock-and-roll']"
+Pardesi Pind Wich Ageya,Pardesi,False,4bMNOdM5NUjSjfnBov8FhR,3,254906,1988,https://i.scdn.co/image/ab67616d0000b2733aa144c6f2669bc964018eff,False,6,"['bhangra', 'classic bhangra']"
+Extrication Love Song,Hot Tuna,False,3bkZ9lIGnUbsehg37pkIlO,4,270960,1978,https://i.scdn.co/image/ab67616d0000b273a2315d941ee29bbd5bc69d40,False,34,"['blues rock', 'country rock', 'electric blues', 'jam band', 'psychedelic rock', 'roots rock']"
+Persiana Americana (Live),Soda Stereo,False,6TayCWN0rKIm0rFdIiUIIA,28,343560,2006,https://i.scdn.co/image/ab67616d0000b2731bbe81fc1e928f05149e49ab,False,77,"['argentine rock', 'latin alternative', 'latin rock', 'post-punk argentina', 'rock en espanol', 'ska argentino']"
+Dis moi,Mil,False,3v35lmPUUSZBnJb8rm9ppA,12,160943,2023,https://i.scdn.co/image/ab67616d0000b273d2e3dcab8c2257c575c9bb7f,True,31,['dream plugg']
+Don't Bring Flowers,Erik Hassle,False,49RfTSsPn5SC062xx3vlmk,24,195760,2009,https://i.scdn.co/image/ab67616d0000b273b55861c30a8eb7ece3f02aee,True,37,[]
+Past Meets Present,Marco Beltrami,False,18pX424MItFSil6TP34Tft,0,170866,2009,https://i.scdn.co/image/ab67616d0000b273a2c74b165977f73ee7221016,False,47,"['orchestral soundtrack', 'soundtrack']"
+Recht auf Lungenkrebs,Die Bandbreite,False,2ogfj4YhaHNC05tJ7Tfckk,0,181080,2008,https://i.scdn.co/image/ab67616d0000b273f06b4243174c380720b095ce,False,9,['german alternative rap']
+Lil Stuntin,Tum Tum,False,1QLOVV1Uy7WNjOz0LmD0XV,0,214466,2005,https://i.scdn.co/image/ab67616d0000b273b3516b9f333ac2879419a7af,True,34,"['dfw rap', 'dirty south rap', 'houston rap']"
+Under World Dub,The Twinkle Brothers,False,4xvebB9YdbTaWPV04WqGzk,3,186840,1982,https://i.scdn.co/image/ab67616d0000b273b2a3b1164dc7f94b71952aa6,False,39,"['dub', 'reggae', 'roots reggae', 'uk dub']"
+Queen Ida Introduction,"Myrick ""Freeze"" Guillory",False,2NXRtSiZNR2coeukxaigb7,0,55466,1991,https://i.scdn.co/image/ab67616d0000b2736476f9ca2e550758dee007e4,False,0,[]
+Penny In My Pocket,The Kirkbys,False,3Q4uzJmAAwY3iNSBdJP4Zk,0,154293,2007,https://i.scdn.co/image/ab67616d0000b27396519eb9d92036412a31c978,False,2,[]
+Nadine,Arc Angels,False,7zBj3U9jKM8LOTsHNwyDOK,9,309440,2009,https://i.scdn.co/image/ab67616d0000b27336069cefc7c77dd9e943ecb6,False,28,"['southern rock', 'texas blues']"
+New York,U2,False,0nNNoP2ldom1hm3Pptbv2Y,33,330373,2000,https://i.scdn.co/image/ab67616d0000b27338fa0dfe55b1ff2e8c962bae,False,79,"['irish rock', 'permanent wave', 'rock']"
+Do It All Over Again,Sweet,False,4YM8wuJYwqiIw7pwnDBJ5O,3,264720,2015,https://i.scdn.co/image/ab67616d0000b273725ba02a279ac666fb72978d,False,57,"['album rock', 'glam rock', 'hard rock']"
+Suicidal Dream,Silverchair,False,3AZ5XoHdiFpiKMky6M1Gt9,49,192783,1995,https://i.scdn.co/image/ab67616d0000b27372c3447a562fc7be1c8e1255,False,60,"['alternative metal', 'alternative rock', 'australian alternative rock', 'australian psych', 'australian rock', 'grunge', 'nu metal', 'post-grunge']"
+L'ombre d'une chance,Eric Demarsan,False,0wZkGyvvzbuQNX1aRG6ole,0,150440,1993,https://i.scdn.co/image/ab67616d0000b273f8e4c3e30100d13f840a425d,False,23,['french soundtrack']
+Marie's Wedding,The Clancy Brothers,False,7BUEBI8MofmuqGOZaNxlbB,5,121880,2018,https://i.scdn.co/image/ab67616d0000b273e19d23262fa3f7545f17aab4,False,26,"['irish folk', 'irish pub song']"
+Girls Girls,Pinchers & Ganglords,False,3hxlaAEGAkdt64XJ6uOtoz,0,235560,1995,https://i.scdn.co/image/ab67616d0000b273ab6fc161b0f142ef2a88bec7,False,7,['swiss reggae']
+Judge Boushay Blues,Furry Lewis,False,7ECwsqn55Ul8m2PxwilIYY,2,225372,2024,https://i.scdn.co/image/ab67616d0000b27303224bcfdc5ebf11c3c3a5c4,False,26,"['country blues', 'memphis blues', 'traditional blues']"
+Auf Der Mundharmonika,Marlene Dietrich,False,4LchpHplhSu5jjc8loGw1U,10,159306,1991,https://i.scdn.co/image/ab67616d0000b27305d2aa3c652ecd47a4fc97cc,False,39,"['cabaret', 'torch song', 'vintage hollywood', 'vintage schlager']"
+Sending A Message,Colin James,False,0TYgHRNrIR1AsUF0v6wG5x,2,233706,2003,https://i.scdn.co/image/ab67616d0000b27319710e0a340331ec5969b5c9,False,41,"['canadian blues', 'classic canadian rock']"
+Sabotage,Cancer Bats,False,5kc6Ncu2ncH6u5LAVBpltY,14,178706,2010,https://i.scdn.co/image/ab67616d0000b2738cfaea427b877ffb342fd987,True,37,"['canadian hardcore', 'canadian metal', 'canadian metalcore', 'canadian punk']"
+Escuchame,Carlos Ponce,False,0jNjI4KJleZP7EuzpzOvTo,48,195066,1999,https://i.scdn.co/image/ab67616d0000b273a7160cb480832881ed3431f0,False,57,"['latin pop', 'puerto rican pop']"
+Something's Missing,John Mayer,False,4ibzxSKw3a6rtIorruN5GO,43,304440,2003,https://i.scdn.co/image/ab67616d0000b2731a4c7c7e6eeaee67c9e8ce71,False,78,"['neo mellow', 'singer-songwriter']"
+6 6 6,Ziggy Marley And The Melody Makers,False,43Mknhpe2PSuVSbJnZ2ViP,4,340121,2023,https://i.scdn.co/image/ab67616d0000b2735b871c1ca9490436f66fc941,False,57,"['reggae', 'roots reggae']"
+Time After Time,Ann Hampton Callaway,False,7eleK2MUqRCZXMcrqmkqXB,3,314026,1997,https://i.scdn.co/image/ab67616d0000b273772cba5e01f0f1a51a2e0beb,False,44,['contemporary vocal jazz']
+Where Were You Last Night,Pee Wee King,False,1Y7kafc4hCJ8ttNyTurqlJ,0,166466,1995,https://i.scdn.co/image/ab67616d0000b2730f3a58749bce52b860dd73ef,False,25,"['cowboy western', 'western swing']"
+Cicada,Silverchair,False,6mJdEWVOaCayMo8eaSl3Xw,30,310441,1995,https://i.scdn.co/image/ab67616d0000b27372c3447a562fc7be1c8e1255,False,60,"['alternative metal', 'alternative rock', 'australian alternative rock', 'australian psych', 'australian rock', 'grunge', 'nu metal', 'post-grunge']"
+Searching For Home,Skrape,False,37bCiLtAzryGJHz944Qjqg,0,198826,2003,https://i.scdn.co/image/ab67616d0000b273f9364141bc7851d10bac86ef,False,21,['industrial metal']
+Bolero Militar,Bersuit Vergarabat,False,6WNqxUs8DThN5XJ1QNBKAw,15,208586,1996,https://i.scdn.co/image/ab67616d0000b2731e3eeab8718e79009f6f6c8a,False,66,"['argentine rock', 'latin alternative', 'latin rock', 'ska argentino']"
+Reg mich nicht auf_ Johanna,Curt Bois,False,1yYl4Enx92uzsf7IcXnym0,0,207693,2006,https://i.scdn.co/image/ab67616d0000b27324789bfc23cf760d75dec56a,False,4,[]
+Empire Falls,Primordial,False,214tCWNg6FXcTep7iKQWoL,29,483120,2007,https://i.scdn.co/image/ab67616d0000b27314752685b7c431006048e1d6,False,33,"['black metal', 'celtic metal', 'doom metal', 'folk black metal', 'folk metal', 'irish black metal', 'irish metal', 'pagan black metal', 'symphonic black metal']"
+LA River (Acoustic),Rancid,False,7M7X30aW3PlAuhjRrcnYCp,16,163293,2009,https://i.scdn.co/image/ab67616d0000b2731ba5bd56e9989412026ce2e9,False,60,"['punk', 'ska', 'skate punk']"
+Misty Mountains,Mando Diao,False,6aAojp7oyksJX1igk1nIxB,45,254395,2022,https://i.scdn.co/image/ab67616d0000b273acd7cea29be428cbdbb5ef3d,False,55,['shanty']
+The End Of The Line,Metallica,False,62qcKV45EjiFwEk074P9Mk,45,472360,2008,https://i.scdn.co/image/ab67616d0000b273f5802466e1bc84cdf51d97e2,False,84,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']"
+No more going home,Rainer Bielfeldt,False,2jqltGqrdtAK1TUGcV2hA6,0,239098,2024,https://i.scdn.co/image/ab67616d0000b27321edbdac43a7851dfaa726bd,False,7,[]
+Right to Work (Live),Chelsea,False,3iltAb9fbZLJkB84kxo9zu,0,179866,2018,https://i.scdn.co/image/ab67616d0000b273a0056832404b8f6a0e5dc049,False,23,"['deep punk rock', 'mod revival', 'oi']"
+Princess Black,Sizzla,False,5ZXzGTgP1ifHIFUbMdlJBG,3,274181,1992,https://i.scdn.co/image/ab67616d0000b2731ca07c25190c8fb333522284,False,57,"['dancehall', 'reggae', 'reggae fusion']"
+Rice Dream Girl,Casiotone For The Painfully Alone,False,3GZ5x81hKotVoDUcB2quN3,4,108400,2002,https://i.scdn.co/image/ab67616d0000b273b04c2a704c6701e1633a14e9,False,35,"['anti-folk', 'indietronica', 'lo-fi']"
+All I Ever Really Wanted,Donnie McClurkin,False,2QdQ8n0y1XcGbqFsRnf9jv,24,198573,2003,https://i.scdn.co/image/ab67616d0000b273b16cc485518862f442c19bc0,False,50,['gospel']
+Caroline,Bill Douglas,False,2tXmUCeGcQlNeerDucPgfG,3,185666,1988,https://i.scdn.co/image/ab67616d0000b273a7359a84906fb0b5c25ff6cd,False,42,['new age']
+The Door,Lenn Hammond,False,1Ht2pnKExhhVndslblhcJj,2,216480,2006,https://i.scdn.co/image/ab67616d0000b273d5fbb3aee7549a24aeb249ec,False,7,[]
+Have Thine Own Way Lord,Marty Robbins,False,3foQo0uxOiuupMwN69ZM6V,10,136133,1963,https://i.scdn.co/image/ab67616d0000b2739bea139d860c6a76497f3791,False,63,"['cowboy western', 'nashville sound']"
+Short On Ideas / One Last Cigarette,Less Than Jake,False,5rB0ZEzfuiyftsol2dpyMC,3,257013,2008,https://i.scdn.co/image/ab67616d0000b2732a19714d630e7c37fd5ecd7d,False,54,"['modern ska punk', 'pop punk', 'punk', 'ska', 'ska punk', 'skate punk']"

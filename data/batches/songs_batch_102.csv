@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Co Co My My,Poncho Sanchez,False,1IwR53eicCLkeOjHlx0b1c,2,307133,2002,https://i.scdn.co/image/ab67616d0000b273508314cd336e13333d0fe3df,False,42,"['afro-cuban percussion', 'latin jazz']"
+Good Day,Britt Nicole,False,2f6VPCdmJTiHDxSMviYovM,14,203986,2007,https://i.scdn.co/image/ab67616d0000b273984c908a3a47a640774f3ded,False,51,"['ccm', 'cedm', 'christian alternative rock', 'christian music']"
+Midnight Hour,Tyrone Taylor,False,6gLxmM2tBe0yooUdhvAxlt,0,228506,1999,https://i.scdn.co/image/ab67616d0000b27359b17f36e862faeaeffb1e19,False,29,"['deep ragga', 'lovers rock']"
+The Man with the Dogs,Dead Kennedys,False,43YzHV7vfZ3agNARayDqTA,31,182106,1987,https://i.scdn.co/image/ab67616d0000b273b409fb10b317c00acc66f14b,False,57,"['alternative rock', 'early us punk', 'hardcore punk', 'punk']"
+Dark Inside,Al Duvall,False,2StYQFP2PvuCPsz5yafeBB,0,169613,2008,https://i.scdn.co/image/ab67616d0000b273c1823b90dd53777884e5e600,False,1,[]
+All Your Love,John Mayall & The Bluesbreakers,False,1yKah8BCP3Vgq2tPBOLKL0,50,212600,1966,https://i.scdn.co/image/ab67616d0000b273c40ff56a16cebb8f30af1f66,False,37,[]
+July,Al DiMeola,False,7hZqgrPF66wid075mBc3Io,13,324400,1985,https://i.scdn.co/image/ab67616d0000b273ae6c055381fc8d42489e7ea9,False,13,[]
+Knuckle Up,Mykill Miers,False,5lKlX8XyX6wWeOhv3buqXx,0,252933,2006,https://i.scdn.co/image/ab67616d0000b27300d8537cb01364b975a4cc49,False,18,[]
+At The Atlantis,Bad Brains,False,5jRP1M1h9cx4O1thbg2HmZ,27,118000,1996,https://i.scdn.co/image/ab67616d0000b2733fdfe03811dd263aeff3076e,False,49,"['black punk', 'dc hardcore', 'hardcore punk', 'nyhc', 'punk']"
+10 $ Bill,Les Hurlements D'leo,False,1pGMYI8OXBKIQZu8S8GFiy,0,335826,2009,https://i.scdn.co/image/ab67616d0000b273b6f9afee8cb74440870bc1d8,False,30,"['french folk pop', 'french reggae', 'french rock', 'gypsy punk']"
+Candilejas,Los Iracundos,False,1kDnka4bBG4CFFdG6gMKfw,33,200440,2004,https://i.scdn.co/image/ab67616d0000b273953ae30edab176338d8d9002,False,57,['pop romantico']
+If A Woman Answers,Leroy Van Dyke,False,5Qy5sjNDFb6kS4hp6VYiYR,20,140840,2019,https://i.scdn.co/image/ab67616d0000b273c9d94e03b25572d264cdf39b,False,40,"['classic country pop', 'nashville sound']"
+Get Together - Album Version,Randy Stonehill,False,1VXvi958QRcwwARJBBilSM,2,304093,2004,https://i.scdn.co/image/ab67616d0000b273cbab31f34fc239083d5ed474,False,64,"['dirty south rap', 'southern hip hop']"
+My Babe,Lightnin' Slim,False,4iVgxcvylQm0ZW1T1ewkex,1,147400,1960,https://i.scdn.co/image/ab67616d0000b273080fc02e76587bc3df4d6e13,False,19,"['blues', 'harmonica blues', 'louisiana blues', 'swamp blues']"
+ABC (The Alphabet Song),Dora The Explorer,False,47Y7lrGmsWbx8uEtQWsvjM,21,30186,2004,https://i.scdn.co/image/ab67616d0000b2730ec2d1486f84ee0f63fdbaa8,False,46,"['cartoon', ""children's music""]"
+911-544,The Revolutionary Ensemble,False,4QefbMkyac332yNsEOOF6y,0,1253933,2004,https://i.scdn.co/image/ab67616d0000b2731bf06ad799503ff19ee1d538,False,4,['avant-garde jazz']
+Where Are You,Abbott & Chambers,False,2PEJzHtw2qMv2eDW5DpoN3,9,496721,2008,https://i.scdn.co/image/ab67616d0000b273d398747ff92fadd945dc21b6,False,4,[]
+If You Build A Better Mousetrap,Peggy Lee,False,5Zt3yCigLhuHoP8VUHtTG7,2,184226,2008,https://i.scdn.co/image/ab67616d0000b273b812075c4d32d36113e16397,False,27,[]
+Le poulet,Pierre Perret,False,6a1NdxZGUeCb3XH7n8UVN6,0,82280,2010,https://i.scdn.co/image/ab67616d0000b273fcf0a91b20c9d46c89aa769e,False,46,['chanson']
+See You On The Other Side,Ben Sidran,False,73hpyBDatpJZIgNnCfNGGJ,2,278746,1977,https://i.scdn.co/image/ab67616d0000b27322c410ccf04d29249a5353df,False,29,[]
+Over The Rainbow,David Arkenstone,False,60HacRbbP5xAyno9bCLZsn,1,242253,2005,https://i.scdn.co/image/ab67616d0000b273df206c8e81ae93fc38f740bb,False,53,['new age']
+Daydreaming the Color of Blood,Soilent Green,False,7418GHpBgbXzpiJOK7ozBN,4,180333,2001,https://i.scdn.co/image/ab67616d0000b2734734334d1709d4dc234187f7,True,28,"['american grindcore', 'grindcore', 'louisiana metal', 'sludge metal', 'stoner metal']"
+Killed By Love,Pursuit Of Happiness,False,6dRcKHzkFv36SkcAmxgmHn,7,245493,1988,https://i.scdn.co/image/ab67616d0000b2732a73d93d18dceb1d567e5124,False,28,['canadian rock']
+Don't Mess With Cupid (1972 demo),New York Dolls,False,0jnJVLtHQzgBztfxCxQ3ul,0,186640,2003,https://i.scdn.co/image/ab67616d0000b27319eae8dece0f45622eecc260,False,43,"['early us punk', 'glam punk', 'glam rock', 'protopunk', 'punk']"
+No Safe Place,Pursuit Of Happiness,False,1w2OBL3oFS8fv0DgQfTAU1,0,202031,2017,https://i.scdn.co/image/ab67616d0000b273321f819c3d7e3e5a7dd72fdd,False,28,['canadian rock']
+Ballo,Mathey,False,1muHjGCIvJ9K5kMMR9dK2h,1,263066,1999,https://i.scdn.co/image/ab67616d0000b2734e7bcd70fedfbef6ba4c8009,False,36,[]
+Boss-Eyed Whelk,Johnny Pearson,False,72PjKcvbMQsgQ6zn8chQRy,0,150226,1968,https://i.scdn.co/image/ab67616d0000b2739a8821caefd5274d1b540d20,False,35,['library music']
+Kablammin' It,Long Beach Dub Allstars,False,1gN9pP5Pi7WmjmaE36hfDZ,14,278066,2001,https://i.scdn.co/image/ab67616d0000b2737773583cb9309d99fdfec053,False,39,['reggae rock']
+Sex (French Version),Elli Kokkinou,False,1o9k5a1G1oJ9o0EdITvhLL,9,284666,2006,https://i.scdn.co/image/ab67616d0000b2733f215e664041678d3d19eecb,False,45,"['greek pop', 'laiko']"
+The Windsor Tap Recap,Cotton Candy,False,4je9MOh9ULUGQi6D2TdLs3,0,149998,2010,https://i.scdn.co/image/ab67616d0000b27398a161eb149c5fab315af96a,False,11,[]
+Rock Me (Live In Boston_ 1970) (1st Show),The Doors,False,6GaBCZADUZvLTfbENnzwl5,5,434160,2013,https://i.scdn.co/image/ab67616d0000b2736c612388bdf88a1f104afb53,False,75,"['acid rock', 'album rock', 'classic rock', 'hard rock', 'psychedelic rock', 'rock']"
+De Mi Enamorate,Dyango,False,2iqNAWsLdAEhhUC6wK08Ry,2,245945,2008,https://i.scdn.co/image/ab67616d0000b273be6c6600fbe3fde31db92b28,False,59,"['cancion melodica', 'pop romantico']"
+Beginner's Luck,Frank Chacksfield,False,36qzUZTRSXTS4VI9FH6Q3L,0,117491,2000,https://i.scdn.co/image/ab67616d0000b2733f2368369d1df93f4985432c,False,35,"['easy listening', ""man's orchestra""]"
+Rock Star,Agnostic Front,False,1AET6G9WxJW9NFxSHOzq7m,5,94680,1999,https://i.scdn.co/image/ab67616d0000b27393139f4831a9db34cd769bcb,False,43,"['chicano punk', 'crossover thrash', 'hardcore', 'hardcore punk', 'nyhc', 'old school thrash', 'punk']"
+Terminus,Photek,False,1tXbqRkyxWC25F4YmHEJhR,11,326866,2000,https://i.scdn.co/image/ab67616d0000b273979c419307d5f89893fd294d,False,36,"['atmospheric dnb', 'drum and bass', 'intelligent dance music', 'jungle']"
+Life In Line,The Last Days Of Jesus,False,7M1nJCi9Mr126qqM47rRGp,0,210013,2004,https://i.scdn.co/image/ab67616d0000b2736cc6f8612613f8987fc610b0,False,7,['deathrock']
+1st World Hypocrisy,Brainchoke,False,4WnMdrt6XpSgm6I9nIFuRx,0,91253,2009,https://i.scdn.co/image/ab67616d0000b2739fe37ed6da626ef90ccccbb5,False,0,"['british grindcore', 'necrogrind']"
+Lachen und weinen,2raumwohnung,False,7HFsMbplRWbOidFy4pgu2V,9,335133,2001,https://i.scdn.co/image/ab67616d0000b273c6086a985bcba9b0637e794f,False,45,['german pop']
+Woman Blue,Alice Stuart,False,2TeaMxrzB5EllqD4zPZQxt,1,305733,1964,https://i.scdn.co/image/ab67616d0000b273f4000f905525133cc4644438,False,6,[]
+Surfriendo El Castigo,Michael Salgado,False,100P9XJuL4HOfnsXFoYuiQ,1,221640,2000,https://i.scdn.co/image/ab67616d0000b273f93dfd3154f8c0c9bab08c64,False,44,"['norteno', 'tejano']"
+Infantil (Dedicated to John McLaughlin),Gonzalo Rubalcaba,False,30zRmUHrhtTOsB0lawvoaX,1,424600,2008,https://i.scdn.co/image/ab67616d0000b273f6f5ceaa5d18bcea1f77c54a,False,34,"['contemporary jazz', 'contemporary post-bop', 'jazz cubano', 'jazz piano', 'modern jazz piano']"
+The Never-Ending Why,Placebo,False,0TOaZ47wURRYdw6e9OLELE,32,202573,2009,https://i.scdn.co/image/ab67616d0000b273de2e236c0c6cdfe2ee81d8dc,False,66,"['alternative rock', 'britpop', 'permanent wave', 'rock']"
+Come With Me,Tania Maria,False,6ikobz37HSj8vspHvQRt23,38,341840,1983,https://i.scdn.co/image/ab67616d0000b2734eecdff5bdd27dd7adff105d,False,36,['brazilian jazz']
+Lost Tribe,Moving Ninja,False,6S6CohmWB0sArCAbpmmTAW,0,286998,2005,https://i.scdn.co/image/ab67616d0000b273879112328217b525dc07c724,False,2,[]
+Pretty Vacant,Sex Pistols,False,21rz5LMBiIpQWRGQcb0xIg,50,197613,1977,https://i.scdn.co/image/ab67616d0000b273b691fa29c123b5fc4bc5d469,False,57,"['alternative rock', 'punk', 'rock']"
+Please Hammer Don't Hurt 'Em,Evergreen Terrace,False,3ZYls1Lm6MYDiazbp0AU5H,13,144000,2002,https://i.scdn.co/image/ab67616d0000b273b3bcc0de83060f32df325890,False,36,"['melodic metalcore', 'metalcore']"
+Keep It Like It Is,Louisa Mark,False,0ywHpwyarsuVSCi0mFxBt2,32,158226,1998,https://i.scdn.co/image/ab67616d0000b2737e7cf208b66480ffcd8231ae,False,28,"['lovers rock', 'uk reggae']"
+Don't Want To,Lil' Romeo,False,1qpOt8txabJJiijTYIj6fy,2,211765,2001,https://i.scdn.co/image/ab67616d0000b273c4505e434564d9bd78517255,False,25,[]
+Heartbreaker,Ray Charles,False,3AKFoX3dp7EIcUIDZufDw1,23,174533,1958,https://i.scdn.co/image/ab67616d0000b2735eaeda75a98ff4a58e0cc1a5,False,71,"['adult standards', 'classic soul', 'jazz blues', 'piano blues', 'soul', 'soul blues', 'vocal jazz']"
+The Beginning (Giro E Giro Mix),Seal,False,4waelpm9IghHT3zfmTjCtS,6,365466,1991,https://i.scdn.co/image/ab67616d0000b273bf1193bd570121f052615217,False,66,"['british soul', 'new wave pop']"

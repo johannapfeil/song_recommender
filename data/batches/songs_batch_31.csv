@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Cold Shot,Stevie Ray Vaughan And Double Trouble,False,3QwDN08fGnGfRrsn5wLTej,48,240986,1984,https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4,False,63,"['album rock', 'blues', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'instrumental rock', 'rock', 'texas blues']"
+Campeones De La Vida,Alejandro Lerner,False,4Np9FpyxHlQwqI3FDcO8dV,34,153106,1999,https://i.scdn.co/image/ab67616d0000b273a6ecffb73d96e35c793d46b8,False,55,[]
+Electron libre,Clarisse Lavanant,False,7w3fgmmYWLPI8url0fVztV,0,182893,2005,https://i.scdn.co/image/ab67616d0000b273bb8cf34797f505fe6ed1ba4e,False,22,['breton folk']
+Padam padam,Marc Perrone,False,3Y4igJXBeTRZXMKw17mzBu,18,64293,2006,https://i.scdn.co/image/ab67616d0000b2739b6cea29b770409c0df906ea,False,29,"['accordion', 'french folk']"
+Where Does Rosie Go?,Kenny Rogers,False,4jFo3oqPVlOywPijo1NYkI,12,138158,2023,https://i.scdn.co/image/ab67616d0000b2736a3388cb60a67984195f1973,False,73,"['classic country pop', 'country', 'nashville sound', 'soft rock']"
+Vine Pa'echar Candela,Ray Barretto,False,6TGZXlTMI4tuXGn6PwCJY4,20,350640,1975,https://i.scdn.co/image/ab67616d0000b2736d81ab62c74b61a1a7746fc0,False,51,"['boogaloo', 'latin jazz', 'salsa']"
+Kyotronics,Erik Tronic,False,0aYVYzQwOAZpbit81KpeWC,0,257093,2008,https://i.scdn.co/image/ab67616d0000b27335eaeb72dcd12218da7a331c,False,0,[]
+A Puro Dolor,Roberto Perera,False,4rGPz4PYbhbyG3hPHwDGRI,7,225066,2002,https://i.scdn.co/image/ab67616d0000b273de790c8311381d67581340a9,False,26,[]
+Fuckaz,The Bug Featuring Spaceape,False,2w3EADRyOqqLnKNpm56sGR,12,325973,2008,https://i.scdn.co/image/ab67616d0000b2738dd11fdf635ff83429fe30e7,True,37,"['classic dubstep', 'dub metal', 'illbient', 'trip hop']"
+Rock Tha Party,Bombay Rockers,False,0NoNwbg1fnrb3DHCZ8We6q,44,212653,2005,https://i.scdn.co/image/ab67616d0000b273f8a812f80c6522f51045edfb,False,38,['bhangra']
+Peace With Myself,Nestor Torres,False,4VQCaMU8W8zeMKQBLAInmG,0,249520,2006,https://i.scdn.co/image/ab67616d0000b27304af597aea370a69872c7f81,False,25,"['jazz flute', 'jazz puertorriqueno']"
+Ihr hated nur (P-Dog Remix),Hecklah & Coch,False,5qMJJxRSLHVRQbDaaHKd7A,0,263280,2004,https://i.scdn.co/image/ab67616d0000b2734b373a7d196095bc200c2642,False,1,[]
+Soca Mi Nice,Mongo Santamaria,False,19q9pzbbBT3Ad86qtgF162,0,235493,1996,https://i.scdn.co/image/ab67616d0000b2738d8168e0e0646d7c80e8cca5,False,45,"['afro-cuban percussion', 'boogaloo', 'cuban rumba', 'jazz cubano', 'latin jazz', 'musica tradicional cubana']"
+Y'a d'l'abus,Fred Merpol,False,1AHqmaQSYj05K1BsI3oxDL,0,209306,1999,https://i.scdn.co/image/ab67616d0000b273cf833c2ab47c7519a93b1139,False,0,[]
+Essa Marie,Samba Trio,False,0xM5Oru6JmxYLt6vaiYi4H,0,121106,1990,https://i.scdn.co/image/ab67616d0000b273c7bcdafdcd92e92ce89b714a,False,7,[]
+You Got Me (The Juan Maclean Dub),VHS Or Beta,False,1nn2pR26WrmfIvDGvxYb0S,0,501080,2006,https://i.scdn.co/image/ab67616d0000b273aec3f844255439a0546706fd,False,23,['dance-punk']
+I'm Not Afraid When I'm With You,Ken Yokoyama,False,4Utb5bTSnwlVxp2ytKh9ly,9,173546,2004,https://i.scdn.co/image/ab67616d0000b2739da1744d030197322fe27020,False,41,"['j-rock', 'japanese punk rock']"
+Ode To Billie Joe  (Live @ Fillmore West),King Curtis,False,79tj6npsvo0DjccLfAm6bU,0,204253,2017,https://i.scdn.co/image/ab67616d0000b2736504e6f81b7af74e080a1be1,False,49,"['jazz blues', 'jazz saxophone', 'soul jazz']"
+Michael & His Slipper Tree '93,The Equals,False,3lqfPMOg2xbilwexv5ZIVj,23,185440,2005,https://i.scdn.co/image/ab67616d0000b273c1522218a112d7db698a6977,False,36,"['classic uk pop', 'merseybeat']"
+Circle Round The Moon,Charley Patton,False,5WMmDq5G6O3DcV3fcshXdp,2,154671,1990,https://i.scdn.co/image/ab67616d0000b27342e0eada88d1bbcbb0af0351,False,28,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'pre-war blues', 'traditional blues']"
+Follow Me Up To Carlow,Planxty,False,2b6ulXSZpOwY7kwm6qKzQw,33,144720,1973,https://i.scdn.co/image/ab67616d0000b273f0625179adb1626332232240,False,38,"['british folk', 'celtic', 'irish folk', 'uilleann pipes']"
+Mighty Army Band,Gold City,False,6tuuRT2hxDx64u6BweL1mz,4,182266,2001,https://i.scdn.co/image/ab67616d0000b273385031e488357dbe62055af2,False,34,['southern gospel']
+Swan Lake,Brazilian Tropical Orchestra,False,30f7IxbpPGCfbu6UTUqdCx,0,144600,2013,https://i.scdn.co/image/ab67616d0000b27319c4926ab47c1400fe698246,False,26,[]
+Hey Joe,Carl Smith,False,4MesZpzwpsnypksd03rVEk,27,150040,2005,https://i.scdn.co/image/ab67616d0000b273503da805a2d35d86b759b207,False,31,"['classic country pop', 'honky tonk', 'western swing']"
+Swinging On A Star,Big Dee Irwin,False,6DHaH3FvCAvANMrgXhuWag,28,159000,2016,https://i.scdn.co/image/ab67616d0000b273c68613301dc0f341947ede30,False,23,[]
+Happy,Carolyn Arends,False,18gOncB2HPEcZh0kVv6yEW,1,231373,1999,https://i.scdn.co/image/ab67616d0000b2735a6f72b6c0dfc500aba62184,False,20,['canadian ccm']
+Parasitic Twins,The Dillinger Escape Plan,False,6yuj9S4dHnX7GunKShtNTW,19,279333,2010,https://i.scdn.co/image/ab67616d0000b2735da93ad9d9d4807f042bb6a3,False,45,"['american metalcore', 'mathcore', 'new jersey hardcore', 'new jersey punk', 'post-hardcore']"
+Rain Keeps Falling Down,Jimmy Witherspoon,False,0lZAh2R7Q1FuUQyO7KYNXm,0,198266,2008,https://i.scdn.co/image/ab67616d0000b273a199859965cf5f74c97b624e,False,33,"['blues', 'jazz blues', 'jump blues']"
+Dame Tu Carino,Ray Barretto,False,2prA8Ew4IMIpl4nb5ZsDGE,2,189464,1963,https://i.scdn.co/image/ab67616d0000b2738ec1808f2457b400f6ff8cfb,False,51,"['boogaloo', 'latin jazz', 'salsa']"
+Sweet Little Sixteen,Vince Taylor,False,0uKYhr0d6zPocujWZTsdXf,2,199960,2003,https://i.scdn.co/image/ab67616d0000b27314a20a1941c3acb0fc2836f4,False,18,[]
+We Played A Game,Adolph Hofner,False,4FJsjDOia70R5WPS3j28S6,0,152026,1994,https://i.scdn.co/image/ab67616d0000b2730bd9170bb34ea9522b6399d3,False,8,['western swing']
+El Amor De Mi Vida,Israel & Moises,False,5uHWqWW2uVcJXRuBwiLMQ8,26,176378,2023,https://i.scdn.co/image/ab67616d0000b273f800471423042ff59bb58d89,False,48,['musica neoleonesa']
+Behind The Line Of Grace,Karen Peck & New River,False,5ix4HIqqRLGBep5OVmqewd,0,218973,2007,https://i.scdn.co/image/ab67616d0000b273382683b32ecc35e68ed81b3b,False,32,['southern gospel']
+Midnight,The Refreshments,False,0nIYwMbuaNHoGlD25UwLJa,1,239373,1997,https://i.scdn.co/image/ab67616d0000b27390d4fe61b7e2035679d77ab9,False,40,['dansband']
+Tunnel Vision,Finest Dearest,False,6QrAEgJVpQdc95UeB9uUu3,0,294000,2008,https://i.scdn.co/image/ab67616d0000b27302a46ba39335f28cdadd1eea,False,0,[]
+Wish,Brian Littrell,False,1hTjEce0jCFMWjDZXtb4Fh,17,236466,2006,https://i.scdn.co/image/ab67616d0000b2739620c87e4ff122a3b1d6e842,False,28,[]
+Me Falta El Aliento,Estopa,False,7Lgarpf1OqaXsUTjKZ34mK,55,218173,1999,https://i.scdn.co/image/ab67616d0000b2731a311570340a4f6530da158b,False,72,"['pop flamenco', 'rumba', 'spanish pop']"
+Idaho Red,Wade Ray,False,3K0Yi6w8een1Xp1DtSUn8r,2,141853,2013,https://i.scdn.co/image/ab67616d0000b273a2814cbe51b0fde5042af34f,False,3,[]
+Fake Tales Of San Francisco,Arctic Monkeys,False,7BuzJmV2h6eBbSDdRaDY7C,61,177946,2006,https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf,True,89,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']"
+Baby I Need Your Loving,Delroy Wilson,False,5kfXjUcCA3GIDhsiMfQ3hS,5,149013,2009,https://i.scdn.co/image/ab67616d0000b2736d0482f8231d6c966ba1fcf3,False,40,"['lovers rock', 'old school dancehall', 'reggae', 'rocksteady', 'roots reggae']"
+Big Fella,Fuzz,False,5xHrW9ZQCZLoykBo4Q1eI9,2,170906,2005,https://i.scdn.co/image/ab67616d0000b2738b69d233332438a91294dc47,True,55,"['alternative hip hop', 'detroit hip hop', 'hardcore hip hop', 'hip hop']"
+Bajo Un Palmar,Barbarito Diez,False,2m9GdHEO9pEQn22ay2mNMX,28,175798,1996,https://i.scdn.co/image/ab67616d0000b2734f454d2b3dc73420cd1945d1,False,32,"['bolero cubano', 'musica tradicional cubana']"
+First Kiss,David Arkenstone,False,3wvqoEhFjHUDh0NIKtJ6U6,5,206093,2001,https://i.scdn.co/image/ab67616d0000b273823421eae922d858213ffa28,False,53,['new age']
+Promised Land,Boogie Pimps Feat. Steve Brookstein,False,7zShwgnaI6PJVJvkPuGUf6,0,206066,2009,https://i.scdn.co/image/ab67616d0000b273f1cb5d68394cdc8f26e64ef7,False,34,[]
+The Vine,Mr.De',False,3GAC683chOYDCqtVCuLY4s,0,246720,2001,https://i.scdn.co/image/ab67616d0000b273fe76eb57b206aae8f4db8987,False,13,['ghettotech']
+In The Sweet By And By,Deborah Allen,False,2s1dMnb74dgHNGwapChXil,1,172493,2007,https://i.scdn.co/image/ab67616d0000b2733a550654933139d260819519,False,34,"['classic country pop', 'country dawn']"
+Know Your Friends,Tanto Metro & Devonte,False,1x6ndyKXBH0mfq8g3feEC2,3,218826,1999,https://i.scdn.co/image/ab67616d0000b2730af51a113bbbbf5f08d76577,False,46,"['dancehall', 'jamaican dancehall']"
+We Sleep Forever [Live],Aiden,False,5R80j4sbYiuw74zCEQOCMd,2,281480,2010,https://i.scdn.co/image/ab67616d0000b273b9c0afd08764f4077bdc3507,False,37,"['horror punk', 'screamo']"
+Container,Kaizers Orchestra,False,1g73SxPJ39Y1dvMDWJBMlu,9,139998,2001,https://i.scdn.co/image/ab67616d0000b273740cbbb06a30ea8e6bba6846,False,48,"['dark cabaret', 'norwegian alternative rock', 'norwegian rock', 'rogaland indie', 'rogaland musikk']"
+Dash Way Belly,Kiprich,False,5zNGt09zwZ31EFGRzjlHmD,0,189173,2007,https://i.scdn.co/image/ab67616d0000b2730f3b5ff162930caac9fd90ac,False,36,"['dancehall', 'jamaican dancehall']"

@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Que Pasaria...,Rauw Alejandro & Bad Bunny,True,0l0vcZMU7AOeQmUIREoI2U,90,191018,2024,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,True,94,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']"
+Think I'm In Love With You,Chris Stapleton,True,3Gn1zuHNLtGuGEOXwq0k7e,76,222800,2023,https://i.scdn.co/image/ab67616d0000b273de2e30cf7205b45a0ba3877f,False,83,"['contemporary country', 'outlaw country']"
+Guy For That,Post Malone Featuring Luke Combs,True,6StwwqB84sJeLr7tZDTxEX,76,164011,2024,https://i.scdn.co/image/ab67616d0000b27388208159b1b3c69eefdeb2e0,False,91,"['dfw rap', 'melodic rap', 'pop', 'rap']"
+Dancing In The Flames,The Weeknd,True,7z7kvUQGwlC6iOl7vMuAr9,81,220036,2024,https://i.scdn.co/image/ab67616d0000b273f0e9b93cadbeb4d0227a59eb,False,97,"['canadian contemporary r&b', 'canadian pop', 'pop']"
+Hey Now,Kendrick Lamar Featuring Dody6,True,5S8VwnB4sLi6W0lYTWYylu,84,217478,2024,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58,True,97,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+Help Me,Real Boston Richey,True,487JCvAXVblflZyDJn3fSp,69,181165,2024,https://i.scdn.co/image/ab67616d0000b2735844da6093f9bb6581380063,True,67,"['florida drill', 'memphis hip hop']"
+Residuals,Chris Brown,True,4t4rGgiVX7woTmlnW9SHJ7,70,215178,2024,https://i.scdn.co/image/ab67616d0000b2739c00f8a10b59974bcc9be858,False,89,"['r&b', 'rap']"
+Am I Okay?,Megan Moroney,True,36wAwEkSDpNQ4oQeRLYC3L,75,235002,2024,https://i.scdn.co/image/ab67616d0000b273f4e5bb0413006c1d561baf2a,False,77,"['contemporary country', 'modern country pop']"
+Diamond Boy (DTM),SZA,True,0SCIwbS0Q4etwJmDyNjHaQ,80,217523,2024,https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af,True,96,"['pop', 'r&b', 'rap']"
+I Ain't Sayin',Jordan Davis,True,7lCs3stpWCtAn5Y2lmnPhV,73,174060,2024,https://i.scdn.co/image/ab67616d0000b27369566a7160a8124914c595aa,False,75,['contemporary country']
+What Do I Do,SZA,True,6jTQijAuYxOd8DjQ8D6UkL,81,167448,2024,https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af,True,96,"['pop', 'r&b', 'rap']"
+Heart Of A Woman,Summer Walker,True,2oVVaVY0LkzwAYYcyzon6Z,73,171000,2024,https://i.scdn.co/image/ab67616d0000b2736d53dedc947bc07676d61634,True,82,"['r&b', 'rap']"
+Another Life,SZA,True,4tfOoCcYPtb08J5HWlSo3r,80,205214,2024,https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af,True,96,"['pop', 'r&b', 'rap']"
+Bad Dreams,Teddy Swims,True,3nHuKdFJZm78CoeBnDcFKe,86,184577,2024,https://i.scdn.co/image/ab67616d0000b273de4b0388cb6e5267132a07bc,False,87,[]
+No Pole,Don Toliver,True,0eaVIYo2zeOaGJeqZ5TwYz,86,187613,2023,https://i.scdn.co/image/ab67616d0000b273f5e27c2aa0b110c2b6611577,True,89,['rap']
+Empty Out Your Pockets,Juice WRLD,True,2QxekHjOYDnzNO5w8hu2D9,84,135653,2024,https://i.scdn.co/image/ab67616d0000b273c435ae51e1d314f3ecea02a0,True,93,"['chicago rap', 'melodic rap', 'rap']"
+Dos Dias,Tito Double P & Peso Pluma,True,5lKFO0PrOC9jmOlPEdjHsL,88,153928,2024,https://i.scdn.co/image/ab67616d0000b27347e9618ef7411438f9c9478b,True,92,['corrido']
+Close To You,Gracie Abrams,True,5wbg8kepMFoMzHOEuxiI0q,82,225973,2024,https://i.scdn.co/image/ab67616d0000b2734ba1c73e08db2c003a78e148,False,91,['alt z']
+Popular,Ariana Grande,True,3i8fIJNV0yuC4kXT3SkVBZ,84,241501,2024,https://i.scdn.co/image/ab67616d0000b27341ded89391c5350f6b8f991c,False,96,['pop']
+Crybaby,SZA,True,1g7pFO1WtclKCuIQiS8sNM,80,241948,2024,https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af,True,96,"['pop', 'r&b', 'rap']"
+Wacced Out Murals,Kendrick Lamar,True,5gOfC9UzZQzTyShqPMrpjT,84,317092,2024,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58,True,97,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+Diet Pepsi,Addison Rae,True,6MzofobZt2dm0Kf1hTThFz,85,169697,2024,https://i.scdn.co/image/ab67616d0000b2734e5a5862355a5e953549292b,False,74,['social media pop']
+Apple,Charli xcx,True,19RybK6XDbAVpcdxSbZL1o,82,151739,2024,https://i.scdn.co/image/ab67616d0000b27388e3822cccfb8f2832c70c2e,False,87,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']"
+Boys Back Home,Dylan Marlowe & Dylan Scott,True,1hgINxfKQlJOikzd9skvC2,60,165835,2023,https://i.scdn.co/image/ab67616d0000b2732ca83be4457c927a19f93d6c,False,59,['modern country pop']
+25,Rod Wave,True,0U60hgxzGit7juEuHul2y3,75,180000,2024,https://i.scdn.co/image/ab67616d0000b2734664214921c777be06d1ab00,True,82,['florida rap']
+Kitchen,SZA,True,3VPeA7IW68QRNTfgzb6biZ,80,172171,2024,https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af,True,96,"['pop', 'r&b', 'rap']"
+Peekaboo,Kendrick Lamar Featuring AzChike,True,2Uts1QFB4u2YNIMiqcb4de,82,155917,2024,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58,True,97,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+Burning Down,Alex Warren,True,3diSxgK7bRIZzqu5IqFgd1,74,179437,2024,https://i.scdn.co/image/ab67616d0000b2732fa3078d30095db125d905ec,False,79,"['gen z singer-songwriter', 'singer-songwriter pop']"
+Disease,Lady Gaga,True,19KlZwqlT3fguP2BeHF1Q1,83,229997,2024,https://i.scdn.co/image/ab67616d0000b273465e58cfc2ee480a7d0ae59d,False,92,"['art pop', 'dance pop', 'pop']"
+Shake Dat Ass (Twerk Song),BossMan Dlow,True,1vkpe29DP5EvAxYnWVq5C1,69,197000,2023,https://i.scdn.co/image/ab67616d0000b273234bd6e89b3fdd30080447bd,True,75,[]
+Gang Baby,NLE Choppa,True,76Ku9OBFK1NjMylR8r4WLK,82,138180,2024,https://i.scdn.co/image/ab67616d0000b273fb769724a2ee34b9f4ba1c76,True,82,"['memphis hip hop', 'rap']"
+Khe?,Rauw Alejandro & Romeo Santos,True,1YYfyJ2yCvGFCxwjsIqEK9,88,206066,2024,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,False,94,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']"
+Brokey,Latto,True,1JF8LkQWZ8grXb2emqrNKn,70,217613,2024,https://i.scdn.co/image/ab67616d0000b27358726b4f55decb5fb2684cf6,True,81,['trap queen']
+Rosones,Tito Double P,True,0LTwdL5yZ6YOTEGUQPFuSN,88,177590,2024,https://i.scdn.co/image/ab67616d0000b273c6d0e8bfb41e9d9cee3a1248,True,92,['corrido']
+Juno,Sabrina Carpenter,True,21B4gaTWnTkuSh77iWEXdS,86,223192,2024,https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626,True,94,['pop']
+Nadie,Tito Double P,True,7sd6zMrgGpEa7NkQm9TRrg,88,197031,2024,https://i.scdn.co/image/ab67616d0000b273369bcf083996da3c3b6d1f40,True,92,['corrido']
+What Is This Feeling?,Ariana Grande & Cynthia Erivo,True,7eGuPhpdS8sBjPJNuAShUX,84,228947,2024,https://i.scdn.co/image/ab67616d0000b27341ded89391c5350f6b8f991c,False,96,['pop']
+El Club,Bad Bunny,True,3zOgFY5kpQ6p2cwPIquZks,85,222568,2024,https://i.scdn.co/image/ab67616d0000b2734331112097a80e410d085ec0,True,97,"['reggaeton', 'trap latino', 'urbano latino']"
+Dodger Blue,"Kendrick Lamar Featuring Wallie the Sensei, Siete7x & Roddy Ricch",True,4K1Pg0FLno1ltzX3jeqT83,83,131240,2024,https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58,True,97,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']"
+Pitorro de Coco,Bad Bunny,True,1OSOHTBFkIkhUtxhOyUksc,80,206627,2024,https://i.scdn.co/image/ab67616d0000b2735efa26bea478e40e6dd4a9fd,False,97,"['reggaeton', 'trap latino', 'urbano latino']"
+The Largest,BigXthaPlug,True,3neOwym9kfYsM1QWaR77C1,73,132160,2024,https://i.scdn.co/image/ab67616d0000b273fed9afd601a1732fdae85ea8,True,83,['southern hip hop']
+Wondering Why,The Red Clay Strays,True,1HbzxLqpNVPdiBXvpC7Ovb,80,232917,2022,https://i.scdn.co/image/ab67616d0000b27303fd430cb92bf7c49183ab6f,False,73,['modern country pop']
+Ends Of The Earth,Ty Myers,True,30rU9CBF5cwiexNHJffkLS,72,269830,2024,https://i.scdn.co/image/ab67616d0000b2731257d2423e977d024b10ef1f,False,66,[]
+Chill Baby,SZA,True,0qpdzfTxAkOREtvvGO5oew,78,140637,2024,https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af,True,96,"['pop', 'r&b', 'rap']"
+Holy Smokes,Bailey Zimmerman,True,1kMWJ16W3Yk3hyNmaM7jfQ,75,195157,2024,https://i.scdn.co/image/ab67616d0000b27318d27696b412e049ec4bb73e,False,77,"['contemporary country', 'modern country pop']"
+High Road,Zach Bryan,True,4CcozggmhXmndssEDH6YHR,75,199893,2024,https://i.scdn.co/image/ab67616d0000b2731d28fa5a24b9be266a528af0,True,90,['classic oklahoma country']
+On One Tonight,Gunna,True,6EUcP55GlbmsmCzfL2vxtZ,84,90760,2024,https://i.scdn.co/image/ab67616d0000b273c67636f3021f5869095c0fc5,True,88,"['atl hip hop', 'melodic rap', 'rap', 'trap']"
+St. Chroma,"Tyler, The Creator Featuring Daniel Caesar",True,1QoyuMHNBe7lg3YW4Qtll4,85,197019,2024,https://i.scdn.co/image/ab67616d0000b273124e9249fada4ff3c3a0739c,True,93,"['hip hop', 'rap']"
+Cowboy Songs,George Birge,True,7LV9OX6WfOTndB4BqoXDEE,56,187186,2024,https://i.scdn.co/image/ab67616d0000b27372fb07672dd21b0fd6a97928,False,54,"['modern country pop', 'texas country']"
+On Efface,Julie Zenatti,False,461NMvaRN71kiSsM07Gin6,1,253000,2004,https://i.scdn.co/image/ab67616d0000b27398d44580b5414f6b817987d7,False,40,"['chanson', 'french pop']"

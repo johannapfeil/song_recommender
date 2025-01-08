@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+A World Of My Own,Knack,False,5HYMzAs9r4b5TRzr0wDcBl,2,255106,2001,https://i.scdn.co/image/ab67616d0000b273eaf60577f5256500dca4a3c0,False,56,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new wave', 'new wave pop', 'power pop', 'soft rock']"
+Down On The Corner,La Portuaria,False,0H6BFEIX31qt4RTnyFHU6N,10,154973,2005,https://i.scdn.co/image/ab67616d0000b273031068c53ca30ab0dad73458,False,47,"['argentine rock', 'ska argentino']"
+Assassination,Dead Prez,False,0ddeM8yti7vl0W9sUQuwBK,25,120866,2000,https://i.scdn.co/image/ab67616d0000b2736be2fd3059b8ebc94eb85e0b,True,48,"['alternative hip hop', 'conscious hip hop', 'east coast hip hop', 'hardcore hip hop', 'political hip hop']"
+I Did it for You,David Cook,False,7jDs7ePAmNIzepzDJM5Cr1,18,229453,2008,https://i.scdn.co/image/ab67616d0000b27308873c3a0de3f455f07d904a,False,44,"['idol', 'neo mellow', 'talent show']"
+Alright Now,Paul Rodgers,False,6IKUkWpDQEq1gfTiJ7WuI0,31,269816,2005,https://i.scdn.co/image/ab67616d0000b273f00e5d4025447f8015a27d9c,False,34,[]
+Pariah,Cursed,False,1Jlq3kf4hbpGhkwrvgqiL4,5,74680,2003,https://i.scdn.co/image/ab67616d0000b273cc45f4c842ce72d1ab0c14e9,False,23,"['canadian hardcore', 'canadian punk', 'chaotic hardcore', 'powerviolence', 'sludge metal']"
+Keep It Alive,Lee Ritenour,False,6BSJtuk9jCWyeAlXZcdEL1,30,291840,1982,https://i.scdn.co/image/ab67616d0000b27373f6184307d024998392cded,False,50,"['jazz funk', 'jazz fusion', 'jazz guitar', 'smooth jazz', 'yacht rock']"
+Secret Smile,Semisonic,False,1OhctVvuAU8kVCtzDWsCTj,54,279813,1998,https://i.scdn.co/image/ab67616d0000b273fb304ec81a4ab3a5b5b7eea4,False,59,"['pop rock', 'post-grunge']"
+Come On In,Washboard Sam,False,44puaFAjVgkOCO8g7yehJP,0,162133,1999,https://i.scdn.co/image/ab67616d0000b273f20385b554404be7b02a0703,False,10,"['chicago blues', 'traditional blues', 'washboard']"
+Si Es Que Te Vas,Carlos Vives,False,5X5nPjBkRByT0RZlhPM6ZV,2,262253,2002,https://i.scdn.co/image/ab67616d0000b273b04f90eaa2bb8d71465bb9e6,False,76,"['colombian pop', 'latin pop', 'vallenato']"
+Getaway,KRS-One,False,2YYmhGx66nxCNHSjdkf8OX,2,187426,2008,https://i.scdn.co/image/ab67616d0000b273abb6e84f657e4d444e89a7f7,True,55,"['bronx hip hop', 'conscious hip hop', 'east coast hip hop', 'golden age hip hop', 'hardcore hip hop', 'hip hop', 'old school hip hop', 'political hip hop']"
+Killing Machine,Aiden,False,3b76XiZhkI6L0Cqn4cVpcc,11,145440,2009,https://i.scdn.co/image/ab67616d0000b27311d201d85a3f22c7109deee6,False,37,"['horror punk', 'screamo']"
+Exactamente Medianoche,Memphis La Blusera,False,0r92KPebEDuooPlGI3NaFE,10,338560,1999,https://i.scdn.co/image/ab67616d0000b273f4df8cab7435b456458aeeb0,False,49,"['argentine rock', 'blues latinoamericano']"
+Cool Water,Roger Williams,False,1vj0wRNEalrKsAdSjgxtlC,0,196598,2000,https://i.scdn.co/image/ab67616d0000b273a0e101db8a09115e64c57705,False,44,['easy listening']
+This House Is Haunted,Alice Cooper,False,1zmE2AHHBNH1OumX4r0NTL,8,210546,2003,https://i.scdn.co/image/ab67616d0000b2732d601dc8dd9d1882df67266d,False,64,"['album rock', 'classic rock', 'detroit rock', 'glam metal', 'glam rock', 'hard rock', 'metal', 'protopunk', 'rock']"
+Captin Kut-Cha,Kai Winding,False,4DBZyH94eNxayHHiEFqkV4,0,191966,2000,https://i.scdn.co/image/ab67616d0000b273c51499ede21310726bd23e45,False,31,"['jazz trombone', 'space age pop']"
+Street Car Blues,Sleepy John Estes,False,6Z3DUCuteRGu2MvnMwXSvs,0,196653,2006,https://i.scdn.co/image/ab67616d0000b2735fc6d931015176ecb9cd0177,False,18,"['country blues', 'memphis blues', 'traditional blues']"
+Dementia,Schizoid,False,7fHiSkhbkycL6j9xYa7xMi,0,494865,2024,https://i.scdn.co/image/ab67616d0000b2731cc42de8c18cd7f0448f54a7,False,0,[]
+Manuel's Mambo,Cal Tjader,False,50Kte09CZFFqdvSWwJvydw,19,197266,1959,https://i.scdn.co/image/ab67616d0000b2737805ee5a8299d0a8c4a79532,False,44,"['cool jazz', 'jazz vibraphone', 'latin jazz']"
+Vem Pr'a Roda,Tania Maria,False,6qfidJOoJYf5HW7Q2BU21g,11,271693,2001,https://i.scdn.co/image/ab67616d0000b27368c21e21a71e7c02a9c5eefc,False,36,['brazilian jazz']
+Just In Case,Micachu,False,4f6JX68R4HAFPjRvXcknt1,11,166426,2009,https://i.scdn.co/image/ab67616d0000b273045ddff50fc33f2b7fee7bde,False,26,"['experimental', 'experimental pop']"
+Pitch In OnA Party,DJ Quik,False,2hyyA7U1m1pFlZcEyl91jH,47,247120,2000,https://i.scdn.co/image/ab67616d0000b273d78de7ed9daff1b52852668b,True,55,"['g funk', 'popping', 'west coast rap']"
+Elektro Kardiogramm (Live),Kraftwerk,False,1wc9I56MX5zfIq6QDE3FfE,6,283200,2005,https://i.scdn.co/image/ab67616d0000b2730155b4b3050b529f278e7056,False,54,"['dusseldorf electronic', 'early synthpop', 'electro', 'proto-techno', 'synthpop']"
+Apotoma,Giorgos Tsalikis,False,4zc7af5svQr5TKcY2iCPZF,4,31440,2006,https://i.scdn.co/image/ab67616d0000b27321450b0136bd924f4634de63,False,39,"['greek pop', 'laiko']"
+El Amor (Version Nortena),Yahir,False,1gAdxEej8mz75I3Z6T2KFX,0,239666,2007,https://i.scdn.co/image/ab67616d0000b27344a980b3147b07b1ccd06cf1,False,58,"['latin arena pop', 'latin pop', 'mexican pop']"
+What's True,Ziggy Marley And The Melody Makers,False,32d5V7pMea9vukFsHBpcgF,13,207333,1988,https://i.scdn.co/image/ab67616d0000b2730ebfa3537265a3d6937b7180,False,43,"['reggae', 'roots reggae']"
+Ego is the drug/3am,The Frequency,False,6wiVvN2li32kWz6NVmY1DG,0,1054386,2009,https://i.scdn.co/image/ab67616d0000b273e99de5d33e91b6b1ed4c3aa2,False,10,[]
+Have It Your Way,Leigh Jones,False,1N2Cpj568RnvQcj8SXizgO,3,279693,2008,https://i.scdn.co/image/ab67616d0000b27302f10d7d677fa8c97e9c9d16,False,7,[]
+Waiting For You (I Forgive You Before I Go),Mississippi John Hurt,False,1HUqtueokjIkk3L6OyOipu,1,271199,2006,https://i.scdn.co/image/ab67616d0000b273d9c40de05a81d911d3a7a8d5,False,40,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'piedmont blues', 'traditional blues']"
+Pig Meat On The Line,Memphis Minnie,False,28YiLQjVcTcVNTNfpZhmvR,3,152733,1929,https://i.scdn.co/image/ab67616d0000b273a0816a5391132bebca12bce1,False,30,"['acoustic blues', 'blues', 'country blues', 'memphis blues', 'traditional blues']"
+We Can Do It,Steel Pulse,False,4U2KxqgKcwBM5xuJ7dD3uv,3,240600,1991,https://i.scdn.co/image/ab67616d0000b273a379ac6fb9ed74a20208e7a4,False,56,"['reggae', 'roots reggae', 'uk reggae']"
+Take The Wheel,Pacha Massive,False,7zURVOqfMxzRW6Tsjm7sdD,1,212266,2009,https://i.scdn.co/image/ab67616d0000b2732e62bac92d23cf8b9be35c2f,False,22,['electro jazz']
+Smoke,Vanessa Daou,False,29PvTqR58uZaLpcKAIQA2U,20,165640,2013,https://i.scdn.co/image/ab67616d0000b2732fc85cd3dc975623dadb2f9a,True,35,['downtempo']
+Der weisse Mond von Maratonga,Oesch's die Dritten,False,1lsqg2shrWhULU8NZE3qJf,6,209973,2007,https://i.scdn.co/image/ab67616d0000b273478aded38aff394531b0cb28,False,40,['alpine yodeling']
+Sickman,Alice In Chains,False,5EnYdTx0BWhWM5YDcPkGAa,49,329400,1992,https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7,False,76,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'rock']"
+Melancholia,The Grip Weeds,False,4xokDuxwIAn96fBLQuArFL,0,206533,2013,https://i.scdn.co/image/ab67616d0000b273433fcd6883317890c9ba6815,False,11,"['modern power pop', 'underground power pop']"
+Bastard,Peppermint Creeps,False,0zY9a8lzKPyTnmCpOJl4mm,0,155960,2008,https://i.scdn.co/image/ab67616d0000b273ed287743138fc75e4b063773,False,8,"['hard glam', 'sleaze rock']"
+Numba 1 (Tide Is High),Kardinal Offishall / Keri Hilson,False,18iSiFtrQ78wWLFJi4pCF7,37,223040,2008,https://i.scdn.co/image/ab67616d0000b273cedc24abc2e757d13b386d1e,True,65,['canadian old school hip hop']
+Peyote,Evolution,False,31I7SqgiFOuQtD9H9rmyNY,0,436160,1999,https://i.scdn.co/image/ab67616d0000b273ad3c627c8b4ed11324bf9cea,False,6,[]
+What's in a number & Feed me lies remixes,Theodor Zox,False,6c7DpYdoZEDiHcNmVk1z36,0,357120,2007,https://i.scdn.co/image/ab67616d0000b2734ed7518ede0596a9a27285da,False,1,[]
+Bellini: Norma: Vanne_ e li cela entrambi,Vincenzo Bellini,False,23OLUsSMeMpYq4yIF9FEvH,10,266840,1961,https://i.scdn.co/image/ab67616d0000b273875ef09239c5f554cc397ef0,False,47,"['classical', 'early romantic era', 'italian opera', 'italian romanticism', 'opera']"
+If Santa Claus Could Bring You Back To Me,Jimmy Wakely,False,6Pm3z1hI8iJFRoVnRTWH5l,19,159466,1995,https://i.scdn.co/image/ab67616d0000b27340cfd0d12008ebb38d503251,False,32,"['arkansas country', 'classic oklahoma country', 'cowboy western', 'western swing']"
+Intro: The Dragon,Mix Mob,False,630xGojRWauzgZqJn1usjx,0,24137,2002,https://i.scdn.co/image/ab67616d0000b273a7c8033fc26fe173e49985ca,False,6,[]
+Mrs Scott Skinner / Mackenzie Hay / The Devil's Elbow,James Scott Skinner,False,40DB2KDCSzs6WE42G2P7h8,0,149240,2002,https://i.scdn.co/image/ab67616d0000b273cbef9d36169b1e4f02b28629,False,8,['scottish smallpipe']
+Wrong End Of The Rainbow,Ronnie Milsap,False,5mUOV4KATxfRrU7LPptn69,5,244266,1982,https://i.scdn.co/image/ab67616d0000b273c4941b642fd4334a01bd3827,False,58,"['classic country pop', 'country', 'country road', 'country rock', 'nashville sound']"
+Blues Do Elevador,Zeca Baleiro,False,6Gd0PO9BijSyEyjK75zQZE,15,237973,2000,https://i.scdn.co/image/ab67616d0000b273dee551986b9fdb9e57965181,False,59,"['brazilian rock', 'mpb', 'musica maranhense']"
+The Real Rock,Shinehead,False,6FaF51lSD3Zgaq2RsoJrmS,3,250866,1990,https://i.scdn.co/image/ab67616d0000b273623d3cbe5eeef815143ad355,False,36,"['reggae fusion', 'uk reggae']"
+The Way I Am,Eminem,False,23wfXwnsPZYe5A1xXRHb3J,71,290426,2000,https://i.scdn.co/image/ab67616d0000b273dbb3dd82da45b7d7f31b1b42,True,93,"['detroit hip hop', 'hip hop', 'rap']"
+Lizzie And The Rain Man,Billie Jo Spears,False,3KOTYHLsDnfYQx59GiMRX8,1,212920,2007,https://i.scdn.co/image/ab67616d0000b273849e344c99975857049b1398,False,43,['classic country pop']
+Pocket Full Of Stars,Diesel Boy,False,4dlhCisP3poe24OLgXPOw1,3,152666,2001,https://i.scdn.co/image/ab67616d0000b273cd512c2501bc7ade3620f5d8,False,32,"['melodic hardcore', 'ska punk', 'skate punk']"

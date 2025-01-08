@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Tin Pan Alley (aka Roughest Place In Town),Stevie Ray Vaughan And Double Trouble,False,7zto61V8ySp03Qi6X1LU2X,53,551786,1984,https://i.scdn.co/image/ab67616d0000b273eb72e98b6e645a68cdfe72a4,False,63,"['album rock', 'blues', 'blues rock', 'classic rock', 'electric blues', 'hard rock', 'instrumental rock', 'rock', 'texas blues']"
+Try And Stop Me,The Creation,False,52EqWUAgZY5XB4vUS6ICyT,11,147760,2017,https://i.scdn.co/image/ab67616d0000b2737004db1b97e34bbfd1b05a98,False,28,"['british invasion', 'classic garage rock', 'freakbeat', 'protopunk']"
+Umbrellas Of Cherbourg,Manuel & The Music Of The Mountains,False,5VA5cOv3x7nPsrXWFgwViq,3,158093,1990,https://i.scdn.co/image/ab67616d0000b273c3e420c434defd0e0db93fae,False,38,['easy listening']
+Cool Water,Gene Autry,False,1Gwzf4kHMMo3w7bRyLQ09O,0,83933,2000,https://i.scdn.co/image/ab67616d0000b273e519a8085c514cf8474f7a76,False,74,"['classic oklahoma country', 'cowboy western', 'traditional country', 'yodeling']"
+Dans le calme de la nuit,Kali,False,6i21vY16fiwEh0ms5VJ079,4,240480,2007,https://i.scdn.co/image/ab67616d0000b273f35b9c34b4200bfa8f052e85,False,30,['chante nwel']
+Here Without You,3 Doors Down,False,3NLrRZoMF0Lx6zTlYqeIo4,76,238733,2002,https://i.scdn.co/image/ab67616d0000b27383c39b0d32eb4a2064e1e228,False,73,"['alternative metal', 'nu metal', 'post-grunge', 'rock']"
+Sweet To Mama,Frank Stokes,False,6KQciGDaFzsamaTqTnm9Dr,0,174613,1928,https://i.scdn.co/image/ab67616d0000b27363e1232d18118bc827fb4fdd,False,15,"['country blues', 'memphis blues', 'traditional blues']"
+Expolodera (som dynamit),Caramell,False,5cvbQ6VemUtJqsOtyJpDQg,25,218400,1999,https://i.scdn.co/image/ab67616d0000b273a67769f3000adf284d681441,False,33,"['bubblegum dance', 'swedish eurodance']"
+Baiao Malandro,Egberto Gismonti,False,6ghKtzsUlhb0dUj4rAhtAl,14,254478,1986,https://i.scdn.co/image/ab67616d0000b273aade2d49c1b9e4e492a117a8,False,37,"['bossa nova', 'brazilian contemporary classical', 'brazilian jazz', 'latin classical', 'violao']"
+Perro Faldero,Los Traileros Del Norte,False,2p36XpzEILafKC1aazY6uF,3,163226,2008,https://i.scdn.co/image/ab67616d0000b273363126ef454f8d802a53e1dc,False,61,"['musica mexicana', 'norteno']"
+I Was a Human Bomb for the FBI,Zombina & The Skeletones,False,4SnIvCyrT49GDEDGM8mYbE,3,212880,2004,https://i.scdn.co/image/ab67616d0000b273683d09f55dcf267a2d864420,False,27,"['gothabilly', 'horror punk']"
+I Can't Wait Until Tomorrow (Live),Gary Moore,False,2BjiodcAQEVKrspyGf7ZOf,6,724866,1983,https://i.scdn.co/image/ab67616d0000b27396eeb09560a144a5c6ec71b9,False,60,"['blues rock', 'british blues', 'electric blues']"
+Meteorito,Chacho,False,13fxFAB0y4YuU4fskI7YrW,0,460903,2010,https://i.scdn.co/image/ab67616d0000b2737fe951632a1dda8458e7c78b,False,0,[]
+The Ballad Of St. Anne's Reel,Ronnie Drew,False,6xj3pdQaq1DVqMSIk62TF9,8,194986,2007,https://i.scdn.co/image/ab67616d0000b27348f8fedd46ff5b39dc06f3a1,False,36,['irish folk']
+Mother's Luv,Usher Featuring The Nu Beginning,False,5WIVXMsHJd3mTnWxr6uzAk,0,317960,2015,https://i.scdn.co/image/ab67616d0000b2733c93ebc13cd4891caf212243,False,1,[]
+Class Act,James Hunter,False,2oClVGaeZyrhtLgBNQN8DE,13,180906,2008,https://i.scdn.co/image/ab67616d0000b273c3750ab580c424df97cb9977,False,40,['british soul']
+Monday Morning Blues,Mississippi John Hurt,False,18HGARlDFstYN6JHCYVJNB,26,237306,1998,https://i.scdn.co/image/ab67616d0000b273098f82d9514c81c82df554c9,False,40,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'piedmont blues', 'traditional blues']"
+Somebody Stop Me,Emilio,False,3gXYPcywDTrlrCCbfTCksW,3,192960,1997,https://i.scdn.co/image/ab67616d0000b2736ae2088fccc4d7af0a7ecc3c,False,19,[]
+Side By Side,Xmilk,False,3XZnW8kvKng8QN7iaPhG6T,0,141173,2006,https://i.scdn.co/image/ab67616d0000b27345692d11fa7c14b40c39f977,False,2,['spanish indie rock']
+S*B*Y,An Cafe,False,6OwoLGmC3yOaEdy3CfDIjp,9,218133,2019,https://i.scdn.co/image/ab67616d0000b273965cf1aa6d9c8a2bda730fb1,False,7,[]
+It Doesn't Matter Where_ Just Drive,Snow Patrol,False,3jf0sKxl7CSUNCF6b04VMa,16,217586,2006,https://i.scdn.co/image/ab67616d0000b273aa8cec6b521c065cc8344f78,False,71,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']"
+The Golden Rocket,Johnny Horton,False,7j6yLcNuS1rGOnBX4ygDNp,16,123400,2013,https://i.scdn.co/image/ab67616d0000b2734971e41391323fb2b8c5c4ba,False,50,"['classic country pop', 'cowboy western']"
+the tales of King Solitude 1:3,Clockwise,False,0TB6yPpDRiVAEkzBs3CClS,0,406066,1996,https://i.scdn.co/image/ab67616d0000b2738b6877cc8f1267455dd4f8bb,False,2,[]
+Run,Lighthouse Family,False,3eXmt3GMlGoYo3tX6ArQZt,46,241426,2001,https://i.scdn.co/image/ab67616d0000b273e4abf38ab1b78088badaa792,False,60,"['europop', 'new wave pop']"
+God Keeps A Candle,The Nelons,False,2wx1MFK1cn2lZgrrUb2I15,0,236520,2000,https://i.scdn.co/image/ab67616d0000b273994890406b4cf006b39bcdfd,False,32,"['family gospel', 'southern gospel']"
+Bootleg Rum Dum Blues,Blind Blake,False,2CQ2nnyD4hGLQlTkiUNa2M,0,178103,1991,https://i.scdn.co/image/ab67616d0000b27387037f601187ca2a7334cafc,False,31,"['acoustic blues', 'bahamian folk', 'country blues', 'piedmont blues', 'pre-war blues', 'ragtime', 'traditional blues']"
+Husbands And Wives,Roger Miller,False,275gBKRFNe9PmwOUHG4TKE,21,145360,1996,https://i.scdn.co/image/ab67616d0000b273ce3cd20fc81682dacf688c5a,False,55,"['classic country pop', 'classic oklahoma country', 'nashville sound']"
+Be Stiff (Live),Devo,False,3Zz1Ce21vfhcKMNk2pKYuz,7,175400,1993,https://i.scdn.co/image/ab67616d0000b273c545ed7413740620e3dfbd28,False,56,"['alternative rock', 'art punk', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'post-punk', 'synth punk', 'synthpop', 'zolo']"
+Tu Ex Amor,El Tiempo,False,2KzNCjnjVdVxZETHqZpwGQ,31,179520,1999,https://i.scdn.co/image/ab67616d0000b27336c2f83b735536ffac3db68d,False,50,['grupera']
+Blues As Blues Can Get,Chris Farlowe,False,7vmtcRYO3LnLGFcrHhFzW5,1,432240,2019,https://i.scdn.co/image/ab67616d0000b273283fb92cc4ebd373bee6dfca,False,29,"['british blues', 'british invasion']"
+Empty Bottles,The Hollywood Brats,False,4ckhaRHkmozGtFFqR5h1T9,2,41306,1980,https://i.scdn.co/image/ab67616d0000b27317decbe1626cebcb9cb520c2,False,11,"['deep punk rock', 'glam rock']"
+Komm Computer,Frl.Menke,False,0BcdCHbdpGvfhYVckfVKIM,2,230186,2017,https://i.scdn.co/image/ab67616d0000b27316cd501b389d25cb3f009b65,False,25,['neue deutsche welle']
+Gyere velem,Taboo,False,18N1qRLOMUiDPzFhYlTbCL,0,213000,1999,https://i.scdn.co/image/ab67616d0000b2736f7796ed11ea9c762e7a8530,False,0,[]
+I Wonder Where You Are Tonight,Carl Smith,False,6QZUsgkQSm3TtS0ttQjqb6,0,141061,2011,https://i.scdn.co/image/ab67616d0000b27331047b9c75f8901c3cd91ea1,False,31,"['classic country pop', 'honky tonk', 'western swing']"
+Revolution,Superchumbo,False,7xjQX0MnIc6bJGRosNUnmM,13,202023,2023,https://i.scdn.co/image/ab67616d0000b273fb4193aa181fa0abc23c02b3,False,27,"['tribal house', 'vocal house']"
+The White's Bedroom - Fire Escape,The Plasmatics,False,3jP0KOMBOF5Yo2371URebH,3,121733,1987,https://i.scdn.co/image/ab67616d0000b273acfb7f049f062e2c190f43d3,False,28,['hardcore punk']
+The Yellow Rose Of Texas,Roy Rogers,False,5yz1WLvaemAXP4aPrgfYxj,14,152013,1938,https://i.scdn.co/image/ab67616d0000b2734f6a59efdcb8cc59271d1d5b,False,33,"['cowboy western', 'western swing']"
+Trapdoor,Chase & Status,False,72TU6QM4rZAA1aLlGrRDNN,2,398546,2005,https://i.scdn.co/image/ab67616d0000b273db83cbe5128e1c48a92b8c92,False,8,[]
+Would?,Alice In Chains,False,5sFDReWLrZHLFZFjHsjUTS,73,206773,1992,https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7,False,76,"['alternative metal', 'alternative rock', 'grunge', 'hard rock', 'nu metal', 'rock']"
+Mr. Goose,The Charms,False,1cjcPKWj2kpiiPSO2yLDRV,0,151133,2020,https://i.scdn.co/image/ab67616d0000b273dfc397795aefe148cef690c4,False,19,['classic greek pop']
+Plastic People,Four Tet,False,15VrORSMG5FrR5GoSPWsjA,26,394057,2010,https://i.scdn.co/image/ab67616d0000b2731c60d216c55dbf149c6ed5cb,False,64,"['electronica', 'folktronica', 'indietronica', 'intelligent dance music', 'trip hop']"
+Cuatro Veinte,Gonzalo Rubalcaba,False,69MpIThccDPC9UOReKcmIq,1,586733,2005,https://i.scdn.co/image/ab67616d0000b27311b0a9088d00a13c9514a2d8,False,34,"['contemporary jazz', 'contemporary post-bop', 'jazz cubano', 'jazz piano', 'modern jazz piano']"
+Goor,Plaza,False,7m1v6aAOEO0DWrgeROoJnC,4,188415,2020,https://i.scdn.co/image/ab67616d0000b273b5cb7ebe25a2a0c4c111f8d8,False,2,[]
+Dont Push Me Away,Jim Jones / Chink Santana,False,5dWCBzGNL5AcAhIxHV5epR,19,289773,2006,https://i.scdn.co/image/ab67616d0000b273f821a049ac13a7528086f043,True,54,"['gangster rap', 'harlem hip hop', 'trap']"
+Funny How Time Slips Away,Roy Drusky,False,1cWfNiNfg3hnEtqMUoVbdn,0,188533,1982,https://i.scdn.co/image/ab67616d0000b2736ec1f23e4ba73913faaea21c,False,36,"['classic country pop', 'nashville sound']"
+Run And Tell,The Perrys,False,5fzmb3bAX2LFpYyfpnkW5L,0,213613,1998,https://i.scdn.co/image/ab67616d0000b273eda3d06830e280832029403c,False,31,"['family gospel', 'southern gospel']"
+Cuttin' the Tree,John Wesley,False,4qMyxQeTeOASuAswXjBm85,0,247800,1994,https://i.scdn.co/image/ab67616d0000b27308ba99049896597a3e24f3f9,False,14,[]
+O Come_ O Come Emmanuel,Margaret Becker,False,3teoBIVFW0rjUPR4e6i28v,16,294333,1988,https://i.scdn.co/image/ab67616d0000b2739aa5dd2771073d18ad58d399,False,28,['deep christian rock']
+Hesitation Blues,Hot Tuna,False,2ZA8w7VIA2A5bFmb3ViXoQ,28,306866,1970,https://i.scdn.co/image/ab67616d0000b2732cebefba7f79c31d6426ca0c,False,34,"['blues rock', 'country rock', 'electric blues', 'jam band', 'psychedelic rock', 'roots rock']"
+Mood Indigo,The Knightsbridge Strings,False,37oOdbvwhiFVzF99rru2ez,0,185733,1959,https://i.scdn.co/image/ab67616d0000b273282fabe8b6c7e7b569626bf7,False,0,[]

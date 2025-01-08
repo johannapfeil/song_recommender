@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+I'll Be Your Light (Ian Nieman Remix),Kristine W.,False,0gFbE59viTe5GRH2ZvPbj7,0,533880,2005,https://i.scdn.co/image/ab67616d0000b273f9662d2893b7792bec883e5e,False,32,['diva house']
+Turn It Up,Jamie Richards,False,1i6AGkins2KqvVwpObLvrh,0,269840,2008,https://i.scdn.co/image/ab67616d0000b27360ea55b73d063d77025516ff,False,25,"['classic texas country', 'red dirt']"
+Drop Sacrifice,Liquid Stranger,False,4wd3DrF8JNnIeeZJyOFgSQ,3,245786,2007,https://i.scdn.co/image/ab67616d0000b273422df92eabb8bd3e88c06c40,False,48,"['brostep', 'downtempo', 'drill and bass', 'filthstep']"
+Club Tropicana,Los Del Sol,False,7jWTaOyxjUb5lK4SZLfFal,0,238333,2015,https://i.scdn.co/image/ab67616d0000b27316794c101b4c44133e52beb2,False,9,[]
+Welcome 2 Detroit,Trick Trick / Eminem,False,79t5idiRhbDB1oLaVcTVsD,58,285453,2005,https://i.scdn.co/image/ab67616d0000b273634c29b323abe8d85a160154,True,53,['detroit hip hop']
+Hear My Train A Comin',Jimi Hendrix,False,4DmBVImaIhE3RyNvbtZTTz,47,341800,2013,https://i.scdn.co/image/ab67616d0000b2734fdf251a3d05164e4a10c020,False,70,"['acid rock', 'album rock', 'alternative rock', 'classic rock', 'hard rock', 'proto-metal', 'psychedelic rock', 'rock']"
+Common Ground,Moss,False,1i2EjSBFNgri5pvaQAwScx,0,486666,2007,https://i.scdn.co/image/ab67616d0000b273b5f60084ab2c485b7b5d351c,False,7,[]
+Ninja Tattoo,Shanadoo,False,72womlnH7ISK3hKIJHciXX,4,200840,2006,https://i.scdn.co/image/ab67616d0000b2737dbeabe4a75b137c28af69f9,False,15,['bubblegum dance']
+Runnin' Through The Jungle - Shootin' The Blues,Willy DeVille,False,5VsqDwYQDtIf37CmFMt8lI,11,225173,1996,https://i.scdn.co/image/ab67616d0000b27311f83167e559c3dedf0b06d6,False,42,['native american traditional']
+Outside The Law,Epitaph,False,3urAGSxPFAxp2mZlFavO82,11,365960,1974,https://i.scdn.co/image/ab67616d0000b273bd8572288d67017fbb1fc0d0,False,14,"['german hard rock', 'german prog', 'german rock', 'psychedelic blues-rock']"
+Hold Me While I Cry,Irma Thomas,False,0mDO3keFGYsdFBjQbENWXu,0,207973,1997,https://i.scdn.co/image/ab67616d0000b273a849143b45dca0a8d827298c,False,51,"['classic soul', 'louisiana blues', 'new orleans blues', 'new orleans soul', 'southern soul']"
+What's Wrong,Lost Boyz,False,50jO9858T9yKqCyMjDdASx,10,250133,1997,https://i.scdn.co/image/ab67616d0000b27386ddf213f15246dd7495fd06,True,44,"['east coast hip hop', 'queens hip hop']"
+The Dryad_ Op. 45_ No. 1,Pietari Inkinen,False,4py7eZ4Kk3IN5l1ytpSBnS,0,344800,2008,https://i.scdn.co/image/ab67616d0000b2730a3175773a1645801e95030a,False,61,"['classical', 'finnish classical', 'impressionism', 'post-romantic era']"
+Help Me,Chris Brown,False,38YSiNdmYVgEgXOsi8hvze,32,197106,2007,https://i.scdn.co/image/ab67616d0000b27339509cc5eadf803928f2f167,False,89,"['r&b', 'rap']"
+I Stand Here Forgiven,Scott Wesley Brown,False,4Xk82Rg7pjNJaGjwP4Owke,3,180600,1995,https://i.scdn.co/image/ab67616d0000b2737d3db53d5bba30ceecc6830d,False,37,"['classic praise', 'jesus movement']"
+Krause seine Kreuzpolka,Polkaholix,False,26zL6GXOskAgiRSDuo5Yrs,1,196880,2023,https://i.scdn.co/image/ab67616d0000b273391e6aea3590173a6f7e1f63,False,12,['polka']
+Susan Said,David Tao,False,4k1XsIKJv6fUKS73W82s4n,43,261826,2005,https://i.scdn.co/image/ab67616d0000b273110af1ee291450d9e86a05a4,False,64,"['chinese r&b', 'mandopop', 'taiwan pop', 'taiwan singer-songwriter']"
+Como Nadie Te He Querido,Isabel Pantoja,False,0MUF80GDEdvqpd1LDVs6yk,8,263333,2006,https://i.scdn.co/image/ab67616d0000b273e17963d43cae9bbd9eea2e14,False,57,"['cancion melodica', 'copla', 'latin pop', 'pop romantico']"
+Loving You Too Long,Billy Bragg,False,60vvue1OPoMoTjp8I3yhwE,9,171506,1983,https://i.scdn.co/image/ab67616d0000b27340d2fd4b559245dbccf0ad6b,False,53,"['anti-folk', 'folk punk', 'permanent wave', 'singer-songwriter', 'uk americana']"
+Tragedy in Blue,DJ Harry,False,63PWaj8Kfjp45b2WJTxUDa,0,300560,2004,https://i.scdn.co/image/ab67616d0000b2733c7bf293f5022e657179110e,False,9,[]
+On Independence Day,Anti-Flag,False,18aI2RV5T4PxZ3vkMgR8Gt,7,171586,2009,https://i.scdn.co/image/ab67616d0000b273cef62dc80e753f7dffc73382,False,51,"['punk', 'skate punk']"
+No One Ever Cared For Me Like Jesus,Ivan Parker,False,1qPQdqw9LzRr14PRFcFvTt,4,157733,2008,https://i.scdn.co/image/ab67616d0000b273b7ae96c6f5cae76b9c4ee1fa,False,31,['southern gospel']
+Al Doilea Om,Negura Bunget,False,47yEjyUazMj4saTVCKrV5x,8,123613,2003,https://i.scdn.co/image/ab67616d0000b273ab1912e230961f21ccfc5e9b,False,18,"['atmospheric black metal', 'avant-garde metal', 'balkan folk metal', 'black metal', 'blackgaze', 'pagan black metal', 'romanian black metal', 'romanian metal', 'slavic metal']"
+Hey Daddy (Daddy's Home),Usher,False,030OCtLMrljNhp8OWHBWW3,75,224093,2010,https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79,False,83,"['atl hip hop', 'contemporary r&b', 'dance pop', 'pop', 'r&b', 'rap', 'south carolina hip hop', 'urban contemporary']"
+Stand Up and Praise Him,Vickie Winans,False,4pkOPYVSAOjq7CEo5xs699,2,301160,1994,https://i.scdn.co/image/ab67616d0000b273c270faa3e5c88f865b83819e,False,33,['gospel']
+One More Chance,Bloc Party,False,7d57hJikVPsmA5w2OJl1Mi,32,279986,2009,https://i.scdn.co/image/ab67616d0000b273a70635b50b94d0be8d400b59,False,63,"['alternative dance', 'alternative rock', 'dance-punk', 'indie rock', 'indietronica', 'modern rock', 'neo-synthpop', 'new rave']"
+Ruby Marlowe,Schizoid,False,38pOSQoqfKO2Of4xYRt0P0,0,260240,2004,https://i.scdn.co/image/ab67616d0000b273ed0171fa63ae67005986bd9e,False,2,['digital hardcore']
+Four,Midge Ure,False,2dJV2FVdZGs5VhjwY68I2K,0,287480,2006,https://i.scdn.co/image/ab67616d0000b273a99d800f585341e54e52c95d,False,48,"['new romantic', 'new wave pop', 'scottish new wave', 'solo wave', 'synthpop']"
+I Saw Three Ships,Kevin Max,False,2L0FG4TAkOohwir1uwpDod,8,113000,2005,https://i.scdn.co/image/ab67616d0000b273fad045f3f36c5c6ecdbada32,False,31,[]
+Big Bottom,Spinal Tap,False,3d04l3QbDlZvi8K6nqCm4N,30,212360,1984,https://i.scdn.co/image/ab67616d0000b273f292ec02a050dd8a6174cd4e,False,37,"['comic', 'comic metal', 'parody']"
+The One,Miguel Migs,False,35wBnx2IkwfEN64XXWlY60,0,431264,2018,https://i.scdn.co/image/ab67616d0000b273492f75b92bd9d097ec21f9db,False,6,[]
+The Sukkubus Lustrate,Belphegor,False,3En0Nai7Ci6PHvi7n2JlRn,19,178146,2008,https://i.scdn.co/image/ab67616d0000b27373add4ee364e6ce5a1149d97,False,42,"['austrian black metal', 'austrian metal', 'black metal', 'brutal death metal', 'death metal', 'symphonic black metal']"
+I'll Take A Melody,John Holt,False,04hGd3LmA4HkE48mIw2J6e,20,225093,1984,https://i.scdn.co/image/ab67616d0000b2733bec7ba7d304e5a586436388,False,52,"['dub', 'lovers rock', 'reggae', 'rocksteady', 'roots reggae']"
+Ain't It Funny,Jennifer Lopez,False,6J8vBmsokURohC3UygqYOH,54,245360,2001,https://i.scdn.co/image/ab67616d0000b273bfa0a1de59696c7a6fe15ebb,False,77,"['dance pop', 'pop', 'urban contemporary']"
+Fire and Ice,Outerspace,False,2d6PCd3KyaEiHWxXMW88j5,9,242733,2004,https://i.scdn.co/image/ab67616d0000b27311e805526e391bc244dd3954,True,37,['philly rap']
+See My Friends,Ray Davies,False,6xrQmtNzlbweKr8dn9BsrP,5,239666,2010,https://i.scdn.co/image/ab67616d0000b2734a98e10ea88732d1f4384fe3,False,32,[]
+The Attitude Song,Steve Vai,False,55lmoCZNQDJUwWa3bb4aSe,29,202455,2010,https://i.scdn.co/image/ab67616d0000b27390603bd89b33de222664860b,False,52,"['instrumental rock', 'metal guitar', 'shred']"
+Jake,J. Peter Robinson,False,0uY1bSF6PgypuNo176CFU3,0,161586,2006,https://i.scdn.co/image/ab67616d0000b273edef5f6c5925b3d46c7b9053,False,9,['british soundtrack']
+Mary's Boy Child,John Davis & Emma Doyle,False,7lpill21kPuZz02uOgQgSX,21,233226,1986,https://i.scdn.co/image/ab67616d0000b273329e5d4d35346f5c392ae5e2,False,42,[]
+Smile,Heavenly,False,3k5epoiYw4k9BhmEIavR2x,29,204000,2020,https://i.scdn.co/image/ab67616d0000b27320410d4f560480befa8a5bab,False,62,['lullaby']
+They Came To Boston,Mighty Mighty Bosstones,False,7tMe1KDTrcf5SGzRyYwROS,12,211333,1992,https://i.scdn.co/image/ab67616d0000b2731a6a51facf2a0fcec01f2018,False,54,"['boston punk', 'boston rock', 'punk', 'ska', 'ska punk', 'skate punk']"
+Nie Wieder (Live Version),Pyranja,False,0IXBd3yzzfkNLGewS5rvHJ,0,170693,2006,https://i.scdn.co/image/ab67616d0000b273f52b4d1518123eff95158462,False,5,['oldschool deutschrap']
+Mi Musica Es Para Ti - Original,Johnny Pacheco,False,2IHDvWsc45oEZvhLOrSUWf,0,183360,2006,https://i.scdn.co/image/ab67616d0000b273defea04b8c3d358ec4ea5441,False,54,"['charanga', 'salsa']"
+Sanctuary,Sick Of It All,False,3TPcpHQ0LWUdP7x2ZIQCzZ,19,114573,2011,https://i.scdn.co/image/ab67616d0000b2731358473e0c3bf2e77619e652,False,40,"['crossover thrash', 'hardcore', 'nyhc', 'punk']"
+Strangers In The Night,Orlando Pops Orchestra,False,7eR5CafgUClEHvTXR3s9HV,0,208608,2009,https://i.scdn.co/image/ab67616d0000b273772f26b60d605d251d0c291f,False,25,['pops orchestra']
+Two Heads One Pillow,Gerald Clayton,False,0UdZctT8Z56AWpKzTyVeWp,5,384186,2009,https://i.scdn.co/image/ab67616d0000b27373f6fa1a16571a0d1a7f3e3e,False,38,"['contemporary jazz', 'jazz', 'modern jazz piano', 'straight-ahead jazz']"
+Pehle To Kabhi Gham Tha,Naseebo Lal,False,1pxnKJMu3Fz9HHFAM17tCC,3,398040,1998,https://i.scdn.co/image/ab67616d0000b2739592e7665788482354541946,False,53,"['classic pakistani pop', 'sufi']"
+Saints & Sinners,Van Gelder,False,3pi2PyxQ8Pl2rW3TncEoX4,0,493917,2010,https://i.scdn.co/image/ab67616d0000b273a12397d55ba4ea7f05ddc17a,False,9,['carnaval limburg']
+My Jesus_ I Love Thee,Glad,False,3zwoiDPjZP99NrTCOb3jYK,4,211693,1990,https://i.scdn.co/image/ab67616d0000b27319495fb11eba85ac91301450,False,31,['christian a cappella']
+Ain't No Sunshine,Nestor Torres,False,2CA13c22ONDKysiEUmBZuR,8,287826,1999,https://i.scdn.co/image/ab67616d0000b273214b143c79d8c8ba2a7ddac9,False,16,[]

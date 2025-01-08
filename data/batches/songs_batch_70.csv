@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Stand,Pedro Aznar,False,6lSCFu3NjEZTMRdey66fHN,5,194613,1995,https://i.scdn.co/image/ab67616d0000b27344c5745e9ebf024eb47ed0cc,False,57,"['argentine rock', 'rock nacional']"
+Got It Twisted,Mobb Deep,False,2nzFiCB8YoXf24MAM1qDmU,42,224626,2004,https://i.scdn.co/image/ab67616d0000b273e562cd3a5b9b493c1f582ad0,True,68,"['east coast hip hop', 'hardcore hip hop', 'hip hop', 'queens hip hop']"
+Freeze,Pepper,False,6OImCgd9gwIcTRuHr6s9xy,31,204586,2008,https://i.scdn.co/image/ab67616d0000b27306e991b23551595773d6a865,False,55,"['reggae fusion', 'reggae rock']"
+Human Guinea Pig,Suicidal Tendencies,False,0pIEqorXO5UvAQo0CSIVAx,21,125933,1987,https://i.scdn.co/image/ab67616d0000b2735eb40d1db247cd3641164d3d,False,56,"['alternative metal', 'california hardcore', 'crossover thrash', 'funk metal', 'hard rock', 'hardcore punk', 'metal', 'nu metal', 'old school thrash', 'punk', 'thrash metal']"
+Alli Mia Fora,Peggy Zina,False,74R2FiyYSHi2ZgK8QIE8Zd,2,217776,2007,https://i.scdn.co/image/ab67616d0000b273e6a7db2c8921c61c492e04c6,False,46,"['greek pop', 'laiko']"
+Lydia [Piano Version],FIR,False,1KV8RI6wmQ4rvQrw8XF2Sp,0,206573,2020,https://i.scdn.co/image/ab67616d0000b2735384176ba385c7486b3c795f,False,57,['mandopop']
+Future Prospects,Nic Endo,False,1Wh0BXhX119h4QmnS0NQBp,0,388013,1998,https://i.scdn.co/image/ab67616d0000b273a49d1532e7089fb53ac4c84e,False,4,"['digital hardcore', 'japanoise']"
+Loud And Clear,Elephant Man,False,3kRySGMScIiucRjCmeKa0x,4,128840,1900,https://i.scdn.co/image/ab67616d0000b27374aefb3d7833d06a813d09fa,False,54,"['dancehall', 'jamaican dancehall', 'reggae fusion']"
+Naked,Jennifer Brown,False,3kwCfy6gQ0N0P8jvbK01MT,1,239066,1998,https://i.scdn.co/image/ab67616d0000b2735a00941d961c3183d40363b7,False,25,[]
+Awesome God,Bill & Gloria Gaither,False,6eNNBoZN7mNGLRufNoGZF9,23,181106,2005,https://i.scdn.co/image/ab67616d0000b273590cebd4d23f49056cb837d7,False,42,['southern gospel']
+Bladecrash Electrocution,Pumpkin Buzzard,False,3ZkQtnc6IPfuoOJvpxXCSo,0,193375,2010,https://i.scdn.co/image/ab67616d0000b273e3bd66f71cbf9cea7ff94820,False,0,[]
+El Aranero,Los Hispanos,False,7LIe6p7lWChCKqCYsCbDcY,0,244244,2010,https://i.scdn.co/image/ab67616d0000b27312c4ff2e05d4ab70c3b001a3,False,68,"['classic colombian pop', 'cumbia', 'musica popular colombiana']"
+Play That Beat,X-ecutioners,False,4MgT4ChgfgftIcNLgIRV0H,6,261333,2002,https://i.scdn.co/image/ab67616d0000b273eeb5d940509f3320ca16c601,False,38,"['scratch', 'turntablism']"
+Marilyn,Juice Leskinen,False,7teMwabPGrZwzqCEfdxVYx,34,158866,1973,https://i.scdn.co/image/ab67616d0000b273d53d473866275bc2185f65ab,False,44,"['classic finnish rock', 'classic iskelma', 'suomi rock']"
+Through The Wire,Kanye West,False,4mmkhcEm1Ljy1U9nwtsxUo,73,221226,2004,https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78,True,93,"['chicago rap', 'hip hop', 'rap']"
+Can't Break This Man,Borialis,False,3ZP1MZuDtKVKs0qhDz5HwA,10,294640,2004,https://i.scdn.co/image/ab67616d0000b2730639442af83792d4bccdb77a,False,22,"['rap metalcore', 'rap rock']"
+The Ambush,Open Hand,False,2NZ3xHzOkeNiFaEkV0hDFb,7,137026,2005,https://i.scdn.co/image/ab67616d0000b273c90f20164563d508abcde8bd,False,20,['spacegrunge']
+Una na na,OV7,False,4nbSPiOuYqPHujtgyGaAYI,12,239666,2002,https://i.scdn.co/image/ab67616d0000b2730657005ebd449e2a01eb1b7b,False,59,"['latin arena pop', 'latin pop', 'mexican pop']"
+Give Your Love To Me,Cornell Campbell,False,3MEOjXbjOj65lPBc5gzzRf,1,212040,1983,https://i.scdn.co/image/ab67616d0000b273ae9163444e54a8e64e7859a3,False,39,"['dub', 'lovers rock', 'reggae', 'rocksteady', 'roots reggae']"
+So What!,Tesla,False,2ShBjRGVKdfDq53tL8nAvn,10,219706,2008,https://i.scdn.co/image/ab67616d0000b2737f08f284dc0404abff2cdb32,True,53,"['album rock', 'glam metal', 'hard rock', 'sacramento indie']"
+Who Are You?,The Kitchen,False,0EP1Z1Uazpruk2BjPPLvVP,0,213120,2000,https://i.scdn.co/image/ab67616d0000b27396c473ade019bb0e778bea19,False,5,[]
+Shake,Cam'Ron / JR Writer,False,15ixzC7qm3buX0VsZ7Qh62,23,208933,2004,https://i.scdn.co/image/ab67616d0000b27341378d36f9f76bc8e6950f89,True,60,"['battle rap', 'east coast hip hop', 'harlem hip hop', 'southern hip hop']"
+Tides Of Time,Donna The Buffalo,False,6vpEeXCWLQsMXeU22Ml7AZ,12,282070,2001,https://i.scdn.co/image/ab67616d0000b273763c0b4dd602f7584314dcfe,False,34,"['jam band', 'ny roots', 'progressive bluegrass']"
+There Are Things I Think You Should Know,Statues,False,5D0RrEWZOlO8Yrt2zBHV2L,0,155626,2005,https://i.scdn.co/image/ab67616d0000b273afc564de0869b5e92e8fa716,False,7,[]
+The One I Got,Jonny Lang,False,6MZ4pg6sH8dKGZZlRDYG71,16,206426,2003,https://i.scdn.co/image/ab67616d0000b273c7cccfebe7029e8238844fd9,False,50,"['blues', 'blues rock', 'electric blues', 'modern blues', 'modern blues rock', 'southern rock']"
+Two Track Dub (Dub / Instrumental Reggae Music),Mikey Dread,False,6l5U0AMgwBRm2wEAQylkS5,2,373253,1981,https://i.scdn.co/image/ab67616d0000b273671c054c0d1650f196a21ffc,False,37,"['dub', 'old school dancehall', 'reggae', 'roots reggae']"
+Distancia,Alberto Cortez,False,169vJzUhGdIFJEVjVIed40,27,249386,1970,https://i.scdn.co/image/ab67616d0000b2732719fd2a9b6c3d6fa2b89248,False,51,"['bolero', 'cantautor', 'pop romantico', 'trova']"
+Triesteitaliana,Novembre,False,2UsDIyT0aLil7ElDA7ZUpe,10,295240,2007,https://i.scdn.co/image/ab67616d0000b273c6a11b72e59c9898459d3330,False,26,"['doom metal', 'gothic metal', 'italian doom metal', 'italian gothic metal', 'italian metal', 'progressive doom']"
+Thug Queen,X-Raided,False,169U5b62WafviLy7wJHxmT,0,242746,2009,https://i.scdn.co/image/ab67616d0000b273f098fce20ca63dca60027eb3,True,42,"['g funk', 'hyphy', 'sacramento hip hop']"
+Papel Quemado,Conjunto Mar Azul,False,5MFDbkD1MUJesIHCLCuMRa,4,250492,2024,https://i.scdn.co/image/ab67616d0000b2736409949f296c115639e1dcf2,False,46,"['chilena', 'musica costena']"
+Rock the Spot,Blackalicious,False,1qFL6PR7wTwMvWR8mnrbJ7,18,260333,1999,https://i.scdn.co/image/ab67616d0000b2734c8023f3fa779011c4af48d9,False,45,"['alternative hip hop', 'hip hop']"
+Big Train,Conway Twitty,False,6q8C07mFSI4olb67XuGUt1,3,188200,2023,https://i.scdn.co/image/ab67616d0000b27393450de383337e76c6f2f68c,False,62,"['arkansas country', 'classic country pop', 'country', 'country rock']"
+Pop A Cap In Yo' Ass,Ben Watt feat. Estelle,False,7lGKCHkcnNacjMsfOhw6zP,15,389200,2005,https://i.scdn.co/image/ab67616d0000b2737a5e5dcdacabc998532d496f,False,29,"['british singer-songwriter', 'british soul', 'solo wave']"
+Swing Swang,Naughty By Nature,False,2rfNw3Rp4VvI665U9WaXLu,18,246266,2002,https://i.scdn.co/image/ab67616d0000b273166875f6eee9cbc8743be5a9,True,62,"['east coast hip hop', 'hip hop', 'new jersey rap']"
+You Say Keep It Gangsta,Wyclef Jean featuring Butch Cassidy and Sharissa,False,0nbbPVtcGT8zdaA28w2Yzp,2,238466,2002,https://i.scdn.co/image/ab67616d0000b27390f57df4ef60504a576f94f4,False,74,['rap kreyol']
+Use Me,Far Too Jones,False,5AMgyAEShsUc83lG34Myu4,0,251706,1997,https://i.scdn.co/image/ab67616d0000b27300e400b825c221020244c477,False,9,['modern uplift']
+Gib deinem Herzen ein Zeichen (Radio Mix),Jenney,False,3etdBKHQLv1D124McAq3KD,0,207066,2001,https://i.scdn.co/image/ab67616d0000b27303f080965ebacfcf64c59c0f,False,0,[]
+The Prayer - Feat. T.O. & Timberly K. Simmons,Agency 1.9.9.4,False,6rzbkxq5M8iK3YJHlNdi9X,0,230320,2005,https://i.scdn.co/image/ab67616d0000b273c2c7a7bbd9654fbf2931c3a1,False,0,[]
+Chinoiserie,Lincoln Center Jazz Orchestra,False,5KO3Sovhg6FcSLLuiEsJSN,9,304840,1999,https://i.scdn.co/image/ab67616d0000b2732caeb5f60fe6ce8e24ba1f3c,False,24,"['big band', 'brass band']"
+In De Dance Again,Mighty Diamonds,False,7q089PqmGl04RXDOw1kNMB,0,208826,1993,https://i.scdn.co/image/ab67616d0000b2731e20818908d3c8896d6dfe25,False,40,"['dub', 'lovers rock', 'reggae', 'roots reggae']"
+I'm in Korea,J. B. Lenoir,False,6kS0vbBzyxv7z2na008gFN,1,182648,2023,https://i.scdn.co/image/ab67616d0000b27306f07c52f3d2b98826bf21e0,False,35,"['acoustic blues', 'blues', 'chicago blues', 'traditional blues']"
+Perfect Tree,Ray Boltz & Steve Millikan,False,3Exc3biuQjnLcw0XnE5gMl,6,245626,2006,https://i.scdn.co/image/ab67616d0000b273b25ff73a1235b56320062753,False,33,['christian music']
+El Corcovado (The Wood-Quail),Los Gaiteros de San Jacinto,False,6QVdMdluwBoLQWqZHAaEar,8,234533,2006,https://i.scdn.co/image/ab67616d0000b2732758d4df11b3a5155d8bb250,False,42,"['colombian rock', 'cumbia', 'folclor afrocolombiano', 'folclor colombiano', 'gaita colombiana']"
+Living Underground,Atomic Rooster,False,2IOjtEWt1rlgk4j6Nih9mB,0,218306,2015,https://i.scdn.co/image/ab67616d0000b273b80c711d7d439f88e8221b1c,False,31,"['british blues', 'progressive rock', 'proto-metal']"
+Aquel Mundo De Amor,Pablo Montero,False,3m7mDoqzOk8PQgmZbA1RJI,1,163293,1999,https://i.scdn.co/image/ab67616d0000b27351ece897ce4258c730c19e78,False,45,"['latin pop', 'mariachi', 'ranchera']"
+Don't Stop The Music,Rihanna,False,0ByMNEPAPpOR5H69DVrTNy,79,267080,2008,https://i.scdn.co/image/ab67616d0000b273f9f27162ab1ed45b8d7a7e98,False,92,"['barbadian pop', 'pop', 'urban contemporary']"
+Destination Eschaton (Hardfloor Vocal Mix),Shamen,False,05gbhby1HIFn4SyOT0kZyo,5,445400,2002,https://i.scdn.co/image/ab67616d0000b2736e77501f968f84b472b6c117,False,40,"['acid house', 'big beat', 'britpop', 'dance rock', 'hardcore techno', 'hip house']"
+Careful In Career,Simple Minds,False,4uEZlqmu44i68W0tuasSLi,14,308906,1981,https://i.scdn.co/image/ab67616d0000b273cd5d6a3c327256c5f07c1403,False,69,"['album rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock']"
+De pie,Fuzz,False,05l2pge5bA4WJnp4SKkACx,0,223386,2007,https://i.scdn.co/image/ab67616d0000b2736a892c3cd0c29f26e3bbcbcc,False,3,[]
+All That You Need,The Brooklyn Tabernacle Choir,False,174WXfBL2bGZjvAzcFhUfC,1,263783,1987,https://i.scdn.co/image/ab67616d0000b27366ecf5072a0c9d6a3639b1bd,False,47,['classic praise']

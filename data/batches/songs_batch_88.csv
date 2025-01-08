@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Where Do I Fit,Tonic,False,1gdNjjhpUlN2gaIacNQYKF,10,189706,2010,https://i.scdn.co/image/ab67616d0000b273e45d96ec6d83d57ad8144a35,False,55,"['pop rock', 'post-grunge']"
+Bad When U Broke,Dave Hollister,False,7yRrKjJxaLmcfCL8nEQz7t,6,209600,2003,https://i.scdn.co/image/ab67616d0000b2734aa92a49a78c0ebe6f56ab26,True,42,"['contemporary r&b', 'new jack swing', 'r&b']"
+Changed,The Grip Weeds,False,5fBrZHlqKgGLiD542Je2Ns,0,315266,2013,https://i.scdn.co/image/ab67616d0000b273433fcd6883317890c9ba6815,False,11,"['modern power pop', 'underground power pop']"
+The Son Of Hickory Holler's Tramp,Kenny Rogers,False,2ons8YrupZvbMgJoL3zy77,27,192200,1976,https://i.scdn.co/image/ab67616d0000b273c478c6674ce0b3219e8e3e7e,False,73,"['classic country pop', 'country', 'nashville sound', 'soft rock']"
+Mornin' Glory,Glen Campbell And Bobbie Gentry,False,4YEe4rbmxPCqUGFWGeZOYx,6,173800,2011,https://i.scdn.co/image/ab67616d0000b27366aff06c0306e4c356bc99c8,False,43,[]
+Juste Une Petite Fille,Maurane,False,2q39nL28hkaYW7cXkSzTil,2,261399,1996,https://i.scdn.co/image/ab67616d0000b27326423b9e4e44c1bd6028c570,False,40,"['chanson', 'french pop']"
+El Te Daba Mala Vida,Los Chichos,False,1LcoUN87XUy2LlEgaABk4D,5,221253,1983,https://i.scdn.co/image/ab67616d0000b27308eec16c09d1eb0de06fe522,False,58,"['pop flamenco', 'rumba']"
+My Bulldog Blues,Sonny Terry & Brownie McGhee,False,4Z1zPEqJLKhesiVVJSHMPY,0,166986,2003,https://i.scdn.co/image/ab67616d0000b27346464ae27343f912a5cf0a15,False,27,"['acoustic blues', 'blues', 'traditional blues']"
+Palabras De Amor(En Vivo),La Portuaria,False,2fHK5GLZrgMNAevPTLqPq1,7,169440,1997,https://i.scdn.co/image/ab67616d0000b273ae74225fe81d771adcc40aaa,False,47,"['argentine rock', 'ska argentino']"
+Don't Lose Control,Bill Laswell,False,4xYf6BnT1XdFW5qlAF3Mpg,0,258826,2001,https://i.scdn.co/image/ab67616d0000b273885696c244175735d85dd92c,False,32,"['dub metal', 'illbient', 'tzadik']"
+Little Woman,Jazz Gillum,False,5b2qfBi2VnBD9TRX0NmPsD,0,183040,1993,https://i.scdn.co/image/ab67616d0000b273585d3ddee0ddcf88d149920b,False,8,"['chicago blues', 'country blues', 'harmonica blues']"
+Nothing To Lose,Boondox,False,4CdvlUgeC9SsRc935oUC46,10,260173,2015,https://i.scdn.co/image/ab67616d0000b27312a66fe2d3fd598618528dd3,True,44,"['country rap', 'horrorcore']"
+Mi Son Maracaibo,Rene Touzet,False,2XX7wYdu64NuWx6p1frOeS,1,288333,1994,https://i.scdn.co/image/ab67616d0000b273a78653dd6b6905116b9d64ff,False,20,['cha-cha-cha']
+Angel,Aerosmith,False,3kfXUGIdBNpyr2gBvU3Guj,60,308906,1987,https://i.scdn.co/image/ab67616d0000b273a8a965df6a845b265ee19106,False,77,"['album rock', 'classic rock', 'hard rock', 'rock']"
+Voodoo Chile,Hiram Bullock,False,0oU052NVyQTkExGAmRAZXn,1,502893,2009,https://i.scdn.co/image/ab67616d0000b2739f68fa454680b00a5395e72b,False,19,"['jazz fusion', 'jazz guitar']"
+Long Distance Relationship,Paul Taylor / Terry Dexter,False,37vhCJsoYON8xkxfz3On7T,1,270200,2007,https://i.scdn.co/image/ab67616d0000b2731658f9cd9138c87b3278fe7a,False,42,"['smooth jazz', 'smooth saxophone']"
+Grad,Baroness,False,3W6NH5z8vsDSo4ZaJW7a2Q,19,354800,2007,https://i.scdn.co/image/ab67616d0000b2733aa5414e220c3c4174a91b5b,False,45,"['progressive sludge', 'sludge metal']"
+Rainbow Ride,Serpentine,False,4mlOgH0nstO6ZsnVvHQkBR,0,285840,2004,https://i.scdn.co/image/ab67616d0000b273cbe814bfdd6995954330adf7,False,3,[]
+Ready Now,Bukue One,False,6K76VjTIeUqP9FCwEEkyIY,0,243533,2007,https://i.scdn.co/image/ab67616d0000b2734cae1bdbdc7f4fe19746985a,True,10,[]
+Captain Fingers,Lee Ritenour,False,0oKqsHrlbwemH9U1a3dSsl,17,427853,1977,https://i.scdn.co/image/ab67616d0000b2736c7befe8028b23d89ba08a1e,False,50,"['jazz funk', 'jazz fusion', 'jazz guitar', 'smooth jazz', 'yacht rock']"
+State Of The Union,Rise Against,False,1c5fl1rKp7BS4iTCxnFs4v,35,139133,2004,https://i.scdn.co/image/ab67616d0000b2731107b18eac8c7824908069cd,False,73,"['alternative metal', 'chicago hardcore', 'chicago punk', 'hardcore punk', 'modern rock', 'pop punk', 'post-grunge', 'punk']"
+A Little Bit Of This And A Little Bit Of That,Lee Ritenour / Jeff Mironov,False,2EWWyowYQwhzqzpeMpEDUg,13,334693,2015,https://i.scdn.co/image/ab67616d0000b273c17df100443da3359feeb2e6,False,50,"['jazz funk', 'jazz fusion', 'jazz guitar', 'smooth jazz', 'yacht rock']"
+Signs Of Insanity,Headhunter,False,3jUTTYiInGyhpHQNfe403p,1,278026,2020,https://i.scdn.co/image/ab67616d0000b273d39292bfd4fc2bb430c63cc1,False,4,['power thrash']
+Your Head,Helmet,False,7cF2IWNliAdpy26eYNclbe,12,200733,1994,https://i.scdn.co/image/ab67616d0000b27378275f17414f151fb1b83393,False,52,"['alternative metal', 'alternative rock', 'groove metal', 'grunge', 'industrial metal', 'industrial rock', 'nu metal', 'post-hardcore']"
+Everytime,Britney Spears,False,0dRhSF9LV0HR8Jwd3MMMKJ,63,230306,2003,https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4,False,84,"['dance pop', 'pop']"
+Buy You A Drink,DJ Nasty,False,74xEEBVcfQoThm49nhv2xU,0,237000,2007,https://i.scdn.co/image/ab67616d0000b2737634b7066fd7c4a5a0fb817d,False,20,['ghettotech']
+For Tomorrow (live),Shaman,False,2nvA4zy1TCllMuNWwT5pmX,21,404733,2003,https://i.scdn.co/image/ab67616d0000b27381d91a98e88d6977966854d7,False,40,"['brazilian metal', 'brazilian power metal', 'brazilian progressive metal', 'power metal', 'progressive power metal']"
+Dimitroula,Amalia Avgoustaki,False,4gqz1nuxEtavfGRFWKEr7W,0,182186,2006,https://i.scdn.co/image/ab67616d0000b273152ea1329f55bce2b155184b,False,0,[]
+With A Little Help From My Friends,Santana,False,2uCxffk4cVr0AWOrM2POwA,20,192450,2024,https://i.scdn.co/image/ab67616d0000b2735de7c304d9ace4bbdc3ed91b,False,12,[]
+A La Naturaleza,Ray Sandoval,False,3KzD50H30HUe18YgxLWQbu,6,96000,2020,https://i.scdn.co/image/ab67616d0000b27316118d0bc3faa2764bfe4a1d,False,6,[]
+Burma Train Change,Martin Denny,False,2mmw5R56UJEmvQbsb5M4EN,0,176169,2009,https://i.scdn.co/image/ab67616d0000b2736261bbd21ee4633d9c763cce,False,39,"['easy listening', 'exotica', 'lounge']"
+Clap Ur Handz,K-OS,False,6hsF2BEbn0YL5wGH56bN8g,13,80480,2004,https://i.scdn.co/image/ab67616d0000b27369358222aeded74c050e38f4,False,44,"['alternative hip hop', 'canadian hip hop', 'canadian old school hip hop']"
+One Hour Empire,Broadcast,False,1PfjT8i7CZI4iFtYdNzd81,10,102960,2006,https://i.scdn.co/image/ab67616d0000b273b50c687dcb08a9d854880eb8,False,52,"['art pop', 'chamber pop', 'dream pop', 'experimental rock', 'hauntology', 'indietronica', 'nu gaze', 'slowcore']"
+My Never,Blue October,False,360PxuemkfO5AF4ervkiIi,9,225693,2009,https://i.scdn.co/image/ab67616d0000b2730bd15284a5bc1ba024079d7b,False,58,['san marcos tx indie']
+Ma soeur,France D'Amour,False,21BTYS73iqAb9HhBCEm9CC,0,228893,2007,https://i.scdn.co/image/ab67616d0000b2736986d2176b065c25a54f8c5f,False,33,"['auteur-compositeur-interprete quebecois', 'chanson quebecois', 'rock quebecois']"
+No More Lonely Nights,Fiona,False,41HW3Rbh3vSC0znsxIL4tO,23,226120,2005,https://i.scdn.co/image/ab67616d0000b2730ba7468d6dcfda9c3f839d64,False,25,[]
+Dogon,Carl Crack,False,0UDiog9aLrowR8kPm7hUa9,3,256693,1998,https://i.scdn.co/image/ab67616d0000b27333c474cef3b761fc8bf393ed,False,11,"['digital hardcore', 'sound collage']"
+Light,Teena Marie,False,2UzBsmpKW6lVZCZwBXrYcN,2,72266,1997,https://i.scdn.co/image/ab67616d0000b273add86f8233864dd9b621bb34,False,52,"['contemporary r&b', 'funk', 'neo soul', 'new jack swing', 'quiet storm', 'r&b', 'urban contemporary']"
+Fire,Jimi Hendrix,False,72wtjcPwWVpP4PVcNcl30v,34,165106,1967,https://i.scdn.co/image/ab67616d0000b2738d0212a10cc2d93289d29b32,False,70,"['acid rock', 'album rock', 'alternative rock', 'classic rock', 'hard rock', 'proto-metal', 'psychedelic rock', 'rock']"
+Guitar Rag,Sylvester Weaver,False,0RzMmZFJ16oZJEbOu6RZYP,20,179727,1923,https://i.scdn.co/image/ab67616d0000b27370350f526f10cc1b2fcef382,False,17,"['acoustic blues', 'traditional blues']"
+Welcome,Phil Collins,False,1Z0FVMu8zaXEVjNitnIk1Q,40,218093,2003,https://i.scdn.co/image/ab67616d0000b273eb02d5af28b4cbed922cb2ea,False,79,"['rock drums', 'soft rock']"
+He Says The Same Things To Me,Skeeter Davis,False,1qOqhSno0LFwPgXlcK3umM,15,165773,2008,https://i.scdn.co/image/ab67616d0000b273bb0aaf566ffcd74d9f0fecd0,False,53,['nashville sound']
+E se tu lontana sei,Crazy Horse,False,2c4l6YETbZfYFVvWqJlv2p,7,192933,2011,https://i.scdn.co/image/ab67616d0000b27393527fe6430ab57a52945f51,False,33,[]
+Emmaus,Brian Free & Assurance,False,5duFWWraBJs8gcMS7AkRjn,0,248253,2001,https://i.scdn.co/image/ab67616d0000b2731c664772494ced7e37ca1c92,False,31,['southern gospel']
+Sound Clash,Dream Warriors,False,4RJrrLHcv4p9GItnQegX7c,0,414666,1996,https://i.scdn.co/image/ab67616d0000b273ea692eb0c9ffb64fd9bcc1c0,False,27,"['canadian old school hip hop', 'jazz rap']"
+Foggy Mountain Top,Skeeter Davis,False,7JJGEl4MMT4iBwwdSVqYot,12,132760,2020,https://i.scdn.co/image/ab67616d0000b2735eaff9f5eebeab5ffc277be8,False,22,['vocal harmony group']
+Memphis,Bob Marley,False,4jU0PWjVoMFysAadU4CUKV,15,176506,2009,https://i.scdn.co/image/ab67616d0000b273e4d0a6b594faeea7859bf7ed,False,82,"['reggae', 'roots reggae']"
+Vienna,The Fray,False,3TBKrVTg9NFJKrFpjwUay4,43,231066,2005,https://i.scdn.co/image/ab67616d0000b27359b8b957f164ce660919f1f4,False,73,"['neo mellow', 'piano rock', 'pop', 'pop rock']"
+Hoy Es Hoy,Memphis La Blusera,False,7yDjAYR3giHJlPqhi36eRm,16,246426,1998,https://i.scdn.co/image/ab67616d0000b2732f15b437dcbc0063c4430ed5,False,49,"['argentine rock', 'blues latinoamericano']"
+Mambo Suavecito,Tito Puente,False,5hAk1smczJ04eXkwP7cD2d,12,176889,1955,https://i.scdn.co/image/ab67616d0000b27380138511b11af57b75704aaf,False,34,['latin jazz']

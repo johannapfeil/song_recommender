@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Mi Alma Esta Enamorada,Bobby Pulido,False,4wzym8wGWWsI2BHSItMmzH,22,229826,1996,https://i.scdn.co/image/ab67616d0000b27312bf519abbd31f2d5004c6e6,False,65,"['banda', 'grupera', 'musica mexicana', 'norteno', 'tejano']"
+Tabloid Junkie,Michael Jackson,False,7n6DnNdKKhjyDa1GlGgLeQ,46,272706,1995,https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7,False,85,"['r&b', 'soul']"
+Borrow Mine,Bebo Norman,False,1Ob5nJJqmkFh3J5wCBmkJq,8,280386,2004,https://i.scdn.co/image/ab67616d0000b2737df9c21e2619c150641327ea,False,38,"['ccm', 'christian alternative rock', 'christian music']"
+Running Sabotage,Johnny Pearson,False,7nU0UiRgrwgIBF33gFhvB4,0,111386,1974,https://i.scdn.co/image/ab67616d0000b273b0bb07d0490e83d1b30f8b9f,False,35,['library music']
+Fixin' To Die Blues,Bukka White,False,0u5DqebxtjYVxQo45xZQU8,29,168733,1970,https://i.scdn.co/image/ab67616d0000b273c64cc04c0e185dc5f88156a2,False,32,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'traditional blues']"
+It's Not Unusual,Willie Bobo,False,2dElNzSm6AR5so4wcmjavf,21,141893,1965,https://i.scdn.co/image/ab67616d0000b2730017515920bd365b8a63ef9a,False,43,"['afro-cuban percussion', 'boogaloo', 'latin jazz']"
+I Can't,Foxy Brown / Total,False,3dr8D2Vtv51OiawsRwYLNz,30,287666,1999,https://i.scdn.co/image/ab67616d0000b27345f65aff4b9ff46e52b830ec,True,55,"['contemporary r&b', 'east coast hip hop', 'hip pop', 'new jack swing', 'r&b']"
+Piranha,Bumblefoot,False,1ZLztY0CeoL0protQz8FZ5,5,200706,2008,https://i.scdn.co/image/ab67616d0000b273487e0063baed4aa1a38ff423,False,32,['shred']
+Strangerhood,Schizoid,False,66ksgpbmwSAwQToI4ba031,0,244666,2004,https://i.scdn.co/image/ab67616d0000b273ed0171fa63ae67005986bd9e,False,2,['digital hardcore']
+Oute Mia Fora,Irini Merkouri,False,7GpnJTj99GKsASzlgYIads,0,237813,1984,https://i.scdn.co/image/ab67616d0000b2735c7d40801c48ce5e7e681fd1,False,30,"['greek pop', 'laiko']"
+Sublime Control,:Blacks On :Blondes,False,30vOEg3dAEv9dtQbOXKn6n,0,383746,2009,https://i.scdn.co/image/ab67616d0000b273ecff4683b1ae2bdfcdbd458f,False,0,[]
+Meditations,Joanna Connor,False,7t8XnWvAjaPxUm4iue5J2G,1,245213,1996,https://i.scdn.co/image/ab67616d0000b273aca5ebd5fea5f08f1f33327e,False,25,['modern blues']
+Death Don't Have No Mercy,Hot Tuna,False,5WZQNLzOHKN9CwKBMnfj0m,18,374960,1970,https://i.scdn.co/image/ab67616d0000b2732cebefba7f79c31d6426ca0c,False,34,"['blues rock', 'country rock', 'electric blues', 'jam band', 'psychedelic rock', 'roots rock']"
+Pus-Filled Carcass,Hemdale,False,0WXvF1g6Cg4nkV3tvCxO5M,12,166693,2002,https://i.scdn.co/image/ab67616d0000b2736c65aec43d20eab09b86cbd1,False,13,"['deathgrind', 'goregrind', 'grindcore']"
+She Will Never Let Me Down,Toots & The Maytals,False,2FquMgnEZKNIfQzijvbohQ,3,125906,2005,https://i.scdn.co/image/ab67616d0000b273f8db1dfa2b8e0e30b9170caf,False,57,"['reggae', 'roots reggae', 'ska']"
+Life,Cece Winans,False,0ipFL3FVPMbWDF3dPbLjXe,19,249600,1998,https://i.scdn.co/image/ab67616d0000b27382be64fe699110480cfe6787,False,66,['gospel']
+Flash_ Crash and Thunder,The LeRoi Brothers,False,0Tw6mZnJk3wGBrcY1ZnlbB,0,126573,2002,https://i.scdn.co/image/ab67616d0000b2735092fdb74d734afeaed9b799,False,13,[]
+On The Boards,Taste,False,0SrSPUIcRyIRqODdFLXNUy,27,360400,1970,https://i.scdn.co/image/ab67616d0000b2733a3aea980c768276d923b09a,False,34,"['blues rock', 'electric blues', 'proto-metal', 'psychedelic rock']"
+Evenfall,Dark Fortress,False,6pbUvNaN9qcUJZt1OvFjNz,15,336320,2009,https://i.scdn.co/image/ab67616d0000b273eae2429af8b4c96ff9079a44,False,26,"['black metal', 'german black metal', 'melodic black metal']"
+Represent,Deathstar,False,5zVDOeMayhC0nWgOiwme78,5,122720,2008,https://i.scdn.co/image/ab67616d0000b2730713025e10f340198b938173,False,23,['christian hardcore']
+Fleeting sound,Time Factory,False,3VbzY5WMY6GT6L82MEmESZ,0,245253,2006,https://i.scdn.co/image/ab67616d0000b273f7585b156d0ac8d919bb5c26,False,0,[]
+Down On My Knees,Ayo,False,7qd4qyZQNCyzOY7kGIlMUv,48,240120,2006,https://i.scdn.co/image/ab67616d0000b273babb6e0586bb1071c365d59d,False,51,['neo soul']
+Hoy,Emilio,False,3kxxQALy07NsI6yv0xumoz,39,154105,2022,https://i.scdn.co/image/ab67616d0000b2731ae59c8235e5b38861e0430a,True,52,['urbano ecuatoriano']
+Confused,Deborah Coleman,False,1vZl8Z5XCrKdoQOXnC6qHo,3,209440,2000,https://i.scdn.co/image/ab67616d0000b273b7d2a6ab1e80d413511ae439,False,23,['modern blues']
+Supercuts,Rodney O & Joe Cooley,False,2x7sxkXUhTcNCwjMerDOmL,13,346266,2001,https://i.scdn.co/image/ab67616d0000b2738b746ab3d246fc537c00af49,True,29,"['bass music', 'electro', 'miami bass']"
+All at sea,Richard Walters,False,0L34y9x64v560bGxCXFCiW,12,197813,2009,https://i.scdn.co/image/ab67616d0000b2735e850ac4072f6c433a032939,False,42,"['indie anthem-folk', 'modern indie folk', 'oxford indie']"
+Port now!,Sirka Ragnar,False,0Ema2ypiJQ11DtAUQo0Dim,3,178126,2006,https://i.scdn.co/image/ab67616d0000b2733cef864e340049d00901ede5,False,0,[]
+Waheera,Arturo Sandoval,False,6TGBkqYwwCaqay7jTMxsRD,6,314440,1995,https://i.scdn.co/image/ab67616d0000b2737496e23ff9207c69f9ba2102,False,46,"['jazz cubano', 'jazz trumpet', 'latin jazz']"
+The All-Ireland,Christie Hennessy,False,36HogsVkjEv2ucSeJN3xVC,0,180309,1973,https://i.scdn.co/image/ab67616d0000b2732247e3e382d39d3222e2c790,False,33,"['irish country', 'irish folk']"
+You Are Always On My Mind,Barbara Jones,False,5nTlWb3IQSjEXZLxSo1L21,27,225413,2012,https://i.scdn.co/image/ab67616d0000b273df85ede01130aae7790fe2d4,False,29,['lovers rock']
+Dreidel_ Dreidel_ Dreidel_ Dreidel!,Schoolyard Heroes,False,1Ui3wbmwRb8p2kKCA6o2mk,4,103413,2008,https://i.scdn.co/image/ab67616d0000b273f1c4fdb71eb9ef33138edc7c,False,27,['horror punk']
+Annie's Angle,Mando Diao,False,4rSzCg2jBEPwZInNCtl9nj,18,182226,2004,https://i.scdn.co/image/ab67616d0000b273d77f5131e85a3164f9c3aeed,False,56,"['dalarna indie', 'swedish garage rock', 'swedish indie rock']"
+Caray! (con Loquillo_ directo Enjoy 07),Jaime Urrutia,False,7lIwfRGz4cvnWofQ4ROryx,7,214439,2007,https://i.scdn.co/image/ab67616d0000b273573294b7e497059130a8102a,False,38,"['spanish new wave', 'spanish pop']"
+Father John Macleod's Jig,Natalie MacMaster,False,5cihhEAfjCwhq3L5X7sf1X,2,175560,1999,https://i.scdn.co/image/ab67616d0000b2733fb99fe533826f284e2712c2,False,39,"['canadian celtic', 'cape breton folk', 'celtic', 'jig and reel']"
+Cutting Edge,The Cutting Edge,False,5GZ5D6R8X7TukL29xwL8Hx,1,238320,2009,https://i.scdn.co/image/ab67616d0000b273d47fdcca6a566889ce4b3c86,False,26,[]
+Zuo Li Bu An,Tanya Chua,False,2VRNp44lenqxQ8xxFX3M4z,13,254240,2005,https://i.scdn.co/image/ab67616d0000b2737f821c20c40b4205e9f366b3,False,60,"['mandopop', 'singaporean mandopop', 'singaporean pop', 'singaporean singer-songwriter', 'taiwan singer-songwriter']"
+Please Listen To My Demo,EPMD,False,30MsAzAN1Yl63jwsnlRaxn,23,181466,1989,https://i.scdn.co/image/ab67616d0000b27347bbaf7004bed897197e46c1,True,50,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop']"
+Lo and Beholden,Patti Smith,False,0pf6HTSjykx8KLf1HwQmda,18,283333,2000,https://i.scdn.co/image/ab67616d0000b27328e3104dc9ce3dd1c5ebddf0,False,59,"['art punk', 'permanent wave', 'protopunk', 'singer-songwriter']"
+Bolivian Surf,Bersuit Vergarabat,False,18YekvqHvNF8neRL8efN2O,13,180133,1996,https://i.scdn.co/image/ab67616d0000b2731e3eeab8718e79009f6f6c8a,False,66,"['argentine rock', 'latin alternative', 'latin rock', 'ska argentino']"
+I See You,Grayson Capps,False,2tguPtdOK64SLwwOgIvfSl,6,242120,2005,https://i.scdn.co/image/ab67616d0000b273d845a86f1beaaf3fc6b7effa,False,27,['new orleans americana']
+And This Too Shall Pass,Stefon Harris,False,44eRsQHafoszusBWy7K7X9,2,750480,2012,https://i.scdn.co/image/ab67616d0000b273555ec89e356d3eb22f80e82c,False,26,['jazz vibraphone']
+Trouble in Mind,Rick Ross,False,3UVZx4BHq5eAzTGCyxaIw3,0,199836,2000,https://i.scdn.co/image/ab67616d0000b2735758e226139e9987051774c5,False,18,[]
+Cuycha,Jorge Alfano,False,4ofawoSbCEUzkQFXldeKT0,0,166760,1996,https://i.scdn.co/image/ab67616d0000b273eee9b8d10794ce76233d73ce,False,39,[]
+Abstracto,Catupecu Machu,False,0pLZQvYqvd6HHvfNNBcHIQ,6,322826,2009,https://i.scdn.co/image/ab67616d0000b273fc55e182593c92d534c8f047,False,57,"['argentine punk', 'argentine rock']"
+Lo,Brice Kapel,False,6DtZZjJ3dmBFoelEUEwkIA,7,190493,2004,https://i.scdn.co/image/ab67616d0000b2738d809f60e0cc6f4b7e8a00a7,False,4,[]
+In His Name,White Heart,False,6QMHeD0wboDfRgKLOtE4iV,0,257425,2012,https://i.scdn.co/image/ab67616d0000b273731d9806912390c1962c8fb8,False,30,"['christian metal', 'deep christian rock']"
+Calla,Mazz,False,4QzWrf4vQebgIMafHcVd5p,24,218266,2008,https://i.scdn.co/image/ab67616d0000b2730f4233c9cfaf6be0cb4bd521,False,48,['tejano']
+Preparation,Vangelis,False,1VGapxISuUbsjfTKMg82QS,16,101866,2004,https://i.scdn.co/image/ab67616d0000b273243d59553048262fb463675d,False,62,"['cyberpunk', 'synthesizer']"
+Ugly MF,Asure,False,3inCCLhktQLN0LiWPf4oWk,0,215120,2002,https://i.scdn.co/image/ab67616d0000b273ee6cccea7e09e7f050bc4a6c,False,0,[]
+Quiere Novio,D.A.R.,False,12gPr0vhRuiN4eDHzg7Azp,2,87626,2018,https://i.scdn.co/image/ab67616d0000b27316077d0aa8429b1bf60fc0e7,False,74,"['gregorian chant', 'puirt-a-beul']"

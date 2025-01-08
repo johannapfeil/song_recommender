@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+No Se Lo Que Me Da,Los Iracundos,False,2qMlpYHmGEosoFev9DFvex,10,159093,2002,https://i.scdn.co/image/ab67616d0000b273c4e8a40c1736c5897d08204b,False,57,['pop romantico']
+Going Back To New Orleans,Poncho Sanchez,False,5ANkAvW6uL45U7UrVdyRcK,24,283640,2020,https://i.scdn.co/image/ab67616d0000b2732e14c36f447312b99214a6b9,False,42,"['afro-cuban percussion', 'latin jazz']"
+Superman,Donna Fargo,False,78gI8beWZAdnAht7mKW7t1,9,147173,1998,https://i.scdn.co/image/ab67616d0000b273dc9475a99cd37ef05dc8e5c9,False,36,['classic country pop']
+Desperados,The Game,False,7LCICI2FNFZmkp4WqaXGYb,1,264106,2005,https://i.scdn.co/image/ab67616d0000b273d7b41b82240877cf2b73ef4c,True,72,"['detroit hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']"
+Streamline,System of a Down,False,4YtuhhgpKwckVZNGzjpxBh,50,217600,2002,https://i.scdn.co/image/ab67616d0000b2737cf4c0d42c5b62c9deebdcd8,False,84,"['alternative metal', 'nu metal', 'rap metal', 'rock']"
+Fly Again (The Scumfrog Radio Edit),Kristine W.,False,02KNZYbOOpx8pkjJotAA3F,7,239813,2003,https://i.scdn.co/image/ab67616d0000b2732c2b74df2ac3090b14590c82,False,32,['diva house']
+One More Night,Phil Collins,False,6fkvIT9KFKxO8poBeKfaEf,69,288973,1985,https://i.scdn.co/image/ab67616d0000b273441084621edb7c53ef303090,False,79,"['rock drums', 'soft rock']"
+Fang Bu Sheng Fang,Eason Chan,False,3XAqZm6tiIUxHPdTcr9aQn,23,275626,2006,https://i.scdn.co/image/ab67616d0000b27328114fe23dca726ef86d6dc6,False,71,"['c-pop', 'cantopop', 'mandopop']"
+Dog Tagged,Kill The Client,False,56poKFI5j8kzPDO2M4BQHR,4,57167,2008,https://i.scdn.co/image/ab67616d0000b273f2c9d826cdbfc8b961ba0c61,False,13,"['deathgrind', 'grindcore']"
+5 Foot 1,Iggy Pop,False,6l9NC8pBx3wIj9TsibFdv1,8,215697,2021,https://i.scdn.co/image/ab67616d0000b273090d17567ffaf4184654ea3c,False,64,"['alternative rock', 'glam rock', 'permanent wave', 'protopunk', 'rock']"
+Games That Lovers Play,James Last,False,1DIhGrVGZamMWrsV0U3maT,36,151973,1967,https://i.scdn.co/image/ab67616d0000b27307721cfead0a6a83b4911084,False,55,['easy listening']
+Butterflies,Poptart Monkeys,False,1qV3oHa2TxVxoczXRgX6S6,0,212350,2005,https://i.scdn.co/image/ab67616d0000b273b61e842ff09cadd67f5bbdc3,False,1,[]
+Wagoner's Lad,John Sebastian,False,5KfG9VG2512kUEteydEKs8,12,225240,2005,https://i.scdn.co/image/ab67616d0000b2737518feb0514ab30521f6dc8b,False,32,['turkish instrumental']
+The Key,Melissa Auf der Maur,False,18KgQZmXEsilnDgOytqO7a,8,232666,2010,https://i.scdn.co/image/ab67616d0000b2731f3b50fa7c472ae556445e01,False,32,['rock quebecois']
+Guajira Y Ven,Willie Colon,False,1yiYG1zCGJv0k3XGLsOQBf,4,249280,1996,https://i.scdn.co/image/ab67616d0000b2736914e0fd7b4668894c8d0348,False,74,"['salsa', 'tropical']"
+Doctrines,Arthur Fiedler,False,1cn0hph4jHKdf6k08BU4FP,0,496651,2009,https://i.scdn.co/image/ab67616d0000b2730fce18eb8843d699af3d6b35,False,58,['easy listening']
+Never Tell,The Primitives,False,2uDORCyAqbMgTEDFGw1WTC,6,172933,1989,https://i.scdn.co/image/ab67616d0000b273956d7985542ac04ad7d3a344,False,41,"['britpop', 'c86', 'candy pop']"
+SPONT.AN,AUDIO.3,False,1JVoMHyO27yXOcBERbuYob,0,241386,2005,https://i.scdn.co/image/ab67616d0000b273ccb54df965515fc4e42912cd,False,0,[]
+Chasing Monsters,John Wesley,False,1ZptmHEIKsmkZCNvMhmUIj,0,271306,2002,https://i.scdn.co/image/ab67616d0000b27363e809ad6c93e332c1d9a7a6,False,14,[]
+Night Beat,The Chico Hamilton Quintet,False,0SaOErIE9fgQUclS1IfmAt,0,140200,2010,https://i.scdn.co/image/ab67616d0000b27366e3a8d18c4e2eab8004946f,False,23,['cool jazz']
+Passin' Me By,The Pharcyde,False,4G3dZN9o3o2X4VKwt4CLts,65,303493,1992,https://i.scdn.co/image/ab67616d0000b2739ec4abd35652fafe34ee7dfb,False,60,"['alternative hip hop', 'hardcore hip hop', 'hip hop', 'jazz rap', 'west coast rap']"
+English House,Fleet Foxes,False,1cOhnOg3gG5zPIVRoTNiDH,24,281200,2018,https://i.scdn.co/image/ab67616d0000b273a657d99c92371a1726f18b77,False,67,"['chamber pop', 'folk', 'indie folk', 'indie rock', 'indietronica', 'modern rock', 'seattle indie', 'singer-songwriter', 'stomp and holler']"
+Policias Y Ladrones,Pedro Garcia & His Del Prado Orchestra,False,4NA0E3tg69d5qb8sfSARng,0,198640,2015,https://i.scdn.co/image/ab67616d0000b2738720e76fc6df33ece4b627fd,False,0,[]
+Hot Rod Lincoln,Asleep At The Wheel,False,0Hy0uZOxSbOD5gJZRtbLT3,35,177360,1988,https://i.scdn.co/image/ab67616d0000b273493ed4cdbf5fb54893306b53,False,42,['classic texas country']
+But You Are,Lauren Wood,False,6OsxjzDrAGltzEOWEXtsWQ,1,207200,1999,https://i.scdn.co/image/ab67616d0000b27336f4fc3920513807633d144b,False,46,['yacht rock']
+Pretty Smiles & Shattered Teeth,Soilent Green,False,7JAH7BB6Ym7cXj10lcOOwZ,4,278960,2005,https://i.scdn.co/image/ab67616d0000b2738216be3459f343c29aba0d02,False,28,"['american grindcore', 'grindcore', 'louisiana metal', 'sludge metal', 'stoner metal']"
+Angeles,Elliot Smith,False,0Ziohm1Ku8E2yUDYoclfhO,56,177200,1997,https://i.scdn.co/image/ab67616d0000b273ea7ac80765aa4549d18a27b9,False,68,"['alternative rock', 'indie rock', 'melancholia', 'singer-songwriter']"
+Intro,A-Mei,False,5KJI0CokZTp1Di4X2jT8aP,32,49493,1985,https://i.scdn.co/image/ab67616d0000b27373270624da2084a8cb8a46b5,False,75,"['alternative metal', 'hard rock', 'metal', 'nwobhm', 'rock']"
+Piney Brown (K.C.),Joe Turner / Pee Wee Crayton / Sonny Stitt,False,0G8rk1PJfKK0szjy0QCnt9,3,459960,1975,https://i.scdn.co/image/ab67616d0000b273f2f106485e95b8f83bcb5f23,False,38,"['blues', 'jump blues', 'rhythm and blues', 'traditional blues']"
+Jah Keep Us There,Rising Lion,False,6ckMcz9IduRammB66vkt0G,0,261066,1998,https://i.scdn.co/image/ab67616d0000b2733abfc15dec46ceabc63f6fb2,False,1,[]
+Carry The Weight,Xzibit,False,6MQSM0cJMenB3LnHK5u6nu,22,253000,1996,https://i.scdn.co/image/ab67616d0000b273fab3bfcc801b1d28701da1df,True,68,"['detroit hip hop', 'g funk', 'gangster rap', 'hardcore hip hop', 'hip hop', 'west coast rap']"
+Cupareree or Graysinn,Les Witches,False,2mP3BrN7pp10vUV4FTPhvH,0,162466,1997,https://i.scdn.co/image/ab67616d0000b2735db06283780ce18f9c2c46b8,False,8,['english renaissance']
+Voucher,Janitor Joe,False,5xoSkpJEXVKPxtAjl6dcpg,3,122694,1993,https://i.scdn.co/image/ab67616d0000b2734f0dd26193dfb8b30daa4b45,False,8,['underground grunge']
+Chowbay,Roy Buchanan,False,4zuqXamZ4G4seQzyMFfNtQ,0,179933,2006,https://i.scdn.co/image/ab67616d0000b27308c16891a7c19c2f06641b2f,False,43,"['acoustic blues', 'blues', 'blues rock', 'electric blues', 'modern blues', 'traditional blues']"
+Eimsbush bis 0711,Dynamite Deluxe,False,1vCBRsgO6OeQjz5wZHAdDl,4,152920,2000,https://i.scdn.co/image/ab67616d0000b2735f141d2a27457ae8818fbe99,False,35,"['german alternative rap', 'hamburg hip hop', 'oldschool deutschrap']"
+Pretty Please Me,Dickies,False,42AYRstT0jRj7jHjNUewPd,10,216310,1983,https://i.scdn.co/image/ab67616d0000b2739403ae917a9d321cbf73c3e9,False,40,"['early us punk', 'hardcore punk', 'punk']"
+Perfect Peace,Twila Paris,False,4q3f9fojByQ5yJnaqAM1s3,28,203600,2001,https://i.scdn.co/image/ab67616d0000b2731955145ef06126ba0fb6afc8,False,39,"['christian alternative rock', 'christian music', 'classic praise']"
+The Blinding Sun,Gustavo Santaolalla,False,7uS4Ic6k3MlR08p35jprEz,7,117146,2006,https://i.scdn.co/image/ab67616d0000b2736917730fbd3499c086a00361,False,66,"['argentine ambient', 'latin classical', 'latin soundtrack', 'orchestral soundtrack', 'soundtrack']"
+Machuca,Cabas,False,3Ks3gfonaGIANYMIsfAXeJ,3,284266,2003,https://i.scdn.co/image/ab67616d0000b273166d755944a916fd018c5a71,False,54,"['colombian pop', 'latin pop', 'reggaeton colombiano']"
+Einmal reich,UKW,False,2AK0jzykEOWlRHv43Q6MPa,1,250573,1982,https://i.scdn.co/image/ab67616d0000b273363399df63d47cb85a35acab,False,17,['neue deutsche welle']
+Rang De Basanti,Daler Mehndi;Chitra,False,1SdFBc40uBU5Pqylo05VIC,48,363800,2005,https://i.scdn.co/image/ab67616d0000b273a58a09b161c806587fe97b6e,False,82,['filmi']
+Do You Ever Think Of Me,Russ Morgan,False,0F7vLmIDFZutchjkEmGZl4,3,140400,1987,https://i.scdn.co/image/ab67616d0000b273880cf204834278ce580c7c50,False,35,"['british dance band', ""man's orchestra""]"
+Half Ain't Been Told,Otis Spann,False,3d50BlTqb6yAxLQ3RnoE7m,4,284557,1972,https://i.scdn.co/image/ab67616d0000b27323395bc3b3b7a3cd50173a74,False,35,"['blues', 'boogie-woogie', 'chicago blues', 'jazz blues', 'piano blues', 'traditional blues']"
+Yo Mouth (Skit),Tha Liks,False,39thEa6HEXyCIkvPPsnBhg,3,33093,2001,https://i.scdn.co/image/ab67616d0000b27324930a812a67e94c049da458,True,24,[]
+Heaven Can Wait,Michael Jackson,False,1AZXNAVDD9ZFIEKySgflFz,68,288533,2001,https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd,False,85,"['r&b', 'soul']"
+Follow The Light (Radio Edit),Sub Focus,False,4PaSdnJpt8U8GYZyHjuVGl,6,217253,2009,https://i.scdn.co/image/ab67616d0000b273ba5b9ea1f45399c7f46bc059,False,68,"['dancefloor dnb', 'drum and bass', 'uk dance']"
+Carta De Amor,Egberto Gismonti,False,39i299LbMHVwOYS0qVLkJ8,19,445080,2012,https://i.scdn.co/image/ab67616d0000b2730f1b050e63f0d4ec2d4d5429,False,47,"['classical saxophone', 'ecm-style jazz', 'jazz fusion', 'jazz saxophone', 'norwegian jazz']"
+Sweet Suffering Christ,Margaret Becker,False,0zWXNQFSheWfhJ9p8aYM34,0,242400,1993,https://i.scdn.co/image/ab67616d0000b273fe7894c94f02c0ad59f66b7f,False,28,['deep christian rock']
+Noises,Taal,False,5Sz6igeKUrd8wy4MDJDMtX,0,18560,2010,https://i.scdn.co/image/ab67616d0000b273637d4116f18069c99203712b,False,1,['rock progressif francais']
+Wanderlust,Baroness,False,4hWiGcVpTP41LvxGXOTrty,26,269706,2007,https://i.scdn.co/image/ab67616d0000b2733aa5414e220c3c4174a91b5b,False,45,"['progressive sludge', 'sludge metal']"

@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+L'Ardechoise Aux Cheveux Blanc,Alain Turban,False,6L0oaEJo18tAVB3W9JzUqr,0,210600,2015,https://i.scdn.co/image/ab67616d0000b27347d6c490b13db04938fbc6c6,False,18,['classic french pop']
+Writes Of Winter,Jimmy Page,False,72NJIixYQDJix98dLT1M4P,17,206240,1988,https://i.scdn.co/image/ab67616d0000b273fea6ca88a679381c47875b6c,False,43,"['album rock', 'art rock', 'blues rock', 'british blues', 'classic rock', 'electric blues', 'hard rock', 'progressive rock']"
+Pedazo De Idiota,Mercedes Castro,False,2NmsiWF1X3gIBGU5TcvqJt,5,188859,2002,https://i.scdn.co/image/ab67616d0000b27308f9977446902a06bb0be1da,False,44,['ranchera']
+Pokrusa,Lili Ivanova,False,6r1sNoRfn7f5Z5Nm7VZI5z,2,261560,2003,https://i.scdn.co/image/ab67616d0000b2731346738bf3a28f5e9a23d059,False,27,"['bulgarian pop', 'classic bulgarian pop']"
+Freaxxx,brokeNCYDE,False,7rNwCrWh4mUl6XA2nxjV0T,37,221000,2008,https://i.scdn.co/image/ab67616d0000b273ed83a592d4d82dd977c87459,True,46,"['crunk', 'electropowerpop']"
+Two of a Kind_ Workin' on a Full House,Hushabye Baby,False,3GGaBaXoQMTc1XEiWPBfut,7,224040,2009,https://i.scdn.co/image/ab67616d0000b2735f111175d21fda3eb95ddf3e,False,32,['lullaby']
+Don't Mess With the IRS,Dr. Elmo,False,7G5AQ7ftdykVWxCcZOWHFj,1,159333,2000,https://i.scdn.co/image/ab67616d0000b273201a1f9ccce32436f219bd07,False,43,[]
+Roses,Silverchair,False,1gdt6xMCR2yUtZvNufQ973,31,209000,1997,https://i.scdn.co/image/ab67616d0000b273f6e1df99ae6316a4badcce58,False,60,"['alternative metal', 'alternative rock', 'australian alternative rock', 'australian psych', 'australian rock', 'grunge', 'nu metal', 'post-grunge']"
+My Love,Irish Tenors,False,0lOSx83nRfMoAY0DEyZaMU,6,270746,2005,https://i.scdn.co/image/ab67616d0000b2732ae21298f181762c7f443277,False,34,['irish ballad']
+Chanson D'Amour,Jean-Jacques Goldman;Edith Lefel;Malavoi,False,6HGcypca43w68bhvSNwiG1,7,238453,1997,https://i.scdn.co/image/ab67616d0000b273903485a0d386e375d23ff3ed,False,64,"['chanson', 'french pop']"
+Alla Mot Alla,Kent,False,7IioTKQdnuYom8nZCJ8ns2,19,240933,2005,https://i.scdn.co/image/ab67616d0000b273ecb754022a2eb4adc0f9d018,False,62,"['classic swedish pop', 'swedish alternative rock', 'swedish indie rock', 'swedish pop']"
+Raw Power,Iggy And The Stooges,False,3BnVqaDfgKyI4CFCfozors,35,256760,1973,https://i.scdn.co/image/ab67616d0000b2734429b4094784314865fd09fd,False,52,"['alternative rock', 'detroit rock', 'permanent wave', 'protopunk', 'punk']"
+Head Banger,EPMD,False,4XZCfy8sGPMWKGNeuEvxTK,24,291733,1992,https://i.scdn.co/image/ab67616d0000b273e1c67fb1008c15a4556b4ab8,True,50,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop']"
+I'm Chillin,Kurtis Blow,False,3Rdm3qBvmkiaBClX2dbBtB,7,329706,1986,https://i.scdn.co/image/ab67616d0000b2734d31415538bf3356f3821ec3,False,43,"['east coast hip hop', 'harlem hip hop', 'old school hip hop']"
+Come Dance With Me,The Token,False,5kRjK5XcNyCWUMG1UNLrBH,0,129764,2020,https://i.scdn.co/image/ab67616d0000b273a9aa5389d1daec7de7c8d689,False,50,"['doo-wop', 'sunshine pop']"
+Nuestras Sevillanas 1,Los Del Rio,False,0YqMimdJ2n8iXlify1XCpu,1,202320,2003,https://i.scdn.co/image/ab67616d0000b2733dd1d0b6568e7ab26d5b40a6,False,60,['tropical']
+Te Quiero Mas,The Party Group,False,4csNAfzk1vfN1ssA0vuRqT,2,255427,2007,https://i.scdn.co/image/ab67616d0000b27387c7273f1c8a8ce1be384915,False,5,[]
+The Lord's Prayer,Dario Marianelli,False,66O9e2SVq4pgT6xgVxNoVk,4,192906,2009,https://i.scdn.co/image/ab67616d0000b2737a99312cc5599debd12c4682,False,61,"['orchestral soundtrack', 'soundtrack']"
+La Blessure,Eric Demarsan,False,2Ys3azjfQ8q4JpO97lOLcw,19,110733,2005,https://i.scdn.co/image/ab67616d0000b273299548a36dc4debc660c8f99,False,23,['french soundtrack']
+It Ain't No Use,Jimmy McCracklin,False,3LdghvzdI64qPDmwC4IKWk,0,205653,1991,https://i.scdn.co/image/ab67616d0000b27382132f679e45199087f3309a,False,19,"['jump blues', 'piano blues', 'rhythm and blues', 'soul blues', 'southern soul']"
+Red Gun,The Forms,False,6jk0oOPHcQmouoSvOluzhv,1,145093,2007,https://i.scdn.co/image/ab67616d0000b273bdabee2333948cf405e93687,False,10,['stomp pop']
+I Want You,Sophie B. Hawkins,False,3s6YMjJcXv90Cwc7mo04Hb,6,317533,1992,https://i.scdn.co/image/ab67616d0000b2735168d1ddb31262b61c0e5941,False,47,"['lilith', 'new wave pop']"
+Malice,Behemoth,False,2nWmguka87Jrbc0jxznbG8,9,146413,2000,https://i.scdn.co/image/ab67616d0000b2730bea7729c70e6de89e63038c,True,52,"['black metal', 'death metal', 'groove metal', 'metal', 'pagan black metal', 'polish black metal', 'polish death metal', 'polish metal']"
+Tuck That Sh*t,Messy Marv,False,2WaM7JRL2VkqkXpQcBfOmp,1,165186,2009,https://i.scdn.co/image/ab67616d0000b2730f7d3808b61e8f4d5baf93aa,True,41,"['cali rap', 'hyphy', 'oakland hip hop', 'west coast rap']"
+Arco Arena,Cake,False,3OhRW7VpUG9uvHVpETKzGw,32,91342,2001,https://i.scdn.co/image/ab67616d0000b27331dc2b6da1570a9c8929e0f6,False,64,"['alternative rock', 'pop rock', 'post-grunge', 'sacramento indie']"
+Ride Out Dip,Crucial Conflict,False,2q93rWTBRHrcRvR0yRCa4Z,5,230573,2008,https://i.scdn.co/image/ab67616d0000b27371abe660d61f6d6da9943fef,True,35,"['chicago rap', 'gangster rap', 'memphis hip hop']"
+Baby Please Don't,Tampa Red,False,5MaiRmQyUac70Did52ymx9,0,181081,1993,https://i.scdn.co/image/ab67616d0000b27353a3c9277dcfae0fa13a5790,False,22,"['acoustic blues', 'chicago blues', 'country blues', 'traditional blues']"
+Stop The World,RIDDLIN' KIDS,False,1Yt6G8OAuFjVaw6ZsdnOUH,31,194293,2004,https://i.scdn.co/image/ab67616d0000b2736153276823c9fc8085d07e5f,False,26,['texas pop punk']
+Wo Ai Ni_ Zai Jian!,Sammi Cheng,False,1xjFVA1PzNSdSDZfkyY3bt,2,255773,2004,https://i.scdn.co/image/ab67616d0000b27363613f9dff31f95b3ee3e8cf,False,54,"['c-pop', 'cantopop']"
+Nostalgia for Infinity,Jonn Serrie,False,0j0FYcqTBX7LdSc3wAw90R,4,781600,2009,https://i.scdn.co/image/ab67616d0000b2732cf16176510c6f4f56d9a123,False,36,['space ambient']
+Things I Don't Understand,Coldplay,False,4Ou7ZLhdumcXYM2PcAJdjT,31,295626,2005,https://i.scdn.co/image/ab67616d0000b2737148f21c0bb6b90750407621,False,92,"['permanent wave', 'pop']"
+A Piece Of My Heart,Gang Of Four,False,1tlMFgAtWpLxRsVGpaAL6J,5,198200,1983,https://i.scdn.co/image/ab67616d0000b273577459ff55a9a86287017919,False,50,"['alternative rock', 'art punk', 'dance rock', 'funk rock', 'post-punk', 'punk', 'uk post-punk']"
+You Are Everything,Regina Belle,False,4MKuHMHMjoqXLSgqDmwtY6,11,225333,1995,https://i.scdn.co/image/ab67616d0000b2730ffb7cb81f6d208546709077,False,48,"['contemporary r&b', 'quiet storm', 'urban contemporary']"
+I Can't Rest,Fontella Bass,False,4XDJoZsJM4iM5ogkzEjh0V,3,175400,1992,https://i.scdn.co/image/ab67616d0000b2737ad6e448c06cc38a0b8640e1,False,50,"['chicago soul', 'classic soul', 'rhythm and blues', 'soul']"
+Pictures To Prove It,The Mighty Mighty Bosstones,False,5WuJevnJxYhhtn30jl6kvH,21,196133,1994,https://i.scdn.co/image/ab67616d0000b27304b78184fc3f766fabe8cab9,False,54,"['boston punk', 'boston rock', 'punk', 'ska', 'ska punk', 'skate punk']"
+Show Some Love Where Is The Love feat. MackaB,Carroll Thompson,False,3QHvyaF0rk6lihlmRiXITi,0,425195,1992,https://i.scdn.co/image/ab67616d0000b27300236b73e044d0300ca3ed66,False,26,"['lovers rock', 'uk reggae']"
+Like I Never Loved Before,Phil Vassar,False,1cl3rurzw8Rj8YN2Lu1xiT,18,265240,2000,https://i.scdn.co/image/ab67616d0000b27364610b1b0448406d083e117b,False,44,"['contemporary country', 'country', 'country road']"
+Brivdiena,Intars Busulis,False,4fm3BJF4lLwMWjZVHH4Jcw,24,206320,2008,https://i.scdn.co/image/ab67616d0000b273c793d4d75f2f73eefe933b54,False,35,['latvian pop']
+Fear Factor (Shiny Happy Jihad),Joe Rogan,False,1CtMXR0eZjDbK7PznFmr7J,23,183973,2007,https://i.scdn.co/image/ab67616d0000b2738f6b967b39348bfb115574cc,True,38,['deep comedy']
+Inti Guauqui,Jorge Alfano,False,3Q566VwXw9YGZOUQ047M1o,3,275840,1996,https://i.scdn.co/image/ab67616d0000b273eee9b8d10794ce76233d73ce,False,39,[]
+I Don't Love You Anymore,George Jones,False,0X1mQOLgkPZ9J5aHiGYwq6,2,151253,2022,https://i.scdn.co/image/ab67616d0000b27357de7132b022065ab92a8fb7,False,63,"['classic country pop', 'country', 'country rock', 'honky tonk']"
+Sudenkorento -Life On Mars-,Hector,False,0h2vfEfVbePPSNjJmiaObv,13,222226,1974,https://i.scdn.co/image/ab67616d0000b273186e8e63172465e90ee647ba,False,42,"['classic finnish rock', 'classic iskelma', 'suomi rock']"
+Carolan's Concerto,The Chieftains,False,0zP4ZYB44f3XnW9LAURM8b,19,185866,1993,https://i.scdn.co/image/ab67616d0000b273d5c5d30079436875ab493d91,False,53,"['celtic', 'irish folk']"
+Blues All Around My Bed,Precious Bryant,False,2HZbfDu1ORFnxyUHb0dKpC,1,154293,2002,https://i.scdn.co/image/ab67616d0000b2739e9af0d5bddb81ca2e4875f6,False,16,['piedmont blues']
+Paper Thin,Leona Naess,False,22p1adAFIOk0Rc4S4oLUoB,0,645400,2000,https://i.scdn.co/image/ab67616d0000b273244c0239676513903939fcac,False,34,"['ectofolk', 'lilith']"
+Another Day Another Night,Klubbingman feat. Beatrix Delgado,False,1O0YXTp5hCUTr4UU7hpxKD,37,207144,2009,https://i.scdn.co/image/ab67616d0000b273d20f41733611726e1fff7839,False,42,"['bubble trance', 'hands up']"
+The Preacher,The Bronx Horns,False,2895M8VHx7uz0fDhyNxtRA,0,266226,1998,https://i.scdn.co/image/ab67616d0000b273e9535fef13e6c1a90cff2a06,False,1,[]
+Cafe deClouet,Galactic,False,4S3sH05VUL7vSLraC1mfxn,0,21400,1998,https://i.scdn.co/image/ab67616d0000b2737fd2172fa16b1442c2e4aa3c,False,43,"['funk rock', 'jam band', 'new orleans funk']"
+Man Smart Woman Smarter,Robert Palmer,False,2TKNoRFYpwhMF5OHgKpxxe,22,156506,1976,https://i.scdn.co/image/ab67616d0000b27337b41e86d5af30a72eecf2c8,False,60,"['album rock', 'classic rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'singer-songwriter', 'soft rock', 'yacht rock']"
+Principe Nino,Gonzalo Rubalcaba,False,4QwSZsEM4WzLlEMcQwJuo9,1,378160,2005,https://i.scdn.co/image/ab67616d0000b27311b0a9088d00a13c9514a2d8,False,34,"['contemporary jazz', 'contemporary post-bop', 'jazz cubano', 'jazz piano', 'modern jazz piano']"

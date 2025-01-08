@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Like A Star,Joe McBride,False,5CkOG9oivRUR2GKkk2sr0G,1,309546,2009,https://i.scdn.co/image/ab67616d0000b2732edccd1c3f4a0dbd305dbeb1,False,41,['smooth jazz']
+Pa'lla pa'ca,Juan Carmona,False,2t2zSh28BCbfFp2iE2ox9s,0,234466,1996,https://i.scdn.co/image/ab67616d0000b27337d61689e81d994825e209ce,False,18,"['flamenco', 'flamenco guitar']"
+2 Glocks,Bone Thugs-N-Harmony,False,0cmWIdwWZCggEx5ybkypnG,24,266066,2000,https://i.scdn.co/image/ab67616d0000b273a8816025f91ebf4ce5d05b83,True,68,"['gangster rap', 'hip hop', 'ohio hip hop', 'rap']"
+Death Or Glory,The Clash,False,3lUVy400HL94NB03paDTyN,46,235000,1979,https://i.scdn.co/image/ab67616d0000b273cd9d8bc9ef04014b6e90e182,True,72,"['alternative rock', 'permanent wave', 'punk', 'rock']"
+Skit #2 (Kanye West/Late Registration),Kanye West,False,466XcSgGAiQxcDrcV0yoMP,48,31360,2005,https://i.scdn.co/image/ab67616d0000b273428d2255141c2119409a31b2,True,93,"['chicago rap', 'hip hop', 'rap']"
+Walking The Cow (Hi How Are You),Daniel Johnston,False,7GnsF8ycXY7Xh89DuQX7R6,42,214490,1983,https://i.scdn.co/image/ab67616d0000b2739c375e43c9f3a2dbb0a8010c,False,47,"['alternative rock', 'anti-folk', 'chamber pop', 'countrygaze', 'lo-fi', 'melancholia', 'noise pop', 'outsider']"
+Drum Machine Joy,MxPx,False,2Es5jyiB3GK0wQyd49wdkC,7,215200,1995,https://i.scdn.co/image/ab67616d0000b273e54d60a305151b2bfd63c3f7,False,50,"['christian punk', 'pop punk', 'punk', 'ska', 'ska punk', 'skate punk']"
+Encouraged,John P. Kee,False,2kzasCRKELhjxxFyDrHm2r,10,354960,1995,https://i.scdn.co/image/ab67616d0000b27336a4c6ab304bffb11f844c1d,False,38,['praise']
+Phantoms In The Mirror,W.A.S.P.,False,4B7S3ocF32OsFahJFI86FF,17,276720,1992,https://i.scdn.co/image/ab67616d0000b2733fbf116d769bd5fb13253256,False,55,"['glam metal', 'hard rock', 'metal', 'speed metal', 'thrash metal']"
+Etre Une Femme,Nolwenn Leroy,False,2YPWS5V2TdlNE8tn2FgAxW,16,201186,2003,https://i.scdn.co/image/ab67616d0000b2733f77053200b19014417fb43e,False,45,"['chanson', 'french pop']"
+I'm Just A Girl,Kofi,False,77CElbVQVRJ3PfHTuMahsO,9,177214,2015,https://i.scdn.co/image/ab67616d0000b2733a040033f00592ddd3ce131d,False,35,"['lovers rock', 'uk reggae']"
+Please No More,The Cate Brothers,False,1MNASIDbt53SiLM4h5dU2A,1,287106,1995,https://i.scdn.co/image/ab67616d0000b27376b0e068642666781b014b01,False,12,[]
+Armando,Renato Borghetti,False,2ZZtRXv8AhXI1cmL7LRx2Q,3,150746,2004,https://i.scdn.co/image/ab67616d0000b273fb49391cec4bbc116aff6783,False,37,"['rock gaucho', 'violao']"
+Peigin is Peadar,Joe Heaney,False,0btC7Q2idAGwLjUMWIj7Nw,2,404000,2016,https://i.scdn.co/image/ab67616d0000b273682865ed6cf84e9d0777bf3c,False,13,"['irish folk', 'sean-nos singing', 'traditional irish singing']"
+Nothing To You,Milk Inc.,False,6b46DpyHe1H19rI0xyRwD7,6,202320,2004,https://i.scdn.co/image/ab67616d0000b2737410c0c0e9cbbda776ef40d3,False,50,"['belgian dance', 'eurodance']"
+What a Friend We Have in Jesus,Bill Murk,False,4b8zEALSK842h6tXS33WgA,0,402959,2005,https://i.scdn.co/image/ab67616d0000b27312a8acc55938325f64d11332,False,0,[]
+Lero Do Bolero,Nana Caymmi,False,6siqXr8jYLCdpjPe56aV9I,3,188666,2001,https://i.scdn.co/image/ab67616d0000b27312313e877c33a5df1c847b02,False,48,"['bossa nova', 'mpb', 'samba', 'velha guarda']"
+World Wind,J-MACK,False,42RnDsrlPp9SD0gsnBb1XZ,3,526506,2017,https://i.scdn.co/image/ab67616d0000b273ee63b860000bf65a3ad8a3e2,False,27,"['21st century classical', 'american 21st century classical', 'concert band']"
+Love Goes Down (Part Deux),Annie Minogue Band,False,27hQEC03jJxH6yv7v0veEN,0,220319,2006,https://i.scdn.co/image/ab67616d0000b273bc2fb6475f12583f29606943,False,4,[]
+born again,Endres,False,5IAEBFh1XJPE8XXRBR0jAB,0,154693,2008,https://i.scdn.co/image/ab67616d0000b273c4c93741e2f9010de31274fe,True,0,[]
+Sally Can't Dance,Lou Reed,False,5eLwwPNN9g5yLrIdyj2ewP,28,248146,1974,https://i.scdn.co/image/ab67616d0000b27348d00c0ea1dfaf0530a4ec2a,False,65,"['classic rock', 'glam rock', 'permanent wave', 'rock', 'singer-songwriter']"
+Dying To Stay,Alias,False,3rNkrLtltysi6VwwyopOGD,3,310733,2002,https://i.scdn.co/image/ab67616d0000b27381e1a3cd4887f13ecf15bc6c,False,26,"['abstract hip hop', 'maine hip hop']"
+Take Five - Live,Hound Dog Taylor and The Houserockers,False,6GpbBrSEoVlg2tDyPmiXqr,1,147893,1990,https://i.scdn.co/image/ab67616d0000b273af665c93de6bfcfce81ec282,False,35,"['blues', 'chicago blues', 'traditional blues']"
+Gun Shot,Akon,False,7yf9xUp3lkMA5tB2qgFCRw,33,170253,2005,https://i.scdn.co/image/ab67616d0000b2736ec7ab30397ea37295340a41,True,84,['dance pop']
+Kindhearted Woman Blues,Robert Lockwood_ Jr.,False,2XTJ2EuVxwtjInqDdAPrKM,13,162400,1997,https://i.scdn.co/image/ab67616d0000b273dce0d44d6d606d1d4464907a,False,19,"['blues', 'chicago blues', 'country blues', 'delta blues', 'traditional blues']"
+Watchie Watchie,George Nooks,False,625lkBFHzhe1zYEqJp6MLA,0,211666,1999,https://i.scdn.co/image/ab67616d0000b2735807691842e3221273eba673,False,35,"['deep ragga', 'gospel reggae', 'lovers rock', 'old school dancehall', 'roots reggae']"
+Sam und Bo_ N.E.O.,Samy Deluxe,False,3mwawo7oGvTJDToufD3tp9,5,246960,2005,https://i.scdn.co/image/ab67616d0000b273abede22c2ea42fa71604e955,False,53,"['german alternative rap', 'german pop', 'hamburg hip hop', 'oldschool deutschrap']"
+Cero Codazos,Johnny Pacheco,False,4mrhsTqbEulK2sxPPInWB5,0,149013,2021,https://i.scdn.co/image/ab67616d0000b273b51ae01bbb7b23e00bff3bd2,False,54,"['charanga', 'salsa']"
+Rockout_ Whatever You Feel Like,Cactus,False,2F2bTEfEFPaq1GoY2pQIyx,29,240346,1971,https://i.scdn.co/image/ab67616d0000b27378bf6842ea98cc2368a5b9f4,False,35,"['blues rock', 'proto-metal', 'psychedelic rock']"
+Apisti,Christos Dantis,False,4X9FKuC1FtMKRrofmOdTMY,0,168506,1993,https://i.scdn.co/image/ab67616d0000b273d09860da2db1d57e59cb2dcf,False,38,"['classic greek pop', 'greek pop', 'laiko']"
+CB4,Slum Village,False,1F3hMIVQzArcGHXl2Zrs6w,18,206679,2010,https://i.scdn.co/image/ab67616d0000b2731e2c21c76335a726538496cd,False,55,"['alternative hip hop', 'detroit hip hop', 'hardcore hip hop', 'hip hop']"
+Just Look At the Blessing,True Believers,False,3OQ3oRjzRLoiHQCYCftL9w,1,258040,2007,https://i.scdn.co/image/ab67616d0000b273a9248d01935ca29380e52ded,False,3,[]
+Got To Give It Up,James Taylor Quartet,False,5L3y21TIapuwk1HdLpgNwx,4,200373,2007,https://i.scdn.co/image/ab67616d0000b273016778168bbfc47ef8bafedd,False,34,"['acid jazz', 'brit funk', 'medway sound']"
+Crazy Rhythm,Hank Penny,False,1LS1frh03HIUOs706YRrs1,0,120840,2000,https://i.scdn.co/image/ab67616d0000b2731af4deb8420fbf40e34a37a4,False,0,[]
+If That's True,Esperanza Spalding / Leo Genovese,False,0ywS1DFQVaHV92Vh8vgddO,22,451320,2008,https://i.scdn.co/image/ab67616d0000b2733d0bdc59a47cf5b39a5d68a9,False,53,"['electric bass', 'jazz', 'jazz pop', 'vocal jazz']"
+Concerto No.3 In D: Allegro,Francis Lai,False,5crzvov4KwD5yGNQYvXvLP,15,155200,1970,https://i.scdn.co/image/ab67616d0000b2734fec52397032ca8865243cbd,False,60,"['classic soundtrack', 'french soundtrack', 'vintage french electronic']"
+The Rover (Takao Tajima Remix),Original Love,False,77CaYZQpOU04jgVCPem1oT,0,345733,1995,https://i.scdn.co/image/ab67616d0000b273f463c4ffde70649deff3ece4,False,46,"['j-rock', 'shibuya-kei']"
+Beachport,Click / Click_ M_Ferri,False,5jiYQoYq9fIaQAbaKUNBEE,0,429285,2009,https://i.scdn.co/image/ab67616d0000b273c760035eb9556e65ee124419,False,15,[]
+Min Aporis,Antonis Remos,False,19cOpKxHPWUWyZWSBi3y1t,26,254266,1996,https://i.scdn.co/image/ab67616d0000b273fefbc8762c5145e6b7ad6929,False,56,"['greek pop', 'laiko']"
+Teeny Weeny String Bikini,Gunther & the Sunshine Girls,False,4JD2afepZZrGai5YQBVtnK,41,241946,2005,https://i.scdn.co/image/ab67616d0000b273c0403d8475c3aaeac8384e73,False,45,['bubblegum dance']
+Sarambeque,Charlie Byrd / Carlos Barbosa-Lima / Carlos Barbosa-Lima,False,0wx5eLOfjKfkC2gIlMboKc,1,152360,1992,https://i.scdn.co/image/ab67616d0000b273861b87f429edafa3b3ef5485,False,48,"['bossa nova', 'jazz guitar']"
+Resurrection,Eddie Turner,False,3HwuYVRof7ECqbIrgo2c1h,0,146093,2006,https://i.scdn.co/image/ab67616d0000b2738212b4c8deff401347d8b66f,False,4,['power blues-rock']
+Lock The Door / Get Up Old Woman And Shake Yourself / What Ail's You? - (single jig),Seamus Egan,False,7J52nNgZMLN5LOsh3MBbHn,0,276160,1985,https://i.scdn.co/image/ab67616d0000b2731d0300eb3307eb7bc88a0985,False,27,"['celtic', 'irish banjo', 'irish folk', 'uilleann pipes']"
+Mozart In Samba Motion,Laurindo Almeida,False,1kdIy8ekmntE4XKlOO1mOL,0,234160,2001,https://i.scdn.co/image/ab67616d0000b2734ef22ce3d9f7cb536c45e5ef,False,52,"['bossa nova', 'brazilian jazz', 'jazz guitar', 'violao', 'violao classico']"
+Poema,Andr\xc3\xa9 Verchuren,False,5P7k6Q8EG9jbFKPSAu0ZrY,4,151893,2011,https://i.scdn.co/image/ab67616d0000b273110b0b9e0de662df61663a0d,False,33,"['cante flamenco', 'flamenco']"
+Las Muchachas,Sonora Carruseles,False,3NQoPJxEVVpHHNO01IZhBD,3,297786,2015,https://i.scdn.co/image/ab67616d0000b273f4a8152cd9f83c304d10a9c5,False,47,"['mambo', 'salsa', 'salsa colombiana']"
+Dig Up,Cindy Morgan,False,39BMxlNsCkpHuj6cGCsdTx,0,217826,2006,https://i.scdn.co/image/ab67616d0000b27333ba4d22c9bbd850888f28d5,False,23,['deep christian rock']
+Passion,Paris Musette,False,13ZVM6DRzWisfol85D9oOi,3,133306,1990,https://i.scdn.co/image/ab67616d0000b273ece6ab989a019e8d05cdd2fe,False,37,[]
+This One's For You,Barry Manilow,False,567mtwGAxyinU8hpLOelSF,41,209133,1976,https://i.scdn.co/image/ab67616d0000b273210222230c3321cec46be2b9,False,65,"['adult standards', 'mellow gold', 'soft rock', 'yacht rock']"
+The Beginning of the Partnership,Nick Ingman;Gavyn Wright,False,5E5PN2dB0onkzsDmy2yaP7,27,120960,1998,https://i.scdn.co/image/ab67616d0000b273ce7fb992b78d0afc5380498f,False,43,"['british soundtrack', 'soundtrack']"

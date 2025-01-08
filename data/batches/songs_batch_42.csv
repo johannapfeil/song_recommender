@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Wings,4Him,False,6gz3yHIEg49UkghigittMY,10,239026,1994,https://i.scdn.co/image/ab67616d0000b2738be2d305e46aa7766546a60c,False,36,"['ccm', 'christian alternative rock', 'christian music']"
+When He Was On The Cross (I Was On His Mind),The Paynes,False,5hqY4E7Agkxhoztp8U9JiY,4,226786,2009,https://i.scdn.co/image/ab67616d0000b273b1e204ec31424c0e9aa68e77,False,16,['family gospel']
+How It Feels,Juggler,False,3cCd7lZroeqG3W9det1PyW,0,266834,2024,https://i.scdn.co/image/ab67616d0000b273db53a53f9b1a3fc0ce76708d,False,0,[]
+In The Midnight Hour,The Dee Jays,False,1dHMEzWhiXMbsWFMYC0oew,1,195133,2003,https://i.scdn.co/image/ab67616d0000b2738968c67bc72b3bd5b94227f7,False,8,['swedish rock-and-roll']
+Intro,Diamond D,False,79nuIMSS0eg1SQpXQv4Qn0,37,392466,1973,https://i.scdn.co/image/ab67616d0000b273620fd11ffa8be9abdf02c524,False,70,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']"
+Marashi Ya Pemba,Ndala Kasheba,False,0yb3T7ZM1ryu86a7Gj094H,16,416066,2000,https://i.scdn.co/image/ab67616d0000b2733775b479fadd8ac92d88ebe1,False,10,"['benga', 'zilizopendwa']"
+I Gotta Keep Dancing,Corona,False,5EvxVq0F54NAG4IiQHF8G8,21,221440,1994,https://i.scdn.co/image/ab67616d0000b273f94b2a29ccc364e8faedce10,False,64,"['diva house', 'eurodance', 'europop', 'hip house']"
+Get It Started,2Fresh,False,4g6cXxnx1UNj5JMNMkmCkK,0,461250,2010,https://i.scdn.co/image/ab67616d0000b273412ddb0244841d3460f3e761,False,2,[]
+Boring,Lifer,False,2RtxZkv08T0koWaL82ZsUq,25,226800,2001,https://i.scdn.co/image/ab67616d0000b2732577f15af6777fff11a2a083,False,26,"['alternative metalcore', 'rap metalcore', 'rap rock']"
+Independentia,US Coast Guard Band,False,5xjpw77N4lbs1zryDRXPVV,2,208333,2011,https://i.scdn.co/image/ab67616d0000b273b06a06b557da085d049b33d1,False,0,[]
+Bury You,Lollipop Lust Kill,False,1OCAWUYhOYD0QavXNOnLWl,8,265960,2002,https://i.scdn.co/image/ab67616d0000b273d98c2381488caa84d365b798,True,16,[]
+Ghosts,Chariots,False,56zHidJUNPbECaafNzuREL,0,162693,2007,https://i.scdn.co/image/ab67616d0000b2739ba5d87e3e032defdf28ba49,False,0,[]
+Close To You,Rick Astley,False,3Hm5PTdm1KHXVXSaP3OFGu,19,184560,2005,https://i.scdn.co/image/ab67616d0000b27387391830610d998ce5e6758f,False,68,"['new romantic', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']"
+Highland,Bill Douglas,False,6iccsasQbiMP9FGvZBxjqY,15,203173,1988,https://i.scdn.co/image/ab67616d0000b273a7359a84906fb0b5c25ff6cd,False,42,['new age']
+It Is Us,Mudhoney,False,1mk3bTjaCughYG2WUYZyFb,3,208666,2006,https://i.scdn.co/image/ab67616d0000b2736dfa761f363a46fcff9e4642,False,44,"['alternative rock', 'grunge', 'punk']"
+Hold On,Hot Chip,False,3jpp3qA88QoUGCt84175Gl,20,384481,2008,https://i.scdn.co/image/ab67616d0000b273e2b82066b6e43424650667bd,False,54,"['alternative dance', 'dance rock', 'electronica', 'indie rock', 'indietronica', 'neo-synthpop', 'new rave']"
+Colombine,Georges Brassens,False,7lhe1MPPlq4xPeOC24t7Tr,18,114914,2024,https://i.scdn.co/image/ab67616d0000b273470fe4c6b09f00a1895db256,False,55,"['chanson', 'french rock']"
+Matador,Los Fabulosos Cadillacs,False,4bMZ60QNM6OEehI6b8RtS4,64,275893,2021,https://i.scdn.co/image/ab67616d0000b273721cad4da1b767b70e8aa699,False,70,"['argentine rock', 'latin alternative', 'latin pop', 'latin rock', 'rock en espanol', 'ska', 'ska argentino']"
+You're Killing My Love,Michael Bloomfield,False,19FB10fXuSs7H2O842AnKE,2,310600,1984,https://i.scdn.co/image/ab67616d0000b273fc718cd06ffd8431925f14f2,False,38,"['blues', 'blues rock', 'chicago blues', 'electric blues', 'traditional blues']"
+Smoke! Smoke! Smoke! (That Cigarette),Tex Williams,False,05HBDnASISMJN46VxzDafK,42,163333,1960,https://i.scdn.co/image/ab67616d0000b27332d29391915dc8f80945a4d5,False,36,"['cowboy western', 'western swing']"
+Would You Like To Take A Walk?,Marion Harris,False,4nIB7U6HOLAEpzxNvJY2GQ,0,163082,2014,https://i.scdn.co/image/ab67616d0000b27387b251f833bb8f1db5b4bd6e,False,21,"['torch song', 'vaudeville', 'vintage jazz']"
+Six,Faithless,False,299WitWyf8Gv8yb4cNa70p,8,142213,2004,https://i.scdn.co/image/ab67616d0000b273ccbe7c61affe0af40dd9e363,False,62,"['big beat', 'downtempo', 'electronica', 'trip hop']"
+A Little Tear,Willie Bobo,False,7B1X5IJcbWJaxW22HfpM08,1,294360,1977,https://i.scdn.co/image/ab67616d0000b2734c00f55dec18debc35cea43a,False,43,"['afro-cuban percussion', 'boogaloo', 'latin jazz']"
+Razor,Foo Fighters,False,3G6xjB96azqSKV3uU44Bmt,36,293173,2005,https://i.scdn.co/image/ab67616d0000b2736c44679425e2695001b35d72,False,78,"['alternative metal', 'alternative rock', 'modern rock', 'permanent wave', 'post-grunge', 'rock']"
+Le Bal Du P'tit Jardin,Gus Viseur,False,0pRi7bGGYJQeVvRX9UA2Ru,20,128946,2002,https://i.scdn.co/image/ab67616d0000b27347ed45c6f725acc016aa8dd2,False,32,"['bal-musette', 'jazz accordion']"
+I Can't Quit You Baby (Live) [Never Released],The Fabulous Thunderbirds,False,2ox52zcIU8BrSYJfzN2T7K,1,343573,2003,https://i.scdn.co/image/ab67616d0000b273c8bc0789d7ccc213f275480b,False,44,"['blues', 'blues rock', 'country rock', 'electric blues', 'modern blues', 'southern rock', 'texas blues']"
+Sous Les Ponts De Paris (Valse),Jo Privat,False,0Qb13GnDAs1MIK99iehp5u,5,145626,2018,https://i.scdn.co/image/ab67616d0000b2734272c158e64c2104fc7ba989,False,22,"['bal-musette', 'jazz accordion']"
+Dance Hall Days,Wang Chung,False,2JvPJ8ydPuN2NhpH4oti6I,65,240800,1984,https://i.scdn.co/image/ab67616d0000b273f7ae51b20b3ffa211c406d71,False,56,"['new romantic', 'new wave pop', 'synthpop']"
+Paperman_ Fly In The Sky - Original,Chris Farlowe,False,7Ip2QF18qjt8RAz0SzmB09,0,165500,2006,https://i.scdn.co/image/ab67616d0000b2738967a03d5fb62c446db20d70,False,29,"['british blues', 'british invasion']"
+Lift (Joi Blarneyformasian),Azukx,False,5Jt1dVS92CIpKNYrQK0JXN,0,295933,1995,https://i.scdn.co/image/ab67616d0000b273849fbf273a12811825f03c61,False,1,[]
+This Lullaby,Queens Of The Stone Age,False,2txYQHjhRTZx6ur9f15LEa,37,82800,2005,https://i.scdn.co/image/ab67616d0000b27390cd89ddbbd2034ee1f20b5c,False,71,"['alternative metal', 'alternative rock', 'grunge', 'modern rock', 'palm desert scene', 'rock', 'stoner metal', 'stoner rock']"
+Tired,Moonspell,False,1hSFcq4PjXLo5NoygAnR02,8,324186,1999,https://i.scdn.co/image/ab67616d0000b2731d812c2fdec3c0259ca659b6,False,44,"['gothic black metal', 'gothic metal', 'melodic death metal', 'metal', 'portuguese black metal', 'portuguese metal', 'portuguese rock', 'power metal']"
+Indianola,Steve Azar,False,3bTzxLGjf8yS3xjGb7Lftu,0,263695,2020,https://i.scdn.co/image/ab67616d0000b273053b7900e60e084e64b76e71,False,31,['country road']
+King Of Rock,RUN-DMC,False,7112WRQXlBGe4Os43yw8gV,43,314146,1985,https://i.scdn.co/image/ab67616d0000b273c2a168906a5672f98a7b3b0f,False,68,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'old school hip hop', 'queens hip hop', 'rap']"
+Since I Met You Baby,Kenny Neal,False,7nemZRqNfhkp08bOco3yx6,14,295160,2008,https://i.scdn.co/image/ab67616d0000b2738d6cbe06d97c87ed364cd45c,False,30,"['electric blues', 'louisiana blues', 'modern blues', 'swamp blues']"
+Where Is My Mind (XFM Live Version),Placebo,False,6Yg3J1OkP45uNcboiUg2Rw,50,224560,2003,https://i.scdn.co/image/ab67616d0000b27362c995dbce6d7ffa4c097475,False,66,"['alternative rock', 'britpop', 'permanent wave', 'rock']"
+Resurrection Man,Heaven 17,False,5YZ5Zo2oww24sIMGDdtPPR,0,242293,1996,https://i.scdn.co/image/ab67616d0000b273713dd1be5d0b4438fc3debc7,False,43,"['new romantic', 'new wave pop', 'sophisti-pop', 'synthpop']"
+El Termometro,Orquesta Broadway,False,1kEdqrjgZYDheUAtn8j3Kl,0,146333,2008,https://i.scdn.co/image/ab67616d0000b273d1d0926381e88dd8d33cb19c,False,33,"['charanga', 'latin jazz', 'salsa', 'salsa international']"
+Grottans Barn,Finntroll,False,3O2PJurdgtRWGBkS67PENg,18,276466,2004,https://i.scdn.co/image/ab67616d0000b2730afa4a211ff353dc0ec825f9,False,41,"['finnish metal', 'folk metal', 'melodic death metal', 'nordic folk metal', 'power metal', 'symphonic metal', 'viking metal']"
+Your Silence,The Suicide Machines,False,7JuTeoyxiS3IGofWJARzy0,19,170906,2003,https://i.scdn.co/image/ab67616d0000b2737c19cad8f98aba02b630946d,False,45,"['punk', 'ska', 'ska punk', 'skate punk']"
+Autumn In New York,Chico Hamilton,False,04QtdpdB4peXmAYo77dqW2,0,200440,2008,https://i.scdn.co/image/ab67616d0000b27365cf4a661c7f9f5c9846a1bb,False,35,"['jazz drums', 'jazz funk', 'soul jazz']"
+Verdad Amarga,Los Solitarios,False,0Ql57v3EqSBo7qkhjHyBiA,19,168120,2007,https://i.scdn.co/image/ab67616d0000b273c7e9bbd7b4407159b0c4b938,False,58,"['grupera', 'mexican rock-and-roll', 'ranchera']"
+Blott En Dag,Mons Leidvin Takle,False,52LBIdPzc5xt0EPoULEg3f,1,182125,2001,https://i.scdn.co/image/ab67616d0000b273c11679e9b56633387add2b81,False,18,['norwegian gospel']
+Spaz's House Destruction Party,Anti-Flag,False,0089KIV49GhgnHGsyyf9Zq,10,190293,2002,https://i.scdn.co/image/ab67616d0000b273840d1bea5c1c255e8bf19c91,False,51,"['punk', 'skate punk']"
+This Heart Of Mine,Josh White,False,7AH3AftuZ62Gq9jpnwbr2z,0,178756,1993,https://i.scdn.co/image/ab67616d0000b273dcb069b78ee8fb59e4252dda,False,8,[]
+Mai [Live],Josh Groban,False,2Qr2BgvKxuBYQGOZjO8avz,5,266010,2008,https://i.scdn.co/image/ab67616d0000b273d011c301a41feca22da4f388,False,69,['operatic pop']
+Catharsis Of A Heretic,The Ocean,False,3jCuZWBLwqPrBXiWO7xzoS,13,128893,2010,https://i.scdn.co/image/ab67616d0000b27372355a1b8bd9de8ceafbe55e,False,43,"['atmospheric post-metal', 'atmospheric sludge', 'djent', 'post-metal', 'progressive metal', 'progressive sludge', 'sludge metal']"
+Say What!?!,Chris Standring,False,2vdewWcDERjDvtEGZ5gQNy,3,269400,2003,https://i.scdn.co/image/ab67616d0000b27316f5e99fd503d15ebdcb61ef,False,48,['smooth jazz']
+Your Love,Glen Washington,False,4Lc9XevrglSOPa8VnnUnO2,18,197626,2005,https://i.scdn.co/image/ab67616d0000b273e141216057266c0dadad0ada,False,39,"['lovers rock', 'old school dancehall', 'reggae', 'roots reggae']"
+Come Dance With Me,Mulberry Lane,False,734FjOGFNyKyWT04AmbFdX,0,169586,2007,https://i.scdn.co/image/ab67616d0000b273ac5d104ba0b825148a055287,False,13,[]

@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Trading Places,Usher,False,5yC7WplXvhIHsp8NBYV5dT,53,268240,2008,https://i.scdn.co/image/ab67616d0000b2732bca149ba7dd5e45bf233ac3,False,83,"['atl hip hop', 'contemporary r&b', 'dance pop', 'pop', 'r&b', 'rap', 'south carolina hip hop', 'urban contemporary']"
+Bon Demain,This Moment,False,4tpT2hlLD2V7yf1PpUZNFM,0,213200,2005,https://i.scdn.co/image/ab67616d0000b27391944a4c91077151228d4a14,False,0,[]
+Inherent Scars,Symphony in Peril,False,7HaYNqQdeRsUULuTNabSWP,2,245240,2005,https://i.scdn.co/image/ab67616d0000b273b160efe5bc63b5b6e530e03a,False,11,['christian hardcore']
+The Southern Soldier Boy,Kathy Mattea,False,7pT8sWo7HaYlMPDBYt0dLo,14,154133,1991,https://i.scdn.co/image/ab67616d0000b273695bb69147252bc0fcdbbc8e,False,46,"['classic country pop', 'country', 'country rock', 'deep contemporary country']"
+I Am a Rasta Man,Wailing Souls,False,47tj8LVxGzw3GtRVWfbl6L,15,215406,2010,https://i.scdn.co/image/ab67616d0000b27301d9d1b36d51539282cb6bb1,False,48,"['reggae', 'roots reggae']"
+When I Get Home,The Fabulous Thunderbirds,False,709iG5Yx9UQyi8faAyGbkc,2,287666,1991,https://i.scdn.co/image/ab67616d0000b273108b3f23bdf4a92a72ff885c,False,44,"['blues', 'blues rock', 'country rock', 'electric blues', 'modern blues', 'southern rock', 'texas blues']"
+Dub It,J.C. Lodge,False,0jq3yJvaG9zhhF8pGILW0p,0,286800,1996,https://i.scdn.co/image/ab67616d0000b2735eb85b864e78a0ce3c2c36fd,False,33,"['lovers rock', 'uk reggae']"
+He's Leading The Way,The Perrys,False,6ZpkJWb0FXCXSJKTGRKdfc,0,115160,1997,https://i.scdn.co/image/ab67616d0000b2732728275a62106106d829bd4c,False,31,"['family gospel', 'southern gospel']"
+Mom's Phone,Greg Vaccariello,False,5Xo6KXFkwONI6EVJ19HbwV,0,133700,2009,https://i.scdn.co/image/ab67616d0000b27307a892911a96482820dc0c87,True,0,[]
+Ya Mama (Palm Springs Demo),P.O.D.,False,1NDMh28OqPmlAtizSFL4Pb,10,188933,2005,https://i.scdn.co/image/ab67616d0000b27388bdd8961d3c5fadc7b0525b,False,64,"['alternative metal', 'funk metal', 'nu metal', 'rap metal', 'rap rock']"
+Searching,Buju Banton,False,27ExDS1ufJEXfy8skBYjhP,1,253413,2006,https://i.scdn.co/image/ab67616d0000b2734cc1d09d789e099f6e858916,False,53,"['dancehall', 'reggae fusion']"
+La Romance De La Pluie,Maurice Chevalier,False,6jokWGQaTP2y1xdxPKaiXd,0,214893,2010,https://i.scdn.co/image/ab67616d0000b273b71910dc1cfcc77f8f3927cc,False,39,"['cabaret', 'vintage chanson', 'vintage hollywood', 'ye ye']"
+Faith,Mystery,False,0emKT2s8ypAr61M2u7xAJf,1,181000,2021,https://i.scdn.co/image/ab67616d0000b273328845766d70ec9af9dc365f,False,37,[]
+Sprung (Cibola Mix W/ Rap),Nu Flavor,False,7AquIvVrte9ufTiIiNFyGi,0,242400,1999,https://i.scdn.co/image/ab67616d0000b2732b370e639d7723a35112a0a3,False,35,"['boy band', 'contemporary r&b']"
+Le Dormeur du Val,Jacques Douai,False,5uw6Tva71GEut0Z3Vjr1Tx,0,192240,2006,https://i.scdn.co/image/ab67616d0000b2738d1226c9d4c71446347573dd,False,11,['vintage chanson']
+Chanson De La Patience,Jacques Douai,False,2XltiFL8jUprgseWO4jVXf,0,124240,2007,https://i.scdn.co/image/ab67616d0000b2730227c949633674de2bf59dac,False,11,['vintage chanson']
+Je T'Appartiens,Maurice Larcange,False,6JTTkxSTbmgKrRPgedxvYV,0,276560,2004,https://i.scdn.co/image/ab67616d0000b273ddb38cc129e9365a2e99e9f8,False,27,"['accordeon', 'bal-musette']"
+Shotgun Sally,Cats In Boots,False,18n5kMWdrmrEOuh9Qnh2Wf,22,209280,1989,https://i.scdn.co/image/ab67616d0000b2739c770cfda9570953469ea5a1,False,20,"['glam metal', 'sleaze rock']"
+The Minuet Of The Robots,Perrey And Kingsley,False,6pQOhKo1LSwk2KhmbcZ3Jq,1,137973,2006,https://i.scdn.co/image/ab67616d0000b273ae64e10c2715ee198aa6dd35,False,24,"['moog', 'vintage french electronic', 'zolo']"
+Rock On The Radio,Firehouse,False,5O0GElfKOTJYHH1xsldWmp,34,285123,1990,https://i.scdn.co/image/ab67616d0000b27371daadc01d6dd8b9a85bf4ac,False,58,"['glam metal', 'hard rock']"
+Another Djemba Djemba,Youves,False,4J40RpfA6twEKV6AtA2Omz,0,100533,2008,https://i.scdn.co/image/ab67616d0000b27326de675deb777013fbe48490,False,0,[]
+Memories,Thriller U,False,6ixYZcdbDHv6mkCSFziQm0,0,226333,2005,https://i.scdn.co/image/ab67616d0000b27330d8a2d2727856429faf1b1c,False,30,"['deep ragga', 'lovers rock', 'old school dancehall']"
+Naked Enough,Tim Wilson,False,2GjBbIlc0x2ECljvbFfx1v,1,164906,2005,https://i.scdn.co/image/ab67616d0000b273daf32012881b703ac70ecf69,False,27,[]
+The Beginning,Salt The Wound,False,3ON7uFPiZBLhShbn1JTWCa,12,96720,2008,https://i.scdn.co/image/ab67616d0000b27327b9bac53a852db3d7be12a7,False,20,['deathcore']
+Over The Hill,R.L. Burnside,False,18nPac7mRoIBkljdses0TI,6,261133,1997,https://i.scdn.co/image/ab67616d0000b273a103d6e1b14344bd3339c96d,False,45,"['acoustic blues', 'blues', 'country blues', 'delta blues', 'traditional blues']"
+Cumpagno 'e cella,Alex,False,7r1hio4bySpLB8zv9oaaR1,2,298746,2009,https://i.scdn.co/image/ab67616d0000b27317690f80c85af5f89f87a6b3,False,6,[]
+Rock Co.Kane Flow,De La Soul / MF Doom,False,5eWj4hoqE9cf8mCE1pkB7M,54,185266,2004,https://i.scdn.co/image/ab67616d0000b27355fe87778a07885b7e088aa5,True,62,"['east coast hip hop', 'golden age hip hop', 'hip hop', 'jazz rap']"
+Kill the Poor,Dead Kennedys,False,0HKbXwW3g9FS6nRZtoLhbE,39,184000,1980,https://i.scdn.co/image/ab67616d0000b273eadc02f5b9e74ed2038a7c8b,False,57,"['alternative rock', 'early us punk', 'hardcore punk', 'punk']"
+Drive,The Cars,False,2lFFiNm0XtgJ6wkdncTB4k,73,234332,1984,https://i.scdn.co/image/ab67616d0000b273f607580794ed5b352884fd47,False,68,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'permanent wave', 'power pop', 'rock', 'singer-songwriter', 'soft rock', 'synthpop']"
+317 East 32nd,Lennie Tristano,False,6VtuQjnZIKxA9iTTP2e6YD,1,362466,1998,https://i.scdn.co/image/ab67616d0000b273593c43e54ee7d114a863b56f,False,35,"['bebop', 'contemporary post-bop', 'cool jazz', 'jazz piano']"
+Future,Cut Copy,False,1L44XODDvPjK4Tl9airKLy,34,312040,2004,https://i.scdn.co/image/ab67616d0000b273748d430b0dddea4043a1a343,False,49,"['alternative dance', 'australian dance', 'australian electropop', 'electronic rock', 'electronica', 'indietronica', 'neo-synthpop']"
+Paloma Negra,Rocio Jurado,False,26R8O7m7HgalwxSCWvugih,7,243546,2016,https://i.scdn.co/image/ab67616d0000b2731e23d247039d467b3d52bd3a,False,52,"['cancion melodica', 'copla', 'pop romantico']"
+Jamming,Twinkle Twinkle Little Rock Star,False,3pBDA8tK0zkNF6q0d0rjy4,10,237426,2010,https://i.scdn.co/image/ab67616d0000b273ebc2f538fc2dc4b83637ea7c,False,57,['sleep']
+Call The Police,John Wayne,False,4beK2jBm6gr5NP2pXEn1Bm,34,191080,2006,https://i.scdn.co/image/ab67616d0000b273086b1805e76dba7cd8b9ce66,False,23,['old school dancehall']
+Hot Weiners (All The Way),Cotton Candy,False,0ADzxGlA8vPpB8HKjOzUYi,0,269999,2010,https://i.scdn.co/image/ab67616d0000b27398a161eb149c5fab315af96a,False,11,[]
+The Harp That Once Through Tara's Halls,Voyager Series,False,0nSZSMMsbzBOjheRWR1ZNH,0,103733,2002,https://i.scdn.co/image/ab67616d0000b27388af332a33cd0b718bc3fcee,False,6,[]
+Don't Go,Bert Kaempfert,False,4NgoZxXxx5dkewvMDc3XMx,3,181466,1971,https://i.scdn.co/image/ab67616d0000b2738eca2f2fd4f28e28eb1012c6,False,52,"['ballroom', 'easy listening']"
+Scared,The Incurables,False,1rJdwQYHRaKyITIxCc1Mac,0,189937,2000,https://i.scdn.co/image/ab67616d0000b273422a88b6ccef700ec015feef,False,1,[]
+Carry The Light,David Lynch,False,3g75k1MHzLnDLzDc4OXv7P,0,214053,2001,https://i.scdn.co/image/ab67616d0000b2732486612b60f7eb406ec5db8e,False,12,[]
+She's Actin Bad,H-Town,False,1eDt0U6w7oKJqLwtN9CSvm,1,249887,2015,https://i.scdn.co/image/ab67616d0000b2736ef14b5313cdcb2cce9f9a63,False,51,"['boy band', 'contemporary r&b', 'new jack swing', 'r&b', 'urban contemporary']"
+Souvenirs,Concretes,False,1BPBqKnBG6sdqDJhh7ekzO,0,205573,2007,https://i.scdn.co/image/ab67616d0000b27327d5fedacb01c06710c1616b,False,28,"['stockholm indie', 'swedish indie pop']"
+Unchain Us,Don Campbell,False,4ceuQLYYFId6Fm7TsTzxNr,2,225840,2015,https://i.scdn.co/image/ab67616d0000b273cdeb15d0b26c141a4edfb8e1,False,38,['lovers rock']
+Train Tracks,Izzy Stradlin And The Ju Ju Hounds,False,2UjyUC1S8K4eGugCQ7KvJU,19,268345,1992,https://i.scdn.co/image/ab67616d0000b2730c617c07389ff67ab6b782ee,False,24,['hard rock']
+Down_ Down_ Down,Frank Marino & Mahogany Rush,False,2X66KPZtxux59NgLe2KPeE,8,336800,1979,https://i.scdn.co/image/ab67616d0000b273b6bed5fedda09cddfbf6df4e,False,28,"['blues rock', 'canadian metal', 'southern rock']"
+Blame Canada ( From: South Park ),Marc Shaiman,False,0vp4VwkwBrCjHdITGjsDwM,5,106760,2007,https://i.scdn.co/image/ab67616d0000b273d42af098ccf52d521a9e65f1,False,38,"['classic soundtrack', 'deep soundtrack']"
+Through The Eyes Of Faith,The Booth Brothers,False,2Q1TMRAoKHgnAaKwOILmgW,5,245106,2005,https://i.scdn.co/image/ab67616d0000b27356dda3533e009b58bd789a55,False,36,"['family gospel', 'southern gospel']"
+Song Sung Blue,Neil Diamond,False,57KfogSy3eKuk5JHLKwCJv,54,185653,2014,https://i.scdn.co/image/ab67616d0000b2736092ac99aa00b2918ce33ec7,False,70,"['adult standards', 'brill building pop', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']"
+Lifeboat Serenade,Jimmy Herring,False,5VmWmMx2FmCUiXan7SUUg8,5,360320,2008,https://i.scdn.co/image/ab67616d0000b273b9d82aaacad6c6e75899673c,False,17,['deep jazz fusion']
+Patricia,Mighty Mighty Bosstones,False,6jUjqYHEeApke7unx1i7Up,11,168866,1989,https://i.scdn.co/image/ab67616d0000b273f0a4d5cecff42cf495e8d539,False,54,"['boston punk', 'boston rock', 'punk', 'ska', 'ska punk', 'skate punk']"
+Unfinished Self-Portrait,Eberhard Weber,False,6olTE7AGV4aPIqNYdXdYVA,4,274560,1993,https://i.scdn.co/image/ab67616d0000b273aca2e9377c58cc0418efbd47,False,33,"['ecm-style jazz', 'german jazz', 'jazz double bass', 'norwegian jazz']"

@@ -1,0 +1,51 @@
+Song,Artist,isHot,track_id,popularity,duration_ms,album_release_year,album_cover_url,explicit,artist_popularity,artist_genres
+Dr. Bernice,Cracker,False,5Wk7r5fKir6MnhdakIzqWa,14,381533,1992,https://i.scdn.co/image/ab67616d0000b27364e60737481fa6ec6f6e2816,False,49,"['alternative rock', 'permanent wave', 'pop rock', 'post-grunge']"
+From the East,Charles Williams,False,6pGVg8m7PPs4fU6wLD5B17,4,287253,2003,https://i.scdn.co/image/ab67616d0000b27399aa71d0666043ada2cd1532,False,80,"['orchestral soundtrack', 'soundtrack']"
+Where Are You,Abbott & Chambers,False,2PEJzHtw2qMv2eDW5DpoN3,9,496721,2008,https://i.scdn.co/image/ab67616d0000b273d398747ff92fadd945dc21b6,False,4,[]
+Bad Influence,The Robert Cray Band,False,7wGbo0VjDxlaCACBCGeIEL,14,230133,2015,https://i.scdn.co/image/ab67616d0000b2736ba9f18b02d1aca2807d05ad,False,50,"['blues', 'blues rock', 'electric blues', 'modern blues', 'soul blues', 'southern rock', 'traditional blues']"
+Knight -> King 4,Pagan Wanderer Lu,False,0v0MNorMAtVdZsSsATOA5g,0,346253,2007,https://i.scdn.co/image/ab67616d0000b27388741679e62a426186a74c6d,False,0,['cardiff indie']
+Quand j'improvise sur mon piano,Jacques Higelin,False,3oiwdWg1scfpKDTLTF2aAv,2,163066,2007,https://i.scdn.co/image/ab67616d0000b273ea5e68a6d2247c5d03dc35a6,False,45,"['chanson', 'french rock', 'nouvelle chanson francaise']"
+How Ya Like Me Now,Kool Moe Dee,False,7vbncEwhWfQes0OLEUeIxb,36,337333,1987,https://i.scdn.co/image/ab67616d0000b27339471023171d93a19f1cc814,False,52,"['east coast hip hop', 'harlem hip hop', 'new jack swing', 'old school hip hop']"
+Nostradamus,Eduardo Dusek,False,41BpxcEBCUU6S4JWxj52nC,28,160800,1981,https://i.scdn.co/image/ab67616d0000b27383fb651e6f231f95728004b9,False,34,['pop nacional antigas']
+Como Boomerang,Juan Carlos Baglietto,False,2qFJoiH85N56921dC6NlnI,4,205800,1988,https://i.scdn.co/image/ab67616d0000b27384f767af85fb0bbcd9fb807e,False,48,"['argentine rock', 'folklore argentino', 'rock nacional']"
+Lemons_ For Kevin,Alternative TV,False,0NyBUmxIicdamODgz3OA8j,0,237093,1994,https://i.scdn.co/image/ab67616d0000b27398c754ca1dc986a35c879dbb,False,16,['uk post-punk']
+Tha Stand,Bad Azz,False,68EJFWMjfUz1sn3DCM13W2,33,298586,2005,https://i.scdn.co/image/ab67616d0000b2735a71c0b388c4a4902dfa9097,True,20,['baton rouge rap']
+Ihmisen Lento,Indica,False,4yuqT17FkSunJlTUEAY8Zh,12,210853,2004,https://i.scdn.co/image/ab67616d0000b273224c56d1050efc7094c70a1e,False,34,[]
+Sera Cuestion De Conversar,Leonardo Favio,False,5FSaZOPH6FebuULJ9OoHHA,2,229933,1994,https://i.scdn.co/image/3e61eee4c543484b697e50fc407a93aab4a8ad95,False,61,"['cancion melodica', 'cantautor', 'pop romantico', 'ranchera']"
+Down South,Sophie Tucker,False,6vULq0NMLdgsJ5tbLAGG1n,2,179160,1955,https://i.scdn.co/image/ab67616d0000b273d8e6880db76c1d7dfd060e74,False,25,"['torch song', 'vaudeville']"
+I Say No,Mighty Diamonds,False,6XyHLMzJxEhfNsvZCucing,2,242200,1987,https://i.scdn.co/image/ab67616d0000b273eca4a3cd90e601d55a6d2cad,False,40,"['dub', 'lovers rock', 'reggae', 'roots reggae']"
+The Tarnished Angels (remastered),Fehlfarben,False,7wcdYHsamm5lMuiH0r8bDb,1,330653,1991,https://i.scdn.co/image/ab67616d0000b273c472d66b9a6658b93e503e2a,False,33,"['german punk', 'neue deutsche welle']"
+Man Man,Jacky Cheung,False,7uzJKRRrTqxUOeTtwQMd36,55,279440,1991,https://i.scdn.co/image/ab67616d0000b273c54b2bc9f5bc92843512d0ff,False,63,"['c-pop', 'classic mandopop']"
+From The Ritz To The Rubble,Arctic Monkeys,False,2vQQfWTanvD99OeHLAoyhW,65,193426,2006,https://i.scdn.co/image/ab67616d0000b2736b3fa88bdd4af566fbbf2bbf,False,89,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']"
+My Friend the Blind,Workhorse,False,0bN9i9tg5g81CRqSkfO3W3,0,276373,2007,https://i.scdn.co/image/ab67616d0000b273a797cb760ec87c8f245f439b,False,2,[]
+Revival In The Land (Album),The Nelons,False,4Ph29Guto12uZ4uDZ2izph,0,227293,1995,https://i.scdn.co/image/ab67616d0000b273a692005c72502a2b007fccfb,False,32,"['family gospel', 'southern gospel']"
+Ali Ba Ba,Jackie Edwards,False,2uWIZAjBuLxUmJ5sRMGspO,4,181946,2006,https://i.scdn.co/image/ab67616d0000b273ecdb49615774744b133877ea,False,29,"['jamaican ska', 'rocksteady']"
+I'm So Happy Now (Single Version),The Rascals,False,6pF3JwlTkx3G1Za2iGOm8i,17,171289,1967,https://i.scdn.co/image/ab67616d0000b273e93ad7c2b5032a9b07543c40,False,48,"['bubblegum pop', 'classic garage rock', 'country rock', 'folk rock', 'merseybeat', 'psychedelic rock', 'rock-and-roll', 'singer-songwriter']"
+In My Dreams,Lionel Richie,False,4Lpp9wnf2isdxewCrvnyHQ,11,296111,2021,https://i.scdn.co/image/ab67616d0000b2739bc40749d42b7cccc2a57ca6,False,72,['soft rock']
+Ti Patheno,Yiannis Tassios,False,19rgbACn9229zBuGT2JqJH,0,208120,2004,https://i.scdn.co/image/ab67616d0000b2739b2b1d85dbe2246689d1abbb,False,16,[]
+Arabian Night,The Monroes,False,0QTdjekCFzKUD0SujqCe8w,9,221453,1983,https://i.scdn.co/image/ab67616d0000b2737b199e809b796a161ff286fb,False,31,['classic norwegian pop']
+Alter Mann,Der Plan,False,7IvHSUeBYQRJWmgrI2XkJ8,0,137186,1991,https://i.scdn.co/image/ab67616d0000b273c7e2f0d2c05f2b57884f5aa2,False,17,"['dusseldorf electronic', 'neue deutsche welle', 'zolo']"
+Why_ Now Baby?,Red Stick Ramblers,False,3ZmNkK9rLUVaWrIUUQYrSg,1,194906,2009,https://i.scdn.co/image/ab67616d0000b273c1ef735271bed4de6cddf526,False,19,['cajun']
+Halloween II,The Misfits,False,5sKiLHMsWOM0MFCx0XmR4l,27,133346,1996,https://i.scdn.co/image/ab67616d0000b2730adf29d267ea9a7e149b2ae0,False,66,"['horror punk', 'new jersey hardcore', 'new jersey punk', 'punk']"
+Festival Of Love,Gene Chandler,False,36B9lAfF9aMXJtLJZu65Fl,8,148049,1962,https://i.scdn.co/image/ab67616d0000b273a88710bbb2474d9b044947e2,False,43,"['chicago soul', 'classic soul', 'northern soul', 'rhythm and blues', 'southern soul']"
+Gullveig,Black Messiah,False,3bat14NdN3flvcsEMpVOFq,15,488533,2009,https://i.scdn.co/image/ab67616d0000b273533e348ee0bce70abc67f1b4,False,29,"['folk black metal', 'folk metal', 'german metal', 'german pagan metal', 'viking black metal', 'viking metal']"
+Motorcycle girl,Eric Burdon,False,1KnAECtjOYyyvgvwNB8MKI,6,232626,2004,https://i.scdn.co/image/ab67616d0000b273ea05f1cdf2165553d96579e8,False,41,['british blues']
+You Were On The Right Street,Little Milton,False,0JsMpBifkbCqFP2a6VhCpz,2,193866,2002,https://i.scdn.co/image/ab67616d0000b273c6dc99fc1556bfbc8648200c,False,33,"['electric blues', 'memphis soul', 'soul blues', 'southern soul']"
+I Wouldnt Change A Thing,Bobby Vee,False,2XMZ9lkgAjLDYWRwVxVxZs,0,256493,2010,https://i.scdn.co/image/ab67616d0000b2737e712d1c9c995a331b17302c,False,50,"['adult standards', 'brill building pop', 'doo-wop', 'rock-and-roll', 'rockabilly']"
+El Gallo Y La Vaca,Richie Ray & Bobby Cruz,False,6nmUVXAxO09IHik8BL6z4J,5,223399,2005,https://i.scdn.co/image/ab67616d0000b2734a543e600c1ded7db92f0bbe,False,42,"['mambo', 'salsa']"
+Sixth of June,It Dies Today,False,0axZ0q7YQCD9ce0RZjfLME,26,184240,2006,https://i.scdn.co/image/ab67616d0000b27329d1a98efcea594cfe58ee35,False,35,"['buffalo ny metal', 'melodic metalcore', 'metalcore']"
+Goofus,Les Paul_ Mary Ford,False,7JDjfrjI0tLTS1YocPJ1NW,0,157998,2000,https://i.scdn.co/image/ab67616d0000b273f44a109d7aeaa2267f9b865f,False,26,[]
+Flowers On The Wall,Herb Alpert And The Tijuana Brass,False,63MReB6mV3AYueV93iZFd0,1,126800,2005,https://i.scdn.co/image/ab67616d0000b2737e43ce3fc2bc1c9c4fbdccf2,False,52,['jazz trumpet']
+Fall In Love,Glen Ricks,False,0ZDsbH2My3ajQgim1PkQj6,13,218880,1992,https://i.scdn.co/image/ab67616d0000b273a51e368b89f07d351a8a9f26,False,15,"['deep ragga', 'lovers rock']"
+Travellin' On,Charlie Byrd Trio,False,05xKiJNej4lIODaFLCf4vN,0,267480,1994,https://i.scdn.co/image/ab67616d0000b2735059500cc20c04c6a61cb66e,False,6,['jazz guitar trio']
+Second Chances feat. Bilal & Darien Brockington,Little Brother,False,5n8aOKqkrGcJuO87XvybXO,5,245280,2010,https://i.scdn.co/image/ab67616d0000b273c6eba1e074857a1380d5ded0,True,43,"['alternative hip hop', 'hip hop', 'north carolina hip hop']"
+Family Galaxy,Tim Exile,False,45MWbRXgBKnLfBwKpPV8MT,6,305573,2009,https://i.scdn.co/image/ab67616d0000b273ac61c5999076fa768e0b437a,False,5,['glitch pop']
+Autores Anonimos,Chango Spasiuk,False,3qiHc3ESE09Z8n0q0yVOCj,2,135040,1998,https://i.scdn.co/image/ab67616d0000b273f4575042e491dfabe3aae237,False,42,['folklore argentino']
+Pop dat shit,DJ Omega,False,1Ajb1Vjym6L4rxQpRyQlRc,0,217346,2006,https://i.scdn.co/image/ab67616d0000b2735a8db9b583840ad65cbbf231,True,13,['ghettotech']
+Jesus Is Coming Soon,Blind Willie Johnson,False,3ndrsSLyShkuL17kT3YjA2,10,66880,2015,https://i.scdn.co/image/ab67616d0000b2733026afbb2807e7025e8dc336,False,36,"['acoustic blues', 'blues', 'country blues', 'gospel blues', 'texas blues', 'traditional blues']"
+Show Me Your Teeth (Radio Edit),Year Long Disaster,False,2yy4FKQgzt1Z6BStxsXNrj,0,228156,2009,https://i.scdn.co/image/ab67616d0000b27365509a47dd8a0f5f5be9967a,False,21,['alternative roots rock']
+It's All Because,Smash Palace,False,50CaHKKkNDQsCU3suOy22t,0,276813,1999,https://i.scdn.co/image/ab67616d0000b273bb9b2e4244f643f1dff56dda,False,3,"['modern power pop', 'underground power pop']"
+Is It A Sin,Deepest Blue,False,3dgsChYcUT3ivtISavyFlR,16,513520,2004,https://i.scdn.co/image/ab67616d0000b273179f7c87d43269553a6427fe,False,33,[]
+Everyday,James Taylor,False,4fqlTmlufMMWMBWxbLywKl,39,193960,1985,https://i.scdn.co/image/ab67616d0000b273bd8e5dbda5f167f4cdee20fa,False,69,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']"
+When Jesus Comes Calling For Me,Dolly Parton,False,7aQL0jFQuvyuNQK3fK10zu,16,165973,1998,https://i.scdn.co/image/ab67616d0000b273109039dc29c6874976864ef7,False,77,"['classic country pop', 'country', 'country dawn']"
+Hello,Jan Wayne,False,51mS0vWpelti1jlo1hTg2s,8,210394,2009,https://i.scdn.co/image/ab67616d0000b273b07dd9292f8cc08b01b965d5,False,43,"['bubble trance', 'eurodance', 'hands up']"
